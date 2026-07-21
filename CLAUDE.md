@@ -28,8 +28,10 @@ Capture the important parts; ignore the noise.
 - **Projects** (`10-projects/`): work with a goal and an end date. Each project folder gets
   the atomic-note set from `_templates/`: `README.md`, `decisions.md`, `meetings.md`,
   `contacts.md`, `action-items.md`, `timeline.md`, `data.md`.
-- **Areas** (`20-areas/`): ongoing responsibilities with no end date (team management,
-  budget, a standing client relationship). One folder or one file per area, your judgment.
+- **Areas** (`20-areas/`): ongoing responsibilities with no end date. The seven standing
+  areas listed in `context.md` (governance, community growth, support, events,
+  partnerships, platform, funding) already have files — log to them; only create a new
+  area if content genuinely fits none of the seven.
 - **Resources** (`30-resources/`): reference material useful across projects.
 - **Archive** (`40-archive/`): when a project is confirmed done/dead, move its whole folder
   here. Never delete.
@@ -56,6 +58,22 @@ scaffold one from `_templates/` on your own — fill in what you know, mark unkn
 - YAML frontmatter on every note: `project`, `updated`, `tags`.
 - Use `[[wikilinks]]` liberally between related notes — the links are how connections
   surface in Obsidian's graph.
+
+## Downstream consumer: the Morning brief
+
+A separate weekday-morning job builds John's daily brief and sources its
+"Look back: the last 24 hours" section from THIS repo — specifically the latest nightly
+commit and `state/new-since-last-run.md` — instead of re-harvesting the sources. To keep
+that working:
+
+- Always leave `state/new-since-last-run.md` in place after synthesis (never clear it);
+  it is the brief's primary feed alongside the notes you filed.
+- Tag every filed entry with the standing area it belongs to (one of the seven in
+  `context.md`) via a `category:` line or the area file it lives in, so the brief can
+  bucket items without guessing.
+- Keep entry headers dated (`## YYYY-MM-DD ...`) — the brief filters by date.
+- Commit and push even when little was filed; an up-to-date `last_run` tells the brief
+  the sweep happened and found nothing, which is different from the sweep not running.
 
 ## Confidence and honesty
 

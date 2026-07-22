@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-07-21
+updated: 2026-07-22
 tags: [area]
 ---
 
@@ -14,3 +14,25 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-07-21 Standardizing DTD email signatures (Ken + John)
+- Ken Farber built a Base64-HTML signature (with Gemini's help) injected into a Mac
+  mailsig file; the logo renders when sent to an external (xfinity) address but not in
+  Gmail. John previously built a signature for Andrew and finds Gmail difficult with
+  signatures.
+- action #open (John, due 2026-07-22): write up the approach used for Andrew and send it
+  to Ken to test whether it works for a second person
+- category: Platform, Tools, and Infrastructure
+- source: "Signature file attempt" email thread 2026-07-21
+
+## 2026-07-21 Mighty Networks Launch Plan active at $95/month
+- Payment confirmed for the Dude Talk Dinners network: Launch Plan, billed monthly,
+  $95.00 including taxes.
+- category: Platform, Tools, and Infrastructure
+- source: Mighty Networks payment-confirmation email 2026-07-21
+
+## 2026-07-21 Granola can transcribe phone calls
+- John shared with Andrew that Granola's phone icon captures phone calls exactly like
+  meetings (background transcription).
+- category: Platform, Tools, and Infrastructure
+- source: Slack DM John→Andrew 2026-07-21

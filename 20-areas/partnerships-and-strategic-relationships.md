@@ -1,6 +1,6 @@
 ---
 area: Partnerships and Strategic Relationships
-updated: 2026-07-22
+updated: 2026-07-23
 tags: [area]
 ---
 
@@ -14,6 +14,13 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[partnerships-and-strategic-relationships#...]] and harvested by the brief. -->
+
+## 2026-07-22 Bev Marquez wants to meet; traveling to Montana next week
+- Bev replied to the intro thread: she'd love to meet John and Andrew, but is traveling
+  to Montana next week expecting her first grandchild. Scheduling still open — the intro
+  call action below remains #open.
+- category: Partnerships and Strategic Relationships
+- source: "Re: E-Intro" email from Bev Marquez 2026-07-22
 
 ## 2026-07-20 Introduced to Bev Marquez, CEO of Rocky Mountain Crisis Partners
 - Patricia Markwell introduced John and Andrew to Bev Marquez, RMCP's CEO of 16 years. Bev

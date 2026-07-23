@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-22
+updated: 2026-07-23
 tags: [inbox]
 ---
 
@@ -43,8 +43,28 @@ Format the agent uses:
   addresses in relationships.
 - answer:
 
+## 2026-07-23 Confirm org facts from Ben's outreach script before they go in context.md
+- quote: "We've caught the attention of CPR and NPR... we just launched Dude Talk Central...
+  We've already grown to seven active communities... raising a $250,000 seed fund" —
+  Ben's draft script, 2026-07-22
+- question: are "seven active communities," "Dude Talk Central," and the $250K target
+  confirmed facts I should treat as canonical (and you add to context.md), or campaign
+  framing?
+- answer:
+
+## 2026-07-23 What's the DTD CRM stack for the record?
+- context: Brevo-connector and reminders-digest test emails (Jul 22), Andrew's "in the
+  CRM" question, and a Jul 20 meeting titled "Zoho CRM setup and grant strategy."
+- question: is the CRM Zoho + Brevo, something custom (/app/follow-ups suggests a custom
+  dashboard), or a mix? One line for the record and I'll log it in Platform.
+- answer:
+
 ## 2026-07-22 Ops: meeting sources (Fathom/Granola) were not readable this run
 - context: tool permissions for Fathom and Granola were declined in the unattended session,
   so no meeting summaries/transcripts were harvested. If meeting capture matters, allow
   those tools for scheduled runs (or tell me to drop the source from the nightly harvest).
+- update 2026-07-23: Granola list access now works (meeting titles/metadata), but detail
+  access (notes/summary content) was declined again — the Jul 20 "Zoho CRM setup and
+  grant strategy with Patricia" meeting is cited by title only, its content still
+  unharvested.
 - answer:

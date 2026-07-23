@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-22
+updated: 2026-07-23
 tags: [grounding, people]
 ---
 
@@ -48,9 +48,17 @@ Format — one H2 per person:
 - source: 501(c)(3) board thread 2026-07-20
 
 ## Benjamin Shay
-- org: Dude Talk Dinners board (role unknown)
+- org: Dude Talk Dinners board — drafted the donor-outreach script for the seed-fund
+  campaign (goes by "Ben")
 - email: benjamin.shay@dudetalkdinners.org
-- source: board cc lists 2026-07-19/21
+- source: board cc lists 2026-07-19/21; fundraising-asks email 2026-07-22
+
+## Lauren Vanderpool
+- org: Social Impact Solutions — Co-founder, Chief of Research & Operations (DrPH, MS,
+  DipACLM)
+- relationship: met Andrew; sent DTD a funding-opportunities prospect list (Jul 21)
+- email: lauren@socialimpactsolutions.com
+- source: "Funding Sources & Ideas" email 2026-07-21 (fwd 2026-07-22)
 
 ## Patricia Markwell
 - org: Rocky Mountain Crisis Partners (RMCP) — Director of Development, MNM, CAT; 720-746-8448

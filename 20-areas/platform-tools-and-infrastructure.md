@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-07-22
+updated: 2026-07-23
 tags: [area]
 ---
 
@@ -14,6 +14,17 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-07-22 DTD CRM build in active testing (Brevo email connector, reminders digest)
+- Two system-test emails from support@dudetalkdinners.org landed in John's inbox: a
+  "DTD CRM test email" from the CRM's Brevo connector, and a "Your DTD reminders" daily
+  digest test linking to /app/follow-ups and /app/calendar dashboards. Andrew is already
+  asking for a CRM home for funding opportunities, and Monday's meeting with Patricia was
+  titled "Zoho CRM setup and grant strategy" (Granola metadata — content not ingested).
+  Exact stack to confirm — see needs-clarification.
+- category: Platform, Tools, and Infrastructure
+- source: test emails 2026-07-22; Granola meeting title 2026-07-20; Andrew's email 2026-07-22
+- links: [[funding-and-financial-development#2026-07-22 Funding-opportunities prospect list received; where to track it?]]
 
 ## 2026-07-21 Standardizing DTD email signatures (Ken + John)
 - Ken Farber built a Base64-HTML signature (with Gemini's help) injected into a Mac

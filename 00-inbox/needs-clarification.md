@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-23
+updated: 2026-07-24
 tags: [inbox]
 ---
 
@@ -41,6 +41,8 @@ Format the agent uses:
 - quote: reply on the 501(c)(3) thread signed "~CP" from that address
 - question: same person as chris.peterson@dudetalkdinners.org? If yes I'll merge the
   addresses in relationships.
+- update 2026-07-24: same address sent the Zero Suicide Academy fwd to the full board —
+  further evidence it's her, still treating as unconfirmed.
 - answer:
 
 ## 2026-07-23 Confirm org facts from Ben's outreach script before they go in context.md

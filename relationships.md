@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-23
+updated: 2026-07-24
 tags: [grounding, people]
 ---
 
@@ -50,7 +50,8 @@ Format — one H2 per person:
 ## Benjamin Shay
 - org: Dude Talk Dinners board — drafted the donor-outreach script for the seed-fund
   campaign (goes by "Ben")
-- email: benjamin.shay@dudetalkdinners.org
+- email: benjamin.shay@dudetalkdinners.org; also reached at ben@bshaycreative.com
+  (board fwd 2026-07-23)
 - source: board cc lists 2026-07-19/21; fundraising-asks email 2026-07-22
 
 ## Lauren Vanderpool

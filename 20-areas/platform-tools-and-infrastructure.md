@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-07-23
+updated: 2026-07-24
 tags: [area]
 ---
 
@@ -14,6 +14,15 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-07-23 Telnyx account upgraded to full (paid) — likely part of the CRM stack
+- John's Telnyx account went freemium → full with a successful payment (receipt PDF not
+  opened, amount unknown). Telnyx is a telephony/SMS API provider; alongside this week's
+  Brevo-connector and reminders-digest tests it points to SMS capability in the CRM
+  build — stack confirmation still pending in needs-clarification.
+- category: Platform, Tools, and Infrastructure
+- source: Telnyx upgrade + payment emails 2026-07-23
+- links: [[platform-tools-and-infrastructure#2026-07-22 DTD CRM build in active testing (Brevo email connector, reminders digest)]]
 
 ## 2026-07-22 DTD CRM build in active testing (Brevo email connector, reminders digest)
 - Two system-test emails from support@dudetalkdinners.org landed in John's inbox: a

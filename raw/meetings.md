@@ -1,7 +1,4 @@
-# Meetings (Fathom/Granola) — harvested 2026-07-23
+# Meetings (Fathom/Granola) — harvested 2026-07-24
 
-## granola-b2f83f80 Zoho CRM setup and grant strategy with Patricia (metadata only)
-Granola meeting recorded by John, 2026-07-20 3:03 PM EDT (1:03 PM MT) — matches the
-calendar "Grant platform meeting" with Patricia Markwell. Title indicates Zoho CRM setup
-+ grant strategy were the topics. Meeting CONTENT not ingested: detail access was
-declined in this unattended run (list access worked). See ops note in inbox.
+No new meetings this week beyond the Jul 20 "Zoho CRM setup and grant strategy with
+Patricia" (already noted; content still unharvested — detail access remains blocked).

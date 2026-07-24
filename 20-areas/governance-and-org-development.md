@@ -1,6 +1,6 @@
 ---
 area: Governance and Organizational Development
-updated: 2026-07-22
+updated: 2026-07-24
 tags: [area]
 ---
 
@@ -14,6 +14,14 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[governance-and-org-development#...]] and harvested by the brief. -->
+
+## 2026-07-23 Chris Peterson proposes a DTD team for the Colorado Zero Suicide Academy
+- Chris forwarded the just-opened Colorado Zero Suicide Academy application to the board:
+  "I would love for DTD to get a team of 4 together and apply for the program." (Program
+  details live further down the forwarded newsletter; deadline not extracted.)
+- action #open (board): decide whether to apply and pick the team of 4
+- category: Governance and Organizational Development
+- source: fwd from christine.peterson@westernalum.org 2026-07-23
 
 ## 2026-07-21 Draft minutes for the 7/17 board meeting shared for comment
 - Justin Hall shared the Google Doc "Draft Minutes for 7/17/26 DTD Board Meeting" with the

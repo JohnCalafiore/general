@@ -1,6 +1,6 @@
 ---
 area: Partnerships and Strategic Relationships
-updated: 2026-07-23
+updated: 2026-07-24
 tags: [area]
 ---
 
@@ -14,6 +14,13 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[partnerships-and-strategic-relationships#...]] and harvested by the brief. -->
+
+## 2026-07-23 Bev Marquez meeting: Andrew proposes July 27, 1–3pm
+- Andrew forwarded Bev's reply and proposed Monday July 27, 1–3pm for the meeting,
+  pending John's availability, before he replies to Bev. No calendar event exists yet.
+- action #open (John): confirm July 27 1–3pm to Andrew so he can lock it in with Bev
+- category: Partnerships and Strategic Relationships
+- source: "Fwd: E-Intro" email from Andrew 2026-07-23
 
 ## 2026-07-22 Bev Marquez wants to meet; traveling to Montana next week
 - Bev replied to the intro thread: she'd love to meet John and Andrew, but is traveling

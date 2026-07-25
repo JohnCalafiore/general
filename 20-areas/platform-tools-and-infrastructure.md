@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-07-24
+updated: 2026-07-25
 tags: [area]
 ---
 
@@ -14,6 +14,12 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-07-24 Telnyx messaging verification approved
+- Telnyx accepted the ID verification for Telnyx Messaging and upgraded the account to
+  verified level — SMS sending capability is now cleared for use.
+- category: Platform, Tools, and Infrastructure
+- source: Telnyx verification emails 2026-07-24
 
 ## 2026-07-23 Telnyx account upgraded to full (paid) — likely part of the CRM stack
 - John's Telnyx account went freemium → full with a successful payment (receipt PDF not

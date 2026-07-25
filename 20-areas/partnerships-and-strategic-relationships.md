@@ -1,6 +1,6 @@
 ---
 area: Partnerships and Strategic Relationships
-updated: 2026-07-24
+updated: 2026-07-25
 tags: [area]
 ---
 
@@ -15,10 +15,16 @@ responsibility but not to a specific dated project get logged here.
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[partnerships-and-strategic-relationships#...]] and harvested by the brief. -->
 
+## 2026-07-24 Bev Marquez meeting scheduled: Mon Jul 27, 2:00–2:30pm MDT
+- Calendar invite sent by Andrew: "DTD : RMCP (Bev, Andrew, John)," Google Meet. The
+  intro-call action from Jul 20 is now scheduled.
+- category: Partnerships and Strategic Relationships
+- source: calendar invitation email 2026-07-24
+
 ## 2026-07-23 Bev Marquez meeting: Andrew proposes July 27, 1–3pm
 - Andrew forwarded Bev's reply and proposed Monday July 27, 1–3pm for the meeting,
-  pending John's availability, before he replies to Bev. No calendar event exists yet.
-- action #open (John): confirm July 27 1–3pm to Andrew so he can lock it in with Bev
+  pending John's availability, before he replies to Bev.
+- action #done — resolved by the scheduled invite (see entry above)
 - category: Partnerships and Strategic Relationships
 - source: "Fwd: E-Intro" email from Andrew 2026-07-23
 

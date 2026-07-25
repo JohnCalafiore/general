@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-24
+updated: 2026-07-25
 tags: [inbox]
 ---
 
@@ -52,6 +52,17 @@ Format the agent uses:
 - question: are "seven active communities," "Dude Talk Central," and the $250K target
   confirmed facts I should treat as canonical (and you add to context.md), or campaign
   framing?
+- update 2026-07-25: "seven DTD Communities across Colorado" is now corroborated by
+  Andrew's own email to Dr. Sally (Jul 24) — I've filed it as fact in Community Growth.
+  "Dude Talk Central" and CPR/NPR still rest on the script alone.
+- answer:
+
+## 2026-07-25 Who is Dr. Sally Spencer-Thomas to DTD?
+- quote: Andrew's community-launch update and share request went to
+  SallySpencerThomas@gmail.com ("Hi Dr. Sally... Please share this link and spread the
+  word") — 2026-07-24
+- question: advisor? partner? funder contact? I've added a minimal relationships entry;
+  what's her actual relationship to DTD?
 - answer:
 
 ## 2026-07-23 What's the DTD CRM stack for the record?

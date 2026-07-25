@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-07-22
+updated: 2026-07-25
 tags: [area]
 ---
 
@@ -14,6 +14,26 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-07-24 Conifer DTD Community launched — first dinner drew 14 men
+- The Conifer community is up and running: first dinner Jul 23 with 14 attendees (ages
+  30s–70s); Andrew attended and announced it to Dr. Sally Spencer-Thomas, asking her to
+  spread the word. Next Conifer dinner: **August 26**. Page:
+  www.dudetalkdinners.org/communities/co/conifer/
+- Andrew states the movement now has **seven DTD Communities across Colorado, with more
+  in the works** (this corroborates the count from Ben's outreach script).
+- category: Community Growth and Expansion
+- source: email from Andrew Wolff to Dr. Sally Spencer-Thomas 2026-07-24
+- links: [[relationships#Sally Spencer-Thomas]]
+
+## 2026-07-24 Grand Junction first dinner: 29 attendees, five facilitators
+- Josh (a therapist, though strictly a facilitator for DTD), one of five Grand Junction
+  facilitators alongside Alec, Alvin, Chance, and Andy, reported on their first dinner
+  (~2 weeks earlier): 29 men attended; Alvin led facilitation; attendees shared stories
+  of loneliness, addiction, and grief and wanted to keep coming back — "we are saving
+  the lives of more than a few men in this group."
+- category: Community Growth and Expansion
+- source: Josh's facilitator email, quoted in Andrew's 2026-07-24 email to Dr. Sally
 
 ## 2026-07-21 Startup guide: send to Greg; add facilitator-recruitment section
 - John noted two startup-guide items in Slack: send the startup guide to Greg (#open), and

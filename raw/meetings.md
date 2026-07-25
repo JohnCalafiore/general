@@ -1,4 +1,4 @@
-# Meetings (Fathom/Granola) — harvested 2026-07-24
+# Meetings (Fathom/Granola) — harvested 2026-07-25
 
-No new meetings this week beyond the Jul 20 "Zoho CRM setup and grant strategy with
-Patricia" (already noted; content still unharvested — detail access remains blocked).
+No new meetings this week; Jul 20 Patricia meeting content still unharvested (detail
+access blocked).

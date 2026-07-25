@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-24
+updated: 2026-07-25
 tags: [grounding, people]
 ---
 
@@ -21,9 +21,10 @@ Format — one H2 per person:
 <!-- entries begin below -->
 
 ## Andrew Wolff
-- org: Dude Talk Dinners — described (with John) as "the leaders of Dude Talk Dinner"
+- org: Dude Talk Dinners — **Executive Director** (per his email signature)
 - email: andrew.wolff@dudetalkdinners.org
-- source: Patricia Markwell email 2026-07-20; 501(c)(3) board announcement 2026-07-19
+- source: signature in email 2026-07-24; Patricia Markwell email 2026-07-20; 501(c)(3)
+  board announcement 2026-07-19
 
 ## Ken Farber
 - org: Dude Talk Dinners board — led the 501(c)(3) application; active in Clear Creek and
@@ -94,6 +95,18 @@ Format — one H2 per person:
 - relationship: will present about DTD at the Ag Behavioral Health Work Group (July 28)
 - email: nadia@buildinghopesummit.org
 - source: "DTD Speaking Opportunity" thread 2026-07-20/21
+
+## Sally Spencer-Thomas
+- email: SallySpencerThomas@gmail.com — addressed as "Dr. Sally"
+- relationship: outreach contact Andrew updates on community launches and asks to spread
+  the word (Conifer, Jul 24); affiliation/role not stated in the record
+- source: "Dude Talk Dinners in Conifer" email 2026-07-24
+
+## Josh (Grand Junction facilitator)
+- relationship: one of five facilitators of the Grand Junction DTD Community (with Alec,
+  Alvin, Chance, Andy); a therapist by profession, facilitator-only for DTD; last name
+  not in the record
+- source: facilitator email quoted in Andrew's 2026-07-24 email
 
 ## Cole
 - email: colepmhnp@gmail.com — full name unknown (see needs-clarification)

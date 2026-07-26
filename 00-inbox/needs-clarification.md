@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-25
+updated: 2026-07-26
 tags: [inbox]
 ---
 
@@ -43,7 +43,10 @@ Format the agent uses:
   addresses in relationships.
 - update 2026-07-24: same address sent the Zero Suicide Academy fwd to the full board —
   further evidence it's her, still treating as unconfirmed.
-- answer:
+- RESOLVED 2026-07-26: she signed "Chris Peterson" (with phone 970-209-4188) from the
+  westernalum address on that thread — addresses merged in relationships. No action
+  needed; delete this item when reviewed.
+- answer: confirmed by the record
 
 ## 2026-07-23 Confirm org facts from Ben's outreach script before they go in context.md
 - quote: "We've caught the attention of CPR and NPR... we just launched Dude Talk Central...

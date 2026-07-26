@@ -1,4 +1,3 @@
-# Meetings (Fathom/Granola) — harvested 2026-07-25
+# Meetings (Fathom/Granola) — harvested 2026-07-26
 
-No new meetings this week; Jul 20 Patricia meeting content still unharvested (detail
-access blocked).
+No meetings recorded this week (Granola list returned zero for the current week).

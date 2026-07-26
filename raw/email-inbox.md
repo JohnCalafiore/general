@@ -1,35 +1,37 @@
-# Gmail inbox — harvested 2026-07-25 (window: since 2026-07-24T07:06Z)
+# Gmail inbox — harvested 2026-07-26 (window: since 2026-07-25T07:06Z)
 
-## email-19f94aa416f2af64 Dude Talk Dinners in Conifer (to Dr. Sally Spencer-Thomas)
-From: andrew.wolff@dudetalkdinners.org — 2026-07-24 (09:05 MT), to
-SallySpencerThomas@gmail.com, cc John + Ken
-Andrew announces the Conifer DTD Community is up and running: he attended the first
-Conifer dinner the night before (Jul 23) — 14 men, ages 30s–70s, pizza, vulnerable
-sharing. Next Conifer dinner: August 26. Page:
-www.dudetalkdinners.org/communities/co/conifer/ — asks Dr. Sally to spread the word.
-States the movement has "seven DTD Communities across Colorado and more in the works."
-Quotes an email from Josh, one of five facilitators of the Grand Junction DTD Community
-(a therapist, but strictly a facilitator for DTD), about their first dinner ~2 weeks
-prior: 29 men in attendance (facilitators incl. Alec, Alvin, Chance, Andy, Josh);
-stories of loneliness, addiction, grief; "we are saving the lives of more than a few men
-in this group." Andrew's signature confirms his title: Executive Director, Dude Talk
-Dinners.
+## email-19f996f6 Zero Suicide Academy thread: Ken's availability + eligibility question
+From: ken.farber — 2026-07-25 (07:20 MT), reply to Chris Peterson's fwd
+Ken: wonderful program; the full day on Aug 26 conflicts for him (could try to
+reschedule "if my presence can tip the scales"). Flags eligibility language from the EDC
+site: "Only Colorado health systems (mental, physical, behavioral) are eligible" — asks
+whether DTD would qualify.
 
 ---
 
-## email-19f9546c09b11b82 Calendar invite: DTD : RMCP (Bev, Andrew, John)
-From: andrew.wolff — 2026-07-24 (11:57 MT)
-Google Calendar invitation: Monday Jul 27, 2026, 2:00–2:30pm MDT, Google Meet, with
-Bev Marquez. The Bev intro meeting is now scheduled (Andrew's earlier 1–3pm window
-resolved to 2–2:30).
-
----
-
-## email-telnyx-verified Telnyx verification approved (2 emails)
-portal@telnyx.com — 2026-07-24 (16:03 + 16:08 MT): messaging ID verification accepted;
-account upgraded to verified level.
+## email-19f9b0b1 Zero Suicide Academy thread: Andrew commits to inquire; program details
+From: andrew.wolff — 2026-07-25 (14:50 MT)
+Andrew ("Hi CP"): sizable time commitment but worthwhile if a team comes together; he
+will email to inquire about eligibility and start the application if others are
+interested. Program (from forwarded CDPHE emails, Jazmin Murguia + Katherine Harvey,
+Office of Suicide Prevention): FREE Zero Suicide National Academy; application due EOD
+**Jul 31, 2026** (acceptance by Aug 6); Part 1 Aug 13 10am–12pm MT; Part 2 Aug 25–26
+9am–4pm MT; Part 3 Sep 22 10am–12pm MT; team of 4 incl. a Zero Suicide initiative lead;
+letter of commitment from CEO/senior exec required; rural systems prioritized; up to 16
+teams. Chris Peterson (signed from westernalum.org, phone 970-209-4188) is available all
+days; Chris Gould replied he can make the days work.
+Andrew's strategy notes in the same email: DTD has roots in suicide prevention and
+should strengthen its standing as an authority in the space (learning, program model,
+partnerships, facilitator trainings, media, fundraising). Since April DTD has presented
+at two suicide-prevention summits and joined several behavioral-health meetings.
+**Nadia Borovich is the initiator and coordinator of the DTD Frisco Community** (and
+works for Building Hope Summit County); Andrew will support her Tuesday (Jul 28) as she
+presents about DTD at the Colorado Dept of Agriculture Behavioral Health Group virtual
+meeting. Also links a Summit Daily article on Summit County's suicide crisis and DTD's
+impact: summitdaily.com/news/summit-countys-suicide-statistics-prompt-efforts-to-bolster-prevention/
 
 ---
 
 ## noise (not filed)
-Mighty Networks marketing ("Spaces" tips).
+Telnyx API-key-created notice; Mighty Networks daily digest + marketing + email
+verification codes.

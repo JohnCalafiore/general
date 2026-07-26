@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-25
+updated: 2026-07-26
 tags: [grounding, people]
 ---
 
@@ -43,10 +43,12 @@ Format — one H2 per person:
 - source: 501(c)(3) board thread 2026-07-20
 
 ## Chris Peterson
-- org: Dude Talk Dinners board (also appears to reply from christine.peterson@westernalum.org,
-  signing "~CP" — unconfirmed, see needs-clarification)
-- email: chris.peterson@dudetalkdinners.org
-- source: 501(c)(3) board thread 2026-07-20
+- org: Dude Talk Dinners board — goes by "CP"; championing the Zero Suicide Academy
+  application
+- email: chris.peterson@dudetalkdinners.org and christine.peterson@westernalum.org
+  (confirmed same person — signed "Chris Peterson" from the westernalum address,
+  2026-07-23); phone 970-209-4188
+- source: 501(c)(3) board thread 2026-07-20; Zero Suicide Academy thread 2026-07-23/25
 
 ## Benjamin Shay
 - org: Dude Talk Dinners board — drafted the donor-outreach script for the seed-fund
@@ -92,9 +94,22 @@ Format — one H2 per person:
 
 ## Nadia Borovich
 - org: Building Hope Summit County — Community Wellness Coordinator (she/her)
-- relationship: will present about DTD at the Ag Behavioral Health Work Group (July 28)
+- relationship: **initiator and coordinator of the DTD Frisco Community** (per Andrew,
+  2026-07-25); presenting DTD at the Colorado Dept of Agriculture Behavioral Health
+  Group meeting July 28 with Andrew supporting
 - email: nadia@buildinghopesummit.org
-- source: "DTD Speaking Opportunity" thread 2026-07-20/21
+- source: "DTD Speaking Opportunity" thread 2026-07-20/21; Andrew's email 2026-07-25
+
+## Jazmin Murguia
+- org: CDPHE Office of Suicide Prevention — Suicide Prevention Follow-Up Coordinator
+  (she/her/ella); contact for Zero Suicide Academy applications
+- email: jazmin.murguia@state.co.us
+- source: forwarded CDPHE email on Zero Suicide Academy thread 2026-07-23
+
+## Katherine Harvey
+- org: CDPHE Office of Suicide Prevention — Rural Strategies Specialist, MPH (she/her)
+- email: katherine.e.harvey@state.co.us; work cell (720) 204-8194
+- source: forwarded CDPHE email on Zero Suicide Academy thread 2026-07-23
 
 ## Sally Spencer-Thomas
 - email: SallySpencerThomas@gmail.com — addressed as "Dr. Sally"

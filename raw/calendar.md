@@ -1,4 +1,4 @@
-# Google Calendar — harvested 2026-07-25 (window: 2026-07-24 → 2026-07-26)
+# Google Calendar — harvested 2026-07-26 (window: 2026-07-25 → 2026-07-27)
 
-No events inside the 48h window. Upcoming (from invite email): "DTD : RMCP (Bev, Andrew,
-John)" — Mon Jul 27, 2:00–2:30pm MDT, Google Meet.
+No events in window. Upcoming reminders from prior runs: DTD:RMCP with Bev Marquez Mon
+Jul 27 2–2:30pm MDT; Nadia's DTD presentation Tue Jul 28 1pm.

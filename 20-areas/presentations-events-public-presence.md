@@ -1,6 +1,6 @@
 ---
 area: Presentations, Events, and Public Presence
-updated: 2026-07-22
+updated: 2026-07-26
 tags: [area]
 ---
 
@@ -14,6 +14,19 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[presentations-events-public-presence#...]] and harvested by the brief. -->
+
+## 2026-07-25 Suicide-prevention public presence: two summits since April, Summit Daily coverage
+- Andrew (to the board): since April DTD has presented at two suicide-prevention summits
+  and joined several behavioral-health meetings at the local, regional, and university
+  levels. He linked a Summit Daily article on Summit County's suicide crisis that
+  discusses DTD's impact:
+  summitdaily.com/news/summit-countys-suicide-statistics-prompt-efforts-to-bolster-prevention/
+- He also confirmed he will support Nadia Borovich's July 28 presentation (the event is
+  the Colorado Dept of Agriculture Behavioral Health Group virtual meeting — see entry
+  below) and that Nadia is the initiator/coordinator of the DTD Frisco Community.
+- category: Presentations, Events, and Public Presence
+- source: Andrew's email on the Zero Suicide Academy thread 2026-07-25
+- links: [[relationships#Nadia Borovich]], [[governance-and-org-development#2026-07-25 Zero Suicide Academy: team forming, Andrew to verify eligibility — apply by Jul 31]]
 
 ## 2026-07-21 DTD to be presented at Ag Behavioral Health Work Group on July 28, 1pm
 - Nadia Borovich (Community Wellness Coordinator, Building Hope Summit County) will present

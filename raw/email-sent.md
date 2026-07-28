@@ -1,3 +1,3 @@
-# Gmail sent — harvested 2026-07-27 (window: since 2026-07-26T07:06Z)
+# Gmail sent — harvested 2026-07-28 (window: since 2026-07-27T07:08Z)
 
-No sent messages in window.
+No sent messages from John in window (Andrew's reply above cc'd him).

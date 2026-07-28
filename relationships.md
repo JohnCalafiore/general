@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-26
+updated: 2026-07-28
 tags: [grounding, people]
 ---
 
@@ -110,6 +110,20 @@ Format — one H2 per person:
 - org: CDPHE Office of Suicide Prevention — Rural Strategies Specialist, MPH (she/her)
 - email: katherine.e.harvey@state.co.us; work cell (720) 204-8194
 - source: forwarded CDPHE email on Zero Suicide Academy thread 2026-07-23
+
+## Elisa Selby
+- org: North Range Behavioral Health — Program Coordinator, Suicide Education & Support
+  Services (SESS); also Facilitator, Imagine Zero Weld County
+- relationship: leading DTD facilitator recruitment for the emerging Weld County
+  community; will feed more leadership-group names to Andrew
+- contact: elisa.selby@northrange.org; 970.313.1089 (direct), 970.301.1431 (cell)
+- source: email thread 2026-07-27
+
+## Chris Mesa
+- email: cmesa2.alliance@nocoha.org
+- relationship: first Weld County facilitator recruit; added to the DTD Leadership
+  Circle meeting (Jul 30); org behind the nocoha.org address not stated in the record
+- source: Elisa Selby email 2026-07-27
 
 ## Sally Spencer-Thomas
 - email: SallySpencerThomas@gmail.com — addressed as "Dr. Sally"

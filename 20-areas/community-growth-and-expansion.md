@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-07-25
+updated: 2026-07-28
 tags: [area]
 ---
 
@@ -14,6 +14,18 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-07-27 Weld County community forming: first interested-facilitators meeting held
+- Elisa Selby (North Range Behavioral Health, Suicide Education & Support Services;
+  facilitator with Imagine Zero Weld County) held her initial "interested DTD
+  facilitators" meeting for Weld County. First recruit: Chris Mesa
+  (cmesa2.alliance@nocoha.org), whom Andrew added to the **DTD Leadership Circle Meeting
+  this Thursday (Jul 30)** — Elisa will have more names once people give permission.
+- Note: the invite wasn't auto-emailed to Chris (Google Calendar re-send glitch); Elisa
+  is telling him it's on his calendar.
+- category: Community Growth and Expansion
+- source: Elisa Selby ↔ Andrew email thread 2026-07-27
+- links: [[relationships#Elisa Selby]], [[relationships#Chris Mesa]]
 
 ## 2026-07-24 Conifer DTD Community launched — first dinner drew 14 men
 - The Conifer community is up and running: first dinner Jul 23 with 14 attendees (ages

@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-26
+updated: 2026-07-28
 tags: [inbox]
 ---
 
@@ -66,6 +66,13 @@ Format the agent uses:
   word") — 2026-07-24
 - question: advisor? partner? funder contact? I've added a minimal relationships entry;
   what's her actual relationship to DTD?
+- answer:
+
+## 2026-07-28 Did the Jul 27 meeting with Bev Marquez happen, and what came of it?
+- context: the DTD:RMCP meeting (Jul 27, 2–2:30pm MDT) was on the calendar, but Bev never
+  responded to the invite and no Granola recording or follow-up email exists in the
+  record.
+- question: did it happen? Any decisions/next steps I should file to Partnerships?
 - answer:
 
 ## 2026-07-23 What's the DTD CRM stack for the record?

@@ -1,6 +1,6 @@
 ---
 area: Governance and Organizational Development
-updated: 2026-07-26
+updated: 2026-07-29
 tags: [area]
 ---
 
@@ -14,6 +14,26 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[governance-and-org-development#...]] and harvested by the brief. -->
+
+## 2026-07-28 Mission & Vision drafts circulated by Chris Gould
+- Vision candidate: **"A world where no man walks alone"** — a revision of "A world
+  where no man sits alone," which the board felt read as negative; "walk" implies an
+  ongoing journey, fitting continued connection over time.
+- Three mission drafts pairing with it, all centering facilitator support and community
+  development, and testing "neighborhoods" as the replacement word for "community"
+  discussed at the June board meeting:
+  - Simple: "Dude Talk Dinners, Inc. supports the facilitators who make sure no man
+    has to."
+  - Short: "DTD, Inc. empowers facilitators to create spaces where men can talk -
+    really talk. By supporting those who lead these conversations, we help build
+    stronger men, healthier relationships, and thriving neighborhoods."
+  - Long: three-part statement ("gets men talking - really talking... break the
+    isolation, build the trust, and grow neighborhoods that thrive").
+- action #open (board): give Chris feedback by email or at the next board meeting —
+  he's not attached to any version and wants help pushing the vision further
+- category: Governance and Organizational Development
+- source: "Mission and Vision" email from Chris Gould 2026-07-28
+- links: [[relationships#Chris Gould]]
 
 ## 2026-07-25 Zero Suicide Academy: team forming, Andrew to verify eligibility — apply by Jul 31
 - Program details (CDPHE Office of Suicide Prevention / EDC): free national academy;

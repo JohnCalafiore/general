@@ -1,6 +1,6 @@
 ---
 area: Presentations, Events, and Public Presence
-updated: 2026-07-26
+updated: 2026-07-29
 tags: [area]
 ---
 
@@ -14,6 +14,16 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[presentations-events-public-presence#...]] and harvested by the brief. -->
+
+## 2026-07-28 Nadia's DTD presentation to the Ag Behavioral Health Work Group happened
+- The Colorado Dept of Agriculture Behavioral Health Group meeting took place Jul 28
+  (1pm MT) and John captured it in Granola ("Ag Behavioral Health Work Group Meeting,"
+  1:08pm) — closing the loop on the Jul 21 plan for Nadia Borovich to present DTD with
+  Andrew supporting. Meeting content not yet ingested (Granola detail access blocked);
+  outcomes can be filed once access is granted or someone summarizes.
+- category: Presentations, Events, and Public Presence
+- source: Granola meeting metadata 2026-07-28
+- links: [[presentations-events-public-presence#2026-07-21 DTD to be presented at Ag Behavioral Health Work Group on July 28, 1pm]]
 
 ## 2026-07-25 Suicide-prevention public presence: two summits since April, Summit Daily coverage
 - Andrew (to the board): since April DTD has presented at two suicide-prevention summits

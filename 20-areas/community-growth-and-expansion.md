@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-07-28
+updated: 2026-07-29
 tags: [area]
 ---
 
@@ -14,6 +14,11 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-07-28 New website lead: Emily Schweitzer
+- Contact-us form submission on dudetalkdinners.org (HubSpot). Follow-up status unknown.
+- category: Community Growth and Expansion
+- source: HubSpot form notification 2026-07-28
 
 ## 2026-07-27 Weld County community forming: first interested-facilitators meeting held
 - Elisa Selby (North Range Behavioral Health, Suicide Education & Support Services;

@@ -1,63 +1,91 @@
-<!-- generated 2026-07-28T07:08:40+00:00 | 8 new of 8 blocks; synthesis must read ONLY this file, not raw/ -->
+<!-- generated 2026-07-29T07:10:52+00:00 | 12 new of 12 blocks; synthesis must read ONLY this file, not raw/ -->
 
 <!-- source: calendar.md -->
-# Google Calendar — harvested 2026-07-28 (window: 2026-07-27 → 2026-07-29)
+# Google Calendar — harvested 2026-07-29 (window: 2026-07-28 → 2026-07-30)
 
 ---
 
 <!-- source: calendar.md -->
-## cal-568u4pvk DTD : RMCP (Bev, Andrew, John) — yesterday 2:00–2:30pm MDT
-Occurred (or was scheduled) Jul 27; Bev's invite response was still "needsAction" and no
-meeting recording exists in Granola — outcome unknown, flagged in inbox.
+## cal-24vtujm2 "leave for car" — Jul 29 2:30–3:30pm MT (personal reminder, not filed)
 
-Referenced upcoming (no event on John's calendar in window): DTD Leadership Circle
-Meeting this Thursday (Jul 30, per Andrew's email); Nadia's presentation today Jul 28 1pm.
+Upcoming from invite email: "Dawson : Andrew : John" Fri Jul 31 10am–1pm MDT (Google
+Meet). Also Thursday Jul 30: DTD Leadership Circle meeting (per Andrew's Jul 27 email).
 
 ---
 
 <!-- source: email-inbox.md -->
-# Gmail inbox — harvested 2026-07-28 (window: since 2026-07-27T07:08Z)
+# Gmail inbox — harvested 2026-07-29 (window: since 2026-07-28T07:08Z)
 
 ---
 
 <!-- source: email-inbox.md -->
-## email-19fa56831dbda58c Weld County facilitators + DTD leadership group add
-From: elisa.selby@northrange.org — 2026-07-27 (15:08 MT), to Andrew, cc John
-Elisa Selby (North Range Behavioral Health Program Coordinator, Suicide Education &
-Support Services (SESS); Facilitator, Imagine Zero Weld County; 970.313.1089 direct,
-970.301.1431 cell) followed up after her initial "interested DTD facilitators" meeting
-for **Weld County**. Asks Andrew to add **Chris Mesa (cmesa2.alliance@nocoha.org)** to
-the DTD leadership group on Zoom; more names coming once she has their permission.
-Andrew's reply (16:10 MT): excited to hear more; added Chris to the Google Calendar
-invite for the **DTD Leadership Circle Meeting this Thursday** (invite not auto-sent due
-to a Google Calendar glitch — Elisa to tell Chris it's already on his calendar).
+## email-19fab09952ede88c Mission and Vision (Chris Gould, to full board)
+From: chris.gould@dudetalkdinners.org — 2026-07-28 (17:22 MT)
+Chris (signature: Facilitator, Clear Creek County DTD; Board of Directors) sent Mission &
+Vision drafts he'd owed the board since before his England trip (was meant for the July
+meeting). Vision: revises "A world where no man sits alone" (board felt it negative) to
+**"A world where no man walks alone."** Mission drafts, all pairing with that vision and
+centering facilitator support / community development / a possible replacement word for
+"community" (e.g. "neighborhoods," per the June board discussion):
+- Simple: "DTD, Inc. supports the facilitators who make sure no man has to." (memorable
+  but jarring, he notes)
+- Short: "DTD, Inc. empowers facilitators to create spaces where men can talk - really
+  talk. By supporting those who lead these conversations, we help build stronger men,
+  healthier relationships, and thriving neighborhoods."
+- Long: three-part version ("gets men talking - really talking... break the isolation,
+  build the trust, and grow neighborhoods that thrive").
+Feedback welcomed by email or at the next board meeting; he's not attached to any
+version and wants help pushing the vision further.
+
+---
+
+<!-- source: email-inbox.md -->
+## email-19faa86832213b59 Calendar invite: "Dawson : Andrew : John" Fri Jul 31, 10am–1pm MDT
+From: andrew.wolff — 2026-07-28 (14:59 MT), Google Meet
+Three-hour meeting with dawsonjwolf03@gmail.com (Dawson). Purpose not stated; who Dawson
+is → inbox question.
+
+---
+
+<!-- source: email-inbox.md -->
+## email-19faa3e152858b60 HubSpot contact-form lead: Emily Schweitzer
+2026-07-28 (13:40 MT) — new contact-us submission on dudetalkdinners.org.
 
 ---
 
 <!-- source: email-inbox.md -->
 ## noise (not filed)
-Mighty Networks: "7-Day Build a Mighty Network Challenge" welcome + host-message echo
-(John active on the platform); DMARC weekly digest (216 emails, 100% aligned); Meetup
-suggestions; Max J Miller newsletter.
+Mighty Networks daily digest; Awakened School and Givebutter marketing.
 
 ---
 
 <!-- source: email-sent.md -->
-# Gmail sent — harvested 2026-07-28 (window: since 2026-07-27T07:08Z)
+# Gmail sent — harvested 2026-07-29 (window: since 2026-07-28T07:08Z)
 
-No sent messages from John in window (Andrew's reply above cc'd him).
+No sent messages in window.
 
 ---
 
 <!-- source: meetings.md -->
-# Meetings (Fathom/Granola) — harvested 2026-07-28
+# Meetings (Fathom/Granola) — harvested 2026-07-29
 
-No meetings recorded this week — notably, no recording of yesterday's DTD:RMCP meeting
-with Bev Marquez.
+---
+
+<!-- source: meetings.md -->
+## granola-3ae3d2ce Ag Behavioral Health Work Group Meeting (metadata only)
+Recorded by John, 2026-07-28 1:08 PM MDT — the Colorado Dept of Agriculture Behavioral
+Health Group meeting where Nadia Borovich presented DTD. Confirms the meeting took
+place and was captured; notes/transcript content not ingested (detail access blocked in
+unattended runs).
 
 ---
 
 <!-- source: slack.md -->
-# Slack — harvested 2026-07-28 (window: after 2026-07-26)
+# Slack — harvested 2026-07-29 (window: after 2026-07-27)
 
-No new messages in window.
+---
+
+<!-- source: slack.md -->
+## slack-1785264884 / slack-1785276358 Two videos from Andrew (no text)
+DM Andrew → John, 2026-07-28 12:54 + 16:05 MT: IMG_4968.MOV (56 MB) and IMG_4970.MOV
+(176 MB), no accompanying message. Content unknown (video not ingested); not filed.

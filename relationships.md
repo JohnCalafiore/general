@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-28
+updated: 2026-07-29
 tags: [grounding, people]
 ---
 
@@ -38,9 +38,16 @@ Format — one H2 per person:
 - source: Drive share email 2026-07-21
 
 ## Chris Gould
-- org: Dude Talk Dinners board
+- org: Dude Talk Dinners board — also **Facilitator, Clear Creek County DTD** (per his
+  signature); owns the Mission & Vision drafting work; was in England in July (missed
+  the 7/17 board meeting)
 - email: chris.gould@dudetalkdinners.org
-- source: 501(c)(3) board thread 2026-07-20
+- source: 501(c)(3) board thread 2026-07-20; "Mission and Vision" email 2026-07-28
+
+## Dawson (dawsonjwolf03@gmail.com)
+- relationship: three-hour meeting with Andrew and John scheduled Fri Jul 31, 10am–1pm
+  MDT — identity and purpose not in the record (see needs-clarification)
+- source: calendar invite 2026-07-28
 
 ## Chris Peterson
 - org: Dude Talk Dinners board — goes by "CP"; championing the Zero Suicide Academy

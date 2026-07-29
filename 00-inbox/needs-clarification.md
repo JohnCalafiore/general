@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-28
+updated: 2026-07-29
 tags: [inbox]
 ---
 
@@ -66,6 +66,13 @@ Format the agent uses:
   word") — 2026-07-24
 - question: advisor? partner? funder contact? I've added a minimal relationships entry;
   what's her actual relationship to DTD?
+- answer:
+
+## 2026-07-29 Who is Dawson (dawsonjwolf03@gmail.com), and what's Friday's meeting about?
+- context: Andrew scheduled "Dawson : Andrew : John," Fri Jul 31, 10am–1pm MDT (Google
+  Meet) — a three-hour block with no description. Same day as the Zero Suicide Academy
+  application deadline.
+- question: who is Dawson and what should I file this under once it happens?
 - answer:
 
 ## 2026-07-28 Did the Jul 27 meeting with Bev Marquez happen, and what came of it?

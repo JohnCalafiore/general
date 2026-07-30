@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-07-29
+updated: 2026-07-30
 tags: [area]
 ---
 
@@ -14,6 +14,15 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-07-30 Monthly DTD Leadership Circle meets today (4–5pm MT) — 50+ leaders invited
+- The recurring monthly Leadership Circle ("a space for DTD community leaders to connect,
+  share what's working, learn from one another, and support each other") meets today via
+  Google Meet. The 50+ invitee list spans the communities and partner orgs: North Range
+  (Elisa Selby, Micaela Sanchez), Chris Mesa (Weld), Alec Rand (Grand Junction), Building
+  Hope, RMCP, county and library partners, VA, and more. Nadia declined this month.
+- category: Community Growth and Expansion
+- source: recurring calendar event, Jul 30 occurrence
 
 ## 2026-07-28 New website lead: Emily Schweitzer
 - Contact-us form submission on dudetalkdinners.org (HubSpot). Follow-up status unknown.

@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-29
+updated: 2026-07-30
 tags: [inbox]
 ---
 
@@ -66,6 +66,20 @@ Format the agent uses:
   word") — 2026-07-24
 - question: advisor? partner? funder contact? I've added a minimal relationships entry;
   what's her actual relationship to DTD?
+- answer:
+
+## 2026-07-30 What is the "new BHB/DTD location"?
+- quote: "We'd like to get the logo printed and posted at our new BHB/DTD location" —
+  Chris Peterson, 2026-07-29
+- question: what does BHB stand for, and is this a physical space DTD shares? Worth an
+  entry in context.md/areas if it's a real location.
+- answer:
+
+## 2026-07-30 Your title for context.md: Chief Operations Officer?
+- quote: your TechSoup validation email signs "John Calafiore, Chief Operations Officer,
+  Dude Talk Dinners" — 2026-07-29
+- question: confirm and I'll treat COO as your canonical role (context.md's role field is
+  yours to fill, but I'll cite this fact meanwhile).
 - answer:
 
 ## 2026-07-29 Who is Dawson (dawsonjwolf03@gmail.com), and what's Friday's meeting about?

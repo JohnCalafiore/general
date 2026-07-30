@@ -1,5 +1,8 @@
-# Slack — harvested 2026-07-29 (window: after 2026-07-27)
+# Slack — harvested 2026-07-30 (window: after 2026-07-28)
 
-## slack-1785264884 / slack-1785276358 Two videos from Andrew (no text)
-DM Andrew → John, 2026-07-28 12:54 + 16:05 MT: IMG_4968.MOV (56 MB) and IMG_4970.MOV
-(176 MB), no accompanying message. Content unknown (video not ingested); not filed.
+## slack-1785349288 Andrew : John 1:1 held Jul 29, 12:15–1:00pm MT
+Andrew shared the Meet link in their DM thread. No agenda/content in the record; not
+recorded in Granola.
+
+## noise
+Slackbot notice: an invitation link John created expires Aug 1.

@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-07-25
+updated: 2026-07-30
 tags: [area]
 ---
 
@@ -14,6 +14,14 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-07-29 TechSoup account created; DTD validation docs submitted
+- John registered DTD with TechSoup (discounted nonprofit software/resources), added the
+  organization, and submitted the IRS 501(c)(3) determination letter with EIN 41-4806880
+  for validation. Awaiting TechSoup approval.
+- category: Platform, Tools, and Infrastructure
+- source: TechSoup emails + John's validation reply 2026-07-29
+- links: [[governance-and-org-development#2026-07-19 IRS approves 501(c)(3) status for Dude Talk Dinners, Inc.]]
 
 ## 2026-07-24 Telnyx messaging verification approved
 - Telnyx accepted the ID verification for Telnyx Messaging and upgraded the account to

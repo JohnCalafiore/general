@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-29
+updated: 2026-07-30
 tags: [grounding, people]
 ---
 
@@ -54,7 +54,8 @@ Format — one H2 per person:
   application
 - email: chris.peterson@dudetalkdinners.org and christine.peterson@westernalum.org
   (confirmed same person — signed "Chris Peterson" from the westernalum address,
-  2026-07-23); phone 970-209-4188
+  2026-07-23); phone 970-209-4188. A christine.peterson@state.co.us address also accepted
+  the Jul 30 Leadership Circle invite — likely her work address, unconfirmed.
 - source: 501(c)(3) board thread 2026-07-20; Zero Suicide Academy thread 2026-07-23/25
 
 ## Benjamin Shay

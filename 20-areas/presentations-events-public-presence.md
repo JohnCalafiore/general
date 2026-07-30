@@ -1,6 +1,6 @@
 ---
 area: Presentations, Events, and Public Presence
-updated: 2026-07-29
+updated: 2026-07-30
 tags: [area]
 ---
 
@@ -14,6 +14,14 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[presentations-events-public-presence#...]] and harvested by the brief. -->
+
+## 2026-07-29 DTD logo PDFs added to the shared drive for the new BHB/DTD location
+- Chris Peterson asked for a printable PDF of the DTD logo "to get the logo printed and
+  posted at our new BHB/DTD location." John converted two logo options to PDF and put
+  them on the Marketing/Logos shared drive the same day (action closed). What "BHB" is
+  → see needs-clarification.
+- category: Presentations, Events, and Public Presence
+- source: "DTD Logo" email thread 2026-07-29/30
 
 ## 2026-07-28 Nadia's DTD presentation to the Ag Behavioral Health Work Group happened
 - The Colorado Dept of Agriculture Behavioral Health Group meeting took place Jul 28

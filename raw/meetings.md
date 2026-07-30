@@ -1,7 +1,4 @@
-# Meetings (Fathom/Granola) — harvested 2026-07-29
+# Meetings (Fathom/Granola) — harvested 2026-07-30
 
-## granola-3ae3d2ce Ag Behavioral Health Work Group Meeting (metadata only)
-Recorded by John, 2026-07-28 1:08 PM MDT — the Colorado Dept of Agriculture Behavioral
-Health Group meeting where Nadia Borovich presented DTD. Confirms the meeting took
-place and was captured; notes/transcript content not ingested (detail access blocked in
-unattended runs).
+No new recordings since the Jul 28 Ag Behavioral Health meeting (content still not
+ingested — access blocked). The Jul 29 Andrew:John 1:1 was not recorded.

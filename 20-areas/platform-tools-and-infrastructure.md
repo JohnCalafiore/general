@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-07-30
+updated: 2026-07-31
 tags: [area]
 ---
 
@@ -14,6 +14,16 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-07-30 Google for Nonprofits application + CRM signup form in testing
+- Google for Nonprofits application underway (Goodstack email verification step). The
+  CRM's public signup form is live in testing — two test submissions captured name,
+  email, phone, location, interest, and SMS consent, feeding /app/contacts.
+- Per the Leadership Circle: John (Operations) owns the central tech stack; DTD Central
+  is researching a central messaging platform (e.g. Discord) and building dedicated
+  community web pages on the DTD Central site (John to launch all pages within ~10 days).
+- category: Platform, Tools, and Infrastructure
+- source: Goodstack email + CRM test submissions 2026-07-30; Fathom recap
 
 ## 2026-07-29 TechSoup account created; DTD validation docs submitted
 - John registered DTD with TechSoup (discounted nonprofit software/resources), added the

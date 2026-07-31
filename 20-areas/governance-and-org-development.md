@@ -1,6 +1,6 @@
 ---
 area: Governance and Organizational Development
-updated: 2026-07-29
+updated: 2026-07-31
 tags: [area]
 ---
 
@@ -14,6 +14,17 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[governance-and-org-development#...]] and harvested by the brief. -->
+
+## 2026-07-30 Liability: formal Community Agreement needed
+- Raised at the Leadership Circle (Grand Junction's concern about incident liability at
+  dinners): DTD Central carries general liability insurance covering the board, but the
+  legal relationship with local communities is undefined. Path forward: develop a formal
+  "Community Agreement" (chapter or affiliate model) to clarify liability; interim, some
+  communities rely on venue or sponsoring-org insurance. Leaders asked to refer pro bono
+  legal counsel.
+- action #open (DTD Central): draft the Community Agreement
+- category: Governance and Organizational Development
+- source: Fathom recap of Leadership Circle 2026-07-30
 
 ## 2026-07-28 Mission & Vision drafts circulated by Chris Gould
 - Vision candidate: **"A world where no man walks alone"** — a revision of "A world

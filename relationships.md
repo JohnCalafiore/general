@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-30
+updated: 2026-07-31
 tags: [grounding, people]
 ---
 
@@ -132,6 +132,49 @@ Format — one H2 per person:
 - relationship: first Weld County facilitator recruit; added to the DTD Leadership
   Circle meeting (Jul 30); org behind the nocoha.org address not stated in the record
 - source: Elisa Selby email 2026-07-27
+
+## Erik Jacobsen (Buena Vista)
+- email: erikjacobsen01@gmail.com
+- relationship: Buena Vista (Chaffee County) DTD facilitator — solo-ran a 12-attendee
+  dinner; driving the BV fundraising conversation. NOT the same person as RMCP's erikj@
+  (distinct Eriks).
+- source: Fathom recap + "We Believe in DTD" thread 2026-07-30
+
+## Mike Mayer
+- org: TerraForm Projects
+- email: mike@buildterraform.com
+- relationship: Buena Vista DTD facilitator with Erik Jacobsen; wrote the "We Believe in
+  DTD" fundraising commitment
+- source: email 2026-07-30
+
+## Nick Borovich
+- email: nborovich@breckenridgegrandvacations.com / nicholas.borovich@gmail.com
+- relationship: Summit County DTD co-lead (with Mike Molloy)
+- source: Fathom recap + Leadership Circle participant list 2026-07-30
+
+## Mike Molloy
+- email: mike.molloy@gmail.com
+- relationship: Summit County DTD co-lead; credits Nadia (Building Hope) for
+  behind-the-scenes logistics
+- source: Fathom recap 2026-07-30
+
+## Jamie Fanselow
+- email: jamie@frhealth.org
+- relationship: leads Gilpin / Clear Creek / Park counties; secured HHS + Public Health
+  funding by framing DTD as a community-wide benefit; applying for Gilpin county funding
+- source: Fathom recap 2026-07-30
+
+## Greg Vochis
+- email: gvochis@gmail.com
+- relationship: starting a DTD group in **Evergreen** (early stages) — likely the "Greg"
+  owed the startup guide (see needs-clarification)
+- source: Fathom recap 2026-07-30
+
+## Giovanny Ramirez & Anderson Perez (Connecticut)
+- relationship: exploring a DTD community in Fairfield County, CT — first out-of-state
+  expansion; Anderson (from Guatemala) offered to help make the model inclusive for
+  non-English speakers; call with Andrew next week
+- source: Fathom recap 2026-07-30
 
 ## Sally Spencer-Thomas
 - email: SallySpencerThomas@gmail.com — addressed as "Dr. Sally"

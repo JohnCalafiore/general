@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-07-30
+updated: 2026-07-31
 tags: [area]
 ---
 
@@ -14,6 +14,37 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-07-30 Leadership Circle recap: growth strong, funding is THE challenge, committees forming
+- 72-minute session across all communities (full Fathom recap in raw/email-inbox.md).
+  Community status: **Buena Vista** — Erik Jacobsen solo-ran a 12-attendee dinner;
+  **Grand Junction** — 29 at first dinner, Reddit the best recruiting channel;
+  **Summit County** — third meeting, 14 attendees, Summit Daily coverage (Nick Borovich
+  + Mike Molloy, with Nadia on logistics); **Weld** — 5 facilitators committed, fall
+  launch; **Gilpin/Clear Creek/Park** — Jamie Fanselow secured HHS + Public Health
+  funding by framing DTD as a community-wide benefit, now applying for Gilpin county
+  funding; **Evergreen** — Greg Vochis in early stages; **Connecticut (Fairfield
+  County)** — Giovanny Ramirez + Anderson Perez exploring a first out-of-state
+  community; Anderson can help make the model inclusive for non-English speakers.
+- DTD Central is forming committees (Tech Stack, Facilitator Training, Marketing, DEI)
+  and asking every leader to add their DTD role on LinkedIn.
+- action #open (John): email the leadership circle with committee sign-up details and
+  LinkedIn instructions
+- action #open (John, due ~Aug 9): **finalize and launch all community web pages within
+  10 days**
+- action #open (Andrew): CT call with Giovanny/Anderson next week; email non-attendees
+  a second call time; draft facilitator script
+- category: Community Growth and Expansion
+- source: Fathom recap email of "DTD Leadership Circle" 2026-07-30
+- links: [[funding-and-financial-development#2026-07-30 Buena Vista funding gap — the test case for community funding]], [[governance-and-org-development#2026-07-30 Liability: formal Community Agreement needed]]
+
+## 2026-07-30 Lead-response blitz: six prospects answered; Matt Budde call Friday
+- John replied to all outstanding website leads (Zoe Funk — whetstonecb.com, Matt Budde,
+  Terry — profhaury@gmail.com, Art Ginley, Mason Seelos (new lead Jul 30), Emily
+  Schweitzer — ncchealthpartnership.org). Matt Budde replied warmly (men's mentorship
+  "near and dear to my heart"); call set for Fri Jul 31, 2:30pm (text first).
+- category: Community Growth and Expansion
+- source: sent mail 2026-07-30 + Matt Budde reply + calendar entry
 
 ## 2026-07-30 Monthly DTD Leadership Circle meets today (4–5pm MT) — 50+ leaders invited
 - The recurring monthly Leadership Circle ("a space for DTD community leaders to connect,

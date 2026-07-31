@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-30
+updated: 2026-07-31
 tags: [inbox]
 ---
 
@@ -23,6 +23,9 @@ Format the agent uses:
 - quote: "Reminder: send startup guide to Greg" — Slack DM to Andrew, 2026-07-21
 - question: Which Greg is this, and which community/prospect is he attached to? Should he
   get a relationships entry?
+- update 2026-07-31: probable answer — **Greg Vochis** (gvochis@gmail.com), who's in the
+  early stages of starting an Evergreen DTD group per the Leadership Circle recap. Entry
+  added to relationships; confirm and I'll close this.
 - answer:
 
 ## 2026-07-22 Cole's full name?
@@ -58,6 +61,9 @@ Format the agent uses:
 - update 2026-07-25: "seven DTD Communities across Colorado" is now corroborated by
   Andrew's own email to Dr. Sally (Jul 24) — I've filed it as fact in Community Growth.
   "Dude Talk Central" and CPR/NPR still rest on the script alone.
+- update 2026-07-31: "**DTD Central**" is confirmed as the central org's working name
+  (used throughout the Jul 30 Leadership Circle recap: Andrew = ED of DTD Central, John
+  = Operations). Only the CPR/NPR media claim remains unverified.
 - answer:
 
 ## 2026-07-25 Who is Dr. Sally Spencer-Thomas to DTD?

@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-07-23
+updated: 2026-07-31
 tags: [area]
 ---
 
@@ -14,6 +14,41 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-07-30 RMCP submitted the opioid-response grant: $150K to DTD if won
+- Patricia Markwell completed and submitted the **Community-Rooted Opioid Response
+  Grant**: "Stronger Together: Rural Men's Opioid Prevention & Recovery Network," built
+  on the RMCP–DTD partnership. DTD is the community engagement lead (outreach, chapter
+  development, volunteer recruitment, partnerships, sustainability); RMCP handles
+  project management, training, evaluation, and grant administration. The budget carries
+  a **$50,000/year subcontract to DTD for each of three years — $150,000 total**.
+- Outcome expected **late September**. Patricia is on maternity leave Aug 6 → Oct 2;
+  contact Erik or Bev at RMCP meanwhile.
+- category: Funding and Financial Development
+- source: email from Patricia Markwell 2026-07-30
+- links: [[partnerships-and-strategic-relationships#2026-07-20 Grant platform meeting with Patricia Markwell (RMCP)]]
+
+## 2026-07-30 Buena Vista funding gap — the test case for community funding
+- BV has a **$700 shortfall for its next dinner**; facilitators Mike Mayer and Erik
+  Jacobsen wrote they'll "overextend ourselves" to keep dinners alive (quality food
+  matters to the container) and want to learn fundraising. Andrew cautioned against
+  burnout and offered to build a short-term fix plus a sustainable funding stream;
+  scheduling a call (Fri 4pm or weekend slots), bringing Justin in.
+- Solutions discussed at the Leadership Circle: local retailer community grants
+  (Walmart/Target), simpler menus, channeling tax-deductible donations through DTD
+  Central's 501(c)(3), asking attendees for local business connections, and framing DTD
+  as a whole-community benefit for funders (the approach that won Jamie Fanselow HHS +
+  Public Health funding).
+- action #open (Andrew): fundraising call with Mike/Erik/Justin; draft BV sponsorship ask
+- category: Funding and Financial Development
+- source: "Fundraising - We Believe in DTD" thread 2026-07-30/31 + Fathom recap
+- links: [[community-growth-and-expansion#2026-07-30 Leadership Circle recap: growth strong, funding is THE challenge, committees forming]]
+
+## 2026-07-30 Budget review sessions set for Monday Aug 3
+- Andrew/John budget working session 11:30–1:00 MT, followed by the DTD Budget Review
+  1:00–2:00pm with Chris Peterson (both accepted).
+- category: Funding and Financial Development
+- source: calendar invitations 2026-07-30
 
 ## 2026-07-22 Board fundraising asks: 100% giving, network outreach, $250K seed fund
 - Andrew emailed the board following the 7/17 meeting with four asks: (1) a personal

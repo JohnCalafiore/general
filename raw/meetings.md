@@ -1,4 +1,6 @@
-# Meetings (Fathom/Granola) — harvested 2026-07-30
+# Meetings (Fathom/Granola) — harvested 2026-07-31
 
-No new recordings since the Jul 28 Ag Behavioral Health meeting (content still not
-ingested — access blocked). The Jul 29 Andrew:John 1:1 was not recorded.
+## DTD Leadership Circle — Jul 30, 4:00pm MDT, 72 min
+Captured in both Granola (metadata) and Fathom; full content arrived via Fathom's recap
+EMAIL (harvested above — no meeting-tool access needed). ~50 participants across all
+communities.

@@ -1,13 +1,7 @@
-# Google Calendar — harvested 2026-07-30 (window: 2026-07-29 → 2026-07-31)
+# Google Calendar — harvested 2026-07-31 (window: 2026-07-30 → 2026-08-01)
 
-## cal-0lphrejv DTD Leadership Circle — TODAY Jul 30, 4:00–5:00pm MDT
-Monthly recurring (organizer Andrew), Google Meet: "a space for DTD community leaders to
-connect, share what's working, learn from one another, and support each other."
-50+ invitees spanning known communities and partners — accepted include Ken Farber,
-Elisa Selby + Micaela Sanchez (North Range), Chris Mesa, Harry C (summitfirc.org),
-Lauren Sinclair (va.gov), Alec Rand (Grand Junction), Rebecca Robbins (Clearview
-Library), and reps from Chaffee County, RMCP (brandonw), and others. Nadia declined this
-month. Also invited: dawsonjwolf03@gmail.com (the Friday meeting), justinshall124,
-christine.peterson@state.co.us (a third CP address), erikjacobsen01@gmail.com.
-
-## cal-24vtujm2 "leave for car" Jul 29 (personal, not filed)
+## Jul 30: DTD Leadership Circle 4–5pm (held; ran 72 min — see Fathom recap)
+## Jul 31 (today): "Dawson : Andrew : John" 10am–1pm — IN PERSON at 3117 Fall River Rd,
+Idaho Springs, CO 80452 (plus Meet link). Dawson identity still unknown.
+## Jul 31 (today): Call Matt Budde 2:30pm (text first, 443-254-7470)
+## Aug 3 (Mon): Andrew/John Review Budget 11:30–1; DTD Budget Review 1–2pm (with CP)

@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [area]
 ---
 
@@ -14,6 +14,14 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-07-31 Website review underway; Google for Nonprofits needs docs
+- Ken shared "DTD Test Website Notes" (Google Doc, edit access for John) — feedback
+  feeding the community-web-pages launch push (due ~Aug 9).
+- Goodstack (processing the Google for Nonprofits application) asked John to upload
+  documentation proving association with DTD. action #open (John): upload docs.
+- category: Platform, Tools, and Infrastructure
+- source: Drive share + Goodstack emails 2026-07-31
 
 ## 2026-07-30 Google for Nonprofits application + CRM signup form in testing
 - Google for Nonprofits application underway (Goodstack email verification step). The

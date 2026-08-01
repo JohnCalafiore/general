@@ -1,6 +1,6 @@
-# Meetings (Fathom/Granola) — harvested 2026-07-31
+# Meetings (Fathom/Granola) — harvested 2026-08-01
 
-## DTD Leadership Circle — Jul 30, 4:00pm MDT, 72 min
-Captured in both Granola (metadata) and Fathom; full content arrived via Fathom's recap
-EMAIL (harvested above — no meeting-tool access needed). ~50 participants across all
-communities.
+## granola-9e075b49 Dawson : Andrew : John — Jul 31, 10:00 AM MDT (metadata only)
+The three-hour in-person meeting happened and was captured in Granola (participants:
+John, Andrew, dawsonjwolf03@gmail.com). Content not ingested (detail access blocked);
+no Fathom recap email arrived for it.

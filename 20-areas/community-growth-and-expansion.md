@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [area]
 ---
 
@@ -28,8 +28,8 @@ responsibility but not to a specific dated project get logged here.
   community; Anderson can help make the model inclusive for non-English speakers.
 - DTD Central is forming committees (Tech Stack, Facilitator Training, Marketing, DEI)
   and asking every leader to add their DTD role on LinkedIn.
-- action #open (John): email the leadership circle with committee sign-up details and
-  LinkedIn instructions
+- action #done (John, 2026-07-31): emailed the circle — "Leadership Circle recap: we're
+  a 501(c)(3), and what's next" (committee sign-ups + LinkedIn instructions)
 - action #open (John, due ~Aug 9): **finalize and launch all community web pages within
   10 days**
 - action #open (Andrew): CT call with Giovanny/Anderson next week; email non-attendees

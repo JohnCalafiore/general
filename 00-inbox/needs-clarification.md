@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-31
+updated: 2026-08-01
 tags: [inbox]
 ---
 
@@ -93,6 +93,9 @@ Format the agent uses:
   Meet) — a three-hour block with no description. Same day as the Zero Suicide Academy
   application deadline.
 - question: who is Dawson and what should I file this under once it happens?
+- update 2026-08-01: the meeting happened Jul 31 (in person, Idaho Springs, ~3h) and was
+  recorded in Granola, but content isn't accessible and no follow-up email exists —
+  identity and outcome still unknown. Dawson was also on the Leadership Circle invite.
 - answer:
 
 ## 2026-07-28 Did the Jul 27 meeting with Bev Marquez happen, and what came of it?

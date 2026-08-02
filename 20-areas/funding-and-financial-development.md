@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-07-31
+updated: 2026-08-02
 tags: [area]
 ---
 
@@ -14,6 +14,29 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-07-31 Workday Human Connection Microgrant application submitted at the wire
+- Andrew submitted DTD's application to the **Workday Foundation Human Connection
+  Microgrant Program** at 11:29 PM on deadline day (Jul 31, 11:59 PM PT cutoff).
+  The program funds community organizations strengthening neighbors' social ties.
+  **Decisions announced September 21.** Application on record: 501(c)(3), EIN
+  41-4806880, mailing address PO Box 992, Idaho Springs, CO 80452; Andrew is primary
+  contact; mission statement: "Dude Talk Dinners connects men in communities across
+  Colorado and beyond - where friendships are built from meaningful conversation, free
+  dinner, and a welcoming atmosphere."
+- Two grant decisions now pending: this one (Sep 21) and the RMCP opioid-response grant
+  (late September).
+- category: Funding and Financial Development
+- source: Google Forms receipt forwarded by Andrew 2026-08-01
+
+## 2026-08-01 BV fundraising call set: Monday Aug 3, 11am–12pm
+- "DTD BV fundraising and sustainability" — Andrew, John, Justin Hall, Erik Jacobsen,
+  and Mike Mayer (Google Meet). This closes Andrew's action to schedule the BV
+  fundraising call. Scheduling note: it overlaps the Andrew/John budget review
+  (11:30–1:00) by 30 minutes.
+- category: Funding and Financial Development
+- source: calendar invitation 2026-08-01
+- links: [[funding-and-financial-development#2026-07-30 Buena Vista funding gap — the test case for community funding]]
 
 ## 2026-07-30 RMCP submitted the opioid-response grant: $150K to DTD if won
 - Patricia Markwell completed and submitted the **Community-Rooted Opioid Response
@@ -39,7 +62,8 @@ responsibility but not to a specific dated project get logged here.
   Central's 501(c)(3), asking attendees for local business connections, and framing DTD
   as a whole-community benefit for funders (the approach that won Jamie Fanselow HHS +
   Public Health funding).
-- action #open (Andrew): fundraising call with Mike/Erik/Justin; draft BV sponsorship ask
+- action #done (Andrew, 2026-08-01): fundraising call scheduled for Mon Aug 3 11am;
+  sponsorship-ask draft still pending
 - category: Funding and Financial Development
 - source: "Fundraising - We Believe in DTD" thread 2026-07-30/31 + Fathom recap
 - links: [[community-growth-and-expansion#2026-07-30 Leadership Circle recap: growth strong, funding is THE challenge, committees forming]]

@@ -22,7 +22,8 @@ Format — one H2 per person:
 
 ## Andrew Wolff
 - org: Dude Talk Dinners — **Executive Director** (per his email signature)
-- email: andrew.wolff@dudetalkdinners.org
+- email: andrew.wolff@dudetalkdinners.org; phone 516-507-0798 (per microgrant
+  application)
 - source: signature in email 2026-07-24; Patricia Markwell email 2026-07-20; 501(c)(3)
   board announcement 2026-07-19
 

@@ -1,96 +1,69 @@
-<!-- generated 2026-08-01T07:07:19+00:00 | 15 new of 15 blocks; synthesis must read ONLY this file, not raw/ -->
+<!-- generated 2026-08-02T07:06:15+00:00 | 9 new of 9 blocks; synthesis must read ONLY this file, not raw/ -->
 
 <!-- source: calendar.md -->
-# Google Calendar — harvested 2026-08-01 (window: 2026-07-31 → 2026-08-02)
+# Google Calendar — harvested 2026-08-02 (window: 2026-08-01 → 2026-08-03)
 
----
-
-<!-- source: calendar.md -->
-## Jul 31: "Dawson : Andrew : John" 10am–1pm at 3117 Fall River Rd, Idaho Springs — held
-and recorded in Granola (content not accessible; Dawson's identity still unknown).
-
----
-
-<!-- source: calendar.md -->
-## Jul 31: Call Matt Budde 2:30pm — outcome not in the record (phone call).
-
----
-
-<!-- source: calendar.md -->
-## Aug 6 (Thu): DTD BV roadtrip 3–11pm MDT (Andrew, John, Ken → Buena Vista dinner).
+No events in window. Monday Aug 3 now holds three meetings: BV fundraising call 11–12,
+Andrew/John budget review 11:30–1 (30-min overlap with the BV call), DTD Budget Review
+1–2 with CP.
 
 ---
 
 <!-- source: email-inbox.md -->
-# Gmail inbox — harvested 2026-08-01 (window: since 2026-07-31T07:09Z)
+# Gmail inbox — harvested 2026-08-02 (window: since 2026-08-01T07:07Z)
 
 ---
 
 <!-- source: email-inbox.md -->
-## email-19fbabce DTD BV roadtrip — Thu Aug 6, 3–11pm MDT
-Andrew invited John + Ken: road trip to Buena Vista for the DTD dinner; Andrew happy to
-drive from his place, flexible departure. Ken (Jul 31 evening): "Looking forward to the
-trip and the luxurious meal ;)" — happy to leave earlier to connect with Justin and/or
-the other facilitators beforehand.
+## email-19fbf2f0 Workday Human Connection Microgrant application submitted
+Andrew forwarded the Google Forms receipt (submitted Jul 31, 11:29 PM — 30 minutes
+before the 11:59 PM PT deadline). Workday Foundation microgrants for community orgs
+"creating opportunities for neighbors to strengthen their social ties"; **microgrants
+announced September 21**. Application facts: org = Dude Talk Dinners, Inc., 501(c)(3),
+EIN 41-4806880; mailing address **PO Box 992, Idaho Springs, CO 80452**; primary
+contact Andrew Wolff (516-507-0798); mission statement: "Dude Talk Dinners connects men
+in communities across Colorado and beyond - where friendships are built from meaningful
+conversation, free dinner, and a welcoming atmosphere."
 
 ---
 
 <!-- source: email-inbox.md -->
-## email-19fba8c1 Ken shared "DTD Test Website Notes" (edit access)
-2026-07-31 (17:39 MT) — Ken invited John to edit a Google Doc of notes on the test
-website, feeding the community-web-pages push.
+## email-19fbf46b BV fundraising call scheduled: Mon Aug 3, 11am–12pm MDT
+Calendar invite from Andrew: "DTD BV fundraising and sustainability" — Andrew, John,
+Justin Hall, Erik Jacobsen, Mike Mayer (Google Meet). Note: overlaps the previously
+scheduled Andrew/John budget review (11:30–1:00) by 30 minutes.
 
 ---
 
 <!-- source: email-inbox.md -->
-## email-19fb87b7 Andrew's reply on the opioid grant thread
-2026-07-31 (08:00 MT) — Andrew to Patricia/RMCP: agrees it's a strong proposal
-reflecting both orgs' strengths; thanks the team. (No new facts beyond Jul 30 filing.)
-
----
-
-<!-- source: email-inbox.md -->
-## email-goodstack Google for Nonprofits: documentation requested
-2026-07-31 — Goodstack (processing the Google application) asks John to upload
-documentation proving his association with Dude Talk Dinners. Application pending that
-upload.
+## email-19fbf3d1 Goodstack reminder: email verification still pending
+Google for Nonprofits application still waiting on John's email verification +
+documentation (existing open action).
 
 ---
 
 <!-- source: email-inbox.md -->
 ## noise (not filed)
-Givebutter marketing.
+Google Workspace monthly invoice; an old Allison Sager thread resurfaced with no new
+messages (label change only).
 
 ---
 
 <!-- source: email-sent.md -->
-# Gmail sent — harvested 2026-08-01 (window: since 2026-07-31T07:09Z)
+# Gmail sent — harvested 2026-08-02 (window: since 2026-08-01T07:07Z)
 
----
-
-<!-- source: email-sent.md -->
-## sent-19fbafbd Leadership Circle recap email sent
-2026-07-31 (19:41 MT) — John sent "Leadership Circle recap: we're a 501(c)(3), and
-what's next": thanks attendees "Between Buena Vista, Summit, Grand Junction, Weld,
-Evergreen, Clear Creek, and two new friends calling in from Connecticut..." — the
-committee/LinkedIn follow-up email from Thursday's action list.
+No sent messages in window.
 
 ---
 
 <!-- source: meetings.md -->
-# Meetings (Fathom/Granola) — harvested 2026-08-01
+# Meetings (Fathom/Granola) — harvested 2026-08-02
 
----
-
-<!-- source: meetings.md -->
-## granola-9e075b49 Dawson : Andrew : John — Jul 31, 10:00 AM MDT (metadata only)
-The three-hour in-person meeting happened and was captured in Granola (participants:
-John, Andrew, dawsonjwolf03@gmail.com). Content not ingested (detail access blocked);
-no Fathom recap email arrived for it.
+No meetings recorded this week so far (new Granola week; Saturday quiet).
 
 ---
 
 <!-- source: slack.md -->
-# Slack — harvested 2026-08-01 (window: after 2026-07-30)
+# Slack — harvested 2026-08-02 (window: after 2026-07-31)
 
 No new messages in window.

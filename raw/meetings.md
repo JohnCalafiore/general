@@ -1,6 +1,3 @@
-# Meetings (Fathom/Granola) — harvested 2026-08-01
+# Meetings (Fathom/Granola) — harvested 2026-08-02
 
-## granola-9e075b49 Dawson : Andrew : John — Jul 31, 10:00 AM MDT (metadata only)
-The three-hour in-person meeting happened and was captured in Granola (participants:
-John, Andrew, dawsonjwolf03@gmail.com). Content not ingested (detail access blocked);
-no Fathom recap email arrived for it.
+No meetings recorded this week so far (new Granola week; Saturday quiet).

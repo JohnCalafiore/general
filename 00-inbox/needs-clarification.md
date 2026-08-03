@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-01
+updated: 2026-08-03
 tags: [inbox]
 ---
 
@@ -96,6 +96,9 @@ Format the agent uses:
 - update 2026-08-01: the meeting happened Jul 31 (in person, Idaho Springs, ~3h) and was
   recorded in Granola, but content isn't accessible and no follow-up email exists —
   identity and outcome still unknown. Dawson was also on the Leadership Circle invite.
+- update 2026-08-03: he's now been added to today's BV fundraising/sustainability call —
+  third DTD meeting in a week. One line on who he is (volunteer? consultant? new staff?)
+  and I'll give him a proper relationships entry and route his work to the right area.
 - answer:
 
 ## 2026-07-28 Did the Jul 27 meeting with Bev Marquez happen, and what came of it?

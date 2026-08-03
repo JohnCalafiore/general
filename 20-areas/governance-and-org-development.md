@@ -1,6 +1,6 @@
 ---
 area: Governance and Organizational Development
-updated: 2026-07-31
+updated: 2026-08-03
 tags: [area]
 ---
 
@@ -14,6 +14,14 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[governance-and-org-development#...]] and harvested by the brief. -->
+
+## 2026-08-02 501(c)(3) approval came in 16 days against a reported 9-month backlog
+- From John's leadership recap draft: "the IRS approved our 501(c)(3) in 16 days,
+  against a reported 9 month backlog" — the sharpest framing yet of the July 19 approval
+  and useful language for donor and grant conversations.
+- category: Governance and Organizational Development
+- source: John's recap email to Andrew 2026-08-02
+- links: [[governance-and-org-development#2026-07-19 IRS approves 501(c)(3) status for Dude Talk Dinners, Inc.]]
 
 ## 2026-07-30 Liability: formal Community Agreement needed
 - Raised at the Leadership Circle (Grand Junction's concern about incident liability at

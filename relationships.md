@@ -46,9 +46,11 @@ Format — one H2 per person:
 - source: 501(c)(3) board thread 2026-07-20; "Mission and Vision" email 2026-07-28
 
 ## Dawson (dawsonjwolf03@gmail.com)
-- relationship: three-hour meeting with Andrew and John scheduled Fri Jul 31, 10am–1pm
-  MDT — identity and purpose not in the record (see needs-clarification)
-- source: calendar invite 2026-07-28
+- relationship: identity still unconfirmed. Appearances so far: invited to the Jul 30
+  Leadership Circle; a three-hour in-person meeting with Andrew and John on Jul 31
+  (Idaho Springs); and added to the Aug 3 "DTD BV fundraising and sustainability" call —
+  a pattern suggesting an ongoing DTD Central role rather than a one-off guest.
+- source: calendar invites 2026-07-28, 2026-07-30, 2026-08-03
 
 ## Chris Peterson
 - org: Dude Talk Dinners board — goes by "CP"; championing the Zero Suicide Academy

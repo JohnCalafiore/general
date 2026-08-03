@@ -1,3 +1,4 @@
-# Meetings (Fathom/Granola) — harvested 2026-08-02
+# Meetings (Fathom/Granola) — harvested 2026-08-03
 
-No meetings recorded this week so far (new Granola week; Saturday quiet).
+No meetings recorded yet this week (today's three sessions occur after this run's
+window).

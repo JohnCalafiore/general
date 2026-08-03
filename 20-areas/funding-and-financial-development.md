@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-08-02
+updated: 2026-08-03
 tags: [area]
 ---
 
@@ -34,6 +34,9 @@ responsibility but not to a specific dated project get logged here.
   and Mike Mayer (Google Meet). This closes Andrew's action to schedule the BV
   fundraising call. Scheduling note: it overlaps the Andrew/John budget review
   (11:30–1:00) by 30 minutes.
+- update 2026-08-03: **Dawson (dawsonjwolf03@gmail.com) was added to this invite** —
+  his second appearance on a DTD meeting after the Jul 31 three-hour session, now on a
+  fundraising/sustainability call (identity still unconfirmed — see needs-clarification).
 - category: Funding and Financial Development
 - source: calendar invitation 2026-08-01
 - links: [[funding-and-financial-development#2026-07-30 Buena Vista funding gap — the test case for community funding]]

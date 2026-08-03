@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-08-01
+updated: 2026-08-03
 tags: [area]
 ---
 
@@ -15,11 +15,21 @@ responsibility but not to a specific dated project get logged here.
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
 
+## 2026-08-02 Google for Nonprofits: DTD verified; Workspace activation requested
+- Google confirmed "Your organization has been verified!" (Aug 2 evening), closing the
+  Goodstack verification/documentation loop that had been open since Jul 30. A Google
+  **Workspace for Nonprofits activation request** for dudetalkdinners.org was received
+  Aug 3 morning — awaiting activation. This is the free-Workspace saving flagged at the
+  Leadership Circle as a 501(c)(3) benefit.
+- action #done (John): Goodstack verification + documentation
+- category: Platform, Tools, and Infrastructure
+- source: Google for Nonprofits emails 2026-08-02/03
+
 ## 2026-07-31 Website review underway; Google for Nonprofits needs docs
 - Ken shared "DTD Test Website Notes" (Google Doc, edit access for John) — feedback
   feeding the community-web-pages launch push (due ~Aug 9).
 - Goodstack (processing the Google for Nonprofits application) asked John to upload
-  documentation proving association with DTD. action #open (John): upload docs.
+  documentation proving association with DTD. action #done — verified 2026-08-02.
 - category: Platform, Tools, and Infrastructure
 - source: Drive share + Goodstack emails 2026-07-31
 

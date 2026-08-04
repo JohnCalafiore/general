@@ -1,7 +1,6 @@
-# Google Calendar — harvested 2026-08-03 (window: 2026-08-02 → 2026-08-04)
+# Google Calendar — harvested 2026-08-04 (window: 2026-08-03 → 2026-08-05)
 
-## Aug 3 (today) DTD BV fundraising and sustainability 11:00–12:00 MDT
-Andrew (organizer), John, Mike Mayer accepted; Justin Hall, Erik Jacobsen, and
-**Dawson (dawsonjwolf03@gmail.com — added to this invite)** not yet responded.
-## Aug 3 Andrew/John Review Budget 11:30–1:00 (both accepted; overlaps the BV call)
-## Aug 3 DTD Budget Review 1:00–2:00 with Chris Peterson (all accepted)
+Monday Aug 3 ran dense: Spark Grant application 10:30–11, BV fundraising 11–12,
+Andrew/John budget 11:30–1, DTD Budget Review 1–2 (with CP), Andrew:Ken 2:30–3,
+Mission Vision convo 3–4.
+Aug 4 (today): no events on John's calendar.

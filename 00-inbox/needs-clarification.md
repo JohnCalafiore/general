@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-03
+updated: 2026-08-04
 tags: [inbox]
 ---
 
@@ -72,6 +72,21 @@ Format the agent uses:
   word") — 2026-07-24
 - question: advisor? partner? funder contact? I've added a minimal relationships entry;
   what's her actual relationship to DTD?
+- answer:
+
+## 2026-08-04 What is the "Spark Grant"?
+- context: Andrew put a "Spark Grant application" working session on Monday's calendar
+  (Aug 3, 10:30–11am) — a grant that appears nowhere else in the record.
+- question: which funder/program is this, what's the deadline, and did the application
+  go out? I'll file it to Funding alongside the Workday and RMCP grants.
+- answer:
+
+## 2026-08-04 Monday's six meetings produced no captured content
+- context: Aug 3 held six sessions (Spark Grant, BV fundraising, two budget reviews,
+  Andrew:Ken, Mission Vision) but Granola recorded none of them and no Fathom recaps
+  arrived — so decisions from budget and Mission/Vision discussions aren't in the vault.
+- question: were these intentionally not recorded? If you want them captured, recording
+  them (or forwarding a recap) is what puts them in the second brain.
 - answer:
 
 ## 2026-07-30 What is the "new BHB/DTD location"?

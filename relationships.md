@@ -179,6 +179,25 @@ Format — one H2 per person:
   non-English speakers; call with Andrew next week
 - source: Fathom recap 2026-07-30
 
+## Emily Schweitzer
+- org: The Health Partnership (ncchealthpartnership.org), Craig CO — northwest Colorado
+- relationship: website lead who wants a group conversation about bringing DTD to her
+  communities; looping in colleagues L. Winslow, A. Werre, and Ashley Ellis
+- email: eschweitzer@ncchealthpartnership.org
+- source: "Dude Talk Dinners Reaching Out" thread 2026-08-03
+
+## Ashley L Ellis
+- org: The Health Partnership — Behavioral Health Clinical Care Coordinator; 595 Breeze
+  Street, Craig, CO 81625
+- relationship: "I would love to see Dude Talk Dinners happening in our communities!"
+- email: aellis@ncchealthpartnership.org
+- source: email 2026-08-03
+
+## Art Ginley
+- email: artginley@gmail.com
+- relationship: website lead; offered several call windows Aug 5–13
+- source: "Dude Talk Dinners Reaching Out" thread 2026-07-30 → 2026-08-03
+
 ## Sally Spencer-Thomas
 - email: SallySpencerThomas@gmail.com — addressed as "Dr. Sally"
 - relationship: outreach contact Andrew updates on community launches and asks to spread

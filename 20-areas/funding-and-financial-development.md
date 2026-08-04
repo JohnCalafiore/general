@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-08-03
+updated: 2026-08-04
 tags: [area]
 ---
 
@@ -14,6 +14,39 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-08-03 Budget Monday: six sessions, budget sent to Andrew, Spark Grant work
+- The day ran: Spark Grant application 10:30–11, BV fundraising and sustainability
+  11–12, Andrew/John budget review 11:30–1, DTD Budget Review 1–2 with Chris Peterson,
+  Andrew:Ken 2:30–3, Mission Vision convo 3–4. John emailed Andrew the budget
+  ("Budget attached") at 4:19pm. **A new "Spark Grant application" working session
+  appeared on the calendar — a grant not previously in the record** (see
+  needs-clarification). No meeting content was captured (no Granola recordings, no
+  Fathom recaps), so decisions from these sessions aren't in the vault.
+- category: Funding and Financial Development
+- source: calendar events + sent mail 2026-08-03
+
+## 2026-08-03 PayPal account live and verified for DTD
+- A PayPal account for Dude Talk Dinners, Inc. was created, the JPMorgan Chase bank
+  account confirmed by micro-deposits, and the account **verified with sending limits
+  removed** — a second donation rail alongside Givebutter. PayPal is prompting to
+  confirm charity status for the nonprofit discount rate.
+- action #open (John): confirm PayPal charity status for the discounted rate
+- category: Funding and Financial Development
+- source: PayPal emails 2026-08-03
+
+## 2026-08-04 CP suggests studying a members-club financial model for DTD budgets
+- After the budget review, Chris Peterson flagged the **International Men's Club of
+  America** (imcofa.com) — surfaced via a BHB partner's speaker referral — as a possible
+  reference for "how we get DTD budgets and pass through a set up properly without too
+  much headache." She's explicit that the club's model (paid membership, invitation
+  only, men who travel internationally) is "not a model I at all like for DTD," but
+  thinks the financial structure could point in the right direction. Asks whether Andrew
+  or John wants to dig deeper.
+- action #open (Andrew/John): decide whether to research the IMCofA financial model
+- category: Funding and Financial Development
+- source: "Another avenue to look into, maybe?" email from Chris Peterson 2026-08-04
+- links: [[governance-and-org-development#2026-07-30 Liability: formal Community Agreement needed]]
 
 ## 2026-07-31 Workday Human Connection Microgrant application submitted at the wire
 - Andrew submitted DTD's application to the **Workday Foundation Human Connection

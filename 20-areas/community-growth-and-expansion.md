@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-08-01
+updated: 2026-08-04
 tags: [area]
 ---
 
@@ -14,6 +14,25 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-08-03 NCC Health Partnership wants DTD in northwest Colorado
+- Emily Schweitzer (The Health Partnership, Craig CO) replied to John's outreach: she'd
+  like to talk "along with a few of my colleagues" next week, looping in three
+  colleagues. Ashley L Ellis (Behavioral Health Clinical Care Coordinator) added: **"I
+  would love to see Dude Talk Dinners happening in our communities!"** This is an
+  organizational lead — a behavioral-health partnership interested in hosting DTD, not
+  just an individual inquiry.
+- action #open (John): schedule the group call for next week
+- category: Community Growth and Expansion
+- source: "Dude Talk Dinners Reaching Out" thread 2026-08-03
+- links: [[relationships#Emily Schweitzer]], [[relationships#Ashley L Ellis]]
+
+## 2026-08-03 Art Ginley offered call times
+- Lead replied with availability: Wed 8/5 10am or 4pm, Thu 8/6 3pm, Mon 8/10 9am or
+  11am, Wed 8/12 10am or 4pm, Thu 8/13 2pm. (Note: Thu 8/6 is the BV road trip.)
+- action #open (John): pick a time with Art
+- category: Community Growth and Expansion
+- source: email from Art Ginley 2026-08-03
 
 ## 2026-07-30 Leadership Circle recap: growth strong, funding is THE challenge, committees forming
 - 72-minute session across all communities (full Fathom recap in raw/email-inbox.md).

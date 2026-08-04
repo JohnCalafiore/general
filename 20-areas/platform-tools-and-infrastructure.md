@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-08-03
+updated: 2026-08-04
 tags: [area]
 ---
 
@@ -14,6 +14,15 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-08-03 CRM stack partially confirmed: Brevo + Supabase
+- Brevo alerted that a new SMTP key named **supabase-auth-invites** was created in the
+  DTD account — direct evidence the CRM pairs **Brevo** (transactional email) with
+  **Supabase** (auth/database), consistent with the custom /app/ dashboards. The Zoho
+  question from the Jul 20 meeting title remains open.
+- category: Platform, Tools, and Infrastructure
+- source: Brevo account alert 2026-08-03
+- links: [[platform-tools-and-infrastructure#2026-07-22 DTD CRM build in active testing (Brevo email connector, reminders digest)]]
 
 ## 2026-08-02 Google for Nonprofits: DTD verified; Workspace activation requested
 - Google confirmed "Your organization has been verified!" (Aug 2 evening), closing the

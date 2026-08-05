@@ -45,12 +45,14 @@ Format — one H2 per person:
 - email: chris.gould@dudetalkdinners.org
 - source: 501(c)(3) board thread 2026-07-20; "Mission and Vision" email 2026-07-28
 
-## Dawson (dawsonjwolf03@gmail.com)
-- relationship: identity still unconfirmed. Appearances so far: invited to the Jul 30
-  Leadership Circle; a three-hour in-person meeting with Andrew and John on Jul 31
-  (Idaho Springs); and added to the Aug 3 "DTD BV fundraising and sustainability" call —
-  a pattern suggesting an ongoing DTD Central role rather than a one-off guest.
-- source: calendar invites 2026-07-28, 2026-07-30, 2026-08-03
+## Dawson Wolf
+- email: dawsonjwolf03@gmail.com (full name from a Drive share, 2026-08-04)
+- relationship: role still unconfirmed, but clearly active in DTD Central: Jul 30
+  Leadership Circle invite; three-hour in-person session with Andrew and John Jul 31
+  (Idaho Springs); Aug 3 BV fundraising and sustainability call; Aug 4 shared a
+  "Fundraising script rough draft" with John for editing. Surname matches Andrew Wolff's
+  only loosely (Wolf vs Wolff) — relation not established.
+- source: calendar invites 2026-07-28/30, 2026-08-03; Drive share 2026-08-04
 
 ## Chris Peterson
 - org: Dude Talk Dinners board — goes by "CP"; championing the Zero Suicide Academy
@@ -192,6 +194,18 @@ Format — one H2 per person:
 - relationship: "I would love to see Dude Talk Dinners happening in our communities!"
 - email: aellis@ncchealthpartnership.org
 - source: email 2026-08-03
+
+## Trip (Grit Digital Health / Man Therapy®)
+- email: trip@gritdigitalhealth.com
+- relationship: prior contact with Andrew and John; reopened conversation Aug 4 about
+  reconnecting — men's mental-health campaign, natural partner
+- source: "Man Therapy® / Dude Talk Dinners" email 2026-08-04
+
+## Daryll Bryant
+- email: DaryllBryant@gmail.com — Colorado Springs
+- relationship: first genuine CRM signup-form submission; wants to learn more about DTD
+  (org-level interest); Colorado Springs is not yet a DTD community
+- source: CRM signup notification 2026-08-04
 
 ## Art Ginley
 - email: artginley@gmail.com

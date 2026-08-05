@@ -15,6 +15,24 @@ responsibility but not to a specific dated project get logged here.
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[partnerships-and-strategic-relationships#...]] and harvested by the brief. -->
 
+## 2026-08-04 Man Therapy (Grit Digital Health) reopens contact
+- Trip at Grit Digital Health emailed Andrew and John: "It has been a minute since we
+  last connected... checking in to see if any time in the next few [weeks]" works to
+  reconnect. Man Therapy® is a men's mental-health campaign — a natural partner for DTD.
+- action #open (Andrew/John): reply with a time
+- category: Partnerships and Strategic Relationships
+- source: "Man Therapy® / Dude Talk Dinners" email 2026-08-04
+
+## 2026-08-04 MKP surfaces as a reference model; DTD already knows their leadership
+- Following Chris Peterson's financial-model research thread, she sent a second, more
+  detailed site (locations and trainings). John replied that he and Andrew "met a few of
+  the leadership team members for **MKP** at the **Big Tent Summit** earlier this year,
+  they're a great group of guys" — an existing relationship worth drawing on for both
+  the structural question and partnership generally.
+- note: CP has limited email access through **Aug 12**.
+- category: Partnerships and Strategic Relationships
+- source: "Another avenue to look into, maybe?" thread 2026-08-04
+
 ## 2026-07-24 Bev Marquez meeting scheduled: Mon Jul 27, 2:00–2:30pm MDT
 - Calendar invite sent by Andrew: "DTD : RMCP (Bev, Andrew, John)," Google Meet. The
   intro-call action from Jul 20 is now scheduled.

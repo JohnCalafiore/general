@@ -1,6 +1,6 @@
 ---
 area: Governance and Organizational Development
-updated: 2026-08-03
+updated: 2026-08-05
 tags: [area]
 ---
 
@@ -14,6 +14,33 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[governance-and-org-development#...]] and harvested by the brief. -->
+
+## 2026-08-04 Mission & Vision debate: "walks" challenged; two new candidates
+- **Justin Hall** questioned Chris Gould's "walks alone": "sits" or "eats" may be more
+  specific to DTD, and a similar men's group called "Walking Talking Men" actually does
+  walks — "I think the food is an important part of this and might be worth mentioning
+  in the vision."
+- **Ken Farber** agreed "walks" infers something DTD is not, and proposed:
+  - Vision: **"A world where no man feels alone."** — shows the pain point and implies
+    the solution
+  - Mission: **"To put a seat at the table within reach of every Dude possible."** —
+    drawn from the "One aim…" language Ken saw on **John's test update to the DTD
+    website**; he credits John for the phrasing. (Ken now capitalizes "Dude," "Dudes,"
+    and "Dinners" in DTD contexts.)
+- Both statements favored for being short and memorable. Mission/vision finalization is
+  on the next board agenda.
+- category: Governance and Organizational Development
+- source: "Mission and Vision" thread replies from Justin Hall and Ken Farber 2026-08-04
+- links: [[governance-and-org-development#2026-07-28 Mission & Vision drafts circulated by Chris Gould]]
+
+## 2026-08-04 Next board meeting agenda: budget, mission/vision, fundraising
+- Justin Hall asked the board for agenda items; his proposed three: **finalizing the
+  budget, finalizing the vision and mission statement, and fundraising updates**. Ben
+  Shay: "This sounds good to me. I feel like those topics alone will eat up our time."
+  (The stated date "7/21 at 10am" is in the past — likely a typo; see
+  needs-clarification.)
+- category: Governance and Organizational Development
+- source: "Next DTD board agenda" thread 2026-08-04
 
 ## 2026-08-02 501(c)(3) approval came in 16 days against a reported 9-month backlog
 - From John's leadership recap draft: "the IRS approved our 501(c)(3) in 16 days,

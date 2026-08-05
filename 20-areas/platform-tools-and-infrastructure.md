@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-08-04
+updated: 2026-08-05
 tags: [area]
 ---
 
@@ -14,6 +14,16 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-08-04 Website review session with Ken; test site already influencing copy
+- John and Ken Farber held a 45-minute Website Review (2:15–3:00pm MT) working from
+  Ken's "DTD Test Website Notes." Notably, Ken's proposed mission statement came
+  straight off **John's test update to the site** ("One aim… to put a seat at the table
+  within reach of every Dude possible") — the site work is feeding the board's
+  mission/vision debate.
+- category: Platform, Tools, and Infrastructure
+- source: calendar event + Ken's Mission/Vision email 2026-08-04
+- links: [[governance-and-org-development#2026-08-04 Mission & Vision debate: "walks" challenged; two new candidates]]
 
 ## 2026-08-03 CRM stack partially confirmed: Brevo + Supabase
 - Brevo alerted that a new SMTP key named **supabase-auth-invites** was created in the

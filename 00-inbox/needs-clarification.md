@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-04
+updated: 2026-08-05
 tags: [inbox]
 ---
 
@@ -74,6 +74,13 @@ Format the agent uses:
   what's her actual relationship to DTD?
 - answer:
 
+## 2026-08-05 Next board meeting date — "7/21" appears to be a typo
+- quote: Justin Hall, "Wanted to get the board's thoughts on agenda items for the next
+  meeting on 7/21 at 10am" — sent 2026-08-04, so 7/21 is in the past.
+- question: what's the actual date (8/21? 9/21?)? I'll file the agenda entry against the
+  right date once you confirm.
+- answer:
+
 ## 2026-08-04 What is the "Spark Grant"?
 - context: Andrew put a "Spark Grant application" working session on Monday's calendar
   (Aug 3, 10:30–11am) — a grant that appears nowhere else in the record.
@@ -114,6 +121,9 @@ Format the agent uses:
 - update 2026-08-03: he's now been added to today's BV fundraising/sustainability call —
   third DTD meeting in a week. One line on who he is (volunteer? consultant? new staff?)
   and I'll give him a proper relationships entry and route his work to the right area.
+- update 2026-08-05: full name now known — **Dawson Wolf** — and he's drafting a
+  fundraising script for DTD (shared with you Aug 4). Still need his role; also whether
+  he's related to Andrew Wolff (spelling differs).
 - answer:
 
 ## 2026-07-28 Did the Jul 27 meeting with Bev Marquez happen, and what came of it?

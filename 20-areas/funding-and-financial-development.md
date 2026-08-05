@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-08-04
+updated: 2026-08-05
 tags: [area]
 ---
 
@@ -14,6 +14,15 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-08-04 Dawson Wolf drafting a fundraising script
+- **Dawson Wolf** shared a Google Doc, "Fundraising script rough draft," with John for
+  editing (cc Andrew) — the day after joining the BV fundraising and sustainability
+  call. First appearance of his full name; he is now producing fundraising material for
+  DTD (role still unconfirmed — see needs-clarification).
+- action #open (John): review/edit the fundraising script draft
+- category: Funding and Financial Development
+- source: Drive share notification 2026-08-04
 
 ## 2026-08-03 Budget Monday: six sessions, budget sent to Andrew, Spark Grant work
 - The day ran: Spark Grant application 10:30–11, BV fundraising and sustainability

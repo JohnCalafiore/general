@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-08-04
+updated: 2026-08-05
 tags: [area]
 ---
 
@@ -14,6 +14,25 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-08-04 Four lead calls scheduled in one evening; Health Partnership intro set
+- John cleared the lead backlog into calendared conversations: **"Dude Talk Dinners
+  intro with The Health Partnership" confirmed Mon Aug 10, 12–1pm MDT** (Andrew and
+  Ashley Ellis accepted; Emily Schweitzer, L. Winslow, A. Werre included) — John checked
+  Andrew's availability first, then offered the group Monday noon. Also set: **Art
+  Ginley** Wed Aug 12 10am; **Zoe Funk** Thursday between 10am–1pm; **Terry** Friday
+  11am by phone.
+- category: Community Growth and Expansion
+- source: lead threads + calendar acceptances 2026-08-04
+
+## 2026-08-04 First real CRM signup: Daryll Bryant (Colorado Springs)
+- The new signup form produced its first genuine submission (after last week's tests):
+  Daryll Bryant, DaryllBryant@gmail.com, Colorado Springs, interest "Learning more about
+  Dude Talk Dinners," org-level, no SMS consent. **Colorado Springs is not yet a DTD
+  community** — a new geography expressing interest.
+- action #open (John): follow up with Daryll
+- category: Community Growth and Expansion
+- source: CRM signup notification 2026-08-04
 
 ## 2026-08-03 NCC Health Partnership wants DTD in northwest Colorado
 - Emily Schweitzer (The Health Partnership, Craig CO) replied to John's outreach: she'd

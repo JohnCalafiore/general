@@ -1,4 +1,4 @@
-# Meetings (Fathom/Granola) — harvested 2026-08-05
+# Meetings (Fathom/Granola) — harvested 2026-08-06
 
-No recordings this week (Granola returns zero); Tuesday's Website Review was not
-captured.
+No recordings this week. Note: the Jul 30 Leadership Circle recording is archived in
+Google Drive (link circulated in Andrew's recap).

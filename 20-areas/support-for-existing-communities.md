@@ -1,6 +1,6 @@
 ---
 area: Support for Existing Communities
-updated: 2026-08-01
+updated: 2026-08-06
 tags: [area]
 ---
 
@@ -14,6 +14,16 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[support-for-existing-communities#...]] and harvested by the brief. -->
+
+## 2026-08-05 Weld County asked for DTD materials; welcome video in the works
+- Cody Speece (cspeece@weld.gov) reached out with questions and Jamie Fanselow sent him
+  materials. Andrew's reply is the notable part: **"Those resources are all we currently
+  have, though we are in the process of creating a welcome video and a [more]"** — a
+  candid gap in the community-startup toolkit, with a welcome video underway.
+- action #open (DTD Central): finish the welcome video and expanded startup materials
+- category: Support for Existing Communities
+- source: "DTD Update/Question" thread 2026-08-05
+- links: [[community-growth-and-expansion#2026-07-21 Startup guide: send to Greg; add facilitator-recruitment section]]
 
 ## 2026-07-31 Buena Vista support visit: road trip Thursday Aug 6, 3–11pm
 - Andrew, John, and Ken are driving to Buena Vista Thursday for the DTD dinner (Andrew

@@ -207,6 +207,24 @@ Format — one H2 per person:
   (org-level interest); Colorado Springs is not yet a DTD community
 - source: CRM signup notification 2026-08-04
 
+## Zoë Funk
+- org: Whetstone (Crested Butte, CO) — Community Manager; 25115 St. Highway 135
+- contact: zfunk@whetstonecb.com; C: 719-285-5874
+- relationship: website lead; intro call Thursday morning
+- source: "Dude Talk Dinners Reaching Out" thread 2026-07-30 → 2026-08-06
+
+## Ronnie (Conifer)
+- relationship: leads the Conifer DTD team — credited by Andrew for the community's
+  successful second dinner. Likely Ronnie Demanna (ronnie.demanna@huntington.com) from
+  the Leadership Circle list, unconfirmed.
+- source: Leadership Circle recap 2026-08-05
+
+## Cody Speece
+- org: Weld County government (cspeece@weld.gov)
+- relationship: reached out with DTD questions; received materials via Jamie Fanselow —
+  part of the Weld County community formation
+- source: "DTD Update/Question" thread 2026-08-05
+
 ## Art Ginley
 - email: artginley@gmail.com
 - relationship: website lead; offered several call windows Aug 5–13

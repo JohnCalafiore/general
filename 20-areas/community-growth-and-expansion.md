@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-08-05
+updated: 2026-08-06
 tags: [area]
 ---
 
@@ -14,6 +14,33 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-08-05 Leadership Circle recap sent: Conifer's second dinner, LinkedIn titles, legal ask
+- Andrew's recap to the full circle (John supplied the contact list and recording link).
+  New facts beyond the Jul 30 Fathom summary:
+  - **Conifer hosted its second dinner with a fantastic turnout** — credited to Ronnie
+    and the Conifer team.
+  - Grand Junction's five facilitators are named: Alec, **Joshua**, Alvin, Andy, and
+    **Chace**.
+  - **All donations to both Dude Central and local DTD Communities are now
+    tax-deductible** — the clearest statement yet of what 501(c)(3) unlocks for
+    community-level giving.
+  - **Approved LinkedIn titles**: "Facilitator (Volunteer)", "Coordinator (Volunteer)",
+    "Initiator (Volunteer)" via linkedin.com/company/dudetalkdinners.
+  - Committees open for volunteers narrowed to three in the send: Tech Stack,
+    Facilitator Training, Marketing (DEI not listed).
+  - Renewed ask: **pro bono or discounted legal counsel** referrals.
+- category: Community Growth and Expansion
+- source: Andrew's Leadership Circle recap email 2026-08-05
+- links: [[governance-and-org-development#2026-07-30 Liability: formal Community Agreement needed]]
+
+## 2026-08-05 All five lead conversations now locked in
+- Zoë Funk (Community Manager, Whetstone, Crested Butte) asked for 10:30 or 11 Thursday;
+  Art Ginley accepted Wed Aug 12 10–10:30am; Terry sent a Zoom link for Friday 11am
+  (John confirmed); Emily Schweitzer accepted the Monday noon Health Partnership intro;
+  and John sent the standard warm outreach to Daryll Bryant, the first CRM signup.
+- category: Community Growth and Expansion
+- source: lead threads + calendar acceptances 2026-08-05
 
 ## 2026-08-04 Four lead calls scheduled in one evening; Health Partnership intro set
 - John cleared the lead backlog into calendared conversations: **"Dude Talk Dinners

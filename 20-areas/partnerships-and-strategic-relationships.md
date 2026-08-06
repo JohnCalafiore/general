@@ -15,6 +15,12 @@ responsibility but not to a specific dated project get logged here.
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[partnerships-and-strategic-relationships#...]] and harvested by the brief. -->
 
+## 2026-08-05 Man Therapy reconnect proposed for Aug 13 or 14
+- Andrew replied to Trip: "What is your availability for next Thursday 8/13 or Friday
+  8/14? John and I are excited to reconnect." Awaiting Trip's pick.
+- category: Partnerships and Strategic Relationships
+- source: "Man Therapy® / Dude Talk Dinners" thread 2026-08-05
+
 ## 2026-08-04 Man Therapy (Grit Digital Health) reopens contact
 - Trip at Grit Digital Health emailed Andrew and John: "It has been a minute since we
   last connected... checking in to see if any time in the next few [weeks]" works to

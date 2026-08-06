@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-08-05
+updated: 2026-08-06
 tags: [area]
 ---
 
@@ -14,6 +14,15 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-08-05 CRM live: first activity digest, plus an auth-invite bug
+- The daily reminders digest reported real activity for the first time: "2 new contacts
+  (1 from the website form) · 1 text sent, **1 failed** · 2 new opt-outs, 2 revoked."
+- Andrew hit a snag on the Supabase auth invite: "The link sends me to a login page. Did
+  you create credentials for me?" — invite flow needs fixing before other users onboard.
+- action #open (John): fix the CRM invite/credentials flow for Andrew; look at the failed SMS
+- category: Platform, Tools, and Infrastructure
+- source: CRM digest + Andrew's "You've been invited" reply 2026-08-05
 
 ## 2026-08-04 Website review session with Ken; test site already influencing copy
 - John and Ken Farber held a 45-minute Website Review (2:15–3:00pm MT) working from

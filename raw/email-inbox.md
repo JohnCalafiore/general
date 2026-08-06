@@ -1,59 +1,56 @@
-# Gmail inbox — harvested 2026-08-05 (window: since 2026-08-04T07:08Z)
+# Gmail inbox — harvested 2026-08-06 (window: since 2026-08-05T07:08Z)
 
-## email-19fcd250 / 19fcdf9e Mission & Vision: board debate on "walks alone"
-Justin Hall (Aug 4, 08:19 MT): questions "walks" — "I wonder if 'sits' or 'eats' alone
-is more specific to DTD mission than 'walks'? There is a similar mens group called
-'walking talking men' where they do specifically go on walks vs having meals together.
-I think the food is an important part of this and might be worth mentioning in the
-vision."
-Ken Farber (Aug 4, 12:11 MT): agrees "walks" infers something DTD is not. Proposes
-**Vision: "A world where no man feels alone."** — "shows both a pain point and indicates
-a solution." For Mission he takes a new direction, drawn from language he saw as the
-"One aim…" on **John's test update to the DTD website**: **Mission: "To put a seat at
-the table within reach of every Dude possible."** He credits John for the phrasing (his
-wife flagged it as the line that caught her attention) and notes he now capitalizes
-"Dude," "Dudes," and "Dinners" for DTD. Both statements short and simple for memorable
-impact.
+## email-19fd484b Leadership Circle recap ready to send (Andrew's version)
+2026-08-05 (18:41 MT) — Andrew drafted/sent John the Leadership Circle recap for the
+group. Highlights: **Grand Junction** first dinner drew 29 men (credits Alec, Joshua,
+Alvin, Andy, Chace); **Summit County** — a Summit Daily journalist attended the dinner
+and published an article on suicide prevention and DTD; **Conifer hosted its second
+dinner with a fantastic turnout** (credits Ronnie and the Conifer team); **501(c)(3)** —
+all donations to both **Dude Central** and local DTD Communities are now tax-deductible.
+Three asks: committee volunteers (Tech Stack, Facilitator Training, Marketing);
+**LinkedIn** role updates via linkedin.com/company/dudetalkdinners with approved titles
+"Facilitator (Volunteer)", "Coordinator (Volunteer)", "Initiator (Volunteer)"; and
+**pro bono / discounted legal counsel referrals**. Recording linked from Drive. John
+replied with the recording link and sent Andrew the full LC email list ("LC Emails").
 
 ---
 
-## email-19fcd2f2 Next board meeting agenda (Justin) — date discrepancy
-Justin Hall (Aug 4): asking the board for agenda items for "the next meeting on 7/21 at
-10am" — the date is in the past, likely a typo (see needs-clarification). Proposed
-agenda: **finalizing the budget, finalizing vision and mission statement, fundraising
-updates**. Ben Shay: "This sounds good to me. I feel like those topics alone will eat up
-our time."
+## email-19fd459194 Man Therapy: Andrew proposes Aug 13 or 14
+Andrew to Trip (Grit Digital Health), cc John: "What is your availability for next
+Thursday 8/13 or Friday 8/14? John and I are excited to reconnect."
 
 ---
 
-## email-19fced0e Man Therapy® (Grit Digital Health) checking in
-From: trip@gritdigitalhealth.com — Aug 4 (16:06 MT), to Andrew + John: "It has been a
-minute since we last connected... checking in to see if any time in the next few
-[weeks]" — a partnership contact re-opening conversation.
+## email-19fd418c Weld County (Cody Speece) asked for DTD materials
+Andrew to cspeece@weld.gov, cc dudetalkdinners@gmail.com, Jamie Fanselow, John: thanks
+Cody for reaching out and Jamie for sending materials; "Those resources are all we
+currently have, though we are in the process of creating a welcome video and a
+[additional materials]" — signals a materials gap being worked on.
 
 ---
 
-## email-19fcf127 Dawson Wolf shared "Fundraising script rough draft"
-2026-08-04 (17:18 MT) — **Dawson Wolf (dawsonjwolf03@gmail.com)** shared a Google Doc
-with John (cc Andrew) for editing: "Fundraising script rough draft." First time his full
-name appears; he is producing fundraising material after Monday's BV call.
+## email-19fd40fc CRM invite issue: Andrew can't log in
+Andrew to support@dudetalkdinners.org (Aug 5, 16:33 MT): "The link sends me to a login
+page. Did you create credentials for me?" — the Supabase auth invite flow needs a fix.
 
 ---
 
-## email-19fcf24f New CRM signup: Daryll Bryant (Colorado Springs)
-support@dudetalkdinners.org — Aug 4 (17:38 MT): DaryllBryant@gmail.com, interest
-"Learning more about Dude Talk Dinners," org-level, Colorado Springs, no SMS consent.
-First real (non-test) submission through the new CRM signup form.
+## Lead scheduling completed
+- **Zoë Funk** (Community Manager, Whetstone, Crested Butte; C: 719-285-5874) asks for
+  10:30 or 11 on Thursday.
+- **Art Ginley** accepted "Intro to Dude Talk Dinners w/ Art" — Wed Aug 12, 10–10:30am.
+- **Terry (Prof Haury)** sent a Zoom link for Friday 11am; John confirmed.
+- **Emily Schweitzer** accepted the Health Partnership intro (Mon Aug 10, 12pm).
 
 ---
 
-## email-19fcb0bc/19fcdf5d CP follow-up: MKP as a better reference model
-Chris Peterson (Aug 4, 12:07 MT) sent a second, "far more detailed" site with locations
-and trainings info — John (17:33 MT) replied that he and Andrew "met a few of the
-leadership team members for MKP at the Big Tent Summit earlier this year, they're a
-great group of guys." CP is now on limited email through **August 12** (auto-reply).
+## email-19fd28f0 CRM daily digest (first real activity report)
+"Activity yesterday — 2 new contacts (1 from the website form) · 1 text sent, 1 failed ·
+2 new opt-outs, 2 revoked." The reminders digest is now reporting live CRM activity,
+including an SMS failure.
 
 ---
 
 ## noise (not filed)
-Givebutter/Brevo marketing; Zoom webinar 1-day reminder (webinar is today, Aug 5, 12pm).
+PayPal marketing; Porkbun email verification; Floyd Jones newsletter signup; cold
+warehouse-equipment spam.

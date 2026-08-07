@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-05
+updated: 2026-08-07
 tags: [inbox]
 ---
 
@@ -72,6 +72,14 @@ Format the agent uses:
   word") — 2026-07-24
 - question: advisor? partner? funder contact? I've added a minimal relationships entry;
   what's her actual relationship to DTD?
+- answer:
+
+## 2026-08-07 How did the Buena Vista dinner go?
+- context: you, Andrew, and Ken made the Aug 6 trip; Erik planned to record content on
+  site and Andrew's action list included capturing testimonials. Nothing about the
+  evening is in email, Slack, or Granola.
+- question: anything worth filing — attendance, what the sponsorship/funding conversation
+  landed on, whether testimonials were captured? A few lines and I'll file it to Support.
 - answer:
 
 ## 2026-08-05 Next board meeting date — "7/21" appears to be a typo

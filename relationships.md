@@ -195,12 +195,6 @@ Format — one H2 per person:
 - email: aellis@ncchealthpartnership.org
 - source: email 2026-08-03
 
-## Trip (Grit Digital Health / Man Therapy®)
-- email: trip@gritdigitalhealth.com
-- relationship: prior contact with Andrew and John; reopened conversation Aug 4 about
-  reconnecting — men's mental-health campaign, natural partner
-- source: "Man Therapy® / Dude Talk Dinners" email 2026-08-04
-
 ## Daryll Bryant
 - email: DaryllBryant@gmail.com — Colorado Springs
 - relationship: first genuine CRM signup-form submission; wants to learn more about DTD
@@ -219,11 +213,28 @@ Format — one H2 per person:
   the Leadership Circle list, unconfirmed.
 - source: Leadership Circle recap 2026-08-05
 
-## Cody Speece
-- org: Weld County government (cspeece@weld.gov)
-- relationship: reached out with DTD questions; received materials via Jamie Fanselow —
-  part of the Weld County community formation
-- source: "DTD Update/Question" thread 2026-08-05
+## Cody Speece, MPH, CHES®
+- org: Weld County Department of Public Health and Environment — Health Education
+  Specialist / CHIP Specialist; Greeley (desk 970-400-2343)
+- relationship: Leadership Circle member driving DTD into Weld County; one of the
+  facilitators on Elisa Selby's list; working with Courtney (Windsor Library) on Weld's
+  first dinner; hopes to facilitate in Greeley. Engaged the Weld County Commissioners
+  (incl. Commissioner James) as DTD supporters. Western Slope native.
+- email: cspeece@weld.gov
+- source: "DTD Update/Question" thread 2026-08-05/06
+
+## Courtney (Windsor Library)
+- email: courtney@clearviewlibrary.org
+- relationship: partnering with Cody Speece and Elisa Selby to launch Weld County's first
+  DTD dinner; has attended Leadership Circle meetings
+- source: Cody Speece email 2026-08-06
+
+## Trip Starkey
+- org: Man Therapy® / Grit Digital Health — **VP of Partnerships** (he/him),
+  mantherapy.org
+- email: trip@gritdigitalhealth.com
+- relationship: reconnecting with Andrew and John; available Fri Aug 14
+- source: "Man Therapy® / Dude Talk Dinners" thread 2026-08-06
 
 ## Art Ginley
 - email: artginley@gmail.com

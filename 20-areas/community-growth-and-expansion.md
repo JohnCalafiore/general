@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-08-06
+updated: 2026-08-07
 tags: [area]
 ---
 
@@ -14,6 +14,22 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-08-06 Weld County: commissioners on board, first dinner forming at Windsor Library
+- **Cody Speece** (Weld County Dept of Public Health and Environment, Greeley) reports
+  his supervisors met with **Weld County Commissioners**, who want to help bring DTD to
+  the county and will connect DTD with rural community leaders — Commissioner James was
+  already on an email chain with Chris and Andrew.
+- Cody knows Elisa Selby and is **one of the facilitators on her list**; they're working
+  with **Courtney at the Windsor Library** (a Leadership Circle attendee) to launch what
+  will likely be **Weld's first dinner**, intended as the template for county-wide
+  growth. Cody hopes to facilitate a **Greeley** dinner later.
+- Detail worth noting: **Grand Junction is DTD's first urban location**, which Cody (a
+  Western Slope local) cites as encouragement for Greeley.
+- action #open (John): send Cody a fresh **Slack invite** — his original link expired
+- category: Community Growth and Expansion
+- source: "DTD Update/Question" thread 2026-08-05/06
+- links: [[relationships#Cody Speece]], [[relationships#Elisa Selby]]
 
 ## 2026-08-05 Leadership Circle recap sent: Conifer's second dinner, LinkedIn titles, legal ask
 - Andrew's recap to the full circle (John supplied the contact list and recording link).

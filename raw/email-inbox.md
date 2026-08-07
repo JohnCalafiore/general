@@ -1,56 +1,54 @@
-# Gmail inbox — harvested 2026-08-06 (window: since 2026-08-05T07:08Z)
+# Gmail inbox — harvested 2026-08-07 (window: since 2026-08-06T07:08Z)
 
-## email-19fd484b Leadership Circle recap ready to send (Andrew's version)
-2026-08-05 (18:41 MT) — Andrew drafted/sent John the Leadership Circle recap for the
-group. Highlights: **Grand Junction** first dinner drew 29 men (credits Alec, Joshua,
-Alvin, Andy, Chace); **Summit County** — a Summit Daily journalist attended the dinner
-and published an article on suicide prevention and DTD; **Conifer hosted its second
-dinner with a fantastic turnout** (credits Ronnie and the Conifer team); **501(c)(3)** —
-all donations to both **Dude Central** and local DTD Communities are now tax-deductible.
-Three asks: committee volunteers (Tech Stack, Facilitator Training, Marketing);
-**LinkedIn** role updates via linkedin.com/company/dudetalkdinners with approved titles
-"Facilitator (Volunteer)", "Coordinator (Volunteer)", "Initiator (Volunteer)"; and
-**pro bono / discounted legal counsel referrals**. Recording linked from Drive. John
-replied with the recording link and sent Andrew the full LC email list ("LC Emails").
-
----
-
-## email-19fd459194 Man Therapy: Andrew proposes Aug 13 or 14
-Andrew to Trip (Grit Digital Health), cc John: "What is your availability for next
-Thursday 8/13 or Friday 8/14? John and I are excited to reconnect."
-
----
-
-## email-19fd418c Weld County (Cody Speece) asked for DTD materials
-Andrew to cspeece@weld.gov, cc dudetalkdinners@gmail.com, Jamie Fanselow, John: thanks
-Cody for reaching out and Jamie for sending materials; "Those resources are all we
-currently have, though we are in the process of creating a welcome video and a
-[additional materials]" — signals a materials gap being worked on.
+## email-19fd7a13 Weld County: commissioners engaged, first dinner forming in Windsor
+From: Cody Speece (Health Education Specialist – CHIP Specialist, Weld County Dept of
+Public Health and Environment, Greeley; desk 970-400-2343) — Aug 6 (09:11 MT).
+Key facts: Cody is part of the Leadership Circle; his supervisors met with **Weld County
+Commissioners**, who expressed interest in helping bring DTD to Weld and will connect
+them with rural community leaders (Commissioner James was on an earlier email chain with
+Chris and Andrew). He knows **Elisa Selby** and is one of the facilitators on her list;
+they're working with **Courtney at the Windsor Library** (also a Leadership Circle
+attendee) to start what will likely be **Weld's first dinner**, hoped to serve as the
+example for growth. Cody wants to facilitate a Greeley dinner later. He praises the
+"Find a Dinner" page and notes **Grand Junction is DTD's first urban location** — as a
+Western Slope local, it encourages him about Greeley.
+Earlier in thread: **Jamie Fanselow** sent Cody (1) Bridging the Divide statewide summit
+breakout slides from April '26, (2) a **facilitator recruitment guide Chris is currently
+working on**, (3) the latest Clear Creek DTD flyer; and reports the **Gilpin BoCC
+encouraged her to apply for Gilpin County Community Funding for 2027**.
+Andrew's reply (Aug 5) adds: welcome video AND **facilitator guide** in progress, and
+**"Our website is also on track to be updated within the next 10 days."** Cody also asked
+for a **new Slack invite** — his original link expired.
 
 ---
 
-## email-19fd40fc CRM invite issue: Andrew can't log in
-Andrew to support@dudetalkdinners.org (Aug 5, 16:33 MT): "The link sends me to a login
-page. Did you create credentials for me?" — the Supabase auth invite flow needs a fix.
+## email-19fd902918 BV dinner logistics from Erik Jacobsen
+Erik (Aug 6, 15:35 MT) to John, Andrew, Mike Mayer, Justin: cell **617-980-4161**;
+plans to reach the studio ~6:00pm to line up supplies outside and record content; the
+group usually can't enter the space until ~6:30pm. John replied en route ("We're about
+10 mins away now").
 
 ---
 
-## Lead scheduling completed
-- **Zoë Funk** (Community Manager, Whetstone, Crested Butte; C: 719-285-5874) asks for
-  10:30 or 11 on Thursday.
-- **Art Ginley** accepted "Intro to Dude Talk Dinners w/ Art" — Wed Aug 12, 10–10:30am.
-- **Terry (Prof Haury)** sent a Zoom link for Friday 11am; John confirmed.
-- **Emily Schweitzer** accepted the Health Partnership intro (Mon Aug 10, 12pm).
+## email-19fd7d2d Man Therapy: Trip Starkey confirms Aug 14
+**Trip Starkey (he/him), VP of Partnerships, Man Therapy®** (mantherapy.org, O:
+720-407-xxxx): "I'm available all day on 8/14. What works best for y'all?"
 
 ---
 
-## email-19fd28f0 CRM daily digest (first real activity report)
-"Activity yesterday — 2 new contacts (1 from the website form) · 1 text sent, 1 failed ·
-2 new opt-outs, 2 revoked." The reminders digest is now reporting live CRM activity,
-including an SMS failure.
+## email-19fd8cd1 Erik J (RMCP) on his facilitator bio
+erikj@rmcrisispartners.org: "This message has been received and noted. I am on it! I have
+a draft I am in the final stages of. See you tonight."
+
+---
+
+## ops emails
+- WordPress auto-updated dudetalkdinners.org to 7.0.3.
+- CRM digest Aug 6: "Activity yesterday — 1 invite sent."
+- PayPal merchant welcome; HubSpot warns John's unused password will be removed in 7 days.
 
 ---
 
 ## noise (not filed)
-PayPal marketing; Porkbun email verification; Floyd Jones newsletter signup; cold
-warehouse-equipment spam.
+Givebutter webinar replay; Mighty Networks checklist nudge; Awakened School and Google
+Ads marketing.

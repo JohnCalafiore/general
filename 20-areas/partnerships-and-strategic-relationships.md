@@ -15,6 +15,14 @@ responsibility but not to a specific dated project get logged here.
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[partnerships-and-strategic-relationships#...]] and harvested by the brief. -->
 
+## 2026-08-06 Man Therapy reconnect set for Friday Aug 14
+- **Trip Starkey, VP of Partnerships at Man Therapy®** (mantherapy.org): "I'm available
+  all day on 8/14. What works best for y'all?" — awaiting a specific time from Andrew
+  or John.
+- action #open (Andrew/John): pick a time on Aug 14 and send the invite
+- category: Partnerships and Strategic Relationships
+- source: "Man Therapy® / Dude Talk Dinners" thread 2026-08-06
+
 ## 2026-08-05 Man Therapy reconnect proposed for Aug 13 or 14
 - Andrew replied to Trip: "What is your availability for next Thursday 8/13 or Friday
   8/14? John and I are excited to reconnect." Awaiting Trip's pick.

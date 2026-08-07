@@ -1,6 +1,6 @@
 ---
 area: Support for Existing Communities
-updated: 2026-08-06
+updated: 2026-08-07
 tags: [area]
 ---
 
@@ -14,6 +14,34 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[support-for-existing-communities#...]] and harvested by the brief. -->
+
+## 2026-08-06 Buena Vista dinner visit: Andrew, John, and Ken made the trip
+- The BV road trip happened (3–11pm). Erik Jacobsen coordinated logistics by email:
+  arriving at **the studio ~6:00pm** to stage supplies outside and **record content**,
+  with the group able to enter the space around 6:30pm; his cell is 617-980-4161. Mike
+  Mayer and Justin were also on the thread. John confirmed en route.
+- No recording or post-visit notes exist in the record — testimonials/content captured
+  on site aren't in the vault (see needs-clarification).
+- category: Support for Existing Communities
+- source: "My Cell #" thread + calendar 2026-08-06
+- links: [[funding-and-financial-development#2026-07-30 Buena Vista funding gap — the test case for community funding]]
+
+## 2026-08-06 Startup materials taking shape: facilitator guide, welcome video, site refresh
+- What DTD Central is building, per this week's Weld thread: a **welcome video** and a
+  **facilitator guide** (Andrew), a **facilitator recruitment guide Chris is currently
+  working on** (per Jamie), and a **website update "on track within the next 10 days."**
+  Jamie also shared existing assets that work as an interim kit: Bridging the Divide
+  summit slides (April '26) and the Clear Creek DTD flyer.
+- category: Support for Existing Communities
+- source: "DTD Update/Question" thread 2026-08-05/06
+
+## 2026-08-06 John collecting facilitator bios and photos for the community pages
+- John asked Erik Jacobsen, Mike Mayer, and Justin Hall for a photo and bio, pointing to
+  the Idaho Springs community page as the format reference. Erik replied he has a draft
+  in final stages. This is content-gathering for the community web pages due ~Aug 9.
+- action #open: bios/photos outstanding from Mike Mayer and Justin Hall
+- category: Support for Existing Communities
+- source: "Facilitator Bio and Pic" threads 2026-08-06
 
 ## 2026-08-05 Weld County asked for DTD materials; welcome video in the works
 - Cody Speece (cspeece@weld.gov) reached out with questions and Jamie Fanselow sent him

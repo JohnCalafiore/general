@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-08-05
+updated: 2026-08-07
 tags: [area]
 ---
 
@@ -14,6 +14,15 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-08-06 Gilpin BoCC invites a 2027 county funding application
+- Jamie Fanselow: the **Gilpin Board of County Commissioners** "have taken quite a bit of
+  interest in DTDs" and **encouraged her to apply to their Gilpin County Community
+  Funding for 2027** — county-level backing beyond the HHS/Public Health money she
+  already secured.
+- action #open (Jamie): apply for Gilpin County Community Funding 2027
+- category: Funding and Financial Development
+- source: Jamie Fanselow's email in the Weld thread 2026-08-05 (received 08-06)
 
 ## 2026-08-04 Dawson Wolf drafting a fundraising script
 - **Dawson Wolf** shared a Google Doc, "Fundraising script rough draft," with John for

@@ -1,4 +1,3 @@
-# Slack — harvested 2026-08-07 (window: after 2026-08-05)
+# Slack — harvested 2026-08-08 (window: after 2026-08-06)
 
-No new messages in window. (Note: Cody Speece's DTD Slack invite link expired — he asked
-for a new one.)
+No new messages in window.

@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-08-07
+updated: 2026-08-08
 tags: [area]
 ---
 
@@ -14,6 +14,24 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-08-07 "Spark Grant" identified: Walmart SPARK Grant, session Wed Aug 12
+- Andrew scheduled a **Walmart SPARK Grant** working session (Wed Aug 12, 12–1pm MDT,
+  John invited) — this names the unidentified "Spark Grant application" block from Aug 3.
+  It matches the Leadership Circle strategy of applying to large retailers
+  (Walmart/Target) for community grants to fund local dinners.
+- category: Funding and Financial Development
+- source: calendar invitation 2026-08-07
+- links: [[funding-and-financial-development#2026-07-30 Buena Vista funding gap — the test case for community funding]]
+
+## 2026-08-07 Donation receipts and thank-you emails get a working session
+- "DTD Thank You email and donation receipts" scheduled Wed Aug 12 (originally
+  11am–12:30, revised to **11am–12pm**) — building the acknowledgment layer now that
+  PayPal and Givebutter are live and all donations are tax-deductible (receipts are a
+  501(c)(3) requirement for donors).
+- category: Funding and Financial Development
+- source: calendar invitation + update 2026-08-07
+- links: [[funding-and-financial-development#2026-08-03 PayPal account live and verified for DTD]]
 
 ## 2026-08-06 Gilpin BoCC invites a 2027 county funding application
 - Jamie Fanselow: the **Gilpin Board of County Commissioners** "have taken quite a bit of

@@ -1,3 +1,3 @@
-# Meetings (Fathom/Granola) — harvested 2026-08-07
+# Meetings (Fathom/Granola) — harvested 2026-08-08
 
-No recordings this week; the BV dinner was not captured (in-person event).
+No recordings this week.

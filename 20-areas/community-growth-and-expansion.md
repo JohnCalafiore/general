@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-08-07
+updated: 2026-08-08
 tags: [area]
 ---
 
@@ -14,6 +14,12 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-08-07 Health Partnership intro grows to three acceptances
+- Anthony Werre accepted the Mon Aug 10 noon intro, joining Emily Schweitzer and Ashley
+  Ellis — three of the four NCC Health Partnership colleagues now confirmed.
+- category: Community Growth and Expansion
+- source: calendar acceptances 2026-08-07
 
 ## 2026-08-06 Weld County: commissioners on board, first dinner forming at Windsor Library
 - **Cody Speece** (Weld County Dept of Public Health and Environment, Greeley) reports

@@ -1,6 +1,6 @@
 ---
 area: Support for Existing Communities
-updated: 2026-08-07
+updated: 2026-08-08
 tags: [area]
 ---
 
@@ -14,6 +14,14 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[support-for-existing-communities#...]] and harvested by the brief. -->
+
+## 2026-08-07 Welcome video filming booked: Mon Aug 10, 1–3pm
+- Andrew scheduled "DTD Video filming" with John and **Dawson Wolf** (two hours) — the
+  welcome video promised to Weld County and flagged as a missing startup asset is moving
+  into production. Content recorded at the BV dinner may feed it.
+- category: Support for Existing Communities
+- source: calendar invitation 2026-08-07
+- links: [[support-for-existing-communities#2026-08-06 Startup materials taking shape: facilitator guide, welcome video, site refresh]]
 
 ## 2026-08-06 Buena Vista dinner visit: Andrew, John, and Ken made the trip
 - The BV road trip happened (3–11pm). Erik Jacobsen coordinated logistics by email:

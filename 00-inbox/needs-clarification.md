@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-07
+updated: 2026-08-08
 tags: [inbox]
 ---
 
@@ -94,6 +94,17 @@ Format the agent uses:
   (Aug 3, 10:30–11am) — a grant that appears nowhere else in the record.
 - question: which funder/program is this, what's the deadline, and did the application
   go out? I'll file it to Funding alongside the Workday and RMCP grants.
+- RESOLVED 2026-08-07: it's the **Walmart SPARK Grant** — Andrew booked a session by that
+  full name for Wed Aug 12. Filed to Funding. Deadline/amount still unknown; add them if
+  you have them, otherwise this can be deleted.
+- answer: Walmart SPARK Grant
+
+## 2026-08-08 What is "Principled Business"?
+- context: Andrew booked "Budget for Principled Business" for Mon Aug 10, 10–11am with
+  you and Ken Farber — the name appears nowhere else in the record.
+- question: is this an outside organization, a program DTD is applying to, or a
+  framework you're using for the budget? Tells me whether to file it under Funding,
+  Partnerships, or Governance.
 - answer:
 
 ## 2026-08-04 Monday's six meetings produced no captured content

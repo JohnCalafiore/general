@@ -15,6 +15,12 @@ responsibility but not to a specific dated project get logged here.
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[partnerships-and-strategic-relationships#...]] and harvested by the brief. -->
 
+## 2026-08-07 Man Therapy meeting booked: Fri Aug 14, 9:30–10am MDT
+- "DTD : Man Therapy" invite sent to John and Trip Starkey (Google Meet) — the reconnect
+  is on the calendar.
+- category: Partnerships and Strategic Relationships
+- source: calendar invitation 2026-08-07
+
 ## 2026-08-06 Man Therapy reconnect set for Friday Aug 14
 - **Trip Starkey, VP of Partnerships at Man Therapy®** (mantherapy.org): "I'm available
   all day on 8/14. What works best for y'all?" — awaiting a specific time from Andrew

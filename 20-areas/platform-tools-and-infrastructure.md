@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-08-06
+updated: 2026-08-09
 tags: [area]
 ---
 
@@ -14,6 +14,26 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-08-09 Search Console flags 6 Events structured data issues on dudetalkdinners.org
+- Google Search Console: "Search Console has identified that your site is affected by 6
+  Events structured data issue(s)" for the dudetalkdinners.org property. Events markup is
+  what makes dinners eligible for rich results in Google — worth fixing before the
+  community/"find a dinner" pages get their refresh (site update was said to be "on track
+  within the next 10 days").
+- action #open (John): review the 6 Events structured-data errors and run validation
+- category: Platform, Tools, and Infrastructure
+- source: Google Search Console email 2026-08-09
+- links: [[support-for-existing-communities#2026-08-06 Startup materials taking shape: facilitator guide, welcome video, site refresh]]
+
+## 2026-08-08 New CRM sending address in use: crm@dudetalkdinners.org
+- A password-reset email arrived **from crm@dudetalkdinners.org** — the first appearance
+  of that address in the record. The CRM now has its own mailbox/sending identity
+  alongside the Brevo transactional setup, which is the kind of thing that matters for
+  deliverability and for the auth-invite flow Andrew got stuck on.
+- category: Platform, Tools, and Infrastructure
+- source: password-reset email 2026-08-08
+- links: [[platform-tools-and-infrastructure#2026-08-05 CRM live: first activity digest, plus an auth-invite bug]]
 
 ## 2026-08-05 CRM live: first activity digest, plus an auth-invite bug
 - The daily reminders digest reported real activity for the first time: "2 new contacts

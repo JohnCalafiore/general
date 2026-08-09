@@ -1,46 +1,65 @@
-# Gmail inbox — harvested 2026-08-08 (window: since 2026-08-07T07:13Z)
+# Raw dump — Gmail inbox
 
-## email-19fde432 "Walmart SPARK Grant" — Wed Aug 12, 12–1pm MDT
-Andrew scheduled a working session titled **Walmart SPARK Grant** (Google Meet, John
-invited). This names the previously unidentified "Spark Grant" from Aug 3: it is
-**Walmart's SPARK grant program** — consistent with the Leadership Circle idea of
-targeting large retailers (Walmart/Target) with community grant applications for
-community dinner funding.
+Harvest window: 2026-08-08 → 2026-08-09 (America/Denver)
 
 ---
 
-## email-19fde417 / 19fde42d "DTD Thank You email and donation receipts" — Wed Aug 12
-Invitation then update: originally 11am–12:30pm, revised to **11am–12pm MDT**. Working
-session on donor thank-you emails and donation receipts — the acknowledgment side of the
-new PayPal/Givebutter donation rails.
+## gmail-searchconsole-20260809 New Events structured data issues detected for dudetalkdinners.org
+
+from: Google Search Console <sc-noreply@google.com>
+to: john.calafiore@dudetalkdinners.org
+date: 2026-08-09 00:20 MT
+
+Search Console has identified that your site is affected by 6 Events structured data
+issue(s). Property: dudetalkdinners.org. The report lists the affected pages and the
+validation flow for confirming fixes.
 
 ---
 
-## email-19fddfc1 "DTD Video filming" — Mon Aug 10, 1–3pm MDT
-Andrew invited John and **Dawson Wolf** to a two-hour video filming session — almost
-certainly the **welcome video** Andrew told Weld County was in progress. Dawson's
-involvement continues (5th DTD engagement).
+## gmail-crmreset-20260808 Password reset — crm@dudetalkdinners.org
+
+from: crm@dudetalkdinners.org
+to: john.calafiore@dudetalkdinners.org
+date: 2026-08-08 18:32 MT
+
+Automated password-reset message sent from the crm@dudetalkdinners.org address — the
+first appearance of that sending address in the record.
 
 ---
 
-## email-19fdd2df "Budget for Principled Business" — Mon Aug 10, 10–11am MDT
-Andrew invited John and **Ken Farber**. "Principled Business" appears to be an outside
-entity or program — not previously in the record (see needs-clarification).
+## gmail-justinbio-20260808 Re: Facilitator Bio and Pic
+
+from: Justin Hall <justin.hall@dudetalkdinners.org>
+to: john.calafiore@dudetalkdinners.org
+date: 2026-08-08 12:56 MT
+
+"Hey John! It was awesome seeing you the other night! I jinxed myself saying I wouldn't
+get a call - but really was enjoying the table we had going!
+
+I thought I had sent the picture over but maybe not the bio, but I can do both here
+shortly:
+
+Bio:
+
+"Justin Hall has been living and working in the Buena Vista area in the mental health
+field since 2023. He enjoys biking, photography, hiking, and music as well as enjoying a
+history book at the library when it gets too hot or rainy. He has passion and experience
+in group work and men's work and is involved with the Chamber of Commerce, BV Library,
+and Chaffee Mental Health Coalition."
+
+I'm on my work PC right now, but can get a picture to you from my other email address
+later today when I get back!
+
+Great seeing you! I'll have to return the favor and get up to your dinner soon!
+
+Justin"
+
+(Thread opened Aug 6 by John, who asked for a photo and bio and pointed to the Idaho
+Springs community page as the format reference:
+https://www.dudetalkdinners.org/communities/co/idaho-springs/)
 
 ---
 
-## email-19fde4fa "DTD : Man Therapy" — Fri Aug 14, 9:30–10am MDT
-Meeting with Trip Starkey now booked (Google Meet), closing the Man Therapy scheduling
-loop.
+## gmail-noise-20260808 Filtered as noise
 
----
-
-## Health Partnership intro: third acceptance
-Anthony Werre (awerre@ncchealthpartnership.org) accepted the Mon Aug 10 12pm intro,
-joining Emily Schweitzer and Ashley Ellis.
-
----
-
-## noise (not filed)
-PayPal and Brevo marketing; Resend welcome email (new email API account — John signed
-up); Microsoft Entra passkey/SMS retirement notice; Awakened School marketing.
+PayPal marketing (x2) and a jackroberts.ai newsletter — no decisions or commitments.

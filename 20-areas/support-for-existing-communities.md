@@ -1,6 +1,6 @@
 ---
 area: Support for Existing Communities
-updated: 2026-08-08
+updated: 2026-08-09
 tags: [area]
 ---
 
@@ -14,6 +14,31 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[support-for-existing-communities#...]] and harvested by the brief. -->
+
+## 2026-08-08 Justin Hall sends his facilitator bio; photo still to come
+- Justin Hall delivered his bio for the Buena Vista community page: *"Justin Hall has
+  been living and working in the Buena Vista area in the mental health field since 2023.
+  He enjoys biking, photography, hiking, and music as well as enjoying a history book at
+  the library when it gets too hot or rainy. He has passion and experience in group work
+  and men's work and is involved with the Chamber of Commerce, BV Library, and Chaffee
+  Mental Health Coalition."* He'll send a photo separately from his personal address.
+- He also confirms he was at the **Aug 6 BV dinner** and sat at a table John was at:
+  "It was awesome seeing you the other night! I jinxed myself saying I wouldn't get a
+  call - but really was enjoying the table we had going!" — the first first-hand account
+  of that evening in the record. He offered to come up to John's dinner in return.
+- action #open: Justin's photo still outstanding; Mike Mayer's bio and photo still
+  outstanding
+- category: Support for Existing Communities
+- source: "Re: Facilitator Bio and Pic" thread 2026-08-08
+- links: [[support-for-existing-communities#2026-08-06 John collecting facilitator bios and photos for the community pages]], [[relationships#Justin Hall]]
+
+## 2026-08-08 Video filming has a location: 3117 Fall River Rd, Idaho Springs
+- Monday's "DTD Video filming" block (Aug 10, 1–3pm, John + Andrew + Dawson Wolf) now
+  carries an address — 3117 Fall River Rd, Idaho Springs — so the welcome video is being
+  shot on location rather than over Meet.
+- category: Support for Existing Communities
+- source: calendar event update 2026-08-07 (harvested 08-09)
+- links: [[support-for-existing-communities#2026-08-07 Welcome video filming booked: Mon Aug 10, 1–3pm]]
 
 ## 2026-08-07 Welcome video filming booked: Mon Aug 10, 1–3pm
 - Andrew scheduled "DTD Video filming" with John and **Dawson Wolf** (two hours) — the

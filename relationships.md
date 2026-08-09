@@ -1,5 +1,5 @@
 ---
-updated: 2026-07-31
+updated: 2026-08-09
 tags: [grounding, people]
 ---
 
@@ -34,9 +34,15 @@ Format — one H2 per person:
 - source: 501(c)(3) thread 2026-07-19/21; "Dude Talk Leadership Call" thread 2026-07-18
 
 ## Justin Hall
-- org: Dude Talk Dinners board — drafted/shared the 7/17/26 board meeting minutes
-- email: justin.hall@dudetalkdinners.org
-- source: Drive share email 2026-07-21
+- org: Dude Talk Dinners board — drafted/shared the 7/17/26 board meeting minutes; also a
+  **Buena Vista facilitator** (attended the Aug 6 BV dinner)
+- bio (his own words, 2026-08-08): has lived and worked in the **Buena Vista area in the
+  mental health field since 2023**; experience and passion for group work and men's work;
+  involved with the **Chamber of Commerce, BV Library, and the Chaffee Mental Health
+  Coalition**; enjoys biking, photography, hiking, music, and history books.
+- email: justin.hall@dudetalkdinners.org (has a separate personal address he sends photos
+  from)
+- source: Drive share email 2026-07-21; "Re: Facilitator Bio and Pic" 2026-08-08
 
 ## Chris Gould
 - org: Dude Talk Dinners board — also **Facilitator, Clear Creek County DTD** (per his

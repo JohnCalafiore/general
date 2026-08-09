@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-08-08
+updated: 2026-08-09
 tags: [area]
 ---
 
@@ -14,6 +14,16 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-08-08 Dawson Wolf added to the Health Partnership intro
+- **Dawson Wolf** was added to Monday's noon intro with The Health Partnership (invite
+  updated Aug 8, response pending). With Monday's video shoot he is now on two of the
+  day's three DTD sessions — fourth and fifth meetings in two weeks — and he is being
+  brought into external, first-impression conversations, not just internal ones. His role
+  is still unstated anywhere in the record (see needs-clarification).
+- category: Community Growth and Expansion
+- source: calendar invite update 2026-08-08
+- links: [[relationships#Dawson Wolf]], [[community-growth-and-expansion#2026-08-04 Four lead calls scheduled in one evening; Health Partnership intro set]]
 
 ## 2026-08-07 Health Partnership intro grows to three acceptances
 - Anthony Werre accepted the Mon Aug 10 noon intro, joining Emily Schweitzer and Ashley

@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-08
+updated: 2026-08-09
 tags: [inbox]
 ---
 
@@ -80,6 +80,9 @@ Format the agent uses:
   evening is in email, Slack, or Granola.
 - question: anything worth filing — attendance, what the sponsorship/funding conversation
   landed on, whether testimonials were captured? A few lines and I'll file it to Support.
+- update 2026-08-09: first color from the room — Justin Hall was there and enjoyed "the
+  table we had going" (Aug 8 email). Still nothing on attendance numbers, the
+  sponsorship/funding conversation, or whether Erik captured testimonials.
 - answer:
 
 ## 2026-08-05 Next board meeting date — "7/21" appears to be a typo
@@ -143,6 +146,9 @@ Format the agent uses:
 - update 2026-08-05: full name now known — **Dawson Wolf** — and he's drafting a
   fundraising script for DTD (shared with you Aug 4). Still need his role; also whether
   he's related to Andrew Wolff (spelling differs).
+- update 2026-08-09: he's now on **Monday's Health Partnership intro** (added Aug 8) as
+  well as the video shoot — he's in external, first-impression meetings now, so the
+  answer matters more than it did. One line on his role and I'll close this.
 - answer:
 
 ## 2026-07-28 Did the Jul 27 meeting with Bev Marquez happen, and what came of it?

@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-09
+updated: 2026-08-10
 tags: [grounding, people]
 ---
 
@@ -47,9 +47,11 @@ Format — one H2 per person:
 ## Chris Gould
 - org: Dude Talk Dinners board — also **Facilitator, Clear Creek County DTD** (per his
   signature); owns the Mission & Vision drafting work; was in England in July (missed
-  the 7/17 board meeting)
+  the 7/17 board meeting); actively facilitating dinners — sent John the Aug 10 topic
+  ("relationships... repair/strengthen/build") for the reminder
 - email: chris.gould@dudetalkdinners.org
-- source: 501(c)(3) board thread 2026-07-20; "Mission and Vision" email 2026-07-28
+- source: 501(c)(3) board thread 2026-07-20; "Mission and Vision" email 2026-07-28;
+  "Topic for tomorrow" 2026-08-09
 
 ## Dawson Wolf
 - email: dawsonjwolf03@gmail.com (full name from a Drive share, 2026-08-04)

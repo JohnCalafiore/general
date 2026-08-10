@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-09
+updated: 2026-08-10
 tags: [inbox]
 ---
 
@@ -18,6 +18,16 @@ Format the agent uses:
 ```
 
 <!-- entries begin below -->
+
+## 2026-08-10 Which dinner is Chris Gould facilitating Monday?
+- quote: "the topic that I am planning to facilitate tomorrow for inclusion in the
+  reminder... a discussion around relationships" — Chris Gould, 2026-08-09
+- context: his signature makes him the Clear Creek County facilitator, but the email
+  names no community and there's no Aug 10 dinner on your calendar.
+- question: which community's dinner is this, so the entry (and the reminder list) is
+  attached to the right one? Also: are facilitator topics captured anywhere durable, or
+  only in the reminder send? If they're worth keeping, I can start a topics log.
+- answer:
 
 ## 2026-07-22 Who is Greg (startup guide recipient)?
 - quote: "Reminder: send startup guide to Greg" — Slack DM to Andrew, 2026-07-21

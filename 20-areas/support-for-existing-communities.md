@@ -1,6 +1,6 @@
 ---
 area: Support for Existing Communities
-updated: 2026-08-09
+updated: 2026-08-10
 tags: [area]
 ---
 
@@ -14,6 +14,19 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[support-for-existing-communities#...]] and harvested by the brief. -->
+
+## 2026-08-09 Chris Gould sends Monday's dinner topic for the reminder: relationships
+- Chris Gould (Facilitator, Clear Creek County DTD) emailed the topic he's facilitating
+  **tomorrow, Mon Aug 10**, "for inclusion in the reminder": *"a discussion around
+  relationships, looking at those that have been important in our past and those that we
+  would like to repair/strengthen/build in the future."* He noted he's "playing some
+  catch-up with DTD emails."
+- Operationally this confirms the pattern that **facilitators send John the topic and it
+  goes out in the dinner reminder** — a recurring dependency on the CRM reminder send.
+- action #open (John, time-sensitive): put the relationships topic in Monday's reminder
+- category: Support for Existing Communities
+- source: "Topic for tomorrow" email from Chris Gould 2026-08-09
+- links: [[relationships#Chris Gould]], [[platform-tools-and-infrastructure#2026-08-05 CRM live: first activity digest, plus an auth-invite bug]]
 
 ## 2026-08-08 Justin Hall sends his facilitator bio; photo still to come
 - Justin Hall delivered his bio for the Buena Vista community page: *"Justin Hall has

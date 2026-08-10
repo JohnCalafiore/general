@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-08-09
+updated: 2026-08-10
 tags: [area]
 ---
 
@@ -14,6 +14,27 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-08-09 TechSoup validation came through — DTD is qualified for nonprofit offers
+- TechSoup: "Your organization has been validated to receive offers through TechSoup.
+  Requests that have already been placed will be processed within three business days."
+  This closes the validation John submitted Jul 29 and unlocks discounted/donated
+  software (the same channel as Google for Nonprofits) for the tooling build-out.
+- Note the recipient: the notice went to **admin@dudetalkdinners.org**, so TechSoup's
+  account lives on the admin alias rather than John's mailbox.
+- category: Platform, Tools, and Infrastructure
+- source: TechSoup "Your Organization Has Been Qualified" email 2026-08-09
+
+## 2026-08-09 Second Search Console problem: pages dropped as duplicates
+- A second Search Console alert, one day after the structured-data one: pages on
+  dudetalkdinners.org "are not being indexed due to the following new reason: **Duplicate,
+  Google chose different [canonical]**." Two indexing problems in two days on a site
+  that's mid-refresh — the community pages are the likely surface, since they share a
+  template.
+- action #open (John): check canonical tags/duplicate URLs alongside the Events markup fix
+- category: Platform, Tools, and Infrastructure
+- source: Google Search Console email 2026-08-09
+- links: [[platform-tools-and-infrastructure#2026-08-09 Search Console flags 6 Events structured data issues on dudetalkdinners.org]]
 
 ## 2026-08-09 Search Console flags 6 Events structured data issues on dudetalkdinners.org
 - Google Search Console: "Search Console has identified that your site is affected by 6

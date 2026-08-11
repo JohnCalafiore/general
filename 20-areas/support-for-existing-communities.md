@@ -1,6 +1,6 @@
 ---
 area: Support for Existing Communities
-updated: 2026-08-10
+updated: 2026-08-11
 tags: [area]
 ---
 
@@ -14,6 +14,35 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[support-for-existing-communities#...]] and harvested by the brief. -->
+
+## 2026-08-10 Idaho Springs dinner held: Club Hotel, 6pm, topic relationships
+- The reminder went out to the **~49-person Idaho Springs list** from
+  **idahospringsco@dudetalkdinners.org**: "the next Dude Talk Dinner TODAY (Monday, the
+  10th) at 6pm at the **Club Hotel in Idaho Springs**. We will have a discussion around
+  relationships." Chris Gould facilitated — so his "topic for tomorrow" was Idaho Springs,
+  which closes that open question.
+- John to Chris: "I'm just about to send out the reminders now, **had a couple of issues
+  along the way**" — the send was not clean (see Platform for the bounces).
+- category: Support for Existing Communities
+- source: "Next Dude Talk Dinner: TODAY at 6pm!" send + "Re: Topic for tomorrow" 2026-08-10
+- links: [[support-for-existing-communities#2026-08-09 Chris Gould sends Monday's dinner topic for the reminder: relationships]], [[platform-tools-and-infrastructure#2026-08-10 Reminder send had problems: four bounces and "a couple of issues along the way"]]
+
+## 2026-08-10 Erik Jacobsen's facilitator bio arrives — and reveals an RMCP career link
+- Erik sent his bio for the Buena Vista chapter page, framing the stakes: "getting this
+  chapter website launched would be a huge win!" A photo is already in hand ("the one
+  without the sunglasses").
+- Content worth keeping: originally from **Boston**, moved to Buena Vista with his fiancée
+  **Terah** (marrying in BV, summer 2027); **"For much of my career, I've worked in the
+  nonprofit mental health and suicide prevention field, including my work with Rocky
+  Mountain Crisis Partners"**; co-owner of **TerraForm Sauna in Buena Vista**, which he
+  cites as evidence that "strong communities are built through intentional spaces for
+  simple, human connection."
+- The RMCP line matters beyond the bio: DTD's BV facilitator is a former colleague of the
+  partner organization negotiating a $150K subcontract with DTD.
+- action #open: bios/photos still outstanding from **Mike Mayer**; Justin Hall's photo
+- category: Support for Existing Communities
+- source: "DtD Website Bio" email from Erik Jacobsen 2026-08-10
+- links: [[relationships#Erik Jacobsen (Buena Vista)]], [[partnerships-and-strategic-relationships#2026-07-20 Grant platform meeting with Patricia Markwell (RMCP)]]
 
 ## 2026-08-09 Chris Gould sends Monday's dinner topic for the reminder: relationships
 - Chris Gould (Facilitator, Clear Creek County DTD) emailed the topic he's facilitating

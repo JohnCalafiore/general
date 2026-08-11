@@ -1,6 +1,6 @@
 ---
 area: Partnerships and Strategic Relationships
-updated: 2026-07-25
+updated: 2026-08-11
 tags: [area]
 ---
 
@@ -14,6 +14,27 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[partnerships-and-strategic-relationships#...]] and harvested by the brief. -->
+
+## 2026-08-10 Frankie Spontelli offers content help — a 47k-follower creator from the BV table
+- Erik Jacobsen introduced **Frankie Spontelli** (Frankie@destinationiq.com) to Andrew and
+  John: "you all shared a table at last week's dinner!" Frankie is a Buena Vista **content
+  creator** who has done marketing work for TerraForm Sauna and runs the
+  **@nowthisiscolorado Instagram page (47k followers)**. He "generously offered to support
+  us with some of our immediate marketing needs," with Erik floating him as a possible
+  long-term hire later.
+- This is the first concrete thing to come out of the Aug 6 BV dinner, and it lands right
+  as the welcome video and site refresh need content.
+- action #open (Andrew/John): reply to Frankie and scope what he takes on
+- category: Partnerships and Strategic Relationships
+- source: "Master Content Creator Frankie Spontelli" email from Erik Jacobsen 2026-08-10
+- links: [[relationships#Frankie Spontelli]], [[support-for-existing-communities#2026-08-06 Startup materials taking shape: facilitator guide, welcome video, site refresh]]
+
+## 2026-08-10 Andrew forwards a DPP roundtable on AI and nonprofit work
+- Andrew forwarded, without comment, an invitation from Louis Diez to a **DPP Roundtable:
+  AI and the Future of Nonprofit Work**. Logging it as a signal of where Andrew is
+  looking; no registration or commitment in the record.
+- category: Partnerships and Strategic Relationships
+- source: "Fwd: You are invited to DPP Roundtable" 2026-08-10
 
 ## 2026-08-07 Man Therapy meeting booked: Fri Aug 14, 9:30–10am MDT
 - "DTD : Man Therapy" invite sent to John and Trip Starkey (Google Meet) — the reconnect

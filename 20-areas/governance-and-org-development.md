@@ -1,6 +1,6 @@
 ---
 area: Governance and Organizational Development
-updated: 2026-08-05
+updated: 2026-08-11
 tags: [area]
 ---
 
@@ -14,6 +14,32 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[governance-and-org-development#...]] and harvested by the brief. -->
+
+## 2026-08-10 Board meeting will set "tranches" — the benchmarks that trigger Andrew's and Ken's employment
+- The most consequential governance item from Monday's budget session: the refined budget
+  is needed for the **upcoming board meeting (described as ~1.5 weeks out; the Fathom
+  action item names Aug 22)** in order to define the **financial benchmarks — "tranches" —
+  that trigger Andrew's and Ken's formal employment**. DTD's two leaders moving onto
+  payroll is being gated on hitting funding milestones, and the board sets the gate.
+- The budget discussion goes on the board agenda so members arrive prepared for the new
+  financial model.
+- The exact board date is still unsettled in the record (Justin's agenda email says
+  "7/21," which is in the past; Fathom says Aug 22) — see needs-clarification.
+- category: Governance and Organizational Development
+- source: Fathom recap, "Budget for Principled Business" 2026-08-10
+- links: [[funding-and-financial-development#2026-08-10 DECISION: budget restructured — cash expense lines, and Andrew re-cast as 70–90% fundraising]]
+
+## 2026-08-10 Board agenda confirmed by Gould and Peterson; Gould flags a long absence
+- Both remaining board replies came in on Justin's agenda (finalize the budget, finalize
+  vision and mission, fundraising updates): **Chris Peterson** — "Thanks for putting this
+  together so early Justin! Agenda works for me" — and **Chris Gould**, who added an
+  apology worth noting for context: *"I'll take this opportunity to apologize to all for
+  being MIA for so long. Multiple family issues have kept me busy, but I will start
+  working my way through the backlog."* Gould owns the Mission & Vision drafting that is
+  on this agenda.
+- category: Governance and Organizational Development
+- source: "Re: Next DTD board agenda" thread 2026-08-10
+- links: [[governance-and-org-development#2026-08-04 Mission & Vision debate: "walks" challenged; two new candidates]]
 
 ## 2026-08-04 Mission & Vision debate: "walks" challenged; two new candidates
 - **Justin Hall** questioned Chris Gould's "walks alone": "sits" or "eats" may be more

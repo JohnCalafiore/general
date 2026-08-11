@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-08-08
+updated: 2026-08-11
 tags: [area]
 ---
 
@@ -14,6 +14,49 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-08-10 DECISION: a "Community Support Fund" replaces the assumption that in-kind donations last
+- At the 92-minute "Budget for Principled Business" session (Andrew, Ken, John), the
+  central call was that **the current budget model is unrealistic** — local in-kind food
+  and space donations reliably fall off after a few months. Evidence cited in the room:
+  **Idaho Springs now pays $400/month for food.**
+- Decided: create a **Community Support Fund** that covers those cash costs as communities
+  mature, scaling with the number of communities — **$100k (Y1) → $250k (Y2) → $500k
+  (Y3)**. The stated goal is that **no community launches without a clear, sustainable
+  funding plan**, and the fund doubles as a credibility signal to donors.
+- This is the structural answer to the Buena Vista funding crunch: instead of solving one
+  community's $700 gap ad hoc, DTD budgets for the pattern.
+- category: Funding and Financial Development
+- source: Fathom recap, "Budget for Principled Business" 2026-08-10 (fathom.video/calls/777309313)
+- links: [[funding-and-financial-development#2026-07-30 Buena Vista funding gap — the test case for community funding]]
+
+## 2026-08-10 DECISION: budget restructured — cash expense lines, and Andrew re-cast as 70–90% fundraising
+- Specific changes agreed for the budget presented to Principal Business:
+  - Revenue line renamed from "Food and Location Donations" to the standard **"Food and
+    Event Space In-Kind Donations."**
+  - New expense lines for real cash costs: **"DudeCentral Dinner Expense"** and
+    **"DudeCentral Event Space Expense."**
+  - **Andrew's personnel allocation reallocated to 70–90% fundraising**, 10–30% program
+    services/admin — the budget now states on its face that fundraising is the top
+    priority, which was described as a stronger narrative for donors.
+  - In-kind projections revised down to match the new cash model.
+- Presentation strategy: show a high-level budget, but be able to speak to any line
+  without opening the document.
+- action #open (John): create a sandbox copy of the budget; make all of the above edits;
+  add the Community Support Fund, tranches, and Y1–3 assumptions; send to Andrew and Ken
+- action #open (John): email the Principal Business budget PDF to Andrew, who then preps
+  Q&A with Chris Peterson
+- action #done (John): send Ken the invite for the Tue Aug 11 12:30 working session
+- category: Funding and Financial Development
+- source: Fathom recap, "Budget for Principled Business" 2026-08-10
+
+## 2026-08-10 Budget Review booked Tue Aug 11, 12:30–2pm — the finalizing session
+- John created the follow-up working session immediately after Monday's meeting; **Ken
+  Farber accepted, Andrew is not on the invite**. This is the "finalize the budget before
+  the board meeting" step from the recap.
+- category: Funding and Financial Development
+- source: calendar event created 2026-08-10; Ken's acceptance 2026-08-10
+- links: [[funding-and-financial-development#2026-08-10 DECISION: budget restructured — cash expense lines, and Andrew re-cast as 70–90% fundraising]]
 
 ## 2026-08-07 "Spark Grant" identified: Walmart SPARK Grant, session Wed Aug 12
 - Andrew scheduled a **Walmart SPARK Grant** working session (Wed Aug 12, 12–1pm MDT,

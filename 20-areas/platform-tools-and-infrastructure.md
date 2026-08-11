@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-08-10
+updated: 2026-08-11
 tags: [area]
 ---
 
@@ -14,6 +14,29 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-08-10 Reminder send had problems: four bounces and "a couple of issues along the way"
+- Monday's Idaho Springs reminder went out from **idahospringsco@dudetalkdinners.org** —
+  DTD is sending per-community from dedicated addresses — and produced **four hard
+  bounces**: kjboyl@gmail.com, indrehas64@gmail.com, ktbuy2@gmail.com, and
+  dcakrendude@yahoo.com (550 5.1.1 / 552, "address not found"). The last is a near-twin of
+  dcakrondude@yahoo.com, which is also on the list and delivered — a data-entry typo
+  sitting in the list alongside the good address.
+- John told Chris Gould he "had a couple of issues along the way" sending the reminders,
+  and the send landed at 1:45pm for a 6pm dinner.
+- action #open (John): clean the four dead addresses from the Idaho Springs list and
+  de-dupe the dcakr*ndude pair; worth checking whether bounce handling is automated
+- category: Platform, Tools, and Infrastructure
+- source: mailer-daemon failures + "Re: Topic for tomorrow" 2026-08-10
+
+## 2026-08-10 DMARC digest: 192 emails, 98% aligned — and ActiveCampaign is in the stack
+- The Postmark DMARC weekly digest for dudetalkdinners.org (Aug 2–9): **192 emails
+  processed, 98% SPF or DKIM aligned, 2% not aligned**. The named sending sources are
+  **ActiveCampaign** and **Postmark** — two more pieces of the CRM/email stack alongside
+  Brevo and Supabase, and evidence DMARC monitoring is already running.
+- category: Platform, Tools, and Infrastructure
+- source: Postmark DMARC weekly digest 2026-08-10
+- links: [[platform-tools-and-infrastructure#2026-08-03 CRM stack partially confirmed: Brevo + Supabase]]
 
 ## 2026-08-09 TechSoup validation came through — DTD is qualified for nonprofit offers
 - TechSoup: "Your organization has been validated to receive offers through TechSoup.

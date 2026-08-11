@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-10
+updated: 2026-08-11
 tags: [inbox]
 ---
 
@@ -19,14 +19,19 @@ Format the agent uses:
 
 <!-- entries begin below -->
 
-## 2026-08-10 Which dinner is Chris Gould facilitating Monday?
-- quote: "the topic that I am planning to facilitate tomorrow for inclusion in the
-  reminder... a discussion around relationships" — Chris Gould, 2026-08-09
-- context: his signature makes him the Clear Creek County facilitator, but the email
-  names no community and there's no Aug 10 dinner on your calendar.
-- question: which community's dinner is this, so the entry (and the reminder list) is
-  attached to the right one? Also: are facilitator topics captured anywhere durable, or
-  only in the reminder send? If they're worth keeping, I can start a topics log.
+## 2026-08-11 Board meeting date, again — Fathom says Aug 22, Justin's email says 7/21
+- context: the Aug 10 budget recap carries the action "Add budget discussion to board
+  agenda for **Aug 22**" and describes the meeting as ~1.5 weeks out; Justin's agenda
+  email still says "7/21 at 10am." Aug 22 is a Saturday, so one of the two is off.
+- question: is the board meeting Fri Aug 21 or Sat Aug 22? It now anchors real deadlines
+  (the budget and the employment tranches), so I'd rather have it right than guess.
+- answer:
+
+## 2026-08-11 RESOLVED — Chris Gould facilitated the Idaho Springs dinner
+- the Aug 10 reminder from idahospringsco@dudetalkdinners.org confirms it: Club Hotel,
+  Idaho Springs, 6pm, relationships topic. Filed to Support; no action needed.
+- open sub-question: are facilitator topics worth keeping anywhere durable, or is the
+  reminder send enough? Say the word and I'll start a topics log per community.
 - answer:
 
 ## 2026-07-22 Who is Greg (startup guide recipient)?
@@ -118,6 +123,11 @@ Format the agent uses:
 - question: is this an outside organization, a program DTD is applying to, or a
   framework you're using for the budget? Tells me whether to file it under Funding,
   Partnerships, or Governance.
+- update 2026-08-11: the Fathom recap makes it an **external party DTD presents a budget
+  to** — "present a high-level budget to Principal Business that is clear and
+  defensible," with Andrew prepping Q&A with CP. Fathom spells it "Principal Business,"
+  the calendar "Principled Business." So: funder, fiscal sponsor, or something else? And
+  which spelling is right?
 - answer:
 
 ## 2026-08-04 Monday's six meetings produced no captured content
@@ -126,6 +136,10 @@ Format the agent uses:
   arrived — so decisions from budget and Mission/Vision discussions aren't in the vault.
 - question: were these intentionally not recorded? If you want them captured, recording
   them (or forwarding a recap) is what puts them in the second brain.
+- update 2026-08-11: same pattern Aug 10 — Fathom captured the budget session in full
+  (excellent, and it's the richest entry in the vault this week), but Granola recorded
+  nothing, so the **Health Partnership intro** and the **video shoot** left no trace.
+  It looks like Fathom is doing the work and Granola isn't running.
 - answer:
 
 ## 2026-07-30 What is the "new BHB/DTD location"?
@@ -173,6 +187,10 @@ Format the agent uses:
   CRM" question, and a Jul 20 meeting titled "Zoho CRM setup and grant strategy."
 - question: is the CRM Zoho + Brevo, something custom (/app/follow-ups suggests a custom
   dashboard), or a mix? One line for the record and I'll log it in Platform.
+- update 2026-08-11: the Aug 10 DMARC digest names **ActiveCampaign and Postmark** as
+  sending sources, on top of Brevo + Supabase. That's four email/CRM systems on one
+  domain. Which are live and which are leftovers? Worth knowing before deliverability
+  problems compound.
 - answer:
 
 ## 2026-07-22 Ops: meeting sources (Fathom/Granola) were not readable this run

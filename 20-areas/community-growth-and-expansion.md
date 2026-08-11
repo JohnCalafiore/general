@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-08-09
+updated: 2026-08-11
 tags: [area]
 ---
 
@@ -14,6 +14,21 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-08-10 Health Partnership intro: all four NCC attendees accepted and the meeting ran
+- L. Winslow accepted on the morning of the meeting, making it **four of four** from The
+  Health Partnership (with Ashley Ellis, Anthony Werre, Emily Schweitzer) plus John and
+  Andrew. The noon session went ahead; **no Granola recording and no Fathom recap exist**,
+  so what northwest Colorado asked for and what DTD committed to isn't captured.
+- category: Community Growth and Expansion
+- source: calendar acceptances 2026-08-10; absence of meeting capture
+- links: [[community-growth-and-expansion#2026-08-07 Health Partnership intro grows to three acceptances]]
+
+## 2026-08-10 Art Ginley accepted his intro call — Wed Aug 12, 10am
+- The intro from the Aug 4 batch of lead calls is confirmed on both sides.
+- category: Community Growth and Expansion
+- source: calendar acceptance 2026-08-10
+- links: [[relationships#Art Ginley]]
 
 ## 2026-08-08 Dawson Wolf added to the Health Partnership intro
 - **Dawson Wolf** was added to Monday's noon intro with The Health Partnership (invite

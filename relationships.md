@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-10
+updated: 2026-08-11
 tags: [grounding, people]
 ---
 
@@ -147,11 +147,25 @@ Format — one H2 per person:
 - source: Elisa Selby email 2026-07-27
 
 ## Erik Jacobsen (Buena Vista)
-- email: erikjacobsen01@gmail.com
+- email: erikjacobsen01@gmail.com; cell 617-980-4161
 - relationship: Buena Vista (Chaffee County) DTD facilitator — solo-ran a 12-attendee
   dinner; driving the BV fundraising conversation. NOT the same person as RMCP's erikj@
   (distinct Eriks).
-- source: Fathom recap + "We Believe in DTD" thread 2026-07-30
+- background (his own bio, 2026-08-10): originally from **Boston**; moved to Buena Vista
+  with his fiancée **Terah** (marrying in BV, summer 2027). Career in **nonprofit mental
+  health and suicide prevention, including work with Rocky Mountain Crisis Partners** —
+  a direct personal link to DTD's RMCP partner. Also **co-owner of TerraForm Sauna**
+  in Buena Vista. Outdoors: hiking, trail running, mountain biking, skiing.
+- source: Fathom recap + "We Believe in DTD" thread 2026-07-30; "DtD Website Bio" 2026-08-10
+
+## Frankie Spontelli
+- email: Frankie@destinationiq.com
+- relationship: Buena Vista **content creator**, regular DTD dinner attendee (shared a
+  table with Andrew and John at the Aug 6 BV dinner); runs the **@nowthisiscolorado**
+  Instagram page (47k followers) and has done marketing work for TerraForm Sauna.
+  Volunteered to help with DTD's immediate marketing needs; Erik floats him as a possible
+  future hire.
+- source: Erik Jacobsen's intro email 2026-08-10
 
 ## Mike Mayer
 - org: TerraForm Projects

@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-08-11
+updated: 2026-08-12
 tags: [area]
 ---
 
@@ -14,6 +14,15 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-08-12 Art Ginley intro moved to Mon Aug 17, 1–1:30pm
+- John hit a last-minute conflict with Wednesday's 10am slot ("I'm so sorry, but I had
+  something pop up last minute tomorrow at our scheduled time") and offered alternatives;
+  Art accepted **Mon Aug 17, 1:00–1:30pm MDT**. This lead has now been in the queue since
+  Jul 30.
+- category: Community Growth and Expansion
+- source: "Re: Dude Talk Dinners Reaching Out" 2026-08-11 + calendar acceptance 2026-08-12
+- links: [[relationships#Art Ginley]]
 
 ## 2026-08-10 Health Partnership intro: all four NCC attendees accepted and the meeting ran
 - L. Winslow accepted on the morning of the meeting, making it **four of four** from The

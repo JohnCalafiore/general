@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-08-11
+updated: 2026-08-12
 tags: [area]
 ---
 
@@ -14,6 +14,29 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-08-12 CRM testing resumes: Brevo connector plus a dinner-announcement template
+- Two test sends went out from **support@dudetalkdinners.org** — a third DTD sending
+  address alongside idahospringsco@ and crm@:
+  - "This is a test message from the DTD CRM **Brevo connector**."
+  - A **dinner-announcement template** with structured **WHEN** and **WHERE** fields
+    ("Tuesday, 8/12 at 12pm" / "Test place, Idaho Springs, CO 80452") and the footer
+    "You're receiving this because you connected with us at a dinner or through our
+    [site]." This is the reminder that went out manually on Aug 10 being turned into a
+    templated send.
+- category: Platform, Tools, and Infrastructure
+- source: test sends from support@dudetalkdinners.org 2026-08-12
+- links: [[platform-tools-and-infrastructure#2026-08-10 Reminder send had problems: four bounces and "a couple of issues along the way"]]
+
+## 2026-08-11 Email signature template being trialled; TechSoup adds a second representative
+- Ken sent John a "Signature test" using the placeholder DTD signature (Full Name / Title /
+  Dude Talk Dinners / dudetalkdinners.org / name@dudetalkdinners.org) — the org is
+  standardizing signatures, matching the branded blocks Andrew and John already use.
+- TechSoup notified admin@dudetalkdinners.org that "**a new representative has been invited
+  to act on behalf of your organization**," following Sunday's qualification.
+- category: Platform, Tools, and Infrastructure
+- source: "Signature test" 2026-08-11; TechSoup notification 2026-08-11
+- links: [[platform-tools-and-infrastructure#2026-08-09 TechSoup validation came through — DTD is qualified for nonprofit offers]]
 
 ## 2026-08-10 Reminder send had problems: four bounces and "a couple of issues along the way"
 - Monday's Idaho Springs reminder went out from **idahospringsco@dudetalkdinners.org** —

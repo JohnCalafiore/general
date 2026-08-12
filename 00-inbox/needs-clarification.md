@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-11
+updated: 2026-08-12
 tags: [inbox]
 ---
 
@@ -173,7 +173,11 @@ Format the agent uses:
 - update 2026-08-09: he's now on **Monday's Health Partnership intro** (added Aug 8) as
   well as the video shoot — he's in external, first-impression meetings now, so the
   answer matters more than it did. One line on his role and I'll close this.
-- answer:
+- RESOLVED 2026-08-12: your own words to Frankie — "our **'unofficial intern', Dawson**...
+  he has been helping us with some video content for the website and Community pages."
+  Filed to relationships. Open only if you want his relation to Andrew Wolff (if any) on
+  the record; otherwise delete this item.
+- answer: unofficial intern, video content
 
 ## 2026-07-28 Did the Jul 27 meeting with Bev Marquez happen, and what came of it?
 - context: the DTD:RMCP meeting (Jul 27, 2–2:30pm MDT) was on the calendar, but Bev never

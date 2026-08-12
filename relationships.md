@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-11
+updated: 2026-08-12
 tags: [grounding, people]
 ---
 
@@ -55,7 +55,11 @@ Format — one H2 per person:
 
 ## Dawson Wolf
 - email: dawsonjwolf03@gmail.com (full name from a Drive share, 2026-08-04)
-- relationship: role still unconfirmed, but clearly active in DTD Central: Jul 30
+- role: **DTD's "unofficial intern"** — John's own words to Frankie Spontelli, 2026-08-11:
+  "I would also like to add our 'unofficial intern', Dawson, as a cc to this email
+  thread... as **he has been helping us with some video content for the website and
+  Community pages**." That covers the Aug 10 video shoot and the fundraising script draft.
+- relationship: active across DTD Central since late July: Jul 30
   Leadership Circle invite; three-hour in-person session with Andrew and John Jul 31
   (Idaho Springs); Aug 3 BV fundraising and sustainability call; Aug 4 shared a
   "Fundraising script rough draft" with John for editing. Surname matches Andrew Wolff's
@@ -159,13 +163,24 @@ Format — one H2 per person:
 - source: Fathom recap + "We Believe in DTD" thread 2026-07-30; "DtD Website Bio" 2026-08-10
 
 ## Frankie Spontelli
-- email: Frankie@destinationiq.com
+- email: **f.spontelli22@gmail.com** (preferred — he asked to move the thread there);
+  work address Frankie@destinationiq.com
+- socials: **@nowthisiscolorado** (47k followers, reserved for tourism content — not
+  available for DTD posts) and his personal account instagram.com/frankiespontelli, which
+  is where DTD content will run
 - relationship: Buena Vista **content creator**, regular DTD dinner attendee (shared a
-  table with Andrew and John at the Aug 6 BV dinner); runs the **@nowthisiscolorado**
-  Instagram page (47k followers) and has done marketing work for TerraForm Sauna.
-  Volunteered to help with DTD's immediate marketing needs; Erik floats him as a possible
-  future hire.
-- source: Erik Jacobsen's intro email 2026-08-10
+  table with Andrew and John at the Aug 6 BV dinner); has done marketing work for
+  TerraForm Sauna. Volunteered content help; offered to make a personal reel about his own
+  experience with depression. Erik floats him as a possible future hire.
+- source: Erik Jacobsen's intro email 2026-08-10; his reply 2026-08-11
+
+## Ryan Davis
+- org: **LF Insurance Group**, 12851 W 43rd Dr. Ste #2, Golden CO 80403 — DTD's insurance
+  broker; direct 720.880.2803, main 303.422.2018
+- email: ryan@lfins.com
+- relationship: handles DTD's policy NBP1577375 (placed through BTIS, Inc.); flagged the
+  Aug 2026 notice of cancellation to Andrew and Ken
+- source: "NBP1577375 - DUDE TALK DINNERS, INC." thread 2026-08-12
 
 ## Mike Mayer
 - org: TerraForm Projects

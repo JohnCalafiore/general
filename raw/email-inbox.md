@@ -1,150 +1,139 @@
 # Raw dump — Gmail inbox
 
-Harvest window: 2026-08-10 → 2026-08-11 (America/Denver)
+Harvest window: 2026-08-11 → 2026-08-12 (America/Denver)
 
 ---
 
-## gmail-fathom-principled-20260810 Recap for "Budget for Principled Business"
+## gmail-usli-cancel-20260812 Re: NBP1577375 — DUDE TALK DINNERS, INC. (notice of cancellation)
 
-from: Fathom <no-reply@fathom.video>
-date: 2026-08-10 11:53 MT — meeting Aug 10, 92 minutes, "Internal Meeting"
-link: https://fathom.video/calls/777309313
+from: Ken Farber, replying to Ryan Davis <ryan@lfins.com>, cc Andrew Wolff and John
+date: 2026-08-12 09:33 MT
 
-Meeting purpose: refine the organizational budget for sustainability and donor
-presentation.
+Ryan Davis (LF Insurance Group, Golden CO) to Andrew and Ken: "I received the attached
+**notice of cancellation** for your policy here. You will need to make **payment before
+8/25/26** to keep your policy in effect." The notice came through BTIS, Inc. (an Amynta
+Group company) as the brokerage.
 
-Key takeaways:
-- **New Sustainability Model:** a "Community Support Fund" will cover dinner costs as
-  local in-kind donations inevitably decline after a few months.
-- **Budget Realism:** add cash expenses for food and space reflecting real costs (e.g.
-  the $400/mo Idaho Springs food bill) to make the plan credible and fundable.
-- **Strategic Personnel Allocation:** Andrew's role re-budgeted to a primary fundraising
-  focus (70–90%), aligning the budget with the org's top priority.
-- **Immediate Action:** the refined budget must be ready for the upcoming board meeting
-  to define the financial benchmarks ("tranches") that trigger Andrew's and Ken's formal
-  employment.
-
-Topics:
-- Budget realism & sustainability — current model is unrealistic; local in-kind food and
-  space donations aren't sustainable long-term (Idaho Springs now pays $400/mo for food).
-  The Community Support Fund must scale with the number of communities:
-  **$100k (Y1) → $250k (Y2) → $500k (Y3)**. Goal: no community launched without a clear,
-  sustainable funding plan.
-- Budget structure & donor presentation — present a high-level budget to Principal
-  Business that is clear and defensible; be ready to speak to any detail without
-  consulting the document. Changes: rename revenue line "Food and Location Donations" to
-  the standard "Food and Event Space In-Kind Donations"; add expense lines "DudeCentral
-  Dinner Expense" and "DudeCentral Event Space Expense"; reallocate Andrew's time to
-  70–90% fundraising / 10–30% program services and admin.
-- Timeline & board prep — refined budget needed for the board meeting "in 1.5 weeks" to
-  define the tranches; the budget discussion goes on the board agenda.
-
-Action items:
-- Add budget discussion to board agenda for **Aug 22**
-- John: email the Principal Business budget PDF to Andrew; Andrew reviews and preps Q&A
-  with CP
-- John: update the budget (rename In-Kind, add cash dinner/space lines, shift Andrew to
-  fundraising, add Community Support Fund, tranches, Y1–3 assumptions), then send to
-  Andrew and Ken
-- John: create a sandbox copy of the budget for edits
-- John: email Ken an invite for the 12:30 budget working session Aug 11
-- Andrew: study the budget to prepare for the Principal Business presentation
-- All: meet Tuesday 12:30 PM to finalize the budget before the board meeting
+Ken's reply: "Thanks for the heads-up on the notice of cancellation. **Andrew just
+received the invoice on Monday of this week (Aug 10th). We will make sure it is paid
+prior to the 25th.**"
 
 ---
 
-## gmail-erikbio-20260810 DtD Website Bio
+## gmail-usli-paid-20260812 USLI payment confirmation, autopay, and paperless
 
-from: Erik Jacobsen <erikjacobsen01@gmail.com>
-to: john.calafiore@dudetalkdinners.org
-date: 2026-08-10 11:44 MT
+from: no-reply@usli.com / noreply@usli.com
+date: 2026-08-12 10:04–10:05 MT
 
-"Thank you for your continued patience with this. I know a lot of being asked of you, and
-getting this chapter website launched would be a huge win! Please see my bio below. I
-believe you have a strong picture option I sent you previously, the one without the
-sunglasses!"
-
-Bio: originally from **Boston, Massachusetts**; moved to **Buena Vista, Colorado** with
-his fiancée **Terah**; they marry in Buena Vista in **summer 2027**. Hiking, trail
-running, mountain biking, skiing. "For much of my career, I've worked in the nonprofit
-mental health and suicide prevention field, including my work with **Rocky Mountain
-Crisis Partners**, where I've seen firsthand how isolation can impact people's lives."
-Drawn to DTD by "the simplicity of the idea: ordinary people gathering around a table
-once a month." He is also **co-owner of TerraForm Sauna in Buena Vista**, where "what
-often keeps them coming back is the community they find there."
+- Payment Confirmation: "Thank you for your payment(s) of **$512.00** made on 8/12/2026
+  for: Policy Number: NBP1577375. Confirmation #: 22443498250." Addressed to Andrew Wolff.
+- Autopay Enrollment: authorization confirmed for automatic payments on account
+  NBP1577375.
+- Payment wallet updated; user profile switched to **paperless invoices**.
 
 ---
 
-## gmail-frankie-20260810 Master Content Creator Frankie Spontelli
+## gmail-frankie-reply-20260811 Re: Master Content Creator Frankie Spontelli
 
-from: Erik Jacobsen <erikjacobsen01@gmail.com>
-to: Frankie@destinationiq.com, andrew.wolff@dudetalkdinners.org, john.calafiore@dudetalkdinners.org
-date: 2026-08-10 07:37 MT
+from: frankie@destinationiq.com (cc f.spontelli22@gmail.com)
+date: 2026-08-11 16:02 MT
 
-"So great seeing you both last week—I hope the trip home went smooth. I want to
-professionally introduce you to **Frankie Spontelli**. The name may sound familiar
-because you all shared a table at last week's dinner! In addition to being a Great Dude
-and regular attendee of our dinners, Frankie is a highly skilled **Content Creator here
-in BV**. He has helped the sauna with some marketing projects and also runs the
-**@nowthisiscolorado Instagram page (47k followers)**. He generously offered to support
-us with some of our immediate marketing needs, and who knows, once it starts raining
-money on Dude Central he could be a long term hire!"
+"I'd be happy to help make some pieces of content for DTD, I can't say for sure that we
+can use the **@nowthisiscolorado platform** to promote these pieces of content (as this is
+for **tourism related content**). However, since this is a mission that's important to me,
+I'd be happy to spread the awareness on my **personal channel**, smaller following but
+would still be a good way to push the messaging out there.
+https://www.instagram.com/frankiespontelli
 
----
+Do you have any creative concepts off the bat?
 
-## gmail-boardagenda-20260810 Re: Next DTD board agenda for meeting on 7/21
+I'd be willing to do a **very personal Instagram reel touching on my struggle with
+depression**, talking about statistics around men w/ depression, and how these DTD are a
+great way to find community and lift each other up in small, rural mountain towns and
+beyond. I am also open to your ideas..."
 
-from: Chris Gould <chris.gould@dudetalkdinners.org> and Chris Peterson
-  <christine.peterson@westernalum.org>
-date: 2026-08-10 10:36 MT and 11:43 MT
-
-Chris Gould: "That works for me. I'll take this opportunity to apologize to all for being
-MIA for so long. Multiple family issues have kept me busy, but I will start working my
-way through the backlog of [DTD emails]."
-
-Chris Peterson: "Thanks for putting this together so early Justin! Agenda works for me."
-
-(Original agenda from Justin Hall, Aug 4: finalizing a budget, finalizing vision and
-mission statement, and fundraising updates.)
+He asked to move the thread to his personal Gmail.
 
 ---
 
-## gmail-bounces-20260810 Four bounces from the Idaho Springs dinner reminder
+## gmail-andrewfrankie-20260812 Andrew welcomes Frankie
 
-from: mailer-daemon@googlemail.com
-date: 2026-08-10 13:45 MT
+from: Andrew Wolff
+date: 2026-08-11 19:14 MT
 
-Four "Address not found" delivery failures from the reminder send:
-**kjboyl@gmail.com**, **indrehas64@gmail.com**, **ktbuy2@gmail.com**, and
-**dcakrendude@yahoo.com** (550 5.1.1 / 552). Note the list also contains
-`dcakrondude@yahoo.com`, which did not bounce — the bouncing address looks like a typo
-variant of it.
+"It was great to meet you last week in BV and we really appreciate your offer to help.
+Looking forward to working with you!"
 
 ---
 
-## gmail-dmarc-20260810 DMARC weekly digest for dudetalkdinners.org
+## gmail-erikbio-reply-20260812 Re: DtD Website Bio
 
-from: dmarc@postmarkapp.com
-date: 2026-08-10 09:37 MT
+from: Erik Jacobsen
+date: 2026-08-11 18:24 MT
 
-Week Aug 02 – Aug 09: **192 emails processed, 98% SPF or DKIM aligned, 2% SPF and DKIM
-not aligned**. Sources named in the digest: **ActiveCampaign** and **Postmark**.
-
----
-
-## gmail-dpp-20260811 Fwd: You are invited to DPP Roundtable: AI and the Future of Nonprofit Work
-
-from: Andrew Wolff (forwarding Louis Diez <joindpp@user.luma-mail.com>)
-to: john.calafiore@dudetalkdinners.org
-date: 2026-08-10 21:03 MT
-
-Andrew forwarded an invitation to a DPP (Donor Participation Project) roundtable on AI
-and the future of nonprofit work. No comment added.
+"Thanks for pulling the website together! I can't wait to see it." Plus the origin of the
+sauna name: "Terah is earth in Hebrew" — TerraForm Sauna and his fiancée's name share a
+root.
 
 ---
 
-## gmail-noise-20260810 Filtered as noise
+## gmail-artreschedule-20260812 Accepted: Intro to Dude Talk Dinners w/ Art — moved to Mon Aug 17, 1–1:30pm
 
-Mighty Networks daily digest, Givebutter "The Spread" event promo, HubSpot marketing,
-PayPal marketing (x2), jackroberts.ai (x3) and maxjmiller newsletters, and a "Scan"
-self-send from jcalafiore@gmail.com with no body.
+from: artginley@gmail.com
+date: 2026-08-12 10:51 MT
+
+Art accepted the rescheduled slot after John wrote (Aug 11, 5:27pm): "I'm so sorry, but I
+had something pop up last minute tomorrow at our scheduled time. Are you still available
+at 4pm tomorrow? I could also do 2pm on Thursday."
+
+---
+
+## gmail-kendecline-20260811 Declined: Budget Review @ Thu Aug 13, 11am–12pm
+
+from: ken.farber@dudetalkdinners.org
+date: 2026-08-11 14:03 MT
+
+Ken declined the Thursday budget review that John created the same afternoon (created
+2026-08-11 20:02 UTC, i.e. right after Tuesday's session).
+
+---
+
+## gmail-techsoup-rep-20260812 A new representative has been invited to act on behalf of your organization
+
+from: notify-noreply@techsoup.org
+to: admin@dudetalkdinners.org
+date: 2026-08-11 21:11 MT
+
+Automated notice following the TechSoup qualification — a second person is being added to
+the TechSoup account.
+
+---
+
+## gmail-dpp-20260812 DPP Roundtable: AI and the Future of Nonprofit Work — registered and attended
+
+from: Donor Participation Project (joindpp@calendar.luma-mail.com)
+dates: registration confirmed 2026-08-11 17:25 MT; reminder 2026-08-12 09:01 MT;
+  "Thanks for joining" 2026-08-12 11:00 MT
+
+Zoom session, Wed Aug 12, 10:00–11:00am MDT. Session description: "Powerful AI systems are
+being built right now that will change how nonprofit teams work... Join **Gayle Roberts,
+Remy Reya, and Paul Roach** for a candid conversation about how fundraising teams are
+adapting to AI and what leaders need to do to support that change." Hosted by Louis Diez.
+The "Thanks for joining" follow-up indicates John attended.
+
+---
+
+## gmail-kensignature-20260811 Signature test
+
+from: ken.farber@dudetalkdinners.org
+date: 2026-08-11 12:47 MT
+
+A test of the DTD email signature template: "Full Name / Title / Dude Talk Dinners /
+dudetalkdinners.org / name@dudetalkdinners.org" — the placeholder version, being trialled.
+
+---
+
+## gmail-noise-20260812 Filtered as noise
+
+PayPal "final follow-up" marketing and an awakenedschool newsletter (sent to
+john@dudetalkdinners.org, a variant address).

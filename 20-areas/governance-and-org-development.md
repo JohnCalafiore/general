@@ -1,6 +1,6 @@
 ---
 area: Governance and Organizational Development
-updated: 2026-08-11
+updated: 2026-08-12
 tags: [area]
 ---
 
@@ -14,6 +14,22 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[governance-and-org-development#...]] and harvested by the brief. -->
+
+## 2026-08-12 Insurance near-miss: cancellation notice on the DTD policy, paid same day
+- Broker **Ryan Davis (LF Insurance Group, Golden CO)** to Andrew and Ken: "I received the
+  attached **notice of cancellation** for your policy here. You will need to make
+  **payment before 8/25/26** to keep your policy in effect." Policy **NBP1577375**, Dude
+  Talk Dinners, Inc., placed through BTIS, Inc.
+- Ken's reply explains the gap: "**Andrew just received the invoice on Monday of this week
+  (Aug 10th).** We will make sure it is paid prior to the 25th." The invoice reached DTD
+  barely before the cancellation notice did.
+- Resolved within the hour: **$512.00 paid 8/12/2026** (confirmation 22443498250), and
+  John enrolled the account in **autopay** and switched invoices to **paperless** so this
+  can't recur. He forwarded the confirmation to Andrew and Ken — "FYI - autopay setup as
+  well" — and Ken replied "Thank you John!"
+- category: Governance and Organizational Development
+- source: "Re: NBP1577375 - DUDE TALK DINNERS, INC." thread + USLI confirmations 2026-08-12
+- links: [[relationships#Ryan Davis]]
 
 ## 2026-08-10 Board meeting will set "tranches" — the benchmarks that trigger Andrew's and Ken's employment
 - The most consequential governance item from Monday's budget session: the refined budget

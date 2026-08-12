@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-08-11
+updated: 2026-08-12
 tags: [area]
 ---
 
@@ -14,6 +14,30 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-08-12 Budget follow-up stalled: Ken declined Thursday's session, nothing rebooked
+- Tuesday's 12:30–2pm Budget Review with Ken went ahead but **left no captured content**
+  (no Granola recording, no Fathom recap), so whatever was settled isn't in the vault.
+  John then created a **second Budget Review for Thu Aug 13, 11am–12** and Ken **declined
+  it within the hour**; no replacement time is on the calendar. John instead holds a
+  three-hour unlabeled "block" Thursday afternoon.
+- This matters because the refined budget is due to the board meeting that sets the
+  employment tranches.
+- action #open (John): rebook the budget session with Ken, or confirm the work is done
+- category: Funding and Financial Development
+- source: calendar events + Ken's decline 2026-08-11; absence of meeting capture
+- links: [[governance-and-org-development#2026-08-10 Board meeting will set "tranches" — the benchmarks that trigger Andrew's and Ken's employment]]
+
+## 2026-08-12 John attended the DPP roundtable on AI and nonprofit fundraising
+- John registered Aug 11 and attended the **Donor Participation Project** roundtable "AI
+  and the Future of Nonprofit Work" (Wed Aug 12, 10–11am MDT, Zoom) — the session Andrew
+  forwarded on Aug 10. Panel: **Gayle Roberts, Remy Reya, and Paul Roach**, hosted by
+  Louis Diez, on "how **fundraising teams** are adapting to AI... how teams are actually
+  using these tools today, where adoption is going wrong."
+- No takeaways are in the record; if anything from it should shape DTD's tooling or
+  fundraising approach, it isn't captured yet.
+- category: Funding and Financial Development
+- source: Luma registration, reminder, and post-event email 2026-08-11/12
 
 ## 2026-08-10 DECISION: a "Community Support Fund" replaces the assumption that in-kind donations last
 - At the 92-minute "Budget for Principled Business" session (Andrew, Ken, John), the

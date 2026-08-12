@@ -1,6 +1,6 @@
 ---
 area: Presentations, Events, and Public Presence
-updated: 2026-07-30
+updated: 2026-08-12
 tags: [area]
 ---
 
@@ -14,6 +14,46 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[presentations-events-public-presence#...]] and harvested by the brief. -->
+
+## 2026-08-11 Frankie Spontelli collaboration scoped: a personal reel, and three DTD concepts
+- Frankie replied to Erik's intro with an honest constraint and a generous offer: he
+  **can't promise @nowthisiscolorado** (47k) because that account "is for tourism related
+  content," but will post on his **personal channel** (instagram.com/frankiespontelli).
+  What he volunteered is the notable part — "a **very personal Instagram reel touching on
+  my struggle with depression**, talking about statistics around men w/ depression, and how
+  these DTD are a great way to find community and lift each other up in small, rural
+  mountain towns."
+- John said yes with an explicit consent guardrail: "tell it however feels right to you and
+  **don't push past what you're comfortable sharing publicly**. It's a lot to put out there
+  and we don't want it to cost you anything." He offered supporting stats on men, isolation
+  and rural mental health, plus a closing pointer to dudetalkdinners.org/communities/.
+- John's read on channel fit is worth keeping as positioning: the personal account "may
+  honestly be a better fit anyway, **since the whole thing works because it comes from
+  dudes**," and "a guy hearing another guy say it out loud is what gets someone to show up
+  to a first dinner."
+- Andrew followed up the same evening: "Looking forward to working with you!"
+- action #open (John): send Frankie the stats; move the thread to f.spontelli22@gmail.com;
+  ask permission to cc Dawson; find a time for a call
+- category: Presentations, Events, and Public Presence
+- source: "Re: Master Content Creator Frankie Spontelli" thread 2026-08-11/12
+- links: [[relationships#Frankie Spontelli]], [[partnerships-and-strategic-relationships#2026-08-10 Frankie Spontelli offers content help — a 47k-follower creator from the BV table]]
+
+## 2026-08-11 Three content concepts on the table — including a staged "model dinner"
+- The concepts John put to Frankie, worth keeping as DTD's current content thinking:
+  1. **"What actually happens at a dinner."** "The biggest barrier is guys not knowing
+     what they're walking into. A couple of minutes showing that it's food, a question,
+     and conversation, **not therapy or a support group**."
+  2. **Short clips of attendees and facilitators** answering a few questions — already
+     done with Erik and Mike and other communities, in use as testimonials.
+  3. **A piece aimed at guys who want to start one in their own town**, riding the startup
+     guide: "you don't need to be an expert, **you just need a table**."
+- Notable operational decision-in-the-making: staging a **"model dinner"** for filming
+  rather than shooting a real one, "so we aren't putting dudes in an awkward position while
+  filming, particularly since we want to uphold our value of **confidentiality**." That
+  names confidentiality as a DTD value constraining how dinners can be filmed.
+- category: Presentations, Events, and Public Presence
+- source: John's reply on the Frankie thread 2026-08-11
+- links: [[support-for-existing-communities#2026-08-06 Startup materials taking shape: facilitator guide, welcome video, site refresh]]
 
 ## 2026-07-29 DTD logo PDFs added to the shared drive for the new BHB/DTD location
 - Chris Peterson asked for a printable PDF of the DTD logo "to get the logo printed and

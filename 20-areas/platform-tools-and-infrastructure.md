@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-08-12
+updated: 2026-08-13
 tags: [area]
 ---
 
@@ -14,6 +14,44 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-08-12 CRM: Andrew locked out by a 24-hour invite expiry; Givebutter now flowing via API
+- Root cause found for the auth-invite problem that's been open since Aug 5: the
+  **Supabase invite link expires after 24 hours**, so Andrew's link was dead before he
+  used it. Fix agreed: **set the expiry to 7 days and point the email templates at the
+  auth-confirm route.**
+- Real progress alongside it: **Givebutter donation data is now integrated via API**, and
+  the CRM has a **Task Manager** Andrew will test once he's in. A "**CRM login and learn**"
+  session was booked for Thu Aug 13, 10–11am to walk him through it.
+- Other platform items from the same session: **verify the Givebutter account by SMS**;
+  **complete the Candid nonprofit profile**; and Andrew to **fix a Google Workspace admin
+  setting that is blocking google.com**.
+- action #open (John): raise the Supabase invite expiry to 7d and repoint templates; SMS-
+  verify Givebutter
+- action #open (Andrew): fix the Workspace admin block and send John the steps
+- category: Platform, Tools, and Infrastructure
+- source: Fathom recap, "DTD Thank You email and donation receipts" 2026-08-12
+- links: [[platform-tools-and-infrastructure#2026-08-05 CRM live: first activity digest, plus an auth-invite bug]]
+
+## 2026-08-12 Candid profile claim in progress — identity verification requested
+- Candid asked for more information "to verify your identity and affiliation with the
+  organization" on John's request to manage DTD's **Candid nonprofit profile**; John sent
+  the **IRS EIN Issuance Letter** two minutes later. The Candid profile is what funders
+  check, so this is groundwork for the grant push.
+- Incidental fact for context.md: John signed this one **"Chief Operating Officer"** —
+  slightly different from the "Chief Operations Officer" on the July TechSoup email.
+- category: Platform, Tools, and Infrastructure
+- source: Candid support thread 2026-08-12
+
+## 2026-08-12 Andrew's AI tooling: WhisperFlow, Claude Opus, and a plan to train on DTD's voice
+- From the same session: Andrew installed **WhisperFlow** for voice-to-text, will use
+  **Claude's Opus model** for planning and concept generation, and the stated future goal
+  is to **train Claude on DTD's voice and style using past emails and meeting
+  transcripts** — which is essentially what this vault accumulates.
+- action #open (John): build a WhisperFlow voice profile for Andrew
+- category: Platform, Tools, and Infrastructure
+- source: Fathom recap 2026-08-12
+- links: [[30-resources/ai-for-nonprofits-dpp-roundtable|AI for nonprofits — DPP roundtable]]
 
 ## 2026-08-12 CRM testing resumes: Brevo connector plus a dinner-announcement template
 - Two test sends went out from **support@dudetalkdinners.org** — a third DTD sending

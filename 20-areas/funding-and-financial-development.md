@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-08-12
+updated: 2026-08-13
 tags: [area]
 ---
 
@@ -14,6 +14,62 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-08-12 DECISION: budget a $52k Year 1 Fundraising Manager against a 3x ROI target
+- The 116-minute Wednesday session named the underlying problem plainly — "**we lack
+  dedicated fundraising capacity**" — and answered it with a **Fundraising Manager line of
+  $52,000 for Year 1**: 10 hrs/week at $100/hr, scoped to **broad fundraising (grants,
+  campaigns, corporate giving), not just grant writing**. The bar set for the hire is a
+  **3x ROI — $156k raised** — to justify the investment.
+- This is the second major budget decision in three days and it goes into the same
+  document heading to the board: Andrew re-cast at 70–90% fundraising, now with a paid
+  fundraiser beneath him.
+- action #open (John): add the $52k Y1 fundraising-manager line to the budget and send to
+  Andrew
+- category: Funding and Financial Development
+- source: Fathom recap, "DTD Thank You email and donation receipts" 2026-08-12
+  (fathom.video/calls/780168206)
+- links: [[funding-and-financial-development#2026-08-10 DECISION: budget restructured — cash expense lines, and Andrew re-cast as 70–90% fundraising]]
+
+## 2026-08-12 DECISION: GrantStation via TechSoup ($200/yr) as the interim grant engine
+- Until a fundraiser is hired, DTD will **buy a one-year GrantStation membership through
+  TechSoup for $200** — the first concrete use of the TechSoup qualification that landed
+  Aug 9. Rationale from the room: it "**builds internal capacity and finds targeted grants
+  for new 501(c)(3)s**." The intended workflow is to **use the platform to identify
+  prospects, then contract a writer for specific proposals** — cheaper than retaining a
+  consultant to do both.
+- action #open (John): purchase the GrantStation membership
+- category: Funding and Financial Development
+- source: Fathom recap 2026-08-12
+- links: [[platform-tools-and-infrastructure#2026-08-09 TechSoup validation came through — DTD is qualified for nonprofit offers]]
+
+## 2026-08-12 Walmart SPARK Grant submitted — stalled on a 3-day bank verification
+- The application **is in**, held up only by bank verification: Andrew supplied a **Chase
+  bank statement to John by text** ("for security"), and the platform's **3-day
+  verification** is pending. This closes the loop on the Aug 12 working session, which
+  itself produced no recording.
+- category: Funding and Financial Development
+- source: Fathom recap 2026-08-12
+- links: [[funding-and-financial-development#2026-08-07 "Spark Grant" identified: Walmart SPARK Grant, session Wed Aug 12]]
+
+## 2026-08-12 Grant-readiness consultant on the table: Knudsen Coaching & Consulting
+- **Daniel Knudsen** (Knudsen Coaching & Consulting, "Let's Do Good Well™," Colorado
+  Certified Prevention Specialist II) met Andrew Mon Aug 10 and followed up with two
+  deliverable samples, which Andrew forwarded to John: a **Grant Ready Checklist** and a
+  **Grant Landscape Survey** sample. On the survey: "the sample shows 2 opportunities so
+  you can get an idea of the detail... For our last few landscape survey clients, **the
+  number of opportunities has ranged from eight up to 20.** It's highly dependent on the
+  organization's mission and alignment with funders."
+- The introduction came from **Gina Moran**, a nonprofit consultant who has been informally
+  advising Andrew: "Andrew asked today about grant writing and I shared that **KC&C would
+  be a great resource, even if it's just to do some consulting around grant readiness**."
+- Now a third route to grant capacity alongside GrantStation and Amanda Kearney-Smith
+  (Patricia Markwell's recommendation) — no decision in the record.
+- action #open (Andrew/John): decide whether to engage KC&C, and how it fits with
+  GrantStation and the planned fundraising hire
+- category: Funding and Financial Development
+- source: "Fwd: Introduction" thread forwarded by Andrew 2026-08-12
+- links: [[relationships#Daniel Knudsen]], [[relationships#Gina Moran]], [[partnerships-and-strategic-relationships#2026-07-20 Grant platform meeting with Patricia Markwell (RMCP)]]
 
 ## 2026-08-12 Budget follow-up stalled: Ken declined Thursday's session, nothing rebooked
 - Tuesday's 12:30–2pm Budget Review with Ken went ahead but **left no captured content**

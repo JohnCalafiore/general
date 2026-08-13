@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-12
+updated: 2026-08-13
 tags: [grounding, people]
 ---
 
@@ -173,6 +173,37 @@ Format — one H2 per person:
   TerraForm Sauna. Volunteered content help; offered to make a personal reel about his own
   experience with depression. Erik floats him as a possible future hire.
 - source: Erik Jacobsen's intro email 2026-08-10; his reply 2026-08-11
+
+## Daniel Knudsen
+- org: **Knudsen Coaching & Consulting** ("Let's Do Good Well™") — Colorado Certified
+  Prevention Specialist II; 719-321-6525, KnudsenConsulting.co
+- email: dk.knudsenconsulting@gmail.com
+- relationship: grant-readiness consultant introduced to Andrew by Gina Moran (Aug 5); met
+  Andrew Aug 10 and sent a **Grant Ready Checklist** and a **Grant Landscape Survey**
+  sample. Not engaged — under consideration.
+- source: "Fwd: Introduction" thread 2026-08-05/12
+
+## Gina Moran
+- org: **Nonprofit Consultant for Knudsen Coaching and Consulting**; C 720.209.6860
+- email: gina@ginamoran.com
+- relationship: informal advisor to Andrew — "I've been chatting with Andrew every once in
+  a while to support him as he develops Dude Talk Dinners into an organization"; made the
+  Daniel Knudsen introduction
+- source: "Introduction" email 2026-08-05
+
+## Courtney Botner
+- org: **Clear Creek County Library District** (she/her)
+- email: courtney@clearcreeklibrarydistrict.org
+- relationship: floated a **Club Fair at the Idaho Springs Public Library, Thu Sept 24**,
+  and invited DTD; John expressed interest. Note: distinct from the "Courtney at the
+  Windsor Library" mentioned in the Weld County thread unless confirmed otherwise — see
+  needs-clarification.
+- source: "Clear Creek County Library District Possible Club Fair" thread 2026-08-12
+
+## Travis Payne
+- relationship: submitted the DTD website contact form on 2026-08-12; no message content in
+  the notification and no email address captured yet
+- source: HubSpot form notification 2026-08-12
 
 ## Ryan Davis
 - org: **LF Insurance Group**, 12851 W 43rd Dr. Ste #2, Golden CO 80403 — DTD's insurance

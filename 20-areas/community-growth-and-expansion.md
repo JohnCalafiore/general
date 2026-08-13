@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-08-12
+updated: 2026-08-13
 tags: [area]
 ---
 
@@ -14,6 +14,15 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-08-12 Inbound lead: Travis Payne via the website contact form
+- A HubSpot notification reports a new "contact us" form submission from **Travis Payne**
+  on the DTD site. The notification carries no message body, so what he's asking for isn't
+  in the record — but this is the inbound channel working, and it's the pipeline the CRM is
+  being built to catch.
+- action #open (John): follow up with Travis Payne
+- category: Community Growth and Expansion
+- source: HubSpot form notification 2026-08-12
 
 ## 2026-08-12 Art Ginley intro moved to Mon Aug 17, 1–1:30pm
 - John hit a last-minute conflict with Wednesday's 10am slot ("I'm so sorry, but I had

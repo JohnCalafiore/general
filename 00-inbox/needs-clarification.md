@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-12
+updated: 2026-08-13
 tags: [inbox]
 ---
 
@@ -18,6 +18,23 @@ Format the agent uses:
 ```
 
 <!-- entries begin below -->
+
+## 2026-08-13 Who is Jake, and which testimonial clips is Andrew sending him?
+- quote: action item from the Aug 12 recap — "**Email Jake 2–3 short testimonial clips**"
+  (owner: Andrew Wolff)
+- context: "Jake" appears nowhere else in the record — not in email, calendar, Slack, or
+  any prior meeting.
+- question: who is he (videographer? web contractor? partner org?) and what are the clips
+  for? I'll file it to the right area and give him a relationships entry once I know.
+- answer:
+
+## 2026-08-13 Two Courtneys, or one? Clear Creek Library vs Windsor Library
+- context: **Courtney Botner** (Clear Creek County Library District) invited DTD to a Sept
+  24 Club Fair in Idaho Springs. Separately, the Weld County thread had DTD "working with
+  **Courtney at the Windsor Library**," a Leadership Circle attendee.
+- question: same person or two? Different counties and library districts suggest two, but
+  I'm not assuming. One word and I'll merge or keep them separate in relationships.
+- answer:
 
 ## 2026-08-11 Board meeting date, again — Fathom says Aug 22, Justin's email says 7/21
 - context: the Aug 10 budget recap carries the action "Add budget discussion to board
@@ -154,6 +171,9 @@ Format the agent uses:
   Dude Talk Dinners" — 2026-07-29
 - question: confirm and I'll treat COO as your canonical role (context.md's role field is
   yours to fill, but I'll cite this fact meanwhile).
+- update 2026-08-13: your Aug 12 reply to Candid signs **"Chief Operating Officer"** — so
+  the record now has both wordings ("Operations" in July, "Operating" in August). Tell me
+  which is canonical and I'll standardize it everywhere, including context.md.
 - answer:
 
 ## 2026-07-29 Who is Dawson (dawsonjwolf03@gmail.com), and what's Friday's meeting about?

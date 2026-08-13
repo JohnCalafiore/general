@@ -1,6 +1,6 @@
 ---
 area: Presentations, Events, and Public Presence
-updated: 2026-08-12
+updated: 2026-08-13
 tags: [area]
 ---
 
@@ -14,6 +14,32 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[presentations-events-public-presence#...]] and harvested by the brief. -->
+
+## 2026-08-12 Club Fair invitation: Idaho Springs Public Library, Thu Sept 24, 3–7pm
+- **Courtney Botner** of the **Clear Creek County Library District** is "considering
+  hosting a **Club Fair on Thursday, September 24, from 3 – 7 pm on the lawn of the Idaho
+  Springs Public Library**," inviting local clubs. She reached the DTD Idaho Springs
+  address directly.
+- John replied within twelve minutes, cc'ing Andrew: "This sounds like a wonderful idea,
+  and we would certainly be interested." Courtney: "we will be in touch soon **if we
+  decide to move ahead** with the event" — so it is not yet confirmed.
+- action #open (Andrew, per the Aug 12 recap): reply to Courtney directly, cc John
+- category: Presentations, Events, and Public Presence
+- source: "Clear Creek County Library District Possible Club Fair" thread 2026-08-12;
+  Fathom recap 2026-08-12
+- links: [[relationships#Courtney Botner]]
+
+## 2026-08-12 DECISION: the welcome video goes social-native, with Frankie and Dawson together
+- Reviewed in Wednesday's session and changed: "**The current video plan with Dawson is a
+  traditional 90-second format, not optimized for social media.**" The call is to bring
+  Frankie and Dawson onto the same project — "leveraging Frankie's expertise **while
+  keeping Dawson involved**" — and build something social-native instead.
+- This supersedes the plan behind Monday's Idaho Springs shoot, so footage already captured
+  may need re-cutting rather than reshooting.
+- action #open (Andrew): schedule a call with John, Dawson, and Frankie to plan the video
+- category: Presentations, Events, and Public Presence
+- source: Fathom recap, "DTD Thank You email and donation receipts" 2026-08-12
+- links: [[support-for-existing-communities#2026-08-08 Video filming has a location: 3117 Fall River Rd, Idaho Springs]], [[presentations-events-public-presence#2026-08-11 Frankie Spontelli collaboration scoped: a personal reel, and three DTD concepts]]
 
 ## 2026-08-11 Frankie Spontelli collaboration scoped: a personal reel, and three DTD concepts
 - Frankie replied to Erik's intro with an honest constraint and a generous offer: he

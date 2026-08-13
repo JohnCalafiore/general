@@ -1,139 +1,153 @@
 # Raw dump — Gmail inbox
 
-Harvest window: 2026-08-11 → 2026-08-12 (America/Denver)
+Harvest window: 2026-08-12 → 2026-08-13 (America/Denver)
 
 ---
 
-## gmail-usli-cancel-20260812 Re: NBP1577375 — DUDE TALK DINNERS, INC. (notice of cancellation)
+## gmail-fathom-thankyou-20260812 Recap for "DTD Thank You email and donation receipts"
 
-from: Ken Farber, replying to Ryan Davis <ryan@lfins.com>, cc Andrew Wolff and John
-date: 2026-08-12 09:33 MT
+from: Fathom <no-reply@fathom.video>
+date: 2026-08-12 13:00 MT — meeting Aug 12, **116 minutes**, "Internal Meeting"
+link: https://fathom.video/calls/780168206
 
-Ryan Davis (LF Insurance Group, Golden CO) to Andrew and Ken: "I received the attached
-**notice of cancellation** for your policy here. You will need to make **payment before
-8/25/26** to keep your policy in effect." The notice came through BTIS, Inc. (an Amynta
-Group company) as the brokerage.
+Meeting purpose: finalize donor thank-you processes and fundraising strategy.
 
-Ken's reply: "Thanks for the heads-up on the notice of cancellation. **Andrew just
-received the invoice on Monday of this week (Aug 10th). We will make sure it is paid
-prior to the 25th.**"
+Key takeaways:
+- **Fundraising Strategy:** budgeting **$52k for a Year 1 Fundraising Manager** ($100/hr,
+  10 hrs/wk) with a **3x ROI target**. Stopgap: test **GrantStation ($200/yr)** to build
+  internal capacity.
+- **CRM Access Blocked:** Andrew is blocked from the new CRM by a **24-hour Supabase
+  invite expiration**; John will extend the link's validity.
+- **Walmart Spark Grant:** application is **submitted and stalled pending a 3-day
+  verification** of the bank statement Andrew provided.
+- **Video Production:** coordinate with Dawson and Frankie for a modern,
+  social-media-native video.
+
+Topics:
+- Fundraising strategy & budget — "We lack dedicated fundraising capacity." Long-term:
+  a Fundraising Manager at $52,000 for Year 1, 10 hrs/wk @ $100/hr, scope is **broad
+  fundraising (grants, campaigns, corporate giving), not just grant writing**; ROI target
+  3x = **$156k raised** to justify the investment. Short-term: buy a 1-year **GrantStation**
+  membership **via TechSoup for $200** — "builds internal capacity and finds targeted
+  grants for new 501(c)(3)s"; use it to identify prospects, then contract a writer for
+  specific proposals.
+- CRM & donor tracking — Andrew locked out by the 24-hour Supabase invite expiry; fix is
+  to extend it. **GiveButter donation data is now integrated via API.** Andrew will test
+  the CRM's **Task Manager**.
+- Walmart Spark Grant — application requires bank verification; Andrew sent a **Chase bank
+  statement to John via text** "for security"; 3-day verification pending.
+- Video production — "The current video plan with Dawson is a traditional 90-second
+  format, **not optimized for social media**." Solution: a call with Dawson and Frankie to
+  develop a social-native video, "leveraging Frankie's expertise while keeping Dawson
+  involved."
+- AI tools & workflow — Andrew installed **WhisperFlow** (voice-to-text); Andrew will use
+  **Claude's Opus model** for planning and concept generation; future goal is to **train
+  Claude on DTD's voice and style using past emails and meeting transcripts**.
+
+Action items:
+- John: update the CRM invite flow — set **Supabase expiry to 7 days**; point templates to
+  auth confirm
+- John: build a **WhisperFlow voice profile for Andrew**
+- John: **verify the GiveButter account via SMS**
+- John: **complete the Candid profile** for Dude Talk Dinners
+- John: purchase the GrantStation membership
+- John: update the budget with the **$52k Y1 fundraising manager** line and send to Andrew
+- Andrew: reply to **Courtney Botner (Clear Creek Library)** re: the Club Fair, cc John
+- Andrew: fix Google Workspace admin to unblock google.com; send steps to John
+- Andrew: **email Jake 2–3 short testimonial clips**
+- Andrew: schedule the video call with John, Dawson, and Frankie; use the CRM Task Manager
 
 ---
 
-## gmail-usli-paid-20260812 USLI payment confirmation, autopay, and paperless
+## gmail-knudsen-20260812 Fwd: Introduction — Knudsen Coaching & Consulting on grant readiness
 
-from: no-reply@usli.com / noreply@usli.com
-date: 2026-08-12 10:04–10:05 MT
+from: Andrew Wolff, forwarding Daniel Knudsen <dk.knudsenconsulting@gmail.com>
+date: forwarded 2026-08-12 12:46 MT; Daniel's message 2026-08-11 17:17 MT
+attachments: **Grant Ready Checklist.pdf**, **Landscape Survey_Sample.xlsx**
 
-- Payment Confirmation: "Thank you for your payment(s) of **$512.00** made on 8/12/2026
-  for: Policy Number: NBP1577375. Confirmation #: 22443498250." Addressed to Andrew Wolff.
-- Autopay Enrollment: authorization confirmed for automatic payments on account
-  NBP1577375.
-- Payment wallet updated; user profile switched to **paperless invoices**.
+Daniel Knudsen: "I really enjoyed learning more about your work yesterday. I've attached
+our **Grant Ready Checklist** and a sample of our **Grant Landscape Survey**. The sample
+landscape survey shows 2 opportunities so you can get an idea of the detail provided in
+the deliverable. For our last few landscape survey clients, **the number of opportunities
+has ranged from eight up to 20.** It's highly dependent on the organization's mission and
+alignment with funders."
 
----
+Origin of the relationship (Aug 5): **Gina Moran** (gina@ginamoran.com, 720.209.6860,
+"Nonprofit Consultant for Knudsen Coaching and Consulting") introduced Daniel to Andrew:
+"Andrew Wolff, who is the Executive Director of Dude Talk Dinners, who just got their
+501(c)(3) (yay!). I've been chatting with Andrew every once in a while to support him as
+he develops Dude Talk Dinners into an organization. Andrew asked today about grant writing
+and I shared that **KC&C would be a great resource, even if it's just to do some
+consulting around grant readiness**."
 
-## gmail-frankie-reply-20260811 Re: Master Content Creator Frankie Spontelli
-
-from: frankie@destinationiq.com (cc f.spontelli22@gmail.com)
-date: 2026-08-11 16:02 MT
-
-"I'd be happy to help make some pieces of content for DTD, I can't say for sure that we
-can use the **@nowthisiscolorado platform** to promote these pieces of content (as this is
-for **tourism related content**). However, since this is a mission that's important to me,
-I'd be happy to spread the awareness on my **personal channel**, smaller following but
-would still be a good way to push the messaging out there.
-https://www.instagram.com/frankiespontelli
-
-Do you have any creative concepts off the bat?
-
-I'd be willing to do a **very personal Instagram reel touching on my struggle with
-depression**, talking about statistics around men w/ depression, and how these DTD are a
-great way to find community and lift each other up in small, rural mountain towns and
-beyond. I am also open to your ideas..."
-
-He asked to move the thread to his personal Gmail.
+Daniel Knudsen — Colorado Certified Prevention Specialist II, "Let's Do Good Well™,"
+Knudsen Coaching & Consulting, 719-321-6525, KnudsenConsulting.co. The intro call happened
+Mon Aug 10.
 
 ---
 
-## gmail-andrewfrankie-20260812 Andrew welcomes Frankie
+## gmail-clubfair-20260812 Clear Creek County Library District Possible Club Fair
+
+from: Courtney Botner <courtney@clearcreeklibrarydistrict.org> (bcc to
+  idahospringsCO@dudetalkdinners.org)
+date: 2026-08-12 11:39 MT
+
+"Clear Creek County Library District is considering hosting a **Club Fair on Thursday,
+September 24, from 3 – 7 pm on the lawn of the Idaho Springs Public Library**. Our goal is
+to invite local clubs..."
+
+John replied (11:51 MT, cc Andrew): "This sounds like a wonderful idea, and we would
+certainly be interested. Thanks for thinking of us!" Courtney (12:00 MT): "Thank you for
+your interest, **we will be in touch soon if we decide to move ahead with the event!**"
+
+---
+
+## gmail-candid-20260812 [Action required] Candid needs more information to approve your request
+
+from: support@candid.org
+date: 2026-08-12 16:19 MT
+
+"Thank you for requesting to manage your organization's **Candid nonprofit profile**. We
+require additional information to verify your identity and affiliation with the
+organization."
+
+John replied two minutes later: "Please see attached **IRS EIN Issuance Letter**." His
+signature on this reply reads **"John Calafiore, Chief Operating Officer, Dude Talk
+Dinners."**
+
+---
+
+## gmail-hubspot-travis-20260812 New HubSpot contact form submission: Travis Payne
+
+from: noreply@notifications.hubspot.com
+date: 2026-08-12 17:41 MT
+
+"You've got a new submission on the HubSpot Form 'New contact us form'... CONTACT **Travis
+Payne** submitted a form on the page Dude Talk [Dinners]." No message content in the
+notification.
+
+---
+
+## gmail-mikemayer-20260812 Re: Facilitator Bio and Pic
+
+from: Mike Mayer <mike@buildterraform.com>
+date: 2026-08-12 20:22 MT
+
+"Hey! Yes, let me find some time to make this happen." — replying to John's Aug 6 request
+for a photo and bio.
+
+---
+
+## gmail-crmlogin-20260812 Invitation: CRM login and learn @ Thu Aug 13, 10–11am MDT
 
 from: Andrew Wolff
-date: 2026-08-11 19:14 MT
+date: 2026-08-12 16:42 MT
 
-"It was great to meet you last week in BV and we really appreciate your offer to help.
-Looking forward to working with you!"
-
----
-
-## gmail-erikbio-reply-20260812 Re: DtD Website Bio
-
-from: Erik Jacobsen
-date: 2026-08-11 18:24 MT
-
-"Thanks for pulling the website together! I can't wait to see it." Plus the origin of the
-sauna name: "Terah is earth in Hebrew" — TerraForm Sauna and his fiancée's name share a
-root.
-
----
-
-## gmail-artreschedule-20260812 Accepted: Intro to Dude Talk Dinners w/ Art — moved to Mon Aug 17, 1–1:30pm
-
-from: artginley@gmail.com
-date: 2026-08-12 10:51 MT
-
-Art accepted the rescheduled slot after John wrote (Aug 11, 5:27pm): "I'm so sorry, but I
-had something pop up last minute tomorrow at our scheduled time. Are you still available
-at 4pm tomorrow? I could also do 2pm on Thursday."
-
----
-
-## gmail-kendecline-20260811 Declined: Budget Review @ Thu Aug 13, 11am–12pm
-
-from: ken.farber@dudetalkdinners.org
-date: 2026-08-11 14:03 MT
-
-Ken declined the Thursday budget review that John created the same afternoon (created
-2026-08-11 20:02 UTC, i.e. right after Tuesday's session).
-
----
-
-## gmail-techsoup-rep-20260812 A new representative has been invited to act on behalf of your organization
-
-from: notify-noreply@techsoup.org
-to: admin@dudetalkdinners.org
-date: 2026-08-11 21:11 MT
-
-Automated notice following the TechSoup qualification — a second person is being added to
-the TechSoup account.
-
----
-
-## gmail-dpp-20260812 DPP Roundtable: AI and the Future of Nonprofit Work — registered and attended
-
-from: Donor Participation Project (joindpp@calendar.luma-mail.com)
-dates: registration confirmed 2026-08-11 17:25 MT; reminder 2026-08-12 09:01 MT;
-  "Thanks for joining" 2026-08-12 11:00 MT
-
-Zoom session, Wed Aug 12, 10:00–11:00am MDT. Session description: "Powerful AI systems are
-being built right now that will change how nonprofit teams work... Join **Gayle Roberts,
-Remy Reya, and Paul Roach** for a candid conversation about how fundraising teams are
-adapting to AI and what leaders need to do to support that change." Hosted by Louis Diez.
-The "Thanks for joining" follow-up indicates John attended.
-
----
-
-## gmail-kensignature-20260811 Signature test
-
-from: ken.farber@dudetalkdinners.org
-date: 2026-08-11 12:47 MT
-
-A test of the DTD email signature template: "Full Name / Title / Dude Talk Dinners /
-dudetalkdinners.org / name@dudetalkdinners.org" — the placeholder version, being trialled.
+Andrew booked a "CRM login and learn" session with John for Thursday morning.
 
 ---
 
 ## gmail-noise-20260812 Filtered as noise
 
-PayPal "final follow-up" marketing and an awakenedschool newsletter (sent to
-john@dudetalkdinners.org, a variant address).
+DPP post-event survey and replay links, a WIZE/Circle product newsletter, and a PayPal
+trusted-device notice.

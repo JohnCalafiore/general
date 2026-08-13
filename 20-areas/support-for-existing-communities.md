@@ -1,6 +1,6 @@
 ---
 area: Support for Existing Communities
-updated: 2026-08-11
+updated: 2026-08-13
 tags: [area]
 ---
 
@@ -26,6 +26,15 @@ responsibility but not to a specific dated project get logged here.
 - category: Support for Existing Communities
 - source: "Next Dude Talk Dinner: TODAY at 6pm!" send + "Re: Topic for tomorrow" 2026-08-10
 - links: [[support-for-existing-communities#2026-08-09 Chris Gould sends Monday's dinner topic for the reminder: relationships]], [[platform-tools-and-infrastructure#2026-08-10 Reminder send had problems: four bounces and "a couple of issues along the way"]]
+
+## 2026-08-12 Mike Mayer commits to sending his bio and photo
+- "Hey! Yes, let me find some time to make this happen" — replying to John's Aug 6 request.
+  With Erik's bio in and Justin's bio in (photo pending), Mike is the last outstanding
+  piece of the Buena Vista chapter page.
+- action #open (Mike Mayer): send bio and photo
+- category: Support for Existing Communities
+- source: "Re: Facilitator Bio and Pic" 2026-08-12
+- links: [[support-for-existing-communities#2026-08-06 John collecting facilitator bios and photos for the community pages]]
 
 ## 2026-08-10 Erik Jacobsen's facilitator bio arrives — and reveals an RMCP career link
 - Erik sent his bio for the Buena Vista chapter page, framing the stakes: "getting this

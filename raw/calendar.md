@@ -1,27 +1,31 @@
 # Raw dump — Google Calendar
 
-Harvest window: 2026-08-12 → 2026-08-15 (America/Denver)
+Harvest window: 2026-08-13 → 2026-08-18 (America/Denver)
 
 ---
 
-## cal-crmloginlearn-20260813 CRM login and learn — Thu Aug 13, 10–11am MDT
+## cal-budgetreview-accepted-20260813 Budget Review — moved to 11:30–12:00, Ken accepted
 
-organizer: Andrew Wolff; attendees Andrew (accepted), John (accepted)
-created: 2026-08-12 22:41 UTC
-
-Booked hours after the Aug 12 session where Andrew was found to be locked out of the CRM.
-Note the invite was created in the America/New_York timezone.
+The Thursday budget review Ken declined on Aug 11 was **shortened to 11:30am–12:00pm and
+Ken accepted it** on Aug 13 at 11:21 MT. It ran back-to-back after the CRM session.
 
 ---
 
-## cal-thu-20260813 Thursday's stack unchanged otherwise
+## cal-loginsw9-20260813 "Logins and W-9" — Thu Aug 13, 12:00–1:15pm
 
-- Budget Review 11:00–12:00 (Ken still **declined**, John accepted) — overlaps the CRM
-  session by an hour
-- "block" 13:30–16:30, John only
+Self-booked working block created by John on Aug 13 (no attendees, no description). The
+title suggests account/credential cleanup plus a W-9 — first appearance of a W-9 in the
+record.
 
 ---
 
-## cal-mantherapy-20260814 DTD : Man Therapy — Fri Aug 14, 9:30–10am MDT
+## cal-thu-block-20260813 "block" — Thu Aug 13, 1:30–4:30pm
 
-Trip Starkey, Andrew, and John all accepted; unchanged.
+Unchanged three-hour hold, John only.
+
+---
+
+## cal-upcoming-20260817 Upcoming, unchanged
+
+- DTD : Man Therapy — Fri Aug 14, 9:30–10:00 MDT (Trip Starkey, Andrew, John — all accepted)
+- Intro to Dude Talk Dinners w/ Art — Mon Aug 17, 1:00–1:30 MDT (Art accepted)

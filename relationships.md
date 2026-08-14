@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-13
+updated: 2026-08-14
 tags: [grounding, people]
 ---
 
@@ -212,6 +212,12 @@ Format — one H2 per person:
 - relationship: handles DTD's policy NBP1577375 (placed through BTIS, Inc.); flagged the
   Aug 2026 notice of cancellation to Andrew and Ken
 - source: "NBP1577375 - DUDE TALK DINNERS, INC." thread 2026-08-12
+
+## Maryanne Munz
+- org: **LF Insurance Group** (same office as Ryan Davis) — billing side
+- email: maryanne@lfins.com
+- relationship: sent DTD the non-pay cancellation reminder on the BTIS policy, Aug 13
+- source: "Re: Non-Pay Cancellation Reminder" thread 2026-08-13
 
 ## Mike Mayer
 - org: TerraForm Projects

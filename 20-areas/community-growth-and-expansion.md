@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-08-13
+updated: 2026-08-14
 tags: [area]
 ---
 
@@ -14,6 +14,16 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-08-13 Travis Payne is a Cañon City lead — reply still blocked by the CRM
+- Thursday's session added the missing detail: Travis Payne is from **Canyon City**
+  (Cañon City) — another Colorado town with no DTD community. The plan is to answer him
+  **through the new-lead automation** rather than by hand, which is precisely what Andrew's
+  CRM lockout has been preventing.
+- action #open (John): reply to Travis Payne via the automation once the CRM is unblocked
+- category: Community Growth and Expansion
+- source: Fathom recap, "CRM login and learn" 2026-08-13
+- links: [[platform-tools-and-infrastructure#2026-08-13 CRM lockout ran deeper than the invite — reset flow was broken too, now fixed]]
 
 ## 2026-08-12 Inbound lead: Travis Payne via the website contact form
 - A HubSpot notification reports a new "contact us" form submission from **Travis Payne**

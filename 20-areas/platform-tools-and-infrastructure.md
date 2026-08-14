@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-08-13
+updated: 2026-08-14
 tags: [area]
 ---
 
@@ -14,6 +14,80 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-08-13 DECISION: Cal.com is DTD's scheduling tool — free tier, with one blocking bug
+- Google Calendar's free booking pages capped DTD at **one booking page per user**, which
+  breaks the moment you want separate 30- and 60-minute links. The alternatives were priced
+  out explicitly: **Google Calendar upgrade at $3/user/mo** (rejected because it applies
+  across **10+ DTD Workspace accounts**), **Calendly at ~$15/user/mo**, and **Setmore**,
+  rejected on function rather than price — its free plan is **one-way sync**, so events
+  added directly in Google Calendar don't block Setmore availability.
+- Chosen: **Cal.com's free individual plan** — unlimited booking pages and event types.
+  Team scheduling would cost $12–$16/user/mo, deferred as acceptable.
+- Andrew's account is configured: **30/45/60-min event types; availability Tue–Fri
+  10am–4pm MT; 24-hour minimum notice; 15-minute buffers either side; bookings limited to
+  21 days out.** John's own links went live the same day (cal.com/john-calafiore/15min,
+  /30min, /45min, /60min) and were sent to Andrew.
+- **Open bug, and it matters:** testing showed **Cal.com does not block availability
+  against secondary calendars** (Andrew's Wolff Coaching calendar), so the tool will offer
+  slots he isn't actually free for. Flagged as a double-booking risk that must be fixed
+  **before links are shared externally**.
+- action #open (Andrew): fix the secondary-calendar blocking, then send **Chris Kyle** a
+  30-min link
+- category: Platform, Tools, and Infrastructure
+- source: Fathom recap, "CRM login and learn" 2026-08-13 (fathom.video/calls/783087731);
+  "Test Calendar" email 2026-08-13
+
+## 2026-08-13 CRM lockout ran deeper than the invite — reset flow was broken too, now fixed
+- The Aug 12 diagnosis was incomplete. Thursday's 91-minute session found that beyond the
+  expired invite, **the password reset flow itself failed with "invalid credentials,"** and
+  clearing cache and cookies didn't help. Nine days after the first report, Andrew still
+  could not get in.
+- John repaired the reset email that afternoon and posted the working path to Andrew:
+  login → "Forgot password?" → link in the fresh email → "You're almost in" → set a
+  password → **2FA setup screen** → code → dashboard. Signup completion is on Andrew.
+- Why it blocks more than Andrew: the lockout **prevents testing the new-lead automations**,
+  including the workflow meant to answer Travis Payne.
+- category: Platform, Tools, and Infrastructure
+- source: Fathom recap 2026-08-13; Slack DM to Andrew 2026-08-13
+- links: [[platform-tools-and-infrastructure#2026-08-12 CRM: Andrew locked out by a 24-hour invite expiry; Givebutter now flowing via API]]
+
+## 2026-08-13 Welcome automation tested — routes a signup to their named community
+- A test send from support@dudetalkdinners.org shows the new-lead welcome email working:
+  "Hi Sam, Thanks for your interest in joining a Dude Talk Dinners community. **We saw your
+  note about Idaho Springs and someone from that table will reach out soon** with details on
+  the next dinner." The template picks up the community the person named and promises a
+  local handoff — the automation the CRM lockout has been holding up.
+- The daily digest the same morning reported real movement: "**1 email sent · 2 follow-ups
+  created · 1 new user joined · 1 invite sent.**"
+- category: Platform, Tools, and Infrastructure
+- source: "[Test] Welcome to Dude Talk Dinners, Sam" + DTD reminders digest 2026-08-13
+
+## 2026-08-13 Candid rejected the wrong document — it needs the EIN issuance or affirmation letter
+- Candid will not accept a **letter of determination** for profile-manager verification
+  "as it is a **publicly available document on the IRS site**... we require documents that
+  are typically only available to authorized individuals of the organization." That is what
+  Wednesday's reply actually contained, despite being labelled as the EIN letter.
+- Only two documents work: the **EIN issuance letter** (the first letter the IRS sent after
+  assigning the EIN) or an **IRS affirmation letter dated after 2000**. Replacements: IRS
+  Business & Specialty Tax Line **800-829-4933** for the EIN letter, **800-829-3676** or
+  IRS.gov/forms for an affirmation letter. Candid attached acceptable and non-acceptable
+  examples.
+- A "Welcome to Candid" email arrived the same morning, so the account exists — only the
+  manage-profile permission is pending.
+- action #open (John): locate the actual EIN issuance letter (CP 575) or request an
+  affirmation letter, and resend
+- category: Platform, Tools, and Infrastructure
+- source: "Candid - Profile Permissions follow up" 2026-08-13
+- links: [[platform-tools-and-infrastructure#2026-08-12 Candid profile claim in progress — identity verification requested]]
+
+## 2026-08-14 Search Console: one more Events structured data issue
+- A further alert: "your site is affected by **1 Events structured data issue(s)**" — on top
+  of the 6 flagged Aug 9 and the duplicate-canonical problem from Aug 10. Three
+  site-health notices in six days, all still unaddressed in the record.
+- category: Platform, Tools, and Infrastructure
+- source: Google Search Console email 2026-08-14
+- links: [[platform-tools-and-infrastructure#2026-08-09 Search Console flags 6 Events structured data issues on dudetalkdinners.org]]
 
 ## 2026-08-12 CRM: Andrew locked out by a 24-hour invite expiry; Givebutter now flowing via API
 - Root cause found for the auth-invite problem that's been open since Aug 5: the

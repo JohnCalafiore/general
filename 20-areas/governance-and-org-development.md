@@ -1,6 +1,6 @@
 ---
 area: Governance and Organizational Development
-updated: 2026-08-12
+updated: 2026-08-14
 tags: [area]
 ---
 
@@ -14,6 +14,44 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[governance-and-org-development#...]] and harvested by the brief. -->
+
+## 2026-08-13 Insurance follow-up: the cancellation notice crossed the invoice in the mail
+- A second notice arrived — **Maryanne Munz** (LF Insurance Group): "your payment is past
+  due with **Builders & Tradesmen's Insurance Services (BTIS)**. The payment of $512 is due
+  by August 25, 2026."
+- Ken's reply supplies the explanation worth keeping: the invoice "**finally [arrived] on
+  Monday August 10th. Seems they sent the cancellation at the same time**" — DTD was told
+  to wait for an invoice, then billed as delinquent when it landed. "Trusting that the
+  invoice was paid prior to the 25th that the policies are indeed in force."
+- Confirmation that the policies remain in force has not arrived in the record.
+- category: Governance and Organizational Development
+- source: "Re: Non-Pay Cancellation Reminder - Dude Talk Dinners, Inc." 2026-08-13
+- links: [[governance-and-org-development#2026-08-12 Insurance near-miss: cancellation notice on the DTD policy, paid same day]], [[relationships#Maryanne Munz]]
+
+## 2026-08-13 Chris Peterson back on email; Ken closes the board LinkedIn action
+- Chris Peterson asked the group: "Any chance someone can send me instructions (or at least
+  clues) on **how to add DTD org as a volunteer position on LinkedIn**? I made some attempts
+  over the past week and for the life of me can[not]..." — the practical version of the
+  board's LinkedIn ask from July.
+- Ken took it immediately — "Would be glad to walk you through that update. Will reach out
+  by phone momentarily" — which resolves his outstanding action to send board members
+  LinkedIn profile-update details, at least for CP.
+- Context from Ken's greeting: he's glad she's "**back on the email train**" and "**well on
+  the path to full recovery**," which explains her limited availability through mid-August.
+- action #done (Ken): walk board members through the LinkedIn volunteer-position update
+- category: Governance and Organizational Development
+- source: "LinkedIn" thread 2026-08-13
+- links: [[funding-and-financial-development#2026-07-22 Board fundraising asks: 100% giving, network outreach, $250K seed fund]]
+
+## 2026-08-13 Unassigned: who picks up the PO Box mail
+- Left undecided in Thursday's session — an action item logged against **both John and
+  Andrew**: "**Decide PO Box mail pickup owner (John vs Chris)**." DTD's mailing address is
+  PO Box 992, Idaho Springs, and the insurance invoice that nearly lapsed the policy came
+  by post, so this is not merely administrative.
+- Which Chris is meant isn't stated (see needs-clarification).
+- action #open (John/Andrew): assign PO Box pickup
+- category: Governance and Organizational Development
+- source: Fathom recap, "CRM login and learn" 2026-08-13
 
 ## 2026-08-12 Insurance near-miss: cancellation notice on the DTD policy, paid same day
 - Broker **Ryan Davis (LF Insurance Group, Golden CO)** to Andrew and Ken: "I received the

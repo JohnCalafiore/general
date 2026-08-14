@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-13
+updated: 2026-08-14
 tags: [inbox]
 ---
 
@@ -18,6 +18,15 @@ Format the agent uses:
 ```
 
 <!-- entries begin below -->
+
+## 2026-08-14 Who is Chris Kyle, and which Chris owns the PO Box?
+- quotes: from the Aug 13 recap — "Once fixed, **share the Cal.com link with Chris Kyle**"
+  (Andrew's action) and "**Decide PO Box mail pickup owner (John vs Chris)**."
+- context: "Chris Kyle" appears nowhere else in the record and is not Chris Gould or Chris
+  Peterson by name. The PO Box "Chris" is unstated — Peterson and Gould are both plausible.
+- question: who is Chris Kyle (prospect? partner? facilitator lead?), and which Chris is
+  the PO Box option? I'll file both properly once I know.
+- answer:
 
 ## 2026-08-13 Who is Jake, and which testimonial clips is Andrew sending him?
 - quote: action item from the Aug 12 recap — "**Email Jake 2–3 short testimonial clips**"

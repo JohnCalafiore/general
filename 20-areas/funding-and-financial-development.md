@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-08-13
+updated: 2026-08-14
 tags: [area]
 ---
 
@@ -14,6 +14,33 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-08-13 PayPal charity status confirmed — reduced rate of 1.99%, Venmo now available
+- "Congratulations! **The charitable status of your account has been confirmed. You'll now
+  get our reduced rate of 1.99%**" — closing the action open since Aug 3 and cutting the
+  processing cost on every PayPal donation. PayPal also invited DTD to **create a Venmo
+  charity profile**, a third donation rail alongside PayPal and Givebutter.
+- action #done (John): confirm PayPal charity status
+- action #open (John/Andrew): decide whether to add a Venmo charity profile
+- category: Funding and Financial Development
+- source: "You're a PayPal confirmed charity" + Venmo invitation 2026-08-13
+- links: [[funding-and-financial-development#2026-08-03 PayPal account live and verified for DTD]]
+
+## 2026-08-13 Budget review with Ken finally happened — no content captured
+- Ken **accepted the rescheduled Thursday slot** (shortened to 11:30am–12:00pm) two hours
+  before it ran, after declining the earlier version. Neither Granola nor Fathom captured
+  it, so what the budget landed on before the board meeting still isn't in the vault.
+- category: Funding and Financial Development
+- source: calendar acceptance 2026-08-13; absence of meeting capture
+- links: [[funding-and-financial-development#2026-08-12 Budget follow-up stalled: Ken declined Thursday's session, nothing rebooked]]
+
+## 2026-08-14 Second DPP session offered: AI for donor outreach, Tue Aug 18
+- Louis Diez invited John to an "**AI Practice Session: Prospect Strategy at Scale — Using
+  AI to Build and Personalize Donor Outreach Plans**," Tue Aug 18, 11am–12pm MDT on Zoom.
+  A hands-on follow-up to the Aug 12 roundtable; no registration in the record yet.
+- category: Funding and Financial Development
+- source: Luma invitation 2026-08-14
+- links: [[30-resources/ai-for-nonprofits-dpp-roundtable|AI for nonprofits — DPP roundtable]]
 
 ## 2026-08-12 DECISION: budget a $52k Year 1 Fundraising Manager against a 3x ROI target
 - The 116-minute Wednesday session named the underlying problem plainly — "**we lack

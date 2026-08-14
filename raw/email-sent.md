@@ -1,24 +1,39 @@
 # Raw dump — Gmail sent
 
-Harvest window: 2026-08-12 → 2026-08-13 (America/Denver)
+Harvest window: 2026-08-13 → 2026-08-14 (America/Denver)
 
 ---
 
-## gmailsent-clubfair-20260812 Re: Clear Creek County Library District Possible Club Fair
-
-from: john.calafiore@dudetalkdinners.org, cc Andrew Wolff
-date: 2026-08-12 11:51 MT
-
-"Hi Courtney, This sounds like a wonderful idea, and we would certainly be interested.
-Thanks for thinking of us!"
-
----
-
-## gmailsent-candid-20260812 Re: [Action required] Candid needs more information
+## gmailsent-calcomlinks-20260813 Test Calendar
 
 from: john.calafiore@dudetalkdinners.org
-to: support@candid.org
-date: 2026-08-12 16:21 MT
+to: andrew.wolff@dudetalkdinners.org
+date: 2026-08-13 11:23 MT
 
-"Please see attached IRS EIN Issuance Letter. Thank you." Signed **John Calafiore, Chief
-Operating Officer, Dude Talk Dinners**.
+John's four Cal.com booking links, sent minutes after the CRM/scheduling session:
+- 15 mins: https://cal.com/john-calafiore/15min
+- 30 mins: https://cal.com/john-calafiore/30min
+- 45 mins: https://cal.com/john-calafiore/45min
+- 60 mins: https://cal.com/john-calafiore/60min
+
+---
+
+## gmailsent-welcometest-20260814 [Test] Welcome to Dude Talk Dinners, Sam
+
+from: support@dudetalkdinners.org
+date: 2026-08-13 21:37 MT
+
+A test of the **new-lead welcome automation**: "Hi Sam, Thanks for your interest in joining
+a Dude Talk Dinners community. **We saw your note about Idaho Springs and someone from that
+table will reach out soon** with details on the next dinner. In the [meantime]..." — the
+template routes a signup to the named community.
+
+---
+
+## gmailsent-mikemayer-20260813 Re: Facilitator Bio and Pic
+
+from: john.calafiore@dudetalkdinners.org
+to: mike@buildterraform.com
+date: 2026-08-13 07:21 MT
+
+"Sounds good, thank you!"

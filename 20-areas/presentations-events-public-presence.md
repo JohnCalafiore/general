@@ -1,6 +1,6 @@
 ---
 area: Presentations, Events, and Public Presence
-updated: 2026-08-13
+updated: 2026-08-15
 tags: [area]
 ---
 
@@ -14,6 +14,21 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[presentations-events-public-presence#...]] and harvested by the brief. -->
+
+## 2026-08-14 DTD's messaging split, stated plainly: upstream intervention inside, "just dinner" outside
+- The clearest articulation yet of DTD's positioning problem, from the Man Therapy call:
+  the org must **leverage its mental-health impact for funding and grants without using
+  "therapy" language that creates a barrier for attendees**.
+  - **Internal / funder framing:** DTD is an **upstream mental health intervention** —
+    evidenced by the RMCP opioid grant and **facilitator suicide-prevention training from
+    Rocky Mountain Crisis Partners**.
+  - **Public framing:** "**It's just dinner, connection, and conversation.**"
+- The rationale is explicit — lower the barrier for men who would not seek formal therapy.
+  Worth treating as canonical language for anything public-facing, including Frankie's
+  content and the Man Therapy copy.
+- category: Presentations, Events, and Public Presence
+- source: Fathom recap, "DTD : Man Therapy" 2026-08-14
+- links: [[partnerships-and-strategic-relationships#2026-08-14 DECISION: Man Therapy will promote DTD — a tile and a blog post, no "partner" language]], [[presentations-events-public-presence#2026-08-11 Three content concepts on the table — including a staged "model dinner"]]
 
 ## 2026-08-12 Club Fair invitation: Idaho Springs Public Library, Thu Sept 24, 3–7pm
 - **Courtney Botner** of the **Clear Creek County Library District** is "considering

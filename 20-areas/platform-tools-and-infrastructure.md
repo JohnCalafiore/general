@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-08-14
+updated: 2026-08-15
 tags: [area]
 ---
 
@@ -14,6 +14,57 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-08-14 The new DTD website is live
+- John's board-report line, stated flatly: "**New DTD website is live and active!**" — the
+  refresh that has been "on track within the next 10 days" since Aug 6, and the thing Erik
+  called "a huge win" for the Buena Vista chapter page. Alongside it: "**CRM testing live**."
+- category: Platform, Tools, and Infrastructure
+- source: John's board-report draft, Slack DM to Andrew 2026-08-14
+- links: [[support-for-existing-communities#2026-08-06 Startup materials taking shape: facilitator guide, welcome video, site refresh]]
+
+## 2026-08-14 The whole automated-email suite tested in one sitting — seven templates
+- Every CRM email template was exercised end to end from support@dudetalkdinners.org, and
+  the copy is worth keeping since it's now DTD's automated voice:
+  - **Newsletter welcome** — candid about status: the newsletter "**is currently in
+    development**."
+  - **Donation thank-you** — "Thank you for your gift of $50.00... **Givebutter has sent
+    your tax receipt separately; this note is just us saying it matters. Your support keeps
+    the table set.**" (This is the acknowledgment layer the Aug 12 session was for.)
+  - **General inquiry** — "**A real person reads every message.**"
+  - **Intro / good to meet you** — "men gather over dinner for **real conversation, with
+    real dudes, making real connections**."
+  - **Wants to support** — "Your generosity **keeps seats at the table**."
+  - **Wants to start a community** — "That takes initiative, and **that's how each Dinner
+    begins**."
+  - **Community welcome** — reworded from Aug 13 to say "joining a Dude Talk **Dinner**"
+    and "someone from that **Community**," capitalizing Dinner and Community per the
+    house style.
+- A test signup ("Test Tester," Idaho Springs, org-level) also ran through the form to the
+  CRM the same afternoon.
+- category: Platform, Tools, and Infrastructure
+- source: seven "[Test]" sends + signup-form notification 2026-08-14
+- links: [[platform-tools-and-infrastructure#2026-08-13 Welcome automation tested — routes a signup to their named community]]
+
+## 2026-08-14 Cal.com's first real booking; Andrew's page is live too
+- Andrew posted **cal.com/andrew-wolff/30min** in Slack and a **30-minute Andrew/John
+  meeting was booked for Tue Aug 18** through it — the setup works for real bookings one
+  day after being configured. The cross-calendar blocking bug is still unresolved in the
+  record, so external sharing remains the risk to watch.
+- category: Platform, Tools, and Infrastructure
+- source: Cal.com confirmation email + Slack DM 2026-08-14
+- links: [[platform-tools-and-infrastructure#2026-08-13 DECISION: Cal.com is DTD's scheduling tool — free tier, with one blocking bug]]
+
+## 2026-08-14 Search Console validating the structured-data fixes; Andrew requests a Workspace upgrade
+- Google has **started validating the Events structured-data fixes** for dudetalkdinners.org
+  — so the issues flagged Aug 9 and Aug 14 were addressed, though the duplicate-canonical
+  problem from Aug 10 hasn't been mentioned since.
+- Separately, **Andrew requested a Google Workspace upgrade to Business Standard**, pending
+  an admin decision. Worth connecting to Thursday's reasoning, where a $3/user/mo Workspace
+  upgrade was rejected as too expensive across 10+ accounts.
+- action #open (John, as admin): decide on Andrew's Business Standard request
+- category: Platform, Tools, and Infrastructure
+- source: Search Console validation email + Workspace notification 2026-08-14
 
 ## 2026-08-13 DECISION: Cal.com is DTD's scheduling tool — free tier, with one blocking bug
 - Google Calendar's free booking pages capped DTD at **one booking page per user**, which

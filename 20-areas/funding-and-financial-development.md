@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-08-14
+updated: 2026-08-15
 tags: [area]
 ---
 
@@ -14,6 +14,36 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-08-14 Budget update for the board: contract fundraiser plus a sustainability reserve fund
+- John's own summary of where the budget landed: "Latest iteration of budget updated and
+  **progress will be shared at the board meeting**. Notable updates include **adding a
+  fundraising position (contract) in year 1**, **adding a sustainability reserve fund that
+  takes surplus funds and allocates them to supporting communities**, and general
+  streamlining of budget format."
+- Two things this pins down: the $52k fundraiser is budgeted as a **contract** role, and
+  the "Community Support Fund" concept from Aug 10 now exists in the document as a
+  **sustainability reserve fund fed by surplus** — a mechanism, not just an aspiration.
+- category: Funding and Financial Development
+- source: John's board-report draft, Slack DM to Andrew 2026-08-14
+- links: [[funding-and-financial-development#2026-08-10 DECISION: a "Community Support Fund" replaces the assumption that in-kind donations last]], [[funding-and-financial-development#2026-08-12 DECISION: budget a $52k Year 1 Fundraising Manager against a 3x ROI target]]
+
+## 2026-08-14 New grant lead: Elevents Health foundation, cycle opens January
+- Trip Starkey's funding suggestion in the Man Therapy call — apply to the **Elevents
+  Health foundation grant cycle**, which **opens in January**. Noted against DTD's stated
+  need for operating funds "and to pay its founders."
+- action #open: put the Elevents Health cycle on the grant calendar for January
+- category: Funding and Financial Development
+- source: Fathom recap, "DTD : Man Therapy" 2026-08-14
+- links: [[partnerships-and-strategic-relationships#2026-08-14 Trip's two leads: a pro bono lawyer route and the Elevents Health grant cycle]]
+
+## 2026-08-14 PayPal Giving Fund enrollment confirmed
+- "We're excited to welcome **Dude Talk Dinners, Inc to PayPal Giving Fund**" — the day
+  after charity status and the 1.99% rate were confirmed. Giving Fund listing exposes DTD
+  to PayPal/eBay-driven donation surfaces beyond its own checkout.
+- category: Funding and Financial Development
+- source: PayPal Giving Fund welcome email 2026-08-14
+- links: [[funding-and-financial-development#2026-08-13 PayPal charity status confirmed — reduced rate of 1.99%, Venmo now available]]
 
 ## 2026-08-13 PayPal charity status confirmed — reduced rate of 1.99%, Venmo now available
 - "Congratulations! **The charitable status of your account has been confirmed. You'll now

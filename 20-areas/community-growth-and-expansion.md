@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-08-14
+updated: 2026-08-15
 tags: [area]
 ---
 
@@ -14,6 +14,26 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-08-14 Growth numbers on the record: 29 men at Grand Junction, interest from four new states
+- Two facts stated to Man Therapy and worth keeping: the **Grand Junction launch drew 29
+  men**, and DTD is fielding inquiries from **Brooklyn, Connecticut, Wyoming, and Idaho** —
+  the first out-of-Colorado interest in the record, and the reason "scalable infrastructure"
+  keeps coming up. DTD remains at **7 communities**.
+- category: Community Growth and Expansion
+- source: Fathom recap, "DTD : Man Therapy" 2026-08-14
+- links: [[governance-and-org-development#2026-07-30 Liability: formal Community Agreement needed]]
+
+## 2026-08-14 Travis Payne answered by hand rather than by automation
+- John sent the standard warm-outreach email to **travisrobertpayne@gmail.com** (cc
+  Andrew): "It means a lot that you see what we're building... We would love to learn more
+  about you, what drew you to [DTD]." The plan had been to reply through the new-lead
+  automation, but with the CRM still being tested the reply went manually — two days after
+  the form came in.
+- action #done (John): reply to Travis Payne
+- category: Community Growth and Expansion
+- source: "Dude Talk Dinners Reaching Out" sent 2026-08-14
+- links: [[community-growth-and-expansion#2026-08-13 Travis Payne is a Cañon City lead — reply still blocked by the CRM]]
 
 ## 2026-08-13 Travis Payne is a Cañon City lead — reply still blocked by the CRM
 - Thursday's session added the missing detail: Travis Payne is from **Canyon City**

@@ -1,6 +1,6 @@
 ---
 area: Support for Existing Communities
-updated: 2026-08-13
+updated: 2026-08-15
 tags: [area]
 ---
 
@@ -14,6 +14,16 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[support-for-existing-communities#...]] and harvested by the brief. -->
+
+## 2026-08-14 Military and veterans culture training in development for facilitators
+- From John's board-report draft: "**Met with Daniel, a mental health professional at the
+  VA, for the 'military and veterans culture' training with Ronnie (Conifer Facilitator and
+  veteran). Process in development.**" A second facilitator-training track alongside the
+  suicide-prevention training RMCP provides — and the first time Ronnie is identified as a
+  **veteran** as well as the Conifer facilitator.
+- category: Support for Existing Communities
+- source: John's board-report draft, Slack DM to Andrew 2026-08-14
+- links: [[presentations-events-public-presence#2026-08-14 DTD's messaging split, stated plainly: upstream intervention inside, "just dinner" outside]]
 
 ## 2026-08-12 Mike Mayer commits to sending his bio and photo
 - "Hey! Yes, let me find some time to make this happen" — replying to John's Aug 6 request.

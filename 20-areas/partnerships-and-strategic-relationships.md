@@ -1,6 +1,6 @@
 ---
 area: Partnerships and Strategic Relationships
-updated: 2026-08-11
+updated: 2026-08-15
 tags: [area]
 ---
 
@@ -14,6 +14,60 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[partnerships-and-strategic-relationships#...]] and harvested by the brief. -->
+
+## 2026-08-14 DECISION: Man Therapy will promote DTD — a tile and a blog post, no "partner" language
+- The Friday call (54 minutes, Trip Starkey + Andrew + John) landed the partnership.
+  **Man Therapy will promote DTD on mantherapy.org**:
+  - a **resource tile** linking directly to DTD's "Find a Community" / "Start a Community"
+    page, and
+  - a **short blog post** on the benefits of in-person connection, holding DTD up as a
+    model.
+- Two deliberate choices in the framing: DTD is presented as a **community-building
+  resource, not formal therapy**, and the copy **avoids "partner" language to keep the tone
+  informal**. The stated purpose is to act as a **gateway for men who aren't ready for
+  formal therapy but are looking for community** — Man Therapy's audience is exactly the
+  population DTD wants at the table.
+- action #open (Trip): draft the promotional language and send it to Andrew and John
+- action #open (Andrew/John): review and approve the draft; send Trip a mailing address
+  (he's mailing DTD's founders copies of the **Man Therapy book**)
+- action #open (Trip): **visit a DTD dinner** — Idaho Springs or Conifer
+- category: Partnerships and Strategic Relationships
+- source: Fathom recap, "DTD : Man Therapy" 2026-08-14 (fathom.video/calls/783655285)
+- links: [[relationships#Trip Starkey]], [[partnerships-and-strategic-relationships#2026-08-04 Man Therapy (Grit Digital Health) reopens contact]]
+
+## 2026-08-14 Trip's two leads: a pro bono lawyer route and the Elevents Health grant cycle
+- DTD named its two infrastructure gaps in the meeting — **funding for operations and to
+  pay its founders**, and a **pro bono nonprofit lawyer** to formalize the legal
+  relationship between the central 501(c)(3) and its communities through a **scalable
+  agreement**. Trip offered a route to each:
+  - **Legal:** he'll ask his colleague **Joe** for pro bono nonprofit lawyer contacts, and
+    pointed to the **Colorado Nonprofit Development Center (CNDC)**.
+  - **Funding:** apply to the **Elevents Health foundation grant cycle**, which **opens in
+    January**.
+- The legal ask has been open since the Jul 30 Leadership Circle; this is the first
+  concrete lead on it.
+- action #open (Trip): ask Joe for lawyer referrals and share with Andrew/John
+- action #open (Andrew): invite Joe to join Trip at a dinner
+- category: Partnerships and Strategic Relationships
+- source: Fathom recap, "DTD : Man Therapy" 2026-08-14
+- links: [[governance-and-org-development#2026-07-30 Liability: formal Community Agreement needed]], [[funding-and-financial-development#2026-08-14 New grant lead: Elevents Health foundation, cycle opens January]]
+
+## 2026-08-14 The Busyhead Project featured DTD — Noah Kahan's nonprofit, 94k followers
+- From John's board-report draft: "**The Busyhead Project added DTD to their 'August Call
+  to Action' Instagram story** (this is **Noah Kahan's nonprofit, @thebusyheadproject, 94k
+  followers on IG**)." A national mental-health nonprofit with a large audience pointing at
+  DTD, unprompted as far as the record shows.
+- category: Partnerships and Strategic Relationships
+- source: John's board-report draft, Slack DM to Andrew 2026-08-14
+
+## 2026-08-14 Andrew to pitch CDPHE's Office of Suicide Prevention newsletter
+- Action out of the Man Therapy call: **Andrew to email CDPHE OSP ("Diamond") about
+  newsletter inclusion for Dude Talk Dinners** — another distribution channel through an
+  existing state relationship (DTD already knows Jazmin Murguia and Katherine Harvey there).
+- action #open (Andrew): email CDPHE OSP re newsletter inclusion
+- category: Partnerships and Strategic Relationships
+- source: Fathom recap, "DTD : Man Therapy" 2026-08-14
+- links: [[relationships#Jazmin Murguia]]
 
 ## 2026-08-10 Frankie Spontelli offers content help — a 47k-follower creator from the BV table
 - Erik Jacobsen introduced **Frankie Spontelli** (Frankie@destinationiq.com) to Andrew and

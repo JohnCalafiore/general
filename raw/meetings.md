@@ -1,17 +1,16 @@
 # Raw dump — Meetings (Granola / Fathom)
 
-Harvest window: 2026-08-13 → 2026-08-14 (America/Denver)
+Harvest window: 2026-08-14 → 2026-08-15 (America/Denver)
 
 ---
 
-## meet-fathom-crmlogin-20260813 Fathom: "CRM login and learn" (91 min)
+## meet-fathom-mantherapy-20260814 Fathom: "DTD : Man Therapy" (54 min)
 
-Recorded and recapped in full; content harvested via the recap email (see
-raw/email-inbox.md).
+DTD's first externally-attended meeting captured by Fathom this month. Recorded and
+recapped in full; content harvested via the recap email (see raw/email-inbox.md).
 
 ---
 
-## meet-granola-none-20260813 Granola: nothing captured Aug 13
+## meet-granola-none-20260814 Granola: nothing captured Aug 14
 
-Granola recorded no meetings on Aug 13, including the 11:30 Budget Review with Ken. Fathom
-covered the morning CRM session only, so the budget conversation again left no content.
+Granola returned no meetings for Aug 14. Fathom covered the Man Therapy call.

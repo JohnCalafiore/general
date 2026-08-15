@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-14
+updated: 2026-08-15
 tags: [grounding, people]
 ---
 
@@ -201,9 +201,11 @@ Format — one H2 per person:
 - source: "Clear Creek County Library District Possible Club Fair" thread 2026-08-12
 
 ## Travis Payne
-- relationship: submitted the DTD website contact form on 2026-08-12; no message content in
-  the notification and no email address captured yet
-- source: HubSpot form notification 2026-08-12
+- email: travisrobertpayne@gmail.com
+- relationship: inbound lead from **Cañon City** — submitted the DTD website contact form
+  Aug 12; John sent the warm-outreach reply Aug 14 (cc Andrew). No DTD community there yet.
+- source: HubSpot form notification 2026-08-12; Fathom recap 2026-08-13; outreach email
+  2026-08-14
 
 ## Ryan Davis
 - org: **LF Insurance Group**, 12851 W 43rd Dr. Ste #2, Golden CO 80403 — DTD's insurance
@@ -282,10 +284,11 @@ Format — one H2 per person:
 - source: "Dude Talk Dinners Reaching Out" thread 2026-07-30 → 2026-08-06
 
 ## Ronnie (Conifer)
-- relationship: leads the Conifer DTD team — credited by Andrew for the community's
-  successful second dinner. Likely Ronnie Demanna (ronnie.demanna@huntington.com) from
-  the Leadership Circle list, unconfirmed.
-- source: Leadership Circle recap 2026-08-05
+- relationship: **Conifer facilitator and a veteran** — leads the Conifer DTD team, credited
+  by Andrew for the community's successful second dinner, and now working with Daniel (VA)
+  on a "military and veterans culture" facilitator training. Likely Ronnie Demanna
+  (ronnie.demanna@huntington.com) from the Leadership Circle list, unconfirmed.
+- source: Leadership Circle recap 2026-08-05; John's board-report draft 2026-08-14
 
 ## Cody Speece, MPH, CHES®
 - org: Weld County Department of Public Health and Environment — Health Education
@@ -307,8 +310,12 @@ Format — one H2 per person:
 - org: Man Therapy® / Grit Digital Health — **VP of Partnerships** (he/him),
   mantherapy.org
 - email: trip@gritdigitalhealth.com
-- relationship: reconnecting with Andrew and John; available Fri Aug 14
-- source: "Man Therapy® / Dude Talk Dinners" thread 2026-08-06
+- relationship: met Andrew and John Aug 14 and **agreed to promote DTD on the Man Therapy
+  site** (resource tile + blog post). Offered two leads: pro bono nonprofit lawyer contacts
+  via his colleague **Joe** and the **CNDC**, and the **Elevents Health** grant cycle. Plans
+  to attend a DTD dinner (Idaho Springs or Conifer) and is mailing DTD's founders copies of
+  the Man Therapy book.
+- source: "Man Therapy® / Dude Talk Dinners" thread 2026-08-06; Fathom recap 2026-08-14
 
 ## Art Ginley
 - email: artginley@gmail.com

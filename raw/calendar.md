@@ -1,31 +1,18 @@
 # Raw dump — Google Calendar
 
-Harvest window: 2026-08-13 → 2026-08-18 (America/Denver)
+Harvest window: 2026-08-14 → 2026-08-19 (America/Denver)
 
 ---
 
-## cal-budgetreview-accepted-20260813 Budget Review — moved to 11:30–12:00, Ken accepted
+## cal-mantherapy-held-20260814 DTD : Man Therapy — held Fri Aug 14, 9:30–10am MDT
 
-The Thursday budget review Ken declined on Aug 11 was **shortened to 11:30am–12:00pm and
-Ken accepted it** on Aug 13 at 11:21 MT. It ran back-to-back after the CRM session.
-
----
-
-## cal-loginsw9-20260813 "Logins and W-9" — Thu Aug 13, 12:00–1:15pm
-
-Self-booked working block created by John on Aug 13 (no attendees, no description). The
-title suggests account/credential cleanup plus a W-9 — first appearance of a W-9 in the
-record.
+Trip Starkey, Andrew Wolff, and John Calafiore, all accepted. Ran 54 minutes (past the
+half-hour booked) and was captured by Fathom.
 
 ---
 
-## cal-thu-block-20260813 "block" — Thu Aug 13, 1:30–4:30pm
+## cal-quiet-20260817 The week ahead is thin so far
 
-Unchanged three-hour hold, John only.
-
----
-
-## cal-upcoming-20260817 Upcoming, unchanged
-
-- DTD : Man Therapy — Fri Aug 14, 9:30–10:00 MDT (Trip Starkey, Andrew, John — all accepted)
-- Intro to Dude Talk Dinners w/ Art — Mon Aug 17, 1:00–1:30 MDT (Art accepted)
+Only one event on the calendar through Aug 19: **Intro to Dude Talk Dinners w/ Art**, Mon
+Aug 17, 1:00–1:30pm MDT (Art Ginley accepted). The Aug 18 Andrew/John 30-minute meeting
+booked through Cal.com does not appear on this calendar view.

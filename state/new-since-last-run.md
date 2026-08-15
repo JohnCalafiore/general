@@ -1,321 +1,334 @@
-<!-- generated 2026-08-14T07:12:49+00:00 | 26 new of 26 blocks; synthesis must read ONLY this file, not raw/ -->
+<!-- generated 2026-08-15T07:08:17+00:00 | 25 new of 25 blocks; synthesis must read ONLY this file, not raw/ -->
 
 <!-- source: calendar.md -->
 # Raw dump — Google Calendar
 
-Harvest window: 2026-08-13 → 2026-08-18 (America/Denver)
+Harvest window: 2026-08-14 → 2026-08-19 (America/Denver)
 
 ---
 
 <!-- source: calendar.md -->
-## cal-budgetreview-accepted-20260813 Budget Review — moved to 11:30–12:00, Ken accepted
+## cal-mantherapy-held-20260814 DTD : Man Therapy — held Fri Aug 14, 9:30–10am MDT
 
-The Thursday budget review Ken declined on Aug 11 was **shortened to 11:30am–12:00pm and
-Ken accepted it** on Aug 13 at 11:21 MT. It ran back-to-back after the CRM session.
-
----
-
-<!-- source: calendar.md -->
-## cal-loginsw9-20260813 "Logins and W-9" — Thu Aug 13, 12:00–1:15pm
-
-Self-booked working block created by John on Aug 13 (no attendees, no description). The
-title suggests account/credential cleanup plus a W-9 — first appearance of a W-9 in the
-record.
+Trip Starkey, Andrew Wolff, and John Calafiore, all accepted. Ran 54 minutes (past the
+half-hour booked) and was captured by Fathom.
 
 ---
 
 <!-- source: calendar.md -->
-## cal-thu-block-20260813 "block" — Thu Aug 13, 1:30–4:30pm
+## cal-quiet-20260817 The week ahead is thin so far
 
-Unchanged three-hour hold, John only.
-
----
-
-<!-- source: calendar.md -->
-## cal-upcoming-20260817 Upcoming, unchanged
-
-- DTD : Man Therapy — Fri Aug 14, 9:30–10:00 MDT (Trip Starkey, Andrew, John — all accepted)
-- Intro to Dude Talk Dinners w/ Art — Mon Aug 17, 1:00–1:30 MDT (Art accepted)
+Only one event on the calendar through Aug 19: **Intro to Dude Talk Dinners w/ Art**, Mon
+Aug 17, 1:00–1:30pm MDT (Art Ginley accepted). The Aug 18 Andrew/John 30-minute meeting
+booked through Cal.com does not appear on this calendar view.
 
 ---
 
 <!-- source: email-inbox.md -->
 # Raw dump — Gmail inbox
 
-Harvest window: 2026-08-13 → 2026-08-14 (America/Denver)
+Harvest window: 2026-08-14 → 2026-08-15 (America/Denver)
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-fathom-crmlogin-20260813 Recap for "CRM login and learn"
+## gmail-fathom-mantherapy-20260814 Recap: "DTD : Man Therapy" (54 min)
 
 from: Fathom <no-reply@fathom.video>
-date: 2026-08-13 11:32 MT — meeting Aug 13, **91 minutes**
-link: https://fathom.video/calls/783087731
+date: 2026-08-14 10:26 MT — meeting Aug 14
+link: https://fathom.video/calls/783655285
 
-Meeting purpose: troubleshoot CRM access and select a new scheduling tool.
+Meeting purpose: explore a promotional partnership between Man Therapy and Dude Talk
+Dinners.
 
 Key takeaways:
-- **CRM Access Blocked:** Andrew is locked out. The invitation link is expired **and the
-  password reset flow fails**, preventing testing of new automations.
-- **Scheduling Tool Pivot:** Google Calendar's free tier is too restrictive (one booking
-  page per user). Adopting **Cal.com's free plan**; Calendly and Setmore rejected.
-- **Cal.com Setup Complete:** Andrew's account configured with 30/45/60-min event types,
-  24-hour minimum notice, 15-min buffers, 21-day booking window.
-- **Critical Bug Found:** Cal.com **fails to block availability for events on secondary
-  calendars**, creating double-booking risk.
+- **Partnership Agreed:** Man Therapy will promote DTD on its site, framing it as a
+  community-building resource for men seeking connection, **not as formal therapy**.
+- **Strategic Messaging:** the partnership navigates DTD's core challenge — how to leverage
+  its mental-health impact for funding and grants **without using "therapy" language that
+  creates a barrier for attendees**.
+- **DTD's Growth:** 7 communities, with interest from **Brooklyn, Connecticut, Wyoming, and
+  Idaho** — an urgent need for scalable infrastructure.
+- **DTD's Needs:** funding for operations, and a **pro bono nonprofit lawyer** to formalize
+  community agreements.
 
 Topics:
-- CRM access — invite link expired; password reset returned "**invalid credentials**";
-  clearing cache and cookies didn't help. Significance: blocks testing of new automations,
-  "including a workflow for new leads like **Travis Payne**."
-- Scheduling tool selection — Google's free tier allows only one booking page per user.
-  Rejected: **Google Calendar upgrade** ($3/user/mo, applied across 10+ DTD Workspace
-  accounts); **Calendly** (~$15/user/mo); **Setmore** (free plan is **one-way sync**, so
-  events added directly in Google Calendar don't block Setmore availability). Selected:
-  **Cal.com** — free individual plan gives unlimited booking pages and event types; team
-  scheduling would need $12–$16/user/mo, acceptable to defer.
-- Cal.com config — event types 30/45/60 min; availability **Tue–Fri, 10am–4pm MT**;
-  minimum notice 24h; 15-min buffers either side; bookings limited to 21 calendar days.
-- The bug — Cal.com doesn't block against **secondary calendars** (e.g. Andrew's **Wolff
-  Coaching** calendar); must be fixed before links are shared.
+- Growth & strategic challenge — the **Grand Junction launch drew 29 men**. Internal
+  framing: DTD is an **upstream mental health intervention**, evidenced by the new opioid
+  grant and **facilitator suicide-prevention training from Rocky Mountain Crisis Partners**.
+  Public framing: "**It's just dinner, connection, and conversation.**"
+- The partnership — Trip proposed a **resource tile** on the Man Therapy site linking
+  directly to DTD's "Find a Community" or "Start a Community" page, plus a **short blog
+  post** on the benefits of in-person connection highlighting DTD as a model. Messaging
+  deliberately **avoids "partner" language to keep the tone informal**; the rationale is to
+  act as a gateway for men not ready for formal therapy.
+- Infrastructure needs — funding for operations **and to pay its founders**. Trip's lead:
+  the **Elevents Health foundation grant cycle (opens January)**. Legal: a pro bono
+  nonprofit lawyer to formalize the relationship between the central 501(c)(3) ("Dude
+  Central") and its communities via a **scalable agreement**; Trip will ask his colleague
+  **Joe** for contacts and suggested the **Colorado Nonprofit Development Center (CNDC)**.
 
 Action items:
-- John: investigate and fix Andrew's CRM access; **resend the CRM invite**, then Andrew
-  completes signup
-- John: **reply to Travis Payne (Canyon City) lead via automation**
-- John: test Claude speed vs quality on the current project
-- John & Andrew: **decide who owns PO Box mail pickup (John vs Chris)**
-- John & Andrew: test Cal.com cross-calendar blocking; then Andrew sends **Chris Kyle** a
-  30-min link
+- Trip: draft DTD promotional language for the Man Therapy site and send to Andrew/John;
+  **visit a DTD dinner (Idaho Springs or Conifer)**; **mail DTD founders copies of the Man
+  Therapy book**; ask Joe for pro bono lawyer referrals
+- Andrew: **email CDPHE OSP (Diamond) about newsletter inclusion for DTD**; invite Joe to
+  join Trip at a dinner
+- Andrew & John: send a mailing address to Trip for the books; review and approve the draft
+  promotional language
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-candid-reject-20260813 Candid rejects the determination letter, names what it will accept
-
-from: Em, Candid Customer Support <support@candid.org> / profilepermissions@candid.org
-date: 2026-08-13 13:32 MT
-attachments: Letter-of-affirmation-example.pdf, Acceptable Example_Redacted.pdf, Not
-  Acceptable Example_Redacted.pdf
-
-"Unfortunately, **we cannot accept the letter of determination** to verify your association
-with the organization, as it is a **publicly available document on the IRS site** and can
-easily be downloaded. For this reason, we require documents that are typically only
-available to authorized individuals of the organization."
-
-Accepted instead — one of:
-- **EIN issuance letter** — "the first letter your organization would have received from
-  the IRS" after being assigned an EIN
-- **Affirmation letter** — requested from the IRS to confirm tax-exempt status or reflect a
-  name/address change; "**only... dated after the year 2000**"
-
-If DTD lacks an affirmation letter: IRS.gov/forms or 800-829-3676. (For the EIN issuance
-letter: IRS Business and Specialty Tax Line, 800-829-4933.)
-
-Note: John's Aug 12 reply was labelled "IRS EIN Issuance Letter" but Candid read it as the
-determination letter — so the wrong document went over.
-
----
-
-<!-- source: email-inbox.md -->
-## gmail-usli-reminder-20260813 Re: Non-Pay Cancellation Reminder — Dude Talk Dinners, Inc.
-
-from: Ken Farber, replying to Maryanne Munz <maryanne@lfins.com>, cc Ryan Davis, Andrew,
-  John
-date: 2026-08-13 11:09 MT
-
-Maryanne: "Please note your payment is past due with **Builders & Tradesmen's Insurance
-Services (BTIS)**. The payment of **$512 is due by August 25, 2026**. If this has already
-been paid, please disregard."
-
-Ken: "the invoice was indeed paid online as of yesterday. **Found their notice a bit
-entertaining as they required us to wait to pay till receiving an invoice which we finally
-[received] on Monday August 10th. Seems they sent the cancellation at the same time.**
-Trusting that the invoice was paid prior to the 25th that the policies are indeed in
-force."
-
----
-
-<!-- source: email-inbox.md -->
-## gmail-paypalcharity-20260813 You're a PayPal confirmed charity
+## gmail-paypalgivingfund-20260814 Welcome to PayPal Giving Fund
 
 from: service@paypal.com
-date: 2026-08-13 04:44 MT
+date: 2026-08-14 12:17 MT
 
-"Hello, Dude Talk Dinners, Inc. Congratulations! **The charitable status of your account
-has been confirmed. You'll now get our reduced rate of 1.99% +** [fixed fee]." A companion
-email invites DTD to **create a Venmo charity profile** for additional reach.
-
----
-
-<!-- source: email-inbox.md -->
-## gmail-linkedin-cp-20260813 LinkedIn
-
-from: Chris Peterson <chris.peterson@dudetalkdinners.org>, to Ken, John, Andrew
-date: 2026-08-13 12:21 MT
-
-"Any chance someone can send me instructions (or at least clues) on **how to add DTD org as
-a volunteer position on LinkedIn**? I made some attempts over the past week and for the
-life of me can[not]..."
-
-Ken replied (13:03 MT): "Happy to see you're back on the email train and **trusting you are
-well on the path to full recovery**! Would be glad to walk you through that update. Will
-reach out by phone momentarily…"
+"We're excited to welcome **Dude Talk Dinners, Inc to PayPal Giving Fund**." Follows the
+charity-status confirmation the day before.
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-crmdigest-20260813 Your DTD reminders — 2026-08-13
+## gmail-workspace-upgrade-20260814 Andrew has requested an upgrade to Business Standard
 
-from: support@dudetalkdinners.org
-date: 2026-08-13 09:01 MT
+from: workspace-noreply@google.com
+date: 2026-08-14 19:11 MT
 
-"Activity yesterday: **1 email sent · 2 follow-ups created · 1 new user joined · 1 invite
-sent.**"
-
----
-
-<!-- source: email-inbox.md -->
-## gmail-candidwelcome-20260813 Welcome to Candid
-
-from: donotreply@send.candid.org
-date: 2026-08-13 08:30 MT
-
-Standard onboarding email — "Welcome to Candid, the premier tool for successful
-fundraising" — so the account exists even though profile-manager permissions are still
-unverified.
+Google Workspace notification: **Andrew has requested an upgrade to Business Standard** —
+awaiting an admin decision. Relevant given the Aug 13 decision to avoid a $3/user/mo
+booking upgrade across 10+ accounts.
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-searchconsole-20260814 New Events structured data issues detected for dudetalkdinners.org
+## gmail-searchconsole-validating-20260814 We're validating your Events structured data issue fixes
 
 from: Google Search Console
-date: 2026-08-14 01:08 MT
+date: 2026-08-14 12:09 MT
 
-"Search Console has identified that your site is affected by **1 Events structured data
-issue(s)**." A follow-on to the 6 issues flagged Aug 9.
-
----
-
-<!-- source: email-inbox.md -->
-## gmail-dpppractice-20260814 Invitation: AI Practice Session — Prospect Strategy at Scale
-
-from: Louis Diez / Donor Participation Project
-date: 2026-08-14 00:11 MT
-
-"**AI Practice Session: Prospect Strategy at Scale: Using AI to Build and Personalize Donor
-Outreach Plans**" — Tue **Aug 18, 11:00am–12:00pm MDT**, Zoom. Follow-up to the Aug 12
-roundtable; no registration in the record yet.
+"Google has started validating your fix of Events structured data issues on your site" —
+so the structured-data problems flagged Aug 9 and Aug 14 have been worked on and submitted
+for revalidation.
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-calcom-founder-20260813 Quick question (Cal.com)
+## gmail-andrewein-20260814 DTD EIN
 
-from: Bailey, co-founder of Cal.com <bailey@cal.com>
-date: 2026-08-13 12:00 MT
+from: Andrew Wolff
+to: john.calafiore@dudetalkdinners.org
+date: 2026-08-14 16:31 MT
 
-"Just saw you signed up. Just wanted to drop in and ask what made you sign up today?" —
-independent confirmation that the Cal.com account was created the same day.
+Andrew sent the EIN documentation (body is just his signature block) — the document John
+needed for Candid.
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-noise-20260813 Filtered as noise
+## gmail-hubspot-capt-20260814 HubSpot contact form submission: "Capt America"
 
-Givebutter "The Spread" reminder and a HubSpot notice that an unused password was removed.
+from: noreply@notifications.hubspot.com
+date: 2026-08-14 08:49 MT
+
+A form submission under the name "Capt America" — almost certainly a test or junk entry,
+noted only because the same form produced the genuine Travis Payne lead.
+
+---
+
+<!-- source: email-inbox.md -->
+## gmail-signup-test-20260814 New signup form submission (test)
+
+from: support@dudetalkdinners.org
+date: 2026-08-14 15:15 MT
+
+"Name **Test Tester** · Email myaltacct123@gmail.com · Phone not provided · Interest
+Learning more about Dude Talk Dinners · Community Org-level · Location Idaho Springs, CO ·
+SMS consent none · Open in CRM" — a deliberate end-to-end test of the signup path.
+
+---
+
+<!-- source: email-inbox.md -->
+## gmail-calcom-booked-20260814 Cal.com: 30-min meeting between Andrew Wolff and John Calafiore
+
+from: hello@cal.com
+date: 2026-08-14 12:47 MT
+
+"Your event has been scheduled... **30 min meeting between Andrew Wolff and John
+Calafiore**, Tuesday, August 18, 2026" — the first real booking through the new Cal.com
+setup.
+
+---
+
+<!-- source: email-inbox.md -->
+## gmail-namecheap-20260814 Namecheap services back online
+
+from: support@namecheap.com
+date: 2026-08-14 16:58 MT
+
+"Services have been restored following a **data center cooling failure**." DTD's domain
+registrar had an outage; no DTD-specific impact reported in the record.
+
+---
+
+<!-- source: email-inbox.md -->
+## gmail-noise-20260814 Filtered as noise
+
+PayPal app marketing and an awakenedschool newsletter.
 
 ---
 
 <!-- source: email-sent.md -->
 # Raw dump — Gmail sent
 
-Harvest window: 2026-08-13 → 2026-08-14 (America/Denver)
+Harvest window: 2026-08-14 → 2026-08-15 (America/Denver)
 
 ---
 
 <!-- source: email-sent.md -->
-## gmailsent-calcomlinks-20260813 Test Calendar
+## gmailsent-travis-20260814 Dude Talk Dinners Reaching Out (to Travis Payne)
+
+from: john.calafiore@dudetalkdinners.org, cc Andrew Wolff
+to: travisrobertpayne@gmail.com
+date: 2026-08-14 12:55 MT
+
+"Hi Travis, Thanks for reaching out about Dude Talk Dinners. It means a lot that you see
+what we're building and want to learn more about it. **We would love to learn more about
+you, what drew you to** [DTD]..." — the standard warm-outreach template, sent by hand
+rather than waiting on the automation.
+
+---
+
+<!-- source: email-sent.md -->
+## gmailsent-candid-ein-20260814 Re: Candid — Profile Permissions follow up
 
 from: john.calafiore@dudetalkdinners.org
-to: andrew.wolff@dudetalkdinners.org
-date: 2026-08-13 11:23 MT
+to: support@candid.org
+date: 2026-08-14 16:34 MT
 
-John's four Cal.com booking links, sent minutes after the CRM/scheduling session:
-- 15 mins: https://cal.com/john-calafiore/15min
-- 30 mins: https://cal.com/john-calafiore/30min
-- 45 mins: https://cal.com/john-calafiore/45min
-- 60 mins: https://cal.com/john-calafiore/60min
+"**My apologies, I had the wrong form attached initially.** Please see attached **EIN
+Issuance Letter** for your review." Sent three minutes after Andrew supplied the EIN
+documentation.
 
 ---
 
 <!-- source: email-sent.md -->
-## gmailsent-welcometest-20260814 [Test] Welcome to Dude Talk Dinners, Sam
+## gmailsent-crmtemplates-20260814 Seven CRM email templates tested end to end
 
 from: support@dudetalkdinners.org
-date: 2026-08-13 21:37 MT
+dates: 2026-08-14 08:37–08:40 MT (six) plus a revised welcome at 08:40
 
-A test of the **new-lead welcome automation**: "Hi Sam, Thanks for your interest in joining
-a Dude Talk Dinners community. **We saw your note about Idaho Springs and someone from that
-table will reach out soon** with details on the next dinner. In the [meantime]..." — the
-template routes a signup to the named community.
+The full automated-email suite was exercised in one sitting:
 
----
-
-<!-- source: email-sent.md -->
-## gmailsent-mikemayer-20260813 Re: Facilitator Bio and Pic
-
-from: john.calafiore@dudetalkdinners.org
-to: mike@buildterraform.com
-date: 2026-08-13 07:21 MT
-
-"Sounds good, thank you!"
+1. **"[Test] Welcome to the Dude Talk Dinners newsletter"** — "Thanks for subscribing to
+   the Dude Talk Dinners newsletter, **which is currently in development**. We will reach
+   out soon with updates! Expect an occasional note about what is happening around our
+   tables."
+2. **"[Test] Thank you for your gift, Sam"** — "Thank you for your gift of **$50.00** to
+   Dude Talk Dinners. **Givebutter has sent your tax receipt separately; this note is just
+   us saying it matters. Your support keeps the table set.**"
+3. **"[Test] Thanks for reaching out, Sam"** — "**A real person reads every message**, and
+   we will get back to you shortly."
+4. **"[Test] Good to meet you, Sam"** — "The short version: **men gather over dinner for
+   real conversation, with real dudes, making real connections.**"
+5. **"[Test] Thank you for wanting to support Dude Talk Dinners"** — "Your generosity
+   **keeps seats at the table** and helps drive our movement in the right direction."
+6. **"[Test] Starting a Dude Talk Dinners Community"** — "Thanks for your interest in
+   starting a Dude Talk Dinners Community in your area. **That takes initiative, and
+   that's how each Dinner begins.**"
+7. **"[Test] Welcome to Dude Talk Dinners, Sam"** — revised wording from Aug 13: "joining a
+   Dude Talk **Dinner**... someone from that **Community**" (previously "community" and
+   "that table").
 
 ---
 
 <!-- source: meetings.md -->
 # Raw dump — Meetings (Granola / Fathom)
 
-Harvest window: 2026-08-13 → 2026-08-14 (America/Denver)
+Harvest window: 2026-08-14 → 2026-08-15 (America/Denver)
 
 ---
 
 <!-- source: meetings.md -->
-## meet-fathom-crmlogin-20260813 Fathom: "CRM login and learn" (91 min)
+## meet-fathom-mantherapy-20260814 Fathom: "DTD : Man Therapy" (54 min)
 
-Recorded and recapped in full; content harvested via the recap email (see
-raw/email-inbox.md).
+DTD's first externally-attended meeting captured by Fathom this month. Recorded and
+recapped in full; content harvested via the recap email (see raw/email-inbox.md).
 
 ---
 
 <!-- source: meetings.md -->
-## meet-granola-none-20260813 Granola: nothing captured Aug 13
+## meet-granola-none-20260814 Granola: nothing captured Aug 14
 
-Granola recorded no meetings on Aug 13, including the 11:30 Budget Review with Ken. Fathom
-covered the morning CRM session only, so the budget conversation again left no content.
+Granola returned no meetings for Aug 14. Fathom covered the Man Therapy call.
 
 ---
 
 <!-- source: slack.md -->
 # Raw dump — Slack
 
-Harvest window: after 2026-08-12 (America/Denver)
+Harvest window: after 2026-08-13 (America/Denver)
 
 ---
 
 <!-- source: slack.md -->
-## slack-crmfix-20260813 John walks Andrew through the repaired CRM reset flow
+## slack-boardreport-20260814 John's board-report draft, organized by the seven categories
 
 channel: DM with Andrew Wolff
-date: 2026-08-13 13:29 MDT, from John
+date: 2026-08-14 16:23 MDT, from John
 
-"Can you try the CRM again? Here are the instructions per Claude (**after I fixed the reset
-password email**):
+A period summary written against the same seven-category taxonomy this vault uses:
 
-Andrew: he goes to the login page → 'Forgot password?' → enters his email → clicks the link
-in the fresh email. He'll land on our 'You're almost in' page → Continue → set a new
-password → **the 2FA setup screen** with the instructions → enter the code → dashboard."
+1. **Governance and Organizational Development** — (blank)
+2. **Community Growth and Expansion**
+   - "Dawson - marketing, video filming, testimonials"
+3. **Support for Existing Communities**
+   - "Met with **Daniel, a mental health professional at the VA**, for the '**military and
+     veterans culture**' training with **Ronnie (Conifer Facilitator and veteran)**.
+     Process in development."
+   - "Met w/ BV facilitators to discuss fundraising and community support for funding
+     dinners in the future"
+   - "Andrew, Ken, and John went to BV for a dinner"
+4. **Presentations, Events, and Public Presence** — (blank)
+5. **Partnerships and Strategic Relationships**
+   - "Met w/ Bev from RMCP to discuss partnership opportunities and future grant options"
+   - "Met w/ Tripp from Man Therapy, said he would be open to adding us to the website
+     (mantherapy.org)"
+   - "**The Busyhead Project added DTD to their 'August Call to Action' Instagram story**
+     (this is **Noah Kahan's nonprofit, @thebusyheadproject, 94k followers on IG**)"
+6. **Platform, Tools, and Infrastructure**
+   - "**New DTD website is live and active!**"
+   - "CRM testing live"
+7. **Funding and Financial Development**
+   - "Latest iteration of budget updated and progress will be shared at the board meeting.
+     Notable updates include **adding a fundraising position (contract) in year 1**,
+     **adding a sustainability reserve fund that takes surplus funds and allocates them to
+     supporting communities**, and general streamlining of budget format."
+   - "Met with Patricia from RMCP to discuss and submit application for opioid grant"
+   - "Walmart/spark grant"
+   - "**Principled Business app**"
 
-An earlier message from Andrew that morning (10:34 MDT) returned no text.
+---
+
+<!-- source: slack.md -->
+## slack-calcom-links-20260814 Cal.com links exchanged
+
+channel: DM with Andrew Wolff
+dates: 2026-08-14 11:11–12:42 MDT
+
+Andrew shared a Google Meet link (meet.google.com/vva-hedg-qfj) at 11:11, John sent a
+Google Doc at 12:06
+(docs.google.com/document/d/1PvAFAesjbmYcvL7zMa8fOyT7ndtf8qaUKPrO0Uv8VYY), and Andrew
+posted his own booking page — **cal.com/andrew-wolff/30min** — at 12:42, confirming his
+Cal.com setup is live.
+
+---
+
+<!-- source: slack.md -->
+## slack-stoat-20260814 Tool link: openalternative.co/stoat
+
+channel: DM with Andrew Wolff
+date: 2026-08-14 17:22 MDT, from John
+
+A link to an open-source alternative listing (Stoat) with no accompanying comment.

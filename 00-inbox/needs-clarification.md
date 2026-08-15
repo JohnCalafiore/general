@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-14
+updated: 2026-08-15
 tags: [inbox]
 ---
 
@@ -18,6 +18,17 @@ Format the agent uses:
 ```
 
 <!-- entries begin below -->
+
+## 2026-08-15 Two new names from the Man Therapy call and the board draft: Joe, and Daniel at the VA
+- quotes: "Trip will ask his colleague **Joe** for contacts and suggested the Colorado
+  Nonprofit Development Center"; "Invite **Joe** to join Trip at a dinner" (Andrew's action)
+  — Fathom recap 2026-08-14. And: "Met with **Daniel, a mental health professional at the
+  VA**, for the 'military and veterans culture' training with Ronnie" — your board draft.
+- question: last names for either? Joe is a Grit Digital Health / Man Therapy colleague as
+  far as I can tell; Daniel's VA affiliation is all I have. Names and I'll give them proper
+  relationships entries — Daniel especially, since a facilitator training track now depends
+  on him.
+- answer:
 
 ## 2026-08-14 Who is Chris Kyle, and which Chris owns the PO Box?
 - quotes: from the Aug 13 recap — "Once fixed, **share the Cal.com link with Chris Kyle**"
@@ -154,6 +165,10 @@ Format the agent uses:
   defensible," with Andrew prepping Q&A with CP. Fathom spells it "Principal Business,"
   the calendar "Principled Business." So: funder, fiscal sponsor, or something else? And
   which spelling is right?
+- update 2026-08-15: your board-report draft lists "**Principled Business app**" under
+  Funding and Financial Development, alongside the Walmart/Spark grant — so it's an
+  **application DTD submitted**, filed as funding. Still need to know what the organization
+  or program actually is, plus any deadline or amount.
 - answer:
 
 ## 2026-08-04 Monday's six meetings produced no captured content

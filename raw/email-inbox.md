@@ -1,175 +1,141 @@
 # Raw dump — Gmail inbox
 
-Harvest window: 2026-08-13 → 2026-08-14 (America/Denver)
+Harvest window: 2026-08-14 → 2026-08-15 (America/Denver)
 
 ---
 
-## gmail-fathom-crmlogin-20260813 Recap for "CRM login and learn"
+## gmail-fathom-mantherapy-20260814 Recap: "DTD : Man Therapy" (54 min)
 
 from: Fathom <no-reply@fathom.video>
-date: 2026-08-13 11:32 MT — meeting Aug 13, **91 minutes**
-link: https://fathom.video/calls/783087731
+date: 2026-08-14 10:26 MT — meeting Aug 14
+link: https://fathom.video/calls/783655285
 
-Meeting purpose: troubleshoot CRM access and select a new scheduling tool.
+Meeting purpose: explore a promotional partnership between Man Therapy and Dude Talk
+Dinners.
 
 Key takeaways:
-- **CRM Access Blocked:** Andrew is locked out. The invitation link is expired **and the
-  password reset flow fails**, preventing testing of new automations.
-- **Scheduling Tool Pivot:** Google Calendar's free tier is too restrictive (one booking
-  page per user). Adopting **Cal.com's free plan**; Calendly and Setmore rejected.
-- **Cal.com Setup Complete:** Andrew's account configured with 30/45/60-min event types,
-  24-hour minimum notice, 15-min buffers, 21-day booking window.
-- **Critical Bug Found:** Cal.com **fails to block availability for events on secondary
-  calendars**, creating double-booking risk.
+- **Partnership Agreed:** Man Therapy will promote DTD on its site, framing it as a
+  community-building resource for men seeking connection, **not as formal therapy**.
+- **Strategic Messaging:** the partnership navigates DTD's core challenge — how to leverage
+  its mental-health impact for funding and grants **without using "therapy" language that
+  creates a barrier for attendees**.
+- **DTD's Growth:** 7 communities, with interest from **Brooklyn, Connecticut, Wyoming, and
+  Idaho** — an urgent need for scalable infrastructure.
+- **DTD's Needs:** funding for operations, and a **pro bono nonprofit lawyer** to formalize
+  community agreements.
 
 Topics:
-- CRM access — invite link expired; password reset returned "**invalid credentials**";
-  clearing cache and cookies didn't help. Significance: blocks testing of new automations,
-  "including a workflow for new leads like **Travis Payne**."
-- Scheduling tool selection — Google's free tier allows only one booking page per user.
-  Rejected: **Google Calendar upgrade** ($3/user/mo, applied across 10+ DTD Workspace
-  accounts); **Calendly** (~$15/user/mo); **Setmore** (free plan is **one-way sync**, so
-  events added directly in Google Calendar don't block Setmore availability). Selected:
-  **Cal.com** — free individual plan gives unlimited booking pages and event types; team
-  scheduling would need $12–$16/user/mo, acceptable to defer.
-- Cal.com config — event types 30/45/60 min; availability **Tue–Fri, 10am–4pm MT**;
-  minimum notice 24h; 15-min buffers either side; bookings limited to 21 calendar days.
-- The bug — Cal.com doesn't block against **secondary calendars** (e.g. Andrew's **Wolff
-  Coaching** calendar); must be fixed before links are shared.
+- Growth & strategic challenge — the **Grand Junction launch drew 29 men**. Internal
+  framing: DTD is an **upstream mental health intervention**, evidenced by the new opioid
+  grant and **facilitator suicide-prevention training from Rocky Mountain Crisis Partners**.
+  Public framing: "**It's just dinner, connection, and conversation.**"
+- The partnership — Trip proposed a **resource tile** on the Man Therapy site linking
+  directly to DTD's "Find a Community" or "Start a Community" page, plus a **short blog
+  post** on the benefits of in-person connection highlighting DTD as a model. Messaging
+  deliberately **avoids "partner" language to keep the tone informal**; the rationale is to
+  act as a gateway for men not ready for formal therapy.
+- Infrastructure needs — funding for operations **and to pay its founders**. Trip's lead:
+  the **Elevents Health foundation grant cycle (opens January)**. Legal: a pro bono
+  nonprofit lawyer to formalize the relationship between the central 501(c)(3) ("Dude
+  Central") and its communities via a **scalable agreement**; Trip will ask his colleague
+  **Joe** for contacts and suggested the **Colorado Nonprofit Development Center (CNDC)**.
 
 Action items:
-- John: investigate and fix Andrew's CRM access; **resend the CRM invite**, then Andrew
-  completes signup
-- John: **reply to Travis Payne (Canyon City) lead via automation**
-- John: test Claude speed vs quality on the current project
-- John & Andrew: **decide who owns PO Box mail pickup (John vs Chris)**
-- John & Andrew: test Cal.com cross-calendar blocking; then Andrew sends **Chris Kyle** a
-  30-min link
+- Trip: draft DTD promotional language for the Man Therapy site and send to Andrew/John;
+  **visit a DTD dinner (Idaho Springs or Conifer)**; **mail DTD founders copies of the Man
+  Therapy book**; ask Joe for pro bono lawyer referrals
+- Andrew: **email CDPHE OSP (Diamond) about newsletter inclusion for DTD**; invite Joe to
+  join Trip at a dinner
+- Andrew & John: send a mailing address to Trip for the books; review and approve the draft
+  promotional language
 
 ---
 
-## gmail-candid-reject-20260813 Candid rejects the determination letter, names what it will accept
-
-from: Em, Candid Customer Support <support@candid.org> / profilepermissions@candid.org
-date: 2026-08-13 13:32 MT
-attachments: Letter-of-affirmation-example.pdf, Acceptable Example_Redacted.pdf, Not
-  Acceptable Example_Redacted.pdf
-
-"Unfortunately, **we cannot accept the letter of determination** to verify your association
-with the organization, as it is a **publicly available document on the IRS site** and can
-easily be downloaded. For this reason, we require documents that are typically only
-available to authorized individuals of the organization."
-
-Accepted instead — one of:
-- **EIN issuance letter** — "the first letter your organization would have received from
-  the IRS" after being assigned an EIN
-- **Affirmation letter** — requested from the IRS to confirm tax-exempt status or reflect a
-  name/address change; "**only... dated after the year 2000**"
-
-If DTD lacks an affirmation letter: IRS.gov/forms or 800-829-3676. (For the EIN issuance
-letter: IRS Business and Specialty Tax Line, 800-829-4933.)
-
-Note: John's Aug 12 reply was labelled "IRS EIN Issuance Letter" but Candid read it as the
-determination letter — so the wrong document went over.
-
----
-
-## gmail-usli-reminder-20260813 Re: Non-Pay Cancellation Reminder — Dude Talk Dinners, Inc.
-
-from: Ken Farber, replying to Maryanne Munz <maryanne@lfins.com>, cc Ryan Davis, Andrew,
-  John
-date: 2026-08-13 11:09 MT
-
-Maryanne: "Please note your payment is past due with **Builders & Tradesmen's Insurance
-Services (BTIS)**. The payment of **$512 is due by August 25, 2026**. If this has already
-been paid, please disregard."
-
-Ken: "the invoice was indeed paid online as of yesterday. **Found their notice a bit
-entertaining as they required us to wait to pay till receiving an invoice which we finally
-[received] on Monday August 10th. Seems they sent the cancellation at the same time.**
-Trusting that the invoice was paid prior to the 25th that the policies are indeed in
-force."
-
----
-
-## gmail-paypalcharity-20260813 You're a PayPal confirmed charity
+## gmail-paypalgivingfund-20260814 Welcome to PayPal Giving Fund
 
 from: service@paypal.com
-date: 2026-08-13 04:44 MT
+date: 2026-08-14 12:17 MT
 
-"Hello, Dude Talk Dinners, Inc. Congratulations! **The charitable status of your account
-has been confirmed. You'll now get our reduced rate of 1.99% +** [fixed fee]." A companion
-email invites DTD to **create a Venmo charity profile** for additional reach.
-
----
-
-## gmail-linkedin-cp-20260813 LinkedIn
-
-from: Chris Peterson <chris.peterson@dudetalkdinners.org>, to Ken, John, Andrew
-date: 2026-08-13 12:21 MT
-
-"Any chance someone can send me instructions (or at least clues) on **how to add DTD org as
-a volunteer position on LinkedIn**? I made some attempts over the past week and for the
-life of me can[not]..."
-
-Ken replied (13:03 MT): "Happy to see you're back on the email train and **trusting you are
-well on the path to full recovery**! Would be glad to walk you through that update. Will
-reach out by phone momentarily…"
+"We're excited to welcome **Dude Talk Dinners, Inc to PayPal Giving Fund**." Follows the
+charity-status confirmation the day before.
 
 ---
 
-## gmail-crmdigest-20260813 Your DTD reminders — 2026-08-13
+## gmail-workspace-upgrade-20260814 Andrew has requested an upgrade to Business Standard
 
-from: support@dudetalkdinners.org
-date: 2026-08-13 09:01 MT
+from: workspace-noreply@google.com
+date: 2026-08-14 19:11 MT
 
-"Activity yesterday: **1 email sent · 2 follow-ups created · 1 new user joined · 1 invite
-sent.**"
-
----
-
-## gmail-candidwelcome-20260813 Welcome to Candid
-
-from: donotreply@send.candid.org
-date: 2026-08-13 08:30 MT
-
-Standard onboarding email — "Welcome to Candid, the premier tool for successful
-fundraising" — so the account exists even though profile-manager permissions are still
-unverified.
+Google Workspace notification: **Andrew has requested an upgrade to Business Standard** —
+awaiting an admin decision. Relevant given the Aug 13 decision to avoid a $3/user/mo
+booking upgrade across 10+ accounts.
 
 ---
 
-## gmail-searchconsole-20260814 New Events structured data issues detected for dudetalkdinners.org
+## gmail-searchconsole-validating-20260814 We're validating your Events structured data issue fixes
 
 from: Google Search Console
-date: 2026-08-14 01:08 MT
+date: 2026-08-14 12:09 MT
 
-"Search Console has identified that your site is affected by **1 Events structured data
-issue(s)**." A follow-on to the 6 issues flagged Aug 9.
-
----
-
-## gmail-dpppractice-20260814 Invitation: AI Practice Session — Prospect Strategy at Scale
-
-from: Louis Diez / Donor Participation Project
-date: 2026-08-14 00:11 MT
-
-"**AI Practice Session: Prospect Strategy at Scale: Using AI to Build and Personalize Donor
-Outreach Plans**" — Tue **Aug 18, 11:00am–12:00pm MDT**, Zoom. Follow-up to the Aug 12
-roundtable; no registration in the record yet.
+"Google has started validating your fix of Events structured data issues on your site" —
+so the structured-data problems flagged Aug 9 and Aug 14 have been worked on and submitted
+for revalidation.
 
 ---
 
-## gmail-calcom-founder-20260813 Quick question (Cal.com)
+## gmail-andrewein-20260814 DTD EIN
 
-from: Bailey, co-founder of Cal.com <bailey@cal.com>
-date: 2026-08-13 12:00 MT
+from: Andrew Wolff
+to: john.calafiore@dudetalkdinners.org
+date: 2026-08-14 16:31 MT
 
-"Just saw you signed up. Just wanted to drop in and ask what made you sign up today?" —
-independent confirmation that the Cal.com account was created the same day.
+Andrew sent the EIN documentation (body is just his signature block) — the document John
+needed for Candid.
 
 ---
 
-## gmail-noise-20260813 Filtered as noise
+## gmail-hubspot-capt-20260814 HubSpot contact form submission: "Capt America"
 
-Givebutter "The Spread" reminder and a HubSpot notice that an unused password was removed.
+from: noreply@notifications.hubspot.com
+date: 2026-08-14 08:49 MT
+
+A form submission under the name "Capt America" — almost certainly a test or junk entry,
+noted only because the same form produced the genuine Travis Payne lead.
+
+---
+
+## gmail-signup-test-20260814 New signup form submission (test)
+
+from: support@dudetalkdinners.org
+date: 2026-08-14 15:15 MT
+
+"Name **Test Tester** · Email myaltacct123@gmail.com · Phone not provided · Interest
+Learning more about Dude Talk Dinners · Community Org-level · Location Idaho Springs, CO ·
+SMS consent none · Open in CRM" — a deliberate end-to-end test of the signup path.
+
+---
+
+## gmail-calcom-booked-20260814 Cal.com: 30-min meeting between Andrew Wolff and John Calafiore
+
+from: hello@cal.com
+date: 2026-08-14 12:47 MT
+
+"Your event has been scheduled... **30 min meeting between Andrew Wolff and John
+Calafiore**, Tuesday, August 18, 2026" — the first real booking through the new Cal.com
+setup.
+
+---
+
+## gmail-namecheap-20260814 Namecheap services back online
+
+from: support@namecheap.com
+date: 2026-08-14 16:58 MT
+
+"Services have been restored following a **data center cooling failure**." DTD's domain
+registrar had an outage; no DTD-specific impact reported in the record.
+
+---
+
+## gmail-noise-20260814 Filtered as noise
+
+PayPal app marketing and an awakenedschool newsletter.

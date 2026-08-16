@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-08-15
+updated: 2026-08-16
 tags: [area]
 ---
 
@@ -14,6 +14,24 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-08-15 Search Console: Events structured data issues confirmed fixed
+- "**Google has validated your fix for Events structured data issues on
+  dudetalkdinners.org.**" The problem first flagged Aug 9 (6 issues) and again Aug 14 (1
+  more) is closed. Still unresolved in the record: the **duplicate-canonical indexing
+  issue** raised Aug 10.
+- category: Platform, Tools, and Infrastructure
+- source: Google Search Console validation email 2026-08-15
+- links: [[platform-tools-and-infrastructure#2026-08-14 Search Console validating the structured-data fixes; Andrew requests a Workspace upgrade]]
+
+## 2026-08-15 CRM digest jumps: 10 new contacts in a day
+- "Activity yesterday: **10 new contacts · 2 emails sent.**" A step-change from the
+  one-or-two-per-day pattern of the previous digests — worth checking whether these are the
+  Aug 14 template tests and test signups or genuine inbound, since the count lands on the
+  day the whole email suite was exercised.
+- category: Platform, Tools, and Infrastructure
+- source: DTD reminders digest 2026-08-15
+- links: [[platform-tools-and-infrastructure#2026-08-14 The whole automated-email suite tested in one sitting — seven templates]]
 
 ## 2026-08-14 The new DTD website is live
 - John's board-report line, stated flatly: "**New DTD website is live and active!**" — the

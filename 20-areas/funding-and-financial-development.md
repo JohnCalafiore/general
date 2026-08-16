@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-08-15
+updated: 2026-08-16
 tags: [area]
 ---
 
@@ -14,6 +14,20 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-08-15 First recurring donor: Michael Davis, $100/month
+- Givebutter: "**Michael Davis** just supported your campaign 🎉 Michael made their **1st
+  monthly donation for a total of $100.00**." This is the **first recurring gift in the
+  record** — $1,200/year if it holds — and it arrives days after the donation
+  acknowledgment layer was built and the PayPal/Givebutter rails were finished.
+- John forwarded it to Andrew ("FYI in case you didn't receive this"), who asked back:
+  "**Its from the Dude Central campaign, right? Do you know who this is?**" — neither knows
+  the donor, so the attribution question is open (see needs-clarification).
+- action #open (John/Andrew): identify Michael Davis and thank him — Givebutter's own
+  prompt is "Say thanks by replying to this email"
+- category: Funding and Financial Development
+- source: Givebutter notification + forward and Andrew's reply 2026-08-15
+- links: [[funding-and-financial-development#2026-08-07 Donation receipts and thank-you emails get a working session]]
 
 ## 2026-08-14 Budget update for the board: contract fundraiser plus a sustainability reserve fund
 - John's own summary of where the budget landed: "Latest iteration of budget updated and
@@ -45,6 +59,14 @@ responsibility but not to a specific dated project get logged here.
 - source: PayPal Giving Fund welcome email 2026-08-14
 - links: [[funding-and-financial-development#2026-08-13 PayPal charity status confirmed — reduced rate of 1.99%, Venmo now available]]
 
+## 2026-08-14 Second DPP session offered: AI for donor outreach, Tue Aug 18
+- Louis Diez invited John to an "**AI Practice Session: Prospect Strategy at Scale — Using
+  AI to Build and Personalize Donor Outreach Plans**," Tue Aug 18, 11am–12pm MDT on Zoom.
+  A hands-on follow-up to the Aug 12 roundtable; no registration in the record yet.
+- category: Funding and Financial Development
+- source: Luma invitation 2026-08-14
+- links: [[30-resources/ai-for-nonprofits-dpp-roundtable|AI for nonprofits — DPP roundtable]]
+
 ## 2026-08-13 PayPal charity status confirmed — reduced rate of 1.99%, Venmo now available
 - "Congratulations! **The charitable status of your account has been confirmed. You'll now
   get our reduced rate of 1.99%**" — closing the action open since Aug 3 and cutting the
@@ -63,14 +85,6 @@ responsibility but not to a specific dated project get logged here.
 - category: Funding and Financial Development
 - source: calendar acceptance 2026-08-13; absence of meeting capture
 - links: [[funding-and-financial-development#2026-08-12 Budget follow-up stalled: Ken declined Thursday's session, nothing rebooked]]
-
-## 2026-08-14 Second DPP session offered: AI for donor outreach, Tue Aug 18
-- Louis Diez invited John to an "**AI Practice Session: Prospect Strategy at Scale — Using
-  AI to Build and Personalize Donor Outreach Plans**," Tue Aug 18, 11am–12pm MDT on Zoom.
-  A hands-on follow-up to the Aug 12 roundtable; no registration in the record yet.
-- category: Funding and Financial Development
-- source: Luma invitation 2026-08-14
-- links: [[30-resources/ai-for-nonprofits-dpp-roundtable|AI for nonprofits — DPP roundtable]]
 
 ## 2026-08-12 DECISION: budget a $52k Year 1 Fundraising Manager against a 3x ROI target
 - The 116-minute Wednesday session named the underlying problem plainly — "**we lack

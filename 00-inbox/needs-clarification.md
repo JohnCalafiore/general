@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-15
+updated: 2026-08-16
 tags: [inbox]
 ---
 
@@ -18,6 +18,16 @@ Format the agent uses:
 ```
 
 <!-- entries begin below -->
+
+## 2026-08-16 Who is Michael Davis, and which campaign did the recurring gift come through?
+- quote: Andrew, on the $100/month Givebutter donation — "**Its from the Dude Central
+  campaign, right? Do you know who this is?**" (2026-08-15)
+- context: DTD's first recurring donor, and neither of you recognizes the name. Givebutter
+  should show the campaign the gift came through and any note he left.
+- question: who is he (dinner attendee? board network? cold from the site?) and which
+  campaign — I'll file it properly and add him to relationships. Also worth confirming
+  someone replied to thank him.
+- answer:
 
 ## 2026-08-15 Two new names from the Man Therapy call and the board draft: Joe, and Daniel at the VA
 - quotes: "Trip will ask his colleague **Joe** for contacts and suggested the Colorado

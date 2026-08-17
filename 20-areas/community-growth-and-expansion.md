@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-08-15
+updated: 2026-08-17
 tags: [area]
 ---
 
@@ -14,6 +14,16 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-08-16 Second inbound lead in four days: Jameson Guthrie via the website form
+- Another "contact us" submission from the DTD site — **Jameson Guthrie** — following Travis
+  Payne on Aug 12. The notification again carries no message body, so his interest and
+  location aren't in the record; the CRM entry should have both.
+- Two genuine inbound leads in a week is the new website and form doing their job.
+- action #open (John): follow up with Jameson Guthrie
+- category: Community Growth and Expansion
+- source: HubSpot form notification 2026-08-16
+- links: [[community-growth-and-expansion#2026-08-12 Inbound lead: Travis Payne via the website contact form]]
 
 ## 2026-08-14 Growth numbers on the record: 29 men at Grand Junction, interest from four new states
 - Two facts stated to Man Therapy and worth keeping: the **Grand Junction launch drew 29

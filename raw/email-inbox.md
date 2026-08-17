@@ -1,45 +1,43 @@
 # Raw dump — Gmail inbox
 
-Harvest window: 2026-08-15 → 2026-08-16 (America/Denver)
+Harvest window: 2026-08-16 → 2026-08-17 (America/Denver)
 
 ---
 
-## gmail-givebutter-recurring-20260815 Michael Davis started a monthly recurring donation of $100.00
+## gmail-hubspot-jameson-20260816 New HubSpot contact form submission: Jameson Guthrie
 
-from: Givebutter <no-reply@givebutter.com>
-date: 2026-08-15 08:33 MT
+from: noreply@notifications.hubspot.com
+date: 2026-08-16 09:40 MT
 
-"**Michael Davis** just supported your campaign 🎉 Michael made their **1st monthly
-donation for a total of $100.00**. Say thanks by replying to this email. Recurring
-[Contribution]."
-
-John forwarded it to Andrew at 13:37 MT — "FYI in case you didn't receive this" — signed
-**Chief Operating Officer**.
-
-Andrew replied 21:54 MT: "**I saw this. Its from the Dude Central campaign, right? Do you
-know who this is?**"
+"You've got a new submission on the HubSpot Form 'New contact us form'... CONTACT
+**Jameson Guthrie** submitted a form on the page Dude Talk [Dinners]." No message body in
+the notification.
 
 ---
 
-## gmail-searchconsole-fixed-20260815 Events structured data issues successfully fixed
-
-from: Google Search Console
-date: 2026-08-15 01:47 MT
-
-"**Google has validated your fix for Events structured data issues on
-dudetalkdinners.org.**" The validation that started Aug 14 has passed.
-
----
-
-## gmail-crmdigest-20260815 Your DTD reminders — 2026-08-15
+## gmail-crmdigest-20260816 Your DTD reminders — 2026-08-16
 
 from: support@dudetalkdinners.org
-date: 2026-08-15 09:40 MT
+date: 2026-08-16 09:35 MT
 
-"Activity yesterday: **10 new contacts · 2 emails sent.**"
+"Activity yesterday: **2 new contacts (1 from the website form) · 1 email sent · 2
+transactions recorded ($100.00 income) · 1 donor-linked donation.**" — the first digest to
+report money, and the first to show a donation linked to a donor record.
 
 ---
 
-## gmail-noise-20260815 Filtered as noise
+## gmail-calcom-followup-20260816 The fastest way to know if Cal.com is for you
 
-Mighty Networks daily digest.
+from: Bailey, Cal.com <bailey@cal.com>
+date: 2026-08-16 09:01 MT
+
+"I noticed **you haven't had a booking come through yet**." A founder-outreach nudge —
+notable only because it contradicts the Aug 14 Cal.com confirmation of an Andrew/John
+booking, suggesting that booking ran through Andrew's page rather than John's.
+
+---
+
+## gmail-noise-20260816 Filtered as noise
+
+Two menstherapy.online newsletters (men's groups and a Labor Day retreat — adjacent
+subject matter but marketing, no DTD connection stated) and a Fathom privacy-policy update.

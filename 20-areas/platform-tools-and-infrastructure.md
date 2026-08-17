@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-08-16
+updated: 2026-08-17
 tags: [area]
 ---
 
@@ -14,6 +14,16 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-08-16 The CRM tracked its first real money end to end
+- The digest now reports finance, not just contacts: "**2 new contacts (1 from the website
+  form) · 1 email sent · 2 transactions recorded ($100.00 income) · 1 donor-linked
+  donation.**" Michael Davis's recurring gift landed in the CRM **attached to a donor
+  record** — the contact-to-donation link working for the first time, which is what the
+  whole Givebutter API integration was for.
+- category: Platform, Tools, and Infrastructure
+- source: DTD reminders digest 2026-08-16
+- links: [[funding-and-financial-development#2026-08-15 First recurring donor: Michael Davis, $100/month]], [[platform-tools-and-infrastructure#2026-08-12 CRM: Andrew locked out by a 24-hour invite expiry; Givebutter now flowing via API]]
 
 ## 2026-08-15 Search Console: Events structured data issues confirmed fixed
 - "**Google has validated your fix for Events structured data issues on

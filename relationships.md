@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-15
+updated: 2026-08-17
 tags: [grounding, people]
 ---
 
@@ -199,6 +199,12 @@ Format — one H2 per person:
   Windsor Library" mentioned in the Weld County thread unless confirmed otherwise — see
   needs-clarification.
 - source: "Clear Creek County Library District Possible Club Fair" thread 2026-08-12
+
+## Jameson Guthrie
+- relationship: inbound lead — submitted the DTD website contact form 2026-08-16; the
+  notification carried no message body, so his interest and location aren't yet in the
+  record
+- source: HubSpot form notification 2026-08-16
 
 ## Travis Payne
 - email: travisrobertpayne@gmail.com

@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-08-17
+updated: 2026-08-18
 tags: [area]
 ---
 
@@ -14,6 +14,48 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-08-17 A chat platform decision lands within two weeks — driven by what attendees asked for
+- The clearest statement yet of an open tech decision, from Andrew's ED update: "**A chat
+  platform is a critical part of our tech stack. We've heard Dudes ask how they can stay in
+  touch with each other.** We've been working for a couple of months to research and decide
+  what the best platform is for this. **We've narrowed down the choice to two options and
+  will decide and implement within the next two weeks.**"
+- The two finalists aren't named anywhere in the record. This is demand-driven — attendees
+  asking to stay connected between dinners — so it touches Support as much as Platform.
+- action #open (John/Andrew): pick the chat platform and implement by ~Aug 31
+- category: Platform, Tools, and Infrastructure
+- source: Andrew's ED update, #executive-director-updates 2026-08-17
+
+## 2026-08-17 Givebutter donation links now live on every community website but two
+- "**Give Butter fundraising link is live on all community websites (except Gunnison and
+  Summit as they have their own online fundraising)**" — community-level giving is wired up
+  across the site, with two communities deliberately left on their own rails. **Gunnison**
+  appears here for the first time as a DTD community.
+- category: Platform, Tools, and Infrastructure
+- source: Andrew's ED update, #executive-director-updates 2026-08-17
+- links: [[platform-tools-and-infrastructure#2026-08-14 The new DTD website is live]]
+
+## 2026-08-17 Candid profile approved; Anthropic and OpenAI nonprofit applications filed
+- **Candid**: "you've been approved to manage your organization's Candid nonprofit
+  profile" — resolved three days after the correct EIN issuance letter went over. The
+  profile is now John's to fill in, which matters because funders check it.
+- **Goodstack** (the nonprofit-verification service Percent/Goodstack runs for vendors) has
+  applications in flight for **Anthropic's nonprofit programme** and **OpenAI's nonprofit
+  pricing**, both **waiting on email verification** from John. A **Google Ad Grants
+  activation update** also arrived from Google for Nonprofits.
+- action #open (John): verify the Goodstack emails so both AI applications proceed; fill in
+  the Candid profile; check the Ad Grants status
+- category: Platform, Tools, and Infrastructure
+- source: Candid approval + Goodstack/OpenAI/Google emails 2026-08-17
+- links: [[platform-tools-and-infrastructure#2026-08-13 Candid rejected the wrong document — it needs the EIN issuance or affirmation letter]]
+
+## 2026-08-17 DMARC week two: 207 emails, alignment holding at 98%
+- Aug 10–17: **207 emails processed, 98% SPF or DKIM aligned**, up from 192 the week before
+  with the same 2% unaligned. Volume is growing as the CRM sends more; alignment is stable.
+- category: Platform, Tools, and Infrastructure
+- source: Postmark DMARC weekly digest 2026-08-17
+- links: [[platform-tools-and-infrastructure#2026-08-10 DMARC digest: 192 emails, 98% aligned — and ActiveCampaign is in the stack]]
 
 ## 2026-08-16 The CRM tracked its first real money end to end
 - The digest now reports finance, not just contacts: "**2 new contacts (1 from the website

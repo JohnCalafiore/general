@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-08-17
+updated: 2026-08-18
 tags: [area]
 ---
 
@@ -14,6 +14,38 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-08-17 Growth status for the board: no new communities this month, five prospects in motion
+- Andrew's ED update is candid about the headline number — "**No new communities since last
+  month**" — with the pipeline behind it: "A number of prospect communities have expressed
+  interest and are in varied levels of the process of getting started (**Gilpin, Evergreen,
+  Weld, Steamboat, Connecticut**)."
+- Two of those are new to the vault: **Steamboat** (Steamboat Springs, north-west Colorado —
+  plausibly downstream of the Health Partnership conversation) and **Connecticut**, the
+  first out-of-state prospect to appear in a pipeline list rather than as a stray inquiry.
+- category: Community Growth and Expansion
+- source: Andrew's ED update, #executive-director-updates 2026-08-17
+- links: [[community-growth-and-expansion#2026-08-14 Growth numbers on the record: 29 men at Grand Junction, interest from four new states]]
+
+## 2026-08-17 Jameson Guthrie's email bounced — the lead is unreachable as recorded
+- John sent the warm-outreach template within a day, and it **failed instantly**: "Your
+  message wasn't delivered to **jameson@mindsafety.org** because the address couldn't be
+  found." Either a typo in the form or a dead address; the domain (**mindsafety.org**)
+  suggests he came in from a mental-health organization.
+- action #open (John): find another way to reach Jameson Guthrie, or check the CRM record
+  for a phone number or corrected address
+- category: Community Growth and Expansion
+- source: outreach email + mailer-daemon bounce 2026-08-17
+- links: [[community-growth-and-expansion#2026-08-16 Second inbound lead in four days: Jameson Guthrie via the website form]]
+
+## 2026-08-17 Mason Seelos re-approached — first outbound use of a Cal.com link
+- John followed up on a lead first contacted Jul 30: "I wanted to reach out again to see if
+  you were still interested in connecting. If so, **feel free to set up a time to chat:
+  here**." The booking link replaces the old back-and-forth of proposing times — the first
+  time Cal.com has gone to an outside contact.
+- category: Community Growth and Expansion
+- source: "Re: Dude Talk Dinners Reaching Out" sent 2026-08-17
+- links: [[platform-tools-and-infrastructure#2026-08-13 DECISION: Cal.com is DTD's scheduling tool — free tier, with one blocking bug]]
 
 ## 2026-08-16 Second inbound lead in four days: Jameson Guthrie via the website form
 - Another "contact us" submission from the DTD site — **Jameson Guthrie** — following Travis

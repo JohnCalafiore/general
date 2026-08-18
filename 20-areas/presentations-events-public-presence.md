@@ -1,6 +1,6 @@
 ---
 area: Presentations, Events, and Public Presence
-updated: 2026-08-15
+updated: 2026-08-18
 tags: [area]
 ---
 
@@ -14,6 +14,27 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[presentations-events-public-presence#...]] and harvested by the brief. -->
+
+## 2026-08-17 First press: the Summit Daily published an article after a photographer attended a dinner
+- From Andrew's ED update: "**A photographer from the Summit Daily joined the DTD in July
+  and an article was published**" —
+  summitdaily.com/news/summit-countys-suicide-statistics-prompt-efforts-to-bolster-prevention/
+  This is the first confirmed press coverage in the record, and it frames DTD inside Summit
+  County's suicide-prevention response.
+- category: Presentations, Events, and Public Presence
+- source: Andrew's ED update, #executive-director-updates 2026-08-17
+
+## 2026-08-17 The Ag Department presentation is what produced the Health Partnership lead
+- Andrew's update closes a loop: he "**presented along with Nadia from Building Hope Summit
+  at the Colorado Department of Agriculture Behavioral Health Work group** presentation.
+  **This led to significant interest from members of the Northwest Colorado Communities
+  Health Partnership** to bring one or more DTD Communities to their area."
+- So the July 28 speaking slot — logged at the time as a favor to Nadia — is the origin of
+  the Craig/NCC relationship that became the Aug 10 four-person intro. Worth remembering
+  when weighing future speaking invitations.
+- category: Presentations, Events, and Public Presence
+- source: Andrew's ED update, #executive-director-updates 2026-08-17
+- links: [[community-growth-and-expansion#2026-08-03 NCC Health Partnership wants DTD in northwest Colorado]], [[relationships#Nadia Borovich]]
 
 ## 2026-08-14 DTD's messaging split, stated plainly: upstream intervention inside, "just dinner" outside
 - The clearest articulation yet of DTD's positioning problem, from the Man Therapy call:

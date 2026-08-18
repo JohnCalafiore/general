@@ -1,6 +1,6 @@
 ---
 area: Support for Existing Communities
-updated: 2026-08-15
+updated: 2026-08-18
 tags: [area]
 ---
 
@@ -14,6 +14,26 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[support-for-existing-communities#...]] and harvested by the brief. -->
+
+## 2026-08-17 Year Two planning meeting: Wed Aug 19, 10:30am at The Club Hotel
+- **Jamie Fanselow** — Regional Health Connector for **Gilpin, Clear Creek and Park
+  Counties** at the **Front Range Area Health Education Center (FRAHEC)** — sent an agenda
+  for the "**Year Two DTD Planning Mtg**," Wed Aug 19 at 10:30am, **in person at The Club
+  Hotel** (the Idaho Springs dinner venue). Invited: Andrew, **Chris Gould**, and **Ben
+  Shay**; Andrew forwarded it to John. Attachment: "8.19.26 CCC DTD Planning Agenda.docx."
+- "Year Two" framing matters — this is the Clear Creek County community planning its second
+  year, the first DTD community to reach that point.
+- category: Support for Existing Communities
+- source: "Fwd: Agenda for Wed. 19th DTD Year Two Planning Mtg" 2026-08-17
+- links: [[relationships#Jamie Fanselow]]
+
+## 2026-08-17 Andrew and Ken toured three communities: Summit, Conifer, and Bailey
+- One line in the ED update covers a lot of ground: "**Andrew and Ken went to Summit,
+  Conifer, and Bailey DTD**" — three community visits beyond the Buena Vista trip the three
+  of them made together. **Bailey** appears here for the first time in the record as a DTD
+  community.
+- category: Support for Existing Communities
+- source: Andrew's ED update, #executive-director-updates 2026-08-17
 
 ## 2026-08-14 Military and veterans culture training in development for facilitators
 - From John's board-report draft: "**Met with Daniel, a mental health professional at the

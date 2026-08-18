@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-08-16
+updated: 2026-08-18
 tags: [area]
 ---
 
@@ -14,6 +14,41 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-08-17 Walmart Spark Good Local: a per-chapter grant strategy, $250–$5,000 a time
+- Andrew's ED update explains what the "Walmart SPARK Grant" work actually is: DTD is
+  **registering for local Walmart Spark Good Local grants** — "**small ($250–$5,000) cash
+  grants that local Walmart, Sam's Club, and Distribution Center facilities award to nearby
+  501(c)(3)s** based on mission fit, trust, and community impact."
+- The strategy is the interesting part and it fits the Community Support Fund thinking
+  exactly: "**since each Walmart facility gives locally, a DTD chapter could apply to the
+  Walmart or Sam's Club nearest that community for a grant to cover dinner costs**" — many
+  small, accessible grants rather than one central ask.
+- category: Funding and Financial Development
+- source: Andrew's ED update, #executive-director-updates 2026-08-17
+- links: [[funding-and-financial-development#2026-08-10 DECISION: a "Community Support Fund" replaces the assumption that in-kind donations last]]
+
+## 2026-08-17 RESOLVED: "Principled Business" is a grant application, and it's being submitted
+- Andrew lists it under Finance and Fundraising: "**Principled Business Grant Application
+  in process of submission**." So the Aug 10 budget session was preparing a **grant
+  application**, not a partner presentation — which is why the budget had to be defensible
+  line by line.
+- Also restated: DTD is a **subgrantee on the opioid abuse prevention grant alongside RMCP,
+  "written in for $50k/year for 3 years"** — the $150k figure from July, confirmed in
+  Andrew's own words.
+- category: Funding and Financial Development
+- source: Andrew's ED update, #executive-director-updates 2026-08-17
+- links: [[funding-and-financial-development#2026-07-30 RMCP submitted the opioid-response grant: $150K to DTD if won]]
+
+## 2026-08-17 Chris Peterson is reviewing budget v8 — "the main budget looks good"
+- CP replied on the pre-board budget conversation: "I've been **reviewing v8 of the budget**
+  and have some questions, but **overall the main budget looks good**." She offered
+  **Tue 3–4pm, or Wed 12–1 or 2:45–3:15** — her week is tight ahead of Friday's board
+  meeting.
+- action #open (John): take one of CP's slots before Friday
+- category: Funding and Financial Development
+- source: "Budget discussion" email from Chris Peterson 2026-08-17
+- links: [[governance-and-org-development#2026-08-17 Board meeting confirmed: Fri Aug 21, 10–11:30am — packet circulated]]
 
 ## 2026-08-15 First recurring donor: Michael Davis, $100/month
 - Givebutter: "**Michael Davis** just supported your campaign 🎉 Michael made their **1st

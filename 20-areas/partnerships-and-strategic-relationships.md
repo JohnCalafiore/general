@@ -1,6 +1,6 @@
 ---
 area: Partnerships and Strategic Relationships
-updated: 2026-08-15
+updated: 2026-08-18
 tags: [area]
 ---
 
@@ -14,6 +14,23 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[partnerships-and-strategic-relationships#...]] and harvested by the brief. -->
+
+## 2026-08-17 RMCP wants to formalize the partnership — and hands DTD a role in Bridging the Divide
+- The most consequential line in Andrew's ED update: "**Rocky Mountain Crisis Partners
+  approached us to formalize a partnership around ongoing trainings, including co-applying
+  for a federal grant** targeting opioid abuse prevention."
+- The strategic reframe he draws from it: "**Big 'aha': DTD communities offer upstream
+  prevention not just for suicide, but for substance abuse too**" — which widens the funder
+  universe well beyond suicide prevention.
+- And a standing-invitation-sized detail: "**RMCP is taking over the 'Bridging the Divide'
+  suicide prevention summit, and have already informally offered DTD an expanded role.**"
+  DTD's slides from that summit (April '26) have been circulating as interim startup
+  material; now the summit itself is run by DTD's closest partner.
+- action #open (Andrew/John): respond to RMCP on formalizing the training partnership and
+  the expanded Bridging the Divide role
+- category: Partnerships and Strategic Relationships
+- source: Andrew's ED update, #executive-director-updates 2026-08-17
+- links: [[funding-and-financial-development#2026-08-17 RESOLVED: "Principled Business" is a grant application, and it's being submitted]], [[partnerships-and-strategic-relationships#2026-07-20 Grant platform meeting with Patricia Markwell (RMCP)]]
 
 ## 2026-08-14 DECISION: Man Therapy will promote DTD — a tile and a blog post, no "partner" language
 - The Friday call (54 minutes, Trip Starkey + Andrew + John) landed the partnership.

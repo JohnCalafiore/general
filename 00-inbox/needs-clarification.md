@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-16
+updated: 2026-08-18
 tags: [inbox]
 ---
 
@@ -72,7 +72,11 @@ Format the agent uses:
   email still says "7/21 at 10am." Aug 22 is a Saturday, so one of the two is off.
 - question: is the board meeting Fri Aug 21 or Sat Aug 22? It now anchors real deadlines
   (the budget and the employment tranches), so I'd rather have it right than guess.
-- answer:
+- RESOLVED 2026-08-18: it's **Fri Aug 21, 10:00–11:30am MDT** — a recurring "DTD Board
+  Meeting 3rd Friday" organized by Justin Hall, with Ken's board packet circulated Aug 17.
+  Justin's "7/21" was a typo for 8/21; Fathom's "Aug 22" was a day off. Filed to
+  Governance. Both this and the older 08-05 board-date item can be deleted.
+- answer: Friday Aug 21, 10am
 
 ## 2026-08-11 RESOLVED — Chris Gould facilitated the Idaho Springs dinner
 - the Aug 10 reminder from idahospringsco@dudetalkdinners.org confirms it: Club Hotel,
@@ -179,7 +183,12 @@ Format the agent uses:
   Funding and Financial Development, alongside the Walmart/Spark grant — so it's an
   **application DTD submitted**, filed as funding. Still need to know what the organization
   or program actually is, plus any deadline or amount.
-- answer:
+- RESOLVED 2026-08-18: Andrew's ED update says "**Principled Business Grant Application in
+  process of submission**" — it is a **grant application**, which is why the Aug 10 budget
+  session had to make the budget defensible line by line. Filed to Funding. Only the
+  funder's identity, deadline, and amount are still blank; add them if you have them,
+  otherwise this can be deleted.
+- answer: a grant application
 
 ## 2026-08-04 Monday's six meetings produced no captured content
 - context: Aug 3 held six sessions (Spark Grant, BV fundraising, two budget reviews,

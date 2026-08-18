@@ -1,6 +1,6 @@
 ---
 area: Governance and Organizational Development
-updated: 2026-08-14
+updated: 2026-08-18
 tags: [area]
 ---
 
@@ -14,6 +14,46 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[governance-and-org-development#...]] and harvested by the brief. -->
+
+## 2026-08-17 Board meeting confirmed: Fri Aug 21, 10–11:30am — packet circulated
+- The date question is settled by the calendar itself: **"DTD Board Meeting 3rd Friday"**
+  is a recurring event organized by Justin Hall, and August's falls **Fri Aug 21,
+  10:00–11:30am MDT** on Google Meet. Everyone has accepted (Ken, Justin, Chris Gould, John,
+  Andrew, Ben Shay, and CP from her westernalum address). Justin's "7/21" was a typo for
+  8/21 and Fathom's "Aug 22" was also off by a day.
+- **Ken Farber** — whose signature here reads **"Board Chair, Dude Talk Dinner, Inc."** —
+  sent the packet Monday: "Sending the link to Board Packet for this Friday's meeting.
+  Apologies for not having this out on Friday as I did not realize **Justin was unavailable
+  the past several days**... If there are any additions or changes do let me know asap."
+- Scheduling note: John has "**Out - Arsenal match in Denver**" from 11:30am, starting the
+  moment the meeting ends.
+- category: Governance and Organizational Development
+- source: "Aug 21 Board Packet" email + calendar 2026-08-17
+- links: [[governance-and-org-development#2026-08-10 Board meeting will set "tranches" — the benchmarks that trigger Andrew's and Ken's employment]]
+
+## 2026-08-17 Trademark filing priced: ~$3k without pro bono help
+- From Andrew's ED update: "**Spoke to a lawyer about filing a trademark application - will
+  cost around $3k if we don't find pro-bono support.** Another option is to use an online
+  legal service such as **Northwest Registered Agent**." A second legal need alongside the
+  community agreement — and another reason Trip Starkey's pro bono lawyer lead matters.
+- Also stated for the record: the **501(c)(3) letter of determination is dated 7/2/2026**.
+- action #open: decide between pro bono counsel, ~$3k filing, or an online service
+- category: Governance and Organizational Development
+- source: Andrew's ED update, #executive-director-updates 2026-08-17
+- links: [[partnerships-and-strategic-relationships#2026-08-14 Trip's two leads: a pro bono lawyer route and the Elevents Health grant cycle]]
+
+## 2026-08-17 Dawson Wolf's status stated formally: volunteer, not yet an intern — with 1–3 more coming
+- Andrew's ED update puts a precise label on it: "We have brought on a **volunteer (not yet
+  formally an intern), Dawson Wolf**. He will be helping with **marketing to young men**
+  along with **capturing and editing videos for testimonials** — for Dude Central as well as
+  DTD Communities to use."
+- And the plan behind it: "We're likely to **take on 1-3 interns** for additional Dude
+  Central capacity, to help with marketing, video, and outreach to the **'young man'
+  demographic**." So Dawson is the first of an intended cohort, and there is an
+  intern-versus-volunteer distinction DTD is being careful about.
+- category: Governance and Organizational Development
+- source: Andrew's ED update, #executive-director-updates 2026-08-17
+- links: [[relationships#Dawson Wolf]]
 
 ## 2026-08-13 Insurance follow-up: the cancellation notice crossed the invoice in the mail
 - A second notice arrived — **Maryanne Munz** (LF Insurance Group): "your payment is past

@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-17
+updated: 2026-08-18
 tags: [grounding, people]
 ---
 
@@ -28,10 +28,13 @@ Format — one H2 per person:
   board announcement 2026-07-19
 
 ## Ken Farber
-- org: Dude Talk Dinners board — led the 501(c)(3) application; active in Clear Creek and
-  Frisco dinners; recruits leadership (intro'd Cole)
+- org: Dude Talk Dinners — **Board Chair** (per his signature, 2026-08-17); led the
+  501(c)(3) application; active in Clear Creek and Frisco dinners; recruits leadership
+  (intro'd Cole); handles the insurance correspondence and circulates the board packet.
+  His formal employment, like Andrew's, is gated on the budget "tranches."
 - email: ken.farber@dudetalkdinners.org
-- source: 501(c)(3) thread 2026-07-19/21; "Dude Talk Leadership Call" thread 2026-07-18
+- source: 501(c)(3) thread 2026-07-19/21; "Dude Talk Leadership Call" 2026-07-18;
+  "Aug 21 Board Packet" 2026-08-17
 
 ## Justin Hall
 - org: Dude Talk Dinners board — drafted/shared the 7/17/26 board meeting minutes; also a
@@ -246,10 +249,16 @@ Format — one H2 per person:
 - source: Fathom recap 2026-07-30
 
 ## Jamie Fanselow
+- org: **Regional Health Connector for Gilpin, Clear Creek and Park Counties**, **Front
+  Range Area Health Education Center (FRAHEC)** — frhealth.org,
+  regionalhealthconnectors.org; 303.570.5683
 - email: jamie@frhealth.org
-- relationship: leads Gilpin / Clear Creek / Park counties; secured HHS + Public Health
-  funding by framing DTD as a community-wide benefit; applying for Gilpin county funding
-- source: Fathom recap 2026-07-30
+- relationship: secured HHS + Public Health funding by framing DTD as a community-wide
+  benefit; applying for Gilpin county funding for 2027; convenes the **Clear Creek County
+  "Year Two" DTD planning meetings** (Aug 19 at The Club Hotel with Andrew, Chris Gould,
+  and Ben Shay)
+- source: Fathom recap 2026-07-30; "Agenda for Wed. 19th DTD Year Two Planning Mtg"
+  2026-08-17
 
 ## Greg Vochis
 - email: gvochis@gmail.com

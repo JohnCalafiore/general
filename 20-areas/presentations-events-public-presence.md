@@ -1,6 +1,6 @@
 ---
 area: Presentations, Events, and Public Presence
-updated: 2026-08-18
+updated: 2026-08-19
 tags: [area]
 ---
 
@@ -14,6 +14,21 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[presentations-events-public-presence#...]] and harvested by the brief. -->
+
+## 2026-08-18 Frankie's reel lands end of September — he wants the stats to start scripting
+- Frankie replied after a week ("busy time of year for the day job") and committed with a
+  realistic timeline: "**I could get this filmed and maybe complete by the end of Sept.** to
+  not feel rushed or pressured by it... I'm sitting on a backlog of editing right now." He
+  offers the other concepts afterwards.
+- He explicitly wants the research: "feel free to **send the stats my way**, and I will
+  begin to **shot list the reel and make a script or find a story I can hone in on to tell
+  my 'battle' with depression**."
+- The ball is squarely in DTD's court — the stats are the only thing blocking him starting.
+- action #open (John): send Frankie stats on men, isolation, and mental health in rural
+  mountain towns
+- category: Presentations, Events, and Public Presence
+- source: "Re: Master Content Creator Frankie Spontelli" 2026-08-18
+- links: [[presentations-events-public-presence#2026-08-11 Frankie Spontelli collaboration scoped: a personal reel, and three DTD concepts]]
 
 ## 2026-08-17 First press: the Summit Daily published an article after a photographer attended a dinner
 - From Andrew's ED update: "**A photographer from the Summit Daily joined the DTD in July

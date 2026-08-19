@@ -1,123 +1,186 @@
 # Raw dump — Gmail inbox
 
-Harvest window: 2026-08-17 → 2026-08-18 (America/Denver)
+Harvest window: 2026-08-18 → 2026-08-19 (America/Denver)
 
 ---
 
-## gmail-boardpacket-20260817 Aug 21 Board Packet
+## gmail-fathom-fundraising-20260818 Recap for "Andrew : Ben (DTD fundraising)" (56 min)
 
-from: Ken Farber <ken.farber@dudetalkdinners.org> — signature reads **"Ken Farber, Board
-  Chair, Dude Talk Dinner, Inc."**
-to: Justin Hall, Chris Peterson, Benjamin Shay, Chris Gould, Andrew Wolff, John Calafiore
-date: 2026-08-17 11:35 MT
+from: Fathom <no-reply@fathom.video>
+date: 2026-08-18 11:59 MT — meeting Aug 18, 11am–12pm
+link: https://fathom.video/calls/789674484
 
-"Sending the link to **Board Packet for this Friday's meeting**. Apologies for not having
-this out on Friday as I did not realize **Justin was unavailable the past several days**.
-[Google Doc link] You all should have access via Google Docs/Sheets as well. If there are
-any additions or changes do let me know asap and I will update all accordingly."
+Meeting purpose: define a fundraising strategy for Dude Talk Dinners.
 
----
+Key takeaways:
+- **Fundraising is the top priority.** Andrew will dedicate **~90% of his time** to
+  fundraising, focusing on high-upside targets like **family foundations and individual
+  donors**.
+- **Community fundraising will be tiered**, case by case: **struggling communities (e.g.
+  BV) get tools to fund themselves**, while **stable ones (e.g. Bailey) are asked to
+  fundraise for DudeTalk Central**.
+- **AI will accelerate outreach** — Andrew will use AI to generate contact lists for
+  corporate giving and foundations for rapid, targeted email campaigns.
+- **A pitch deck will be developed for the board** — a practice tool for Andrew and a clear
+  call to action for board members to leverage their networks.
 
-## gmail-cpbudget-20260818 Budget discussion
+Topics:
+- **The fundraising challenge** — "**A $50k seed funding application to Principal Business
+  is pending, but the group's 'capitalist' nature may not align with DTD's mission.**" A
+  clear prioritized action plan is the stated gap.
+- **Individual donors & foundations** — individual donors are the primary focus for
+  immediate funds; Andrew will call **each board member** for introductions to their
+  networks and ask **passionate facilitators** for their Rolodexes. Family foundations are
+  "the highest-upside target for larger, faster donations" because foundations are
+  "**giving businesses** with clear processes, making them more efficient targets than
+  individual donors." Tactic: find the contact person at each foundation and send a direct
+  email **with links to DTD's NPR/CPR articles** to secure an intro call.
+- **Community fundraising** — the sensitivity is named directly: asking struggling
+  communities to fundraise for Central is delicate. Solution is tiered Givebutter
+  campaigns. **Fiscal sponsors**: Andrew will hold transparent conversations with **All
+  Access Wellness (Bailey)** and **Building Hope (Summit)** to define a collaborative
+  strategy.
+- **Other channels** — co-write grants with established 501(c)(3)s (e.g. **Resilience
+  1220**) to leverage their track record; corporate giving is lower priority but worth it
+  for sponsorships and as an indirect path to well-off individuals, with a "**lunch and
+  learn**" that models a DudeTalk conversation as the tactic; year-end campaigns for
+  **Colorado Gives Day and Giving Tuesday** (Andrew to call Colorado Gives about their
+  platform and matching-fund model); **merch** (a catchy t-shirt) at ~5% of time.
+- **Strategic framing** — the **Community Support Fund** as a budget line "allows DTD to
+  raise funds beyond its immediate operational needs, **preventing the appearance of being
+  'overfunded' to donors** and creating a pool to support community growth." And on
+  partnerships: "**DTD is a 'gateway to therapy,' not a competitor**" — relationships with
+  Man Therapy and Resilience 1220 can lead to co-written grants, referrals, and sponsorships.
 
-from: Chris Peterson <christine.peterson@westernalum.org>
-date: 2026-08-17 20:22 MT
-
-"I know buried somewhere in my email you had reached out and wanted to chat about the
-budget updates prior to the board meeting. My availability this week isn't great but I do
-have time **between 3 and 4 tomorrow and from 12 to 1 or 2:45 to 3:15 Wednesday**. I've
-been **reviewing v8 of the budget** and have some questions, but **overall the main budget
-looks good**."
-
----
-
-## gmail-jamieagenda-20260817 Fwd: Agenda for Wed. 19th DTD Year Two Planning Mtg
-
-from: Andrew Wolff, forwarding **Jamie Fanselow <jamie@frhealth.org>**
-date: Jamie's message 2026-08-17 08:58 MT; forwarded 11:45 MT
-attachment: "8.19.26 CCC DTD Planning Agenda.docx"
-
-"Attached here, you'll find an agenda of discussion items for our **Wed. 19th Year Two DTD
-Planning Mtg at 10:30am at The Club Hotel**. Feel free to add additional agenda items as
-needed. Looking forward to seeing you all in person!" — sent to Andrew Wolff, Chris Gould,
-and Benjamin Shay (ben@bshaycreative.com).
-
-Jamie's signature: **Regional Health Connector, Gilpin, Clear Creek and Park Counties**,
-303.570.5683, regionalhealthconnectors.org, **Front Range Area Health Education Center
-(FRAHEC)**, frhealth.org.
-
----
-
-## gmail-candidapproved-20260817 Good news: you're approved to manage your Candid profile
-
-from: donotreply@candid.org
-date: 2026-08-17 09:09 MT
-
-"Good news, **you've been approved to manage your organization's Candid nonprofit
-profile!** You can now modify the profile for Dude [Talk Dinners]." — three days after the
-correct EIN issuance letter went over.
-
----
-
-## gmail-goodstack-20260817 Goodstack: nonprofit programme applications for Anthropic and OpenAI
-
-from: verifications@mail.goodstack.org / no-reply@mail.goodstack.io / noreply@tm.openai.com
-date: 2026-08-17 16:19–16:21 MT
-
-Three related messages:
-- "Welcome to Goodstack!" account creation for John Calafiore.
-- "**We're working with Anthropic to process your application for their programme**
-  (claude.com/solutions/nonprofits). Please verify your email address so we can continue
-  reviewing your [application]."
-- "**We're working with OpenAI to process your application for their programme**
-  (help.openai.com — nonprofit pricing). Please verify your email address..."
-- OpenAI directly: "We've received your request for nonprofit pricing... **OpenAI has
-  partnered with Percent to validate nonprofit eligibility criteria.**"
-
-Both applications are **pending email verification**.
+Action items (all assigned to John Calafiore in the recap, with Andrew's own list in Next
+Steps):
+- Set up Givebutter pages for **Clear Creek, Silverthorne, BV, Grand Junction**; share
+  QR/link with communities
+- Draft the fundraising action plan from these notes; send to Ben for review
+- Call board members re donor intros; schedule 1:1s; follow up next week
+- Email **Allison (All Access Wellness)** re Bailey/Conifer fundraising; add Givebutter pages
+- Email **Nadia (Building Hope Summit)** re Summit fundraising; add Givebutter pages
+- Schedule community fundraising calls (**BV, Grand Junction, Gunnison, CP, Bailey/Conifer,
+  Summit**)
+- Identify aligned 501(c)(3) grant partners; email **Resilience (Erica)** re co-granting
+- Compile family foundation contacts; send personalized outreach
+- Schedule the Colorado Gives call re registration, matching, EOY strategy
+- Draft the **5–7 minute board fundraising pitch deck** for Friday
 
 ---
 
-## gmail-adgrants-20260817 Google Ad Grants activation update
+## gmail-anthropic-approved-20260819 You're approved for Claude for Nonprofits
 
-from: googlefornonprofits-noreply@google.com
-date: 2026-08-17 16:29 MT
+from: Anthropic <no-reply@mail.anthropic.com>
+date: 2026-08-18 20:19 MT
 
-"A note from Google for Nonprofits about your organization's account" regarding **Google Ad
-Grants activation** — the free search-advertising programme for nonprofits.
-
----
-
-## gmail-jamesonbounce-20260817 Delivery Status Notification (Failure) — jameson@mindsafety.org
-
-from: mailer-daemon@googlemail.com
-date: 2026-08-17 15:18 MT
-
-John's outreach to the Aug 16 inbound lead **bounced**: "Your message wasn't delivered to
-**jameson@mindsafety.org** because the address couldn't be found... 550 5.1.1."
+"**You and your organization have been approved for Claude for Nonprofits.** Your discount
+is automatically applied when you sign up for Claude for Teams..."
 
 ---
 
-## gmail-dmarc-20260817 DMARC weekly digest for dudetalkdinners.org
+## gmail-openai-approved-20260819 You've been approved for nonprofit pricing
 
-from: dmarc@postmarkapp.com
-date: 2026-08-17 08:47 MT
+from: noreply@tm.openai.com
+date: 2026-08-18 20:19 MT
 
-Week **Aug 10 – Aug 17: 207 emails processed, 98% SPF or DKIM aligned, 2% not aligned** —
-up from 192 the prior week, same alignment rate. Sources: ActiveCampaign and Postmark.
-
----
-
-## gmail-drivereshare-20260817 Document shared: "Fundraising script rough draft"
-
-from: drive-shares-dm-noreply@google.com
-date: 2026-08-17 12:55 MT
-
-**Andrew** shared the "Fundraising script rough draft" with John for editing — the document
-Dawson Wolf originally shared on Aug 4, now re-shared by Andrew.
+"Congratulations – **you've been approved for the ChatGPT nonprofit discount!** You will
+receive a prorated credit for your current billing period." Goodstack also confirmed:
+"**your Goodstack account has been verified**."
 
 ---
 
-## gmail-noise-20260817 Filtered as noise
+## gmail-greg-accounting-20260819 DTD - Accounting question (Greg Vochis)
 
-A maxjmiller newsletter.
+from: Andrew Wolff to gvochis@gmail.com, cc John — date 2026-08-18 17:00 MT; Greg's reply
+2026-08-18 19:58 MT
+
+Andrew's question: "how should we record **pass through donations that go through Dude
+Central and are then transferred to another 501(c)(3) organization acting as a fiscal
+sponsor for local Dude Talk Dinner Communities**. Also, **if there is no fiscal sponsor at
+the local DTD Community level, what is the accounting process between Dude Central and the
+local DTD Community?**"
+
+Greg's reply: "Happy to help. I'll say that **this kind of structure, with a fiscal
+sponsor, isn't something I'm used to**, but I can do a little research. **I still think it
+would make more sense to have it all controlled by a single entity**, but I understand that
+you want to explore these different models.
+
+As a side note, **the Attorney I reached out to just let me know he's unable to help, but
+I'll try a few others.**"
+
+---
+
+## gmail-frankie-timeline-20260818 Re: Master Content Creator Frankie Spontelli
+
+from: f.spontelli22@gmail.com
+date: 2026-08-18 09:53 MT
+
+"Sorry it's taken me a while to get back to you. **Busy time of year for the day job.**"
+On the stats offer: "**Yes** ^ that would be super helpful, feel free to send the stats my
+way, and I will begin to **shot list the reel and make a script or find a story I can hone
+in on to tell my 'battle' with depression**. Love all the other ideas too."
+
+On timing: "Busy, while I want to help out asap, my schedule won't allow for that. I would
+say **I could get this filmed and maybe complete by the end of Sept.** to not feel rushed
+or pressured by it, if that's okay with your team. I know you are probably looking for
+something sooner, but I'm sitting on a backlog of editing right now. Once things calm down,
+I'd be happy to help produce some of the other ideas into reels."
+
+---
+
+## gmail-startupconvo-20260826 Invitation: Dude Talk Dinners - startup conversation, Wed Aug 26
+
+from: Andrew Wolff
+date: 2026-08-18 17:06 MT
+
+New invite for **Wed Aug 26, 3:30–4:30pm MDT** (Google Meet) with John, **deleon_anderson@yahoo.com**
+and **info@giovannyramirez.com** — two names new to the record.
+
+---
+
+## gmail-mightynetworks-20260818 Mighty Networks downgrade to Free Plan on Aug 21
+
+from: dudetalkdinners@mn.co
+date: 2026-08-18 14:53 MT
+
+"**You will be downgraded to the Free Plan on Aug 21, 2026.**"
+
+---
+
+## gmail-dawson-yale-20260818 Dawson sends donor-behavior research
+
+from: dawsonjwolf03@gmail.com, to John and Andrew
+date: 2026-08-18 13:55 MT
+
+A link (no comment) to Yale SOM, "**Understanding Donor Behavior: Insights for Increasing
+Engagement and Charitable Giving**" (2024).
+
+---
+
+## gmail-deed-20260818 Please activate your email address to access Deed Organizer
+
+from: noreply@joindeed.com
+date: 2026-08-18 09:55 MT
+
+"We received a request to create a new account... for **Deed Organizer**. You can now log
+in and begin the process of **claiming your organization**." — a corporate-volunteering /
+giving platform, account pending activation.
+
+---
+
+## gmail-cpbudgetcall-20260818 Re: Budget discussion — call set for 3pm
+
+from/to: John and Chris Peterson
+date: 2026-08-18 07:37–14:09 MT
+
+John: "I'm happy to connect today at 3pm if that still works for you." CP: "**3-330 today
+still works for me**, looking forward to chatting then." John sent the invite; CP: "Looking
+forward to it!"
+
+---
+
+## gmail-noise-20260818 Filtered as noise
+
+PayPal passkey and trusted-device notices, a Givebutter board-application download promo,
+and an awakenedschool newsletter.

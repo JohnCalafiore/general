@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-08-18
+updated: 2026-08-19
 tags: [area]
 ---
 
@@ -14,6 +14,82 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-08-18 DECISION: fundraising strategy set — Andrew to ~90% fundraising, foundations first
+- The Andrew/Ben session (56 min, John present) produced the prioritized plan the budget has
+  been implying. **Fundraising is the top priority and Andrew will spend ~90% of his time on
+  it** — the operational version of the 70–90% budget allocation agreed Aug 10.
+- Priority order: **individual donors** for immediate cash, **family foundations** for the
+  highest upside. The reasoning on foundations is worth keeping: they are "**giving
+  businesses** with clear processes, making them **more efficient targets than individual
+  donors**." Tactic — find the named contact at each foundation and email directly, **linking
+  DTD's NPR/CPR articles**, to land an intro call.
+- Where the individual donors come from: Andrew will **call every board member** for
+  introductions to their networks, and ask **passionate facilitators** for their contacts.
+- A **5–7 minute pitch deck** goes to Friday's board meeting, doubling as Andrew's practice
+  run and as a concrete ask of the board.
+- Andrew will **use AI to build corporate-giving and family-foundation contact lists** for
+  fast targeted outreach.
+- category: Funding and Financial Development
+- source: Fathom recap, "Andrew : Ben (DTD fundraising)" 2026-08-18
+  (fathom.video/calls/789674484)
+- links: [[funding-and-financial-development#2026-08-10 DECISION: budget restructured — cash expense lines, and Andrew re-cast as 70–90% fundraising]]
+
+## 2026-08-18 DECISION: community fundraising goes tiered — struggling communities keep what they raise
+- The delicate question — whether communities should raise money for DTD Central — got a
+  clear answer: **a tiered, case-by-case approach using Givebutter campaigns.**
+  - **Struggling communities (e.g. Buena Vista)**: given the Givebutter platform as a tool
+    to **fundraise for their own dinners**.
+  - **Stable communities (e.g. Bailey)**: asked to **fundraise for DTD Central**, framed as
+    supporting the national mission.
+- On fiscal sponsors, Andrew will hold **transparent conversations** with **All Access
+  Wellness (Bailey)** and **Building Hope Summit (Nadia)** to agree a collaborative approach
+  rather than competing for the same local dollars.
+- The **Community Support Fund** gets a second rationale beyond sustainability: as a budget
+  line it "allows DTD to raise funds beyond its immediate operational needs, **preventing
+  the appearance of being 'overfunded' to donors**."
+- action #open (John): set up Givebutter pages for **Clear Creek, Silverthorne, BV, Grand
+  Junction** and share QR/links; schedule fundraising calls with BV, Grand Junction,
+  Gunnison, CP, Bailey/Conifer and Summit; email **Allison (All Access Wellness)** and
+  **Nadia (Building Hope)**
+- category: Funding and Financial Development
+- source: Fathom recap, "Andrew : Ben (DTD fundraising)" 2026-08-18
+- links: [[funding-and-financial-development#2026-07-30 Buena Vista funding gap — the test case for community funding]]
+
+## 2026-08-18 Four more channels opened: co-granting, corporate lunch-and-learns, year-end, merch
+- **Co-written grants**: partner with established 501(c)(3)s such as **Resilience 1220** to
+  "leverage their history for a higher success rate" — action to email **Erica at
+  Resilience**. The framing behind it is a keeper: "**DTD is a 'gateway to therapy,' not a
+  competitor**," which makes referrals, co-grants and sponsorships natural with Man Therapy
+  and Resilience alike.
+- **Corporate giving**: lower priority, pursued for sponsorships and as an indirect route to
+  well-off individuals in leadership. Tactic — offer a "**lunch and learn**" that **models a
+  DudeTalk conversation** rather than pitching at employees.
+- **Year-end**: a coordinated campaign for **Colorado Gives Day and Giving Tuesday**; Andrew
+  to call Colorado Gives about their platform and matching-fund model.
+- **Merch**: "a low-effort, high-potential idea (e.g. a catchy t-shirt)" at roughly **5% of
+  time**.
+- category: Funding and Financial Development
+- source: Fathom recap, "Andrew : Ben (DTD fundraising)" 2026-08-18
+- links: [[partnerships-and-strategic-relationships#2026-08-14 DECISION: Man Therapy will promote DTD — a tile and a blog post, no "partner" language]]
+
+## 2026-08-18 Principal Business is a $50k seed application — with a stated mission-fit doubt
+- The clearest description yet: "**A $50k seed funding application to Principal Business is
+  pending, but the group's 'capitalist' nature may not align with DTD's mission.**" So the
+  amount is $50,000, it is submitted and awaiting a decision, and the room already has
+  reservations about the funder.
+- category: Funding and Financial Development
+- source: Fathom recap, "Andrew : Ben (DTD fundraising)" 2026-08-18
+- links: [[funding-and-financial-development#2026-08-17 RESOLVED: "Principled Business" is a grant application, and it's being submitted]]
+
+## 2026-08-18 Budget review with Chris Peterson held ahead of the board meeting
+- The 3:00–3:30pm call happened, arranged by email the same morning after CP's note that
+  she'd reviewed **v8** and "overall the main budget looks good." **Neither Granola nor
+  Fathom captured it**, so her questions and whatever they resolved are not in the vault —
+  three days before the board sees the budget.
+- category: Funding and Financial Development
+- source: "Budget discussion" thread + calendar 2026-08-18; absence of meeting capture
+- links: [[funding-and-financial-development#2026-08-17 Chris Peterson is reviewing budget v8 — "the main budget looks good"]]
 
 ## 2026-08-17 Walmart Spark Good Local: a per-chapter grant strategy, $250–$5,000 a time
 - Andrew's ED update explains what the "Walmart SPARK Grant" work actually is: DTD is

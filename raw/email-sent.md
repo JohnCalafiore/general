@@ -1,28 +1,15 @@
 # Raw dump — Gmail sent
 
-Harvest window: 2026-08-17 → 2026-08-18 (America/Denver)
+Harvest window: 2026-08-18 → 2026-08-19 (America/Denver)
 
 ---
 
-## gmailsent-jameson-20260817 Dude Talk Dinners Reaching Out (to Jameson Guthrie) — bounced
-
-from: john.calafiore@dudetalkdinners.org, cc Andrew Wolff
-to: **jameson@mindsafety.org**
-date: 2026-08-17 15:18 MT
-
-The standard warm-outreach template, sent within a day of his form submission. It bounced
-ten seconds later — the address doesn't exist. Note the domain: **mindsafety.org**, which
-suggests he came in from a mental-health organization.
-
----
-
-## gmailsent-mason-20260817 Re: Dude Talk Dinners Reaching Out (to Mason Seelos)
+## gmailsent-cpbudget-20260818 Re: Budget discussion
 
 from: john.calafiore@dudetalkdinners.org
-to: m.seelos6@gmail.com
-date: 2026-08-17 16:17 MT
+to: christine.peterson@westernalum.org
+date: 2026-08-18 07:37 MT and 09:47 MT
 
-"I hope you had a great weekend. I wanted to reach out again to see if you were still
-interested in connecting. If so, **feel free to set up a time to chat: here**" — a
-follow-up on a lead first contacted Jul 30, and the **first outbound use of a Cal.com
-booking link** in the record.
+"Thanks for getting back to me, I'm sure you have a fair amount of emails to go through.
+I'm happy to connect today at 3pm if that still works for you. If so, I'll send a calendar
+[invite]." Then: "Sounds good, talk to you then! Just sent you an invite."

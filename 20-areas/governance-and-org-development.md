@@ -1,6 +1,6 @@
 ---
 area: Governance and Organizational Development
-updated: 2026-08-18
+updated: 2026-08-19
 tags: [area]
 ---
 
@@ -14,6 +14,24 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[governance-and-org-development#...]] and harvested by the brief. -->
+
+## 2026-08-18 The fiscal-sponsor structure hits an accounting question — and a dissenting view
+- Andrew put the structural problem to **Greg Vochis** in writing: "how should we record
+  **pass through donations that go through Dude Central and are then transferred to another
+  501(c)(3) organization acting as a fiscal sponsor for local DTD Communities**... **if there
+  is no fiscal sponsor at the local DTD Community level, what is the accounting process
+  between Dude Central and the local DTD Community?**"
+- Greg's answer is candid and worth recording because it's the first dissent on the model:
+  "**this kind of structure, with a fiscal sponsor, isn't something I'm used to**, but I can
+  do a little research. **I still think it would make more sense to have it all controlled by
+  a single entity**, but I understand that you want to explore these different models."
+- Setback on the legal front in the same message: "**the Attorney I reached out to just let
+  me know he's unable to help**, but I'll try a few others." So Greg's lawyer lead is dead;
+  Trip's referral via Joe and the CNDC route are what remain.
+- action #open (Andrew/John): schedule the call with Greg; keep pursuing pro bono counsel
+- category: Governance and Organizational Development
+- source: "DTD - Accounting question" thread 2026-08-18
+- links: [[relationships#Greg Vochis]], [[partnerships-and-strategic-relationships#2026-08-14 Trip's two leads: a pro bono lawyer route and the Elevents Health grant cycle]]
 
 ## 2026-08-17 Board meeting confirmed: Fri Aug 21, 10–11:30am — packet circulated
 - The date question is settled by the calendar itself: **"DTD Board Meeting 3rd Friday"**

@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-08-18
+updated: 2026-08-19
 tags: [area]
 ---
 
@@ -14,6 +14,19 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-08-18 Connecticut startup conversation booked: Wed Aug 26, 3:30–4:30pm
+- Andrew scheduled "**Dude Talk Dinners - startup conversation**" for **Wed Aug 26,
+  3:30–4:30pm MDT** with John, **info@giovannyramirez.com** and **deleon_anderson@yahoo.com**
+  — almost certainly **Giovanny Ramirez and Anderson**, the pair exploring a community in
+  **Fairfield County, Connecticut** since the Jul 30 Leadership Circle. That makes this the
+  first scheduled conversation for the **out-of-state prospect** named in Andrew's board
+  pipeline. Both invitations are still unanswered.
+- Note: the address reads "deleon_anderson," while the July record has "Anderson Perez" —
+  the surname isn't settled (see needs-clarification).
+- category: Community Growth and Expansion
+- source: calendar invitation 2026-08-18
+- links: [[relationships#Giovanny Ramirez & Anderson (Connecticut)]]
 
 ## 2026-08-17 Growth status for the board: no new communities this month, five prospects in motion
 - Andrew's ED update is candid about the headline number — "**No new communities since last

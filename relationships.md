@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-18
+updated: 2026-08-19
 tags: [grounding, people]
 ---
 
@@ -216,6 +216,20 @@ Format — one H2 per person:
 - source: HubSpot form notification 2026-08-12; Fathom recap 2026-08-13; outreach email
   2026-08-14
 
+## Allison (All Access Wellness)
+- org: **All Access Wellness** — the 501(c)(3) acting as **fiscal sponsor for the Bailey
+  DTD community**
+- relationship: Andrew is to open a transparent conversation with her about how Bailey and
+  Conifer fundraise alongside DTD Central; Givebutter pages to be added
+- source: Fathom recap, "Andrew : Ben (DTD fundraising)" 2026-08-18
+
+## Erica (Resilience 1220)
+- org: **Resilience 1220** — an established Colorado 501(c)(3) youth/mental-health nonprofit
+- relationship: identified as a **co-granting partner** — writing grants together to
+  leverage their longer track record; also named alongside Man Therapy as a nonprofit DTD
+  should build bridges with rather than compete against
+- source: Fathom recap, "Andrew : Ben (DTD fundraising)" 2026-08-18
+
 ## Ryan Davis
 - org: **LF Insurance Group**, 12851 W 43rd Dr. Ste #2, Golden CO 80403 — DTD's insurance
   broker; direct 720.880.2803, main 303.422.2018
@@ -263,14 +277,20 @@ Format — one H2 per person:
 ## Greg Vochis
 - email: gvochis@gmail.com
 - relationship: starting a DTD group in **Evergreen** (early stages) — likely the "Greg"
-  owed the startup guide (see needs-clarification)
-- source: Fathom recap 2026-07-30
+  owed the startup guide. Also serving as an **informal accounting advisor**: Andrew asked
+  him how to record pass-through donations under the fiscal-sponsor model (Aug 18), and he
+  offered to research it while noting he'd favor "**all controlled by a single entity**."
+  He was also sourcing a pro bono attorney for DTD, though that lead fell through.
+- source: Fathom recap 2026-07-30; "DTD - Accounting question" thread 2026-08-18
 
-## Giovanny Ramirez & Anderson Perez (Connecticut)
-- relationship: exploring a DTD community in Fairfield County, CT — first out-of-state
-  expansion; Anderson (from Guatemala) offered to help make the model inclusive for
-  non-English speakers; call with Andrew next week
-- source: Fathom recap 2026-07-30
+## Giovanny Ramirez & Anderson (Connecticut)
+- emails: **info@giovannyramirez.com** and **deleon_anderson@yahoo.com** (the July record
+  gives Anderson's surname as "Perez," the address suggests "de Leon" — unconfirmed)
+- relationship: exploring a DTD community in **Fairfield County, CT** — DTD's first
+  out-of-state prospect; Anderson (from Guatemala) offered to help make the model inclusive
+  for non-English speakers. A **startup conversation with Andrew and John is booked for Wed
+  Aug 26**.
+- source: Fathom recap 2026-07-30; calendar invitation 2026-08-18
 
 ## Emily Schweitzer
 - org: The Health Partnership (ncchealthpartnership.org), Craig CO — northwest Colorado

@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-18
+updated: 2026-08-19
 tags: [inbox]
 ---
 
@@ -18,6 +18,14 @@ Format the agent uses:
 ```
 
 <!-- entries begin below -->
+
+## 2026-08-19 Anderson's surname — "Perez" or "de Leon"?
+- context: the Jul 30 Leadership Circle recap names the Connecticut pair as **Giovanny
+  Ramirez and Anderson Perez**; the Aug 26 startup-conversation invite goes to
+  **deleon_anderson@yahoo.com**, which reads as "de Leon."
+- question: which is right? I've kept both in relationships rather than pick one. Worth
+  fixing before the Aug 26 call so he's addressed correctly.
+- answer:
 
 ## 2026-08-16 Who is Michael Davis, and which campaign did the recurring gift come through?
 - quote: Andrew, on the $100/month Givebutter donation — "**Its from the Dude Central
@@ -185,10 +193,13 @@ Format the agent uses:
   or program actually is, plus any deadline or amount.
 - RESOLVED 2026-08-18: Andrew's ED update says "**Principled Business Grant Application in
   process of submission**" — it is a **grant application**, which is why the Aug 10 budget
-  session had to make the budget defensible line by line. Filed to Funding. Only the
-  funder's identity, deadline, and amount are still blank; add them if you have them,
-  otherwise this can be deleted.
-- answer: a grant application
+  session had to make the budget defensible line by line. Filed to Funding.
+- update 2026-08-19: the Aug 18 fundraising recap adds the size and a caveat — "**a $50k
+  seed funding application to Principal Business is pending, but the group's 'capitalist'
+  nature may not align with DTD's mission**." So: $50,000, submitted, decision pending, and
+  you already have doubts about the fit. Nothing further needed unless you want the funder's
+  full name and deadline on the record.
+- answer: a $50k seed grant application
 
 ## 2026-08-04 Monday's six meetings produced no captured content
 - context: Aug 3 held six sessions (Spark Grant, BV fundraising, two budget reviews,

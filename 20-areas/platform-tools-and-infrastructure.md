@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-08-18
+updated: 2026-08-19
 tags: [area]
 ---
 
@@ -14,6 +14,30 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-08-18 Both AI nonprofit applications approved within a day
+- **Anthropic**: "You and your organization have been **approved for Claude for
+  Nonprofits**. Your discount is automatically applied when you sign up for Claude for
+  Teams." **OpenAI**: "you've been **approved for the ChatGPT nonprofit discount**," with a
+  prorated credit for the current billing period. **Goodstack** confirmed the account
+  verification that gated both.
+- Filed Sunday, approved Tuesday — and it lands the same week Andrew's fundraising plan
+  calls for using AI to build foundation and corporate contact lists.
+- Separately, a **Deed Organizer** account is awaiting email activation, for claiming DTD's
+  organization on that corporate-volunteering platform.
+- category: Platform, Tools, and Infrastructure
+- source: Anthropic, OpenAI, Goodstack and Deed emails 2026-08-18
+- links: [[platform-tools-and-infrastructure#2026-08-17 Candid profile approved; Anthropic and OpenAI nonprofit applications filed]]
+
+## 2026-08-18 Mighty Networks drops to the Free Plan on Aug 21
+- "**You will be downgraded to the Free Plan on Aug 21, 2026**" — the Mighty Networks
+  community space loses paid features this Friday. Timing matters: the **chat-platform
+  decision is due within two weeks**, and Mighty Networks is presumably one of the options
+  or the incumbent being replaced.
+- action #open (John): confirm whether the downgrade is deliberate and what it costs DTD
+- category: Platform, Tools, and Infrastructure
+- source: Mighty Networks billing notice 2026-08-18
+- links: [[platform-tools-and-infrastructure#2026-08-17 A chat platform decision lands within two weeks — driven by what attendees asked for]]
 
 ## 2026-08-17 A chat platform decision lands within two weeks — driven by what attendees asked for
 - The clearest statement yet of an open tech decision, from Andrew's ED update: "**A chat

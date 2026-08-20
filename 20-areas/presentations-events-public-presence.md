@@ -1,6 +1,6 @@
 ---
 area: Presentations, Events, and Public Presence
-updated: 2026-08-19
+updated: 2026-08-20
 tags: [area]
 ---
 
@@ -14,6 +14,33 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[presentations-events-public-presence#...]] and harvested by the brief. -->
+
+## 2026-08-19 Frankie's stats delivered — with AFSP safe-messaging guidance attached
+- The one thing blocking Frankie is done: John assembled a **men's health data sheet**
+  (`DTD_Mens_Health_Data_Reference.md`), every figure sourced to CDC, peer-reviewed
+  journals or named national surveys **with the data year on each figure "so nothing goes
+  stale on you."** Filed in full as [[30-resources/mens-health-data-reference|Men's health
+  data reference]].
+- The numbers John flagged as strongest: **4 of 5 US suicide deaths are men**; the **rural
+  rate is ~50% higher than urban** (30 vs 21 per 100,000); **Colorado men are 77% of
+  suicide deaths** in a top-10 state; **Chaffee County is close to double the Colorado
+  average**; men with no close friends went from **3% in 1990 to 15% today**; **two-thirds
+  of young men say "no one really knows me"**; loneliness carries mortality risk like
+  **15 cigarettes a day**; and men are **half as likely to get treatment** while **70% of
+  rural counties have no psychiatrist**.
+- The synthesis is the reusable part: "**That last pairing is the whole argument for what
+  we do.** Men aren't walking into clinics, and out here there often isn't a clinic to walk
+  into. **A dinner has no intake form, no waitlist, no co-pay, and no record.**"
+- Notably, John also sent **AFSP's safe-messaging guidelines** unprompted — "I'm sending it
+  because I want to look out for you here" — covering "died by suicide" not "committed,"
+  no methods, whole-arc framing, and **988 in the caption and on screen**. That's the
+  consent-and-care posture from Aug 11 carried through to the practical stage.
+- Andrew added three sources the same evening, including one linking **social isolation to
+  substance use disorder** — direct evidence for the RMCP opioid framing.
+- action #done (John): send Frankie the stats
+- category: Presentations, Events, and Public Presence
+- source: "Data for review" thread 2026-08-19
+- links: [[30-resources/mens-health-data-reference|Men's health data reference]], [[presentations-events-public-presence#2026-08-18 Frankie's reel lands end of September — he wants the stats to start scripting]]
 
 ## 2026-08-18 Frankie's reel lands end of September — he wants the stats to start scripting
 - Frankie replied after a week ("busy time of year for the day job") and committed with a

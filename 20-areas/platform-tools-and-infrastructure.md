@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-08-19
+updated: 2026-08-20
 tags: [area]
 ---
 
@@ -14,6 +14,14 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-08-19 Google Ad Grants: a second activation notice, still unresolved
+- A second "Google Ad Grants activation update" from Google for Nonprofits, two days after
+  the first. Nothing in the record says whether the grant is active, blocked, or waiting on
+  DTD — but two notices in three days suggests something needs doing.
+- action #open (John): open the Ad Grants notice and find out what's required
+- category: Platform, Tools, and Infrastructure
+- source: Google for Nonprofits emails 2026-08-17 and 2026-08-19
 
 ## 2026-08-18 Both AI nonprofit applications approved within a day
 - **Anthropic**: "You and your organization have been **approved for Claude for

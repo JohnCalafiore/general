@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-08-19
+updated: 2026-08-20
 tags: [area]
 ---
 
@@ -14,6 +14,29 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-08-19 Givebutter moves payouts to Wallet; verification still unfinished
+- Three Givebutter changes in half an hour: **phone 2FA enabled** on John's account, the
+  **Givebutter Wallet is live** and "**we've automatically updated your Payout**" settings
+  so donations now flow to the Wallet rather than straight to the bank, and a standing
+  prompt: "**[Action Required] Finish Givebutter Verification** ... Verification is optional
+  and not required to fundraise."
+- Worth attention because the fundraising plan leans on Givebutter for **per-community
+  campaign pages** (Clear Creek, Silverthorne, BV, Grand Junction) — payout routing and
+  verification status affect how community money actually lands.
+- action #open (John): finish Givebutter nonprofit verification; confirm the Wallet payout
+  change is what DTD wants
+- category: Funding and Financial Development
+- source: Givebutter notifications 2026-08-19
+- links: [[funding-and-financial-development#2026-08-18 DECISION: community fundraising goes tiered — struggling communities keep what they raise]]
+
+## 2026-08-19 Final budget session booked for Thursday, the day before the board
+- Andrew scheduled "**DTD Budget review**," **Thu Aug 20, 3–4pm MDT** with John — the last
+  working session before the board sees the budget Friday morning. That makes three budget
+  conversations in three days (CP Tuesday, this one Thursday, board Friday).
+- category: Funding and Financial Development
+- source: calendar invitation 2026-08-19
+- links: [[governance-and-org-development#2026-08-17 Board meeting confirmed: Fri Aug 21, 10–11:30am — packet circulated]]
 
 ## 2026-08-18 DECISION: fundraising strategy set — Andrew to ~90% fundraising, foundations first
 - The Andrew/Ben session (56 min, John present) produced the prioritized plan the budget has

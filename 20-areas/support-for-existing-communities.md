@@ -1,6 +1,6 @@
 ---
 area: Support for Existing Communities
-updated: 2026-08-18
+updated: 2026-08-20
 tags: [area]
 ---
 
@@ -14,6 +14,19 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[support-for-existing-communities#...]] and harvested by the brief. -->
+
+## 2026-08-19 Year Two planning meeting happened — nothing captured
+- Jamie Fanselow's **Clear Creek "Year Two" planning meeting** was set for Wed Aug 19,
+  10:30am, in person at The Club Hotel with Andrew, Chris Gould and Ben Shay. John was not
+  an invitee and the meeting was in person, so **no Granola notes, no Fathom recap, and no
+  follow-up email exist** — whatever the first DTD community decided about its second year
+  isn't in the vault.
+- action #open: ask Andrew or Chris Gould for the outcome, or for Jamie's notes against the
+  agenda she circulated
+- category: Support for Existing Communities
+- source: absence of capture against the "Agenda for Wed. 19th DTD Year Two Planning Mtg"
+  2026-08-17
+- links: [[support-for-existing-communities#2026-08-17 Year Two planning meeting: Wed Aug 19, 10:30am at The Club Hotel]]
 
 ## 2026-08-17 Year Two planning meeting: Wed Aug 19, 10:30am at The Club Hotel
 - **Jamie Fanselow** — Regional Health Connector for **Gilpin, Clear Creek and Park

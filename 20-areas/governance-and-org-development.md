@@ -1,6 +1,6 @@
 ---
 area: Governance and Organizational Development
-updated: 2026-08-19
+updated: 2026-08-20
 tags: [area]
 ---
 
@@ -14,6 +14,15 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[governance-and-org-development#...]] and harvested by the brief. -->
+
+## 2026-08-19 Andrew pushes the fiscal-sponsor conversation forward with Greg
+- Andrew replied to Greg's cautious answer by asking for a working session rather than
+  letting it drop: "If you're open to it, **I would love the opportunity to share more
+  specifics around our current thinking and also hear if your research turns up any
+  additional factors to consider.**" No call is on the calendar yet.
+- category: Governance and Organizational Development
+- source: "Re: DTD - Accounting question" 2026-08-19
+- links: [[governance-and-org-development#2026-08-18 The fiscal-sponsor structure hits an accounting question — and a dissenting view]]
 
 ## 2026-08-18 The fiscal-sponsor structure hits an accounting question — and a dissenting view
 - Andrew put the structural problem to **Greg Vochis** in writing: "how should we record

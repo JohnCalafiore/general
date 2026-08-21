@@ -1,178 +1,202 @@
-<!-- generated 2026-08-20T07:07:35+00:00 | 13 new of 13 blocks; synthesis must read ONLY this file, not raw/ -->
+<!-- generated 2026-08-21T07:09:30+00:00 | 16 new of 16 blocks; synthesis must read ONLY this file, not raw/ -->
 
 <!-- source: calendar.md -->
 # Raw dump — Google Calendar
 
-Harvest window: 2026-08-19 → 2026-08-22 (America/Denver)
+Harvest window: 2026-08-20 → 2026-08-24 (America/Denver)
 
 ---
 
 <!-- source: calendar.md -->
-## cal-budgetreview-20260820 DTD Budget review — Thu Aug 20, 3:00–4:00pm MDT
+## cal-budgetreview-held-20260820 DTD Budget review — held Thu Aug 20, 3–4pm MDT
 
-organizer: Andrew Wolff; John accepted. Created Aug 20 00:53 UTC (i.e. Wednesday evening),
-Google Meet. The final budget session before Friday's board meeting.
+Andrew (organizer) and John, both accepted. Ran 72 minutes and was captured by Fathom. The
+**5 PM follow-on session** the recap calls for does not appear on the calendar.
 
 ---
 
 <!-- source: calendar.md -->
-## cal-unchanged-20260821 Friday unchanged
+## cal-board-20260821 DTD Board Meeting 3rd Friday — today, Fri Aug 21, 10:00–11:30am MDT
 
-- **DTD Board Meeting 3rd Friday** — Fri Aug 21, 10:00–11:30am MDT; all accepted except
-  CP's DTD address (she accepted from westernalum)
-- Out - Arsenal match in Denver — Fri Aug 21, 11:30am–5:00pm (personal)
-- costco/ladder ran Wed Aug 19, 2–5pm (personal)
+Unchanged: Ken Farber, Justin Hall, Chris Gould, John, Andrew, Ben Shay and
+christine.peterson@westernalum.org accepted; CP's DTD address still needsAction. Followed
+immediately by John's personal block, "Out - Arsenal match in Denver," 11:30am–5pm.
 
 ---
 
 <!-- source: email-inbox.md -->
 # Raw dump — Gmail inbox
 
-Harvest window: 2026-08-19 → 2026-08-20 (America/Denver)
+Harvest window: 2026-08-20 → 2026-08-21 (America/Denver)
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-andrewdata-20260819 Re: Data for review — Andrew adds three sources
+## gmail-fathom-budgetreview-20260820 Recap for "DTD Budget review" (72 min)
 
-from: Andrew Wolff
-date: 2026-08-19 19:26 MT
+from: Fathom <no-reply@fathom.video>
+date: 2026-08-20 16:16 MT — meeting Aug 20, 3–4pm (ran 72 minutes)
+link: https://fathom.video/calls/791797417
 
-"Thanks John. Here's a few more links with great resources..
-- A study that connects **social isolation with SUD (Substance Use Disorder)** —
-  psychiatrist.com/pcc/contextualizing-relationship-between-social-isolation-substance-abuse/
-- **State of Masculinity**, put out by **A Call to Men** (this great, **check out chapter
-  4**) — framerusercontent.com/assets/T1JdKGWsE8MzED3iDclAWcqbaA.pdf
-- **Equimundo's State of American Men 2025** — equimundo.org/resources/state-of-american-men-2025/"
+Meeting purpose: review the DTD budget and align on strategy for the board presentation.
 
-The SUD link matters strategically: it's evidence for the "upstream prevention for
-substance abuse too" argument behind the RMCP opioid partnership.
+Key takeaways:
+- **Board Presentation Strategy:** present the budget **at a high level**, deferring
+  detailed accounting questions to **a CPA** to ensure **GAAP** compliance.
+- **Legal & Liability Focus:** a contract lawyer, **Faye**, will provide **pro bono support
+  for trademark filing and drafting community agreements**, focused on mitigating liability
+  and defining control.
+- **Fundraising Pivot:** add a **grant writer role** to the budget to pursue a large
+  pipeline of **foundation** grants, shifting away from government funding.
+- **Immediate Action:** meet **today at 5 PM** to document the **DTD–community relationship
+  framework**, a prerequisite for drafting the legal agreements.
+
+Topics:
+- **Budget & board presentation** — the unresolved question is how to account for community
+  funding. Two models: **pass-through** (donations go to a local 501(c)(3)) vs
+  **centralized** (donations go to DTD Central, which then pays local expenses). Stated
+  risk: "**the centralized model creates a direct financial relationship, potentially
+  increasing DTD Central's liability and control over local communities.**" Decision:
+  high-level presentation to the board — rationale, "**avoids getting bogged down in
+  accounting details and potential conflict between board members (e.g. Ken vs. CP)**";
+  messaging is that **a CPA is being consulted for GAAP compliance**; the **grant writer
+  role** is announced as the primary material change since the last review.
+- **Legal & liability framework** — Faye's pro bono offer covers trademark filing and
+  community agreements. Three named risk categories: **facilitator risk** (actions or
+  statements by facilitators), **event risk** (accidents at venues), **conversation risk**
+  (discussions that trigger conflict). Action: document the DTD–community relationship
+  framework so Faye has a clear foundation.
+- **Fundraising & grants** — "a robust pipeline of foundation grants has been identified";
+  the pivot is **away from government grants "which may be drying up" toward private
+  foundations**, with a **grant writer** added for application capacity. Tooling: "**a
+  custom AI bot is being built to score and prioritize grants by application deadline**."
+- **Tech & operations** — the **Conifer/Bailey website is outdated** (it lists an event from
+  April 2027); goal is to **consolidate all community web presence under the main DTD
+  site**. And a new **Discord bot, "Darren the DudeBot,"** lets facilitators upload videos
+  straight to community channels, using a custom URL
+  (**DiscordBot.DudetalkDinners.org**), tested with a **184 MB** file.
+
+Next steps:
+- John & Andrew: meet at 5 PM to document the DTD–community relationship framework; present
+  the budget high-level to the board, deferring accounting to a CPA
+- Andrew: **confirm insurance coverage with the broker, specifically for communities as
+  named parties**
+- John: follow up with **Jennifer Ashley (Vibrant.org, JXA Advisors)** for potential
+  strategic guidance
+
+Note: this recap arrived without AI-generated action items — the email carries "Upgrade to
+Premium to unlock AI generated action items," so the Fathom account appears to have dropped
+to a free tier.
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-budgetreview-20260820 Invitation: DTD Budget review @ Thu Aug 20, 3–4pm MDT
+## gmail-insurance-reinstated-20260820 RE: Non-Pay Cancellation Reminder — reinstatement notice
 
-from: Andrew Wolff
-date: 2026-08-19 18:53 MT
+from: Ryan Davis <ryan@lfins.com>, to Ken and Maryanne, cc John and Andrew
+date: 2026-08-20 10:15 MT
 
-Andrew booked a one-hour budget review with John for **Thursday Aug 20, 3:00–4:00pm MDT** —
-the last working session before Friday's board meeting.
-
----
-
-<!-- source: email-inbox.md -->
-## gmail-givebutter-wallet-20260819 Givebutter Wallet live; 2FA enabled; verification pending
-
-from: Givebutter (no-reply@ and safety@)
-dates: 2026-08-19 17:50–18:18 MT
-
-Three related notices:
-- "**Two-Factor Authentication Enabled** on Your Givebutter Account" (phone 2FA).
-- "**Your Givebutter Wallet is ready to use** 🎉 ... **We've automatically updated your
-  Payout [settings]**" — followed by "**Payout account has been updated to use Wallet**."
-- "[Action Required] Finish Givebutter Verification": "You're almost there! Please log in
-  to your Givebutter dashboard to finish verifying your nonprofit. **Verification is
-  optional and not required to fundraise with Givebutter—but only** [verified orgs get
-  certain features]."
+"**Payment was received and the carrier has sent this attached reinstatement notice.**"
+The policy lapse scare that started Aug 12 is formally closed.
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-adgrants-20260819 Google Ad Grants activation update (second notice)
+## gmail-workspace-issues-20260820 Google Workspace for Nonprofits activation update
 
 from: googlefornonprofits-noreply@google.com
-date: 2026-08-19 04:16 MT
+date: 2026-08-20 03:45 MT
+subject line preview: "**Issues exist with your activation request**"
 
-A second "note from Google for Nonprofits about your organization's account" regarding Ad
-Grants activation, two days after the first.
+This is the third Google for Nonprofits notice in four days and the first to name a
+problem — the earlier two were headed "Google Ad Grants activation update." A separate
+Google Workspace marketing email the same morning dangles "**up to $3000 in Google Ads
+credit**."
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-gregfollowup-20260819 Re: DTD - Accounting question
+## gmail-greg-scheduling-20260821 Re: DTD - Accounting question
 
-from: Andrew Wolff to Greg Vochis, cc John
-date: 2026-08-19 17:03 MT
+from: Greg Vochis, to Andrew, cc John
+date: 2026-08-20 18:44 MT
 
-"Thank you, Greg. If you're open to it, **I would love the opportunity to share more
-specifics around our current thinking and also hear if your research turns up any
-additional factors to consider.**"
+"Yeah, not a problem. **Evenings are probably easiest for me, but I'll see your scheduler
+link when you send it.**" — the accounting call is agreed in principle; Andrew owes him a
+Cal.com link.
+
+---
+
+<!-- source: email-inbox.md -->
+## gmail-bigtent-20260820 Big Tent Summit 2027 — dates and new venue
+
+from: team@kjbm.bigtentsummit.com
+date: 2026-08-20 07:02 MT
+
+"Add the Summit Dates to Your Calendar Now..." — 2027 dates and a new venue announced. DTD
+has history here: Andrew and John met MKP's leadership at the Big Tent Summit earlier in
+2026, and Jamie Fanselow's "Bridging the Divide" summit slides came from the same circuit.
+
+---
+
+<!-- source: email-inbox.md -->
+## gmail-noise-20260820 Filtered as noise
+
+A Cal.com privacy-policy notice and an awakenedschool newsletter.
 
 ---
 
 <!-- source: email-sent.md -->
 # Raw dump — Gmail sent
 
-Harvest window: 2026-08-19 → 2026-08-20 (America/Denver)
+Harvest window: 2026-08-20 → 2026-08-21 (America/Denver)
 
 ---
 
 <!-- source: email-sent.md -->
-## gmailsent-datasheet-20260819 Data for review — the men's health data sheet
+## gmailsent-agreements-20260821 Dude central agreements outline
 
 from: john.calafiore@dudetalkdinners.org
-to: andrew.wolff@dudetalkdinners.org
-date: 2026-08-19 19:04 MT
-attachment: **DTD_Mens_Health_Data_Reference.md**
+to: john.calafiore@dudetalkdinners.org (self)
+date: 2026-08-20 21:16 MT
 
-"Wanted to send this over from Claude's response on data. I haven't made any updates to
-this... Attached is a data sheet we put together. **Everything in it is sourced to CDC,
-peer-reviewed journals, or named national surveys, with the data year on each figure so
-nothing goes stale on you.**"
-
-The figures pulled out as strongest:
-- "About **4 out of 5 people who die by suicide** in this country **are men**."
-- "The **rural suicide rate is roughly 50% higher than the urban rate**. Rural men die at
-  about **30 per 100,000** compared to **21** for urban men."
-- "In **Colorado, men are 77% of suicide deaths**, and the state **ranks in the top 10
-  nationally**."
-- "**Chaffee County's rate is close to double the Colorado average.**"
-- "In 1990, **3% of men said they had no close friends. Today it's 15%.** The share with six
-  or more close friends dropped from **55% to 27%**."
-- "**Two-thirds of young men say 'no one really knows me.'**"
-- "Loneliness raises your risk of early death about as much as **smoking 15 cigarettes a
-  day**. Strong social ties raise your odds of survival by **50%**."
-- "Men are about **half as likely as women to get any mental health treatment**, and **70%
-  of rural counties don't have a single psychiatrist**."
-
-The argument John draws from it: "**That last pairing is the whole argument for what we
-do.** Men aren't walking into clinics, and out here there often isn't a clinic to walk
-into. **A dinner has no intake form, no waitlist, no co-pay, and no record.**" Plus format
-evidence: "A systematic review of **Australia's Men's Sheds** found men connect
-'**shoulder to shoulder**' rather than face to face, which is basically a description of a
-dinner table."
-
-Safe-messaging note included deliberately: "**AFSP publishes safe messaging guidelines for
-creators** covering this topic, and I put the short version in **section 9** of the
-attachment. The main ones: say '**died by suicide**' rather than 'committed,' **never
-reference methods**, focus on the whole arc instead of the crisis moment, and **put 988 in
-the caption and on screen**. Worth a two-minute read before you publish."
-
-Sources cited: CDC Suicide Data; AFSP Suicide Statistics; CDC Vital Signs MMWR 2024; NCHS
-Data Brief 373; Colorado Office of Suicide Prevention 2025 Report; Chaffee County Needs
-Assessment (CU Anschutz); Survey Center on American Life; Surgeon General's Advisory on
-Loneliness; Holt-Lunstad et al., PLoS Medicine; AFSP Creator Guidelines.
-
-Signature on this one: **John Calafiore, Chief Operations Officer**.
+A note-to-self containing a **Granola share link** —
+notes.granola.ai/d/5ff92fd9-9ac5-4109-80af-34364e078aa0 — titled "**Dude central agreements
+outline**." This is almost certainly the product of the **5 PM session** the budget review
+set up, documenting the DTD–community relationship framework for the lawyer. The document
+contents are not in the email; only the link.
 
 ---
 
 <!-- source: meetings.md -->
 # Raw dump — Meetings (Granola / Fathom)
 
-Harvest window: 2026-08-19 → 2026-08-20 (America/Denver)
+Harvest window: 2026-08-20 → 2026-08-21 (America/Denver)
 
-No meetings recorded on Wed Aug 19 (Granola) and no Fathom recaps arrived. Note that the
-**Year Two DTD Planning Mtg** Jamie Fanselow convened for 10:30am at The Club Hotel was in
-person with Andrew, Chris Gould, and Ben Shay — John was not an invitee — so its outcome is
-not in the record.
+---
+
+<!-- source: meetings.md -->
+## meet-fathom-budgetreview-20260820 Fathom: "DTD Budget review" (72 min)
+
+Recorded and recapped; content harvested via the recap email (see raw/email-inbox.md).
+The recap arrived **without AI-generated action items**, carrying an upgrade prompt instead
+— the Fathom subscription appears to have lapsed to free.
+
+---
+
+<!-- source: meetings.md -->
+## meet-granola-agreements-20260820 Granola: "Dude central agreements outline"
+
+Granola's query interface returned no meetings for Aug 20, but John emailed himself a
+**Granola document share link titled "Dude central agreements outline"** at 9:16pm —
+evidence the 5 PM working session did happen and was captured in Granola, even though the
+meeting doesn't surface through the query tool.
 
 ---
 
 <!-- source: slack.md -->
 # Raw dump — Slack
 
-Harvest window: after 2026-08-18 (America/Denver)
+Harvest window: after 2026-08-19 (America/Denver)
 
 No messages returned across public channels, private channels, DMs, and group DMs.

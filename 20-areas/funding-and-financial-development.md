@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-08-20
+updated: 2026-08-21
 tags: [area]
 ---
 
@@ -14,6 +14,32 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-08-20 DECISION: add a grant writer and pivot from government grants to private foundations
+- Two days after the fundraising strategy session, the budget adds a **second hire: a grant
+  writer role**, to raise application capacity against "**a robust pipeline of foundation
+  grants**" that's been identified.
+- The strategic reasoning is a genuine shift: move **away from government grants, "which may
+  be drying up," toward private foundations**. That squares with the Aug 18 view of
+  foundations as efficient "giving businesses," and it changes what DTD chases after the
+  RMCP federal grant.
+- Tooling to match: "**a custom AI bot is being built to score and prioritize grants by
+  application deadline**" — the practical version of the AI-for-outreach plan.
+- This is the **one material budget change being announced to the board** on Friday.
+- action #open (John): follow up with **Jennifer Ashley (Vibrant.org, JXA Advisors)** for
+  potential strategic guidance
+- category: Funding and Financial Development
+- source: Fathom recap, "DTD Budget review" 2026-08-20 (fathom.video/calls/791797417)
+- links: [[funding-and-financial-development#2026-08-18 DECISION: fundraising strategy set — Andrew to ~90% fundraising, foundations first]], [[funding-and-financial-development#2026-08-12 DECISION: budget a $52k Year 1 Fundraising Manager against a 3x ROI target]]
+
+## 2026-08-20 Greg agrees to the accounting call — evenings, via a scheduler link
+- "Yeah, not a problem. **Evenings are probably easiest for me, but I'll see your scheduler
+  link when you send it.**" The pass-through-vs-centralized accounting question now has a
+  conversation booked in principle; Andrew owes him a Cal.com link.
+- action #open (Andrew): send Greg a Cal.com link for an evening slot
+- category: Funding and Financial Development
+- source: "Re: DTD - Accounting question" 2026-08-20
+- links: [[governance-and-org-development#2026-08-20 DECISION: present the budget high-level to the board and defer accounting to a CPA]]
 
 ## 2026-08-19 Givebutter moves payouts to Wallet; verification still unfinished
 - Three Givebutter changes in half an hour: **phone 2FA enabled** on John's account, the

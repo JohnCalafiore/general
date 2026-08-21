@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-08-20
+updated: 2026-08-21
 tags: [area]
 ---
 
@@ -14,6 +14,54 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-08-20 "Darren the DudeBot" — a Discord bot for facilitator video uploads
+- A working piece of the chat stack has appeared: "**a new Discord bot (Darren the DudeBot)
+  allows facilitators to upload videos directly to community channels**," running on a
+  custom URL — **DiscordBot.DudetalkDinners.org** — and tested successfully with a **184 MB**
+  file.
+- This is the first named platform in the chat-tool decision that's been "narrowed to two
+  options." **Discord isn't stated as the chosen platform** — a bot exists, which isn't the
+  same as a decision — but it's the strongest signal in the record so far (see
+  needs-clarification).
+- category: Platform, Tools, and Infrastructure
+- source: Fathom recap, "DTD Budget review" 2026-08-20
+- links: [[platform-tools-and-infrastructure#2026-08-17 A chat platform decision lands within two weeks — driven by what attendees asked for]]
+
+## 2026-08-20 Community websites to consolidate under the main DTD site
+- Problem found: "**the Conifer/Bailey website is outdated**" — it still lists an event dated
+  **April 2027**. The stated goal is to **consolidate all community web presence under the
+  main DTD site**, which matches the pattern of community pages already living at
+  dudetalkdinners.org/communities/.
+- action #open: fold Conifer/Bailey (and any other standalone community sites) into the main
+  site
+- category: Platform, Tools, and Infrastructure
+- source: Fathom recap, "DTD Budget review" 2026-08-20
+- links: [[platform-tools-and-infrastructure#2026-08-14 The new DTD website is live]]
+
+## 2026-08-20 Google Workspace for Nonprofits: "Issues exist with your activation request"
+- The third Google for Nonprofits notice in four days, and the first to name a problem —
+  this one is about **Workspace for Nonprofits activation**, not Ad Grants. Nothing in the
+  record says what the issue is. A separate Google marketing email the same morning offers
+  "up to **$3000 in Google Ads credit**."
+- Worth resolving before it affects the ten-plus Workspace accounts DTD runs, and before
+  Andrew's Business Standard upgrade request is decided.
+- action #open (John): open the activation notice and fix whatever it flags
+- category: Platform, Tools, and Infrastructure
+- source: Google for Nonprofits emails 2026-08-17, 08-19, 08-20
+- links: [[platform-tools-and-infrastructure#2026-08-19 Google Ad Grants: a second activation notice, still unresolved]]
+
+## 2026-08-20 Fathom appears to have dropped to a free tier
+- Thursday's recap arrived **without AI-generated action items** — where the previous six
+  recaps listed owners and tasks, this one carries "**Upgrade to Premium to unlock AI
+  generated action items**" and "Upgrade to Premium to revert to advanced summary
+  templates."
+- This matters to the vault directly: Fathom has been the most reliable meeting-capture
+  source (Granola has recorded almost nothing all month), and the action-item list is what
+  makes those recaps filable. If the subscription lapsed by accident, it's worth restoring.
+- action #open (John): check the Fathom subscription status
+- category: Platform, Tools, and Infrastructure
+- source: Fathom recap formatting, "DTD Budget review" 2026-08-20
 
 ## 2026-08-19 Google Ad Grants: a second activation notice, still unresolved
 - A second "Google Ad Grants activation update" from Google for Nonprofits, two days after

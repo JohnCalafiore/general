@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-19
+updated: 2026-08-21
 tags: [inbox]
 ---
 
@@ -18,6 +18,26 @@ Format the agent uses:
 ```
 
 <!-- entries begin below -->
+
+## 2026-08-21 Who is Faye, and how did the pro bono offer come about?
+- quote: "**Faye, a contract lawyer, offered pro bono support for trademark filing and
+  community agreements**" — Fathom recap, DTD Budget review 2026-08-20
+- context: this answers two legal needs that have been open since July (the ~$3k trademark
+  and the scalable community agreement), but Faye appears nowhere else — no surname, firm,
+  email, or introduction path. Trip's referral via Joe and the CNDC route were the other
+  leads.
+- question: her full name and how she came to DTD? I'll give her a proper relationships
+  entry and link the legal thread together.
+- answer:
+
+## 2026-08-21 Is the chat platform decision Discord?
+- context: the ED update said the chat-platform choice was "narrowed to two options" with a
+  decision due by ~Aug 31. Thursday's recap describes a working **Discord bot ("Darren the
+  DudeBot") on DiscordBot.DudetalkDinners.org** for facilitator video uploads.
+- question: is Discord the pick, or is the bot a prototype while the decision is still open?
+  And what was the other finalist? I've filed the bot as evidence rather than treating it as
+  the decision.
+- answer:
 
 ## 2026-08-19 Anderson's surname — "Perez" or "de Leon"?
 - context: the Jul 30 Leadership Circle recap names the Connecticut pair as **Giovanny

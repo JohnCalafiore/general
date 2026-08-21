@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-19
+updated: 2026-08-21
 tags: [grounding, people]
 ---
 
@@ -229,6 +229,18 @@ Format — one H2 per person:
   leverage their longer track record; also named alongside Man Therapy as a nonprofit DTD
   should build bridges with rather than compete against
 - source: Fathom recap, "Andrew : Ben (DTD fundraising)" 2026-08-18
+
+## Faye (contract lawyer)
+- relationship: **contract lawyer who has offered pro bono support to DTD** for **trademark
+  filing** and **drafting the community agreements** — the two legal needs open since July.
+  Surname and firm not yet in the record (see needs-clarification).
+- source: Fathom recap, "DTD Budget review" 2026-08-20
+
+## Jennifer Ashley
+- org: **Vibrant.org** and **JXA Advisors**
+- relationship: identified as a potential source of **strategic guidance**; John owes her a
+  follow-up. No prior contact appears in the record.
+- source: Fathom recap, "DTD Budget review" 2026-08-20
 
 ## Ryan Davis
 - org: **LF Insurance Group**, 12851 W 43rd Dr. Ste #2, Golden CO 80403 — DTD's insurance

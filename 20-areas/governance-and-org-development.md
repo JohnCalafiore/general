@@ -1,6 +1,6 @@
 ---
 area: Governance and Organizational Development
-updated: 2026-08-20
+updated: 2026-08-21
 tags: [area]
 ---
 
@@ -14,6 +14,53 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[governance-and-org-development#...]] and harvested by the brief. -->
+
+## 2026-08-20 DECISION: present the budget high-level to the board and defer accounting to a CPA
+- The unresolved question going into Friday was **how to account for community funding**,
+  and it has two shapes with different consequences:
+  - **Pass-through model** — donations go to a local 501(c)(3).
+  - **Centralized model** — donations go to DTD Central, which then pays local expenses.
+  - Stated risk: "**the centralized model creates a direct financial relationship,
+    potentially increasing DTD Central's liability and control over local communities.**"
+- Rather than resolve it live, the call is to **present the budget at a high level** and say
+  **a CPA is being consulted to ensure GAAP compliance**. The rationale is candid: it
+  "**avoids getting bogged down in accounting details and potential conflict between board
+  members (e.g. Ken vs. CP)**."
+- The one material change flagged for the board: **the new grant writer role**.
+- category: Governance and Organizational Development
+- source: Fathom recap, "DTD Budget review" 2026-08-20 (fathom.video/calls/791797417)
+- links: [[governance-and-org-development#2026-08-18 The fiscal-sponsor structure hits an accounting question — and a dissenting view]]
+
+## 2026-08-20 Pro bono lawyer found: Faye will do the trademark and the community agreements
+- The legal search that's been open since July has an answer: "**Faye, a contract lawyer,
+  offered pro bono support for trademark filing and community agreements**." That covers
+  both outstanding legal needs at once — the ~$3k trademark filing and the scalable
+  community agreement.
+- The agreements are framed around **mitigating liability**, with three named risk
+  categories: **facilitator risk** (actions or statements by facilitators), **event risk**
+  (accidents at venues), and **conversation risk** (discussions that trigger conflict).
+- Prerequisite work started the same day: John and Andrew met at **5 PM to document the
+  DTD–community relationship framework** so Faye has a clear foundation. The output appears
+  to be a Granola document, "**Dude central agreements outline**," which John mailed himself
+  that evening.
+- action #open (John/Andrew): finish the relationship framework and get it to Faye
+- category: Governance and Organizational Development
+- source: Fathom recap, "DTD Budget review" 2026-08-20; "Dude central agreements outline"
+  self-email 2026-08-20
+- links: [[governance-and-org-development#2026-07-30 Liability: formal Community Agreement needed]], [[relationships#Faye (contract lawyer)]]
+
+## 2026-08-20 Insurance reinstated — and a gap to check: are communities named parties?
+- Broker Ryan Davis closed the loop: "**Payment was received and the carrier has sent this
+  attached reinstatement notice.**" The lapse scare that began Aug 12 is formally over.
+- But the budget review raised a related question that isn't answered: Andrew is to
+  **confirm insurance coverage with the broker, specifically for communities as named
+  parties** — i.e. whether local DTD communities are covered at all under the current
+  policy. That sits directly alongside the facilitator/event risk the agreements are meant
+  to address.
+- action #open (Andrew): confirm with the broker whether communities are named parties
+- category: Governance and Organizational Development
+- source: "RE: Non-Pay Cancellation Reminder" 2026-08-20; Fathom recap 2026-08-20
+- links: [[governance-and-org-development#2026-08-13 Insurance follow-up: the cancellation notice crossed the invoice in the mail]]
 
 ## 2026-08-19 Andrew pushes the fiscal-sponsor conversation forward with Greg
 - Andrew replied to Greg's cautious answer by asking for a working session rather than

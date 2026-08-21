@@ -1,19 +1,18 @@
 # Raw dump — Google Calendar
 
-Harvest window: 2026-08-19 → 2026-08-22 (America/Denver)
+Harvest window: 2026-08-20 → 2026-08-24 (America/Denver)
 
 ---
 
-## cal-budgetreview-20260820 DTD Budget review — Thu Aug 20, 3:00–4:00pm MDT
+## cal-budgetreview-held-20260820 DTD Budget review — held Thu Aug 20, 3–4pm MDT
 
-organizer: Andrew Wolff; John accepted. Created Aug 20 00:53 UTC (i.e. Wednesday evening),
-Google Meet. The final budget session before Friday's board meeting.
+Andrew (organizer) and John, both accepted. Ran 72 minutes and was captured by Fathom. The
+**5 PM follow-on session** the recap calls for does not appear on the calendar.
 
 ---
 
-## cal-unchanged-20260821 Friday unchanged
+## cal-board-20260821 DTD Board Meeting 3rd Friday — today, Fri Aug 21, 10:00–11:30am MDT
 
-- **DTD Board Meeting 3rd Friday** — Fri Aug 21, 10:00–11:30am MDT; all accepted except
-  CP's DTD address (she accepted from westernalum)
-- Out - Arsenal match in Denver — Fri Aug 21, 11:30am–5:00pm (personal)
-- costco/ladder ran Wed Aug 19, 2–5pm (personal)
+Unchanged: Ken Farber, Justin Hall, Chris Gould, John, Andrew, Ben Shay and
+christine.peterson@westernalum.org accepted; CP's DTD address still needsAction. Followed
+immediately by John's personal block, "Out - Arsenal match in Denver," 11:30am–5pm.

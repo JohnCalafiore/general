@@ -1,6 +1,6 @@
 ---
 area: Presentations, Events, and Public Presence
-updated: 2026-08-20
+updated: 2026-08-22
 tags: [area]
 ---
 
@@ -14,6 +14,14 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[presentations-events-public-presence#...]] and harvested by the brief. -->
+
+## 2026-08-21 Dawson's video work starts landing: a shared "website videos" folder
+- **Dawson Wolf** shared a Drive folder, "**website videos**," with John and Andrew — the
+  first output from the video role he was brought on for. A **3.5-hour Saturday session**
+  with Andrew and Dawson followed on Aug 22.
+- category: Presentations, Events, and Public Presence
+- source: Drive share notification + calendar 2026-08-21
+- links: [[presentations-events-public-presence#2026-08-12 DECISION: the welcome video goes social-native, with Frankie and Dawson together]]
 
 ## 2026-08-19 Frankie's stats delivered — with AFSP safe-messaging guidance attached
 - The one thing blocking Frankie is done: John assembled a **men's health data sheet**

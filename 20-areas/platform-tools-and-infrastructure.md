@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-08-21
+updated: 2026-08-22
 tags: [area]
 ---
 
@@ -14,6 +14,30 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-08-22 The opportunity scanner writes into Supabase and runs weekly
+- The grant finder is a real piece of infrastructure, not a one-off: results land in a
+  **`discovered_opportunities` table in Supabase** for review and promotion **through the
+  CRM**, and "**weekly scans will run automatically every Monday at 10am** and only surface
+  new, deduped finds going forward." That's the same dedupe-and-only-show-new-things pattern
+  this vault runs on.
+- Two other facts it surfaces: **DTD now has a SAM.gov registration** (clearing the federal
+  application hurdle), and the CRM has a **Discovered Opportunities view** to work the queue.
+- category: Platform, Tools, and Infrastructure
+- source: "DTD Grant & Fundraiser Finder — Seed Sweep" 2026-08-21
+- links: [[funding-and-financial-development#2026-08-22 The grant scanner is live — first sweep names Elevance as a 4/5 fit]]
+
+## 2026-08-21 Fathom's free tier now costs the board meeting its action items
+- The **104-minute board meeting** — the most consequential meeting of the month — came back
+  with **no AI-generated action items**, the second recap in a row degraded by the free
+  tier. The owner assignments had to be read out of the summary body instead.
+- Also unresolved: the approved **ChatGPT nonprofit discount still hasn't been claimed**
+  (Goodstack sent a reminder Friday night).
+- action #open (John): restore the Fathom subscription if the lapse was unintended; claim
+  the OpenAI discount
+- category: Platform, Tools, and Infrastructure
+- source: Fathom recap 2026-08-21; Goodstack reminder 2026-08-21
+- links: [[platform-tools-and-infrastructure#2026-08-20 Fathom appears to have dropped to a free tier]]
 
 ## 2026-08-20 "Darren the DudeBot" — a Discord bot for facilitator video uploads
 - A working piece of the chat stack has appeared: "**a new Discord bot (Darren the DudeBot)

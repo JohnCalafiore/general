@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-08-19
+updated: 2026-08-22
 tags: [area]
 ---
 
@@ -14,6 +14,20 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-08-21 The Leadership Circle invite list has grown to roughly 55 people
+- Next Thursday's monthly **DTD Leadership Circle** (Aug 27, 4–5pm MDT) now carries an invite
+  list of about **55 names** — a useful measure of how far the network has spread since the
+  Jul 30 circle.
+- Beyond the familiar facilitators and board, the list now includes county and institutional
+  people: **klove@chaffeecounty.org**, **jennifer.daniels@mesacounty.us**,
+  **jcrodriguez@adamscountyco.gov**, **sdonnelly@lpcgov.org**, **lauren.sinclair@va.gov**
+  (plausibly the VA connection behind the veterans training), **brandonw@rmcrisispartners.org**,
+  **cwheaton@healthsolutionswest.org**, **micaela.sanchez@northrange.org**, all four **NCC
+  Health Partnership** colleagues, **Courtney and Rebecca Robbins at clearviewlibrary.org**,
+  and **Greg Vochis**. Around twenty of these names have no relationships entry yet.
+- category: Community Growth and Expansion
+- source: DTD Leadership Circle calendar invite, as of 2026-08-21
 
 ## 2026-08-18 Connecticut startup conversation booked: Wed Aug 26, 3:30–4:30pm
 - Andrew scheduled "**Dude Talk Dinners - startup conversation**" for **Wed Aug 26,

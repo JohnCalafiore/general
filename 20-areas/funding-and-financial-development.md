@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-08-21
+updated: 2026-08-22
 tags: [area]
 ---
 
@@ -14,6 +14,58 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-08-22 The grant scanner is live — first sweep names Elevance as a 4/5 fit
+- John built and ran the **DTD Grant & Fundraiser Finder**, an automated opportunity
+  scanner writing into a **`discovered_opportunities` table in Supabase** for review in the
+  CRM. **Weekly scans run automatically every Monday at 10am**, deduped and incremental —
+  this is the "custom AI bot to score and prioritize grants" from Thursday, built two days
+  later.
+- Seed sweep results:
+  - **Elevance Health Foundation, Behavioral Health Grant Program — fit 4/5.** Opens **Jan 1,
+    deadline Jan 31 2027**, 1–3 year grants. It "**explicitly names reducing loneliness among
+    people with mental health/SUD conditions** as a program goal — close to a direct match
+    for DTD's mission." Catch: the local track covers only 10 states (not Colorado), so DTD
+    would apply under "**national programs demonstrating scalable change**." Note this is
+    almost certainly the "Elevents Health" Trip Starkey mentioned on Aug 14 — same January
+    cycle.
+  - **Humana Foundation, Connected Healthy Lives — fit 3/5**, opens Q1 2027. The foundation
+    "just announced **$12.2M in new emotional-health/senior-loneliness grants**," though that
+    round is awarded. Action: **register on their portal now**.
+  - **DOJ Office on Violence Against Women FY2026 — fit 2/5, deadline Sep 8 2026.** Notable
+    for a fact new to the vault: "**DTD's new SAM.gov registration clears the
+    federal-application hurdle**." Scored low deliberately — "**flagging rather than
+    force-fitting, per the opioid-RFA lesson**."
+- Screened out and stored so they don't resurface: **Movember** (England-only) and **The
+  Greater Sum** pitch competition (incubator alumni only). The federal sweep returned mostly
+  **NIH R01/R34 research grants** DTD has no infrastructure for, and GivingTuesday/corporate
+  matching turned out to be **donor-education tactics, not applications** — worth revisiting
+  as a December campaign tactic.
+- action #open (John): review/promote the three open items in the CRM; **calendar the
+  Elevance (Jan 1–31 2027) and Humana (Q1 2027) windows**
+- category: Funding and Financial Development
+- source: "DTD Grant & Fundraiser Finder — Seed Sweep" 2026-08-21
+- links: [[funding-and-financial-development#2026-08-20 DECISION: add a grant writer and pivot from government grants to private foundations]], [[partnerships-and-strategic-relationships#2026-08-14 Trip's two leads: a pro bono lawyer route and the Elevents Health grant cycle]]
+
+## 2026-08-21 Board adopts the fundraising strategy — with numbers attached
+- The board signed off on the multi-pronged plan and put figures on it:
+  - **Family foundations** are the primary early target, sized at **$50k–$75k donations**.
+  - **Individual asks** through 1:1 meetings, sourced from board and facilitator networks.
+  - **Grant co-writing** with community organizations.
+  - **Year-end campaign** for **Colorado Gives Day and Giving Tuesday**, with a specific
+    mechanic: **default Givebutter to monthly** to build recurring donors.
+  - **Social media**: organic campaigns and **media appearances (podcasts, news) over paid
+    ads**.
+- New channel, new revenue model: **corporate training at $5k–$10k per engagement** for
+  companies — construction and **law enforcement** named — to build internal programs. Plus
+  local employer asks (**Kramer, Henderson Mine**) and one memorable target: "**Ideal
+  Sponsor: Ken will approach DudeWipes.**"
+- action #open (Ken): contact **Nick Williams** to kickstart corporate training
+- action #open (Andrew): meet Justin to plan the grassroots monthly donor campaign; call
+  **Nadia and Allison** for their view on a centralized financial model
+- category: Funding and Financial Development
+- source: Fathom recap, "DTD Board Meeting 3rd Friday" 2026-08-21
+- links: [[funding-and-financial-development#2026-08-18 DECISION: fundraising strategy set — Andrew to ~90% fundraising, foundations first]]
 
 ## 2026-08-20 DECISION: add a grant writer and pivot from government grants to private foundations
 - Two days after the fundraising strategy session, the budget adds a **second hire: a grant

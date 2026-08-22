@@ -1,6 +1,6 @@
 ---
 area: Governance and Organizational Development
-updated: 2026-08-21
+updated: 2026-08-22
 tags: [area]
 ---
 
@@ -14,6 +14,61 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[governance-and-org-development#...]] and harvested by the brief. -->
+
+## 2026-08-21 Board meeting: the in-kind question surfaced anyway, and split the room
+- The plan was to keep the budget high-level. It didn't hold — the **$144k of in-kind
+  donations** in the draft became the meeting's central argument, because including them
+  **lowers the admin-to-program cost ratio from ~96% to ~48%**, which is exactly the number
+  donors look at.
+- Three positions, all worth keeping because this is unresolved:
+  - **Ken (pro-inclusion)**: cites **GAAP ASC 958-605** — record fair market value for goods
+    consumed immediately; it reflects the true total program value.
+  - **Chris Peterson (anti-inclusion)**: pass-through funds **inflate income and skew the
+    budget**, making it harder to present honestly to donors.
+  - **John (intermediary)**: the accounting follows the **legal relationship** — as
+    **donee**, DTD receives funds and grants them onward (appears on the P&L); as **agent**,
+    DTD is an intermediary (does not appear).
+- Which means the budget can't be settled before the legal structure is: **Ben argues the
+  centralized model** (all funds through DudeCentral — simplicity, control, and **revenue
+  from admin fees**), while **CP points out the practical blocker** — existing fiscal
+  sponsors like **Brothers Helping Brothers are unwilling to change their established
+  financial systems**.
+- One hard number to carry forward: the **Sustainability Reserve Fund is underfunded and
+  needs a 7-figure target**.
+- action #open (Andrew & John): prepare a concise summary of the legal/financial structure
+  questions **for the contract lawyer**
+- action #open (Ken): meet CP to understand the Brothers Helping Brothers structure
+- category: Governance and Organizational Development
+- source: Fathom recap, "DTD Board Meeting 3rd Friday" 2026-08-21
+  (fathom.video/calls/792545086)
+- links: [[governance-and-org-development#2026-08-20 DECISION: present the budget high-level to the board and defer accounting to a CPA]], [[governance-and-org-development#2026-08-20 Pro bono lawyer found: Faye will do the trademark and the community agreements]]
+
+## 2026-08-21 DECISION: mission and vision deferred until the structure is settled
+- The board declined to finalize. The stated reason is practical: the current draft is
+  "**too broad for grant applications**," and a definitive statement "requires clarity on the
+  legal structure and **operational focus — supporting communities vs. individual men**."
+- The drafts on the table, for the record:
+  - **Vision: "A world where no man walks alone."** (evolved from Ken's July "A world where
+    no man feels alone")
+  - **Mission: "When men connect, communities get stronger."**
+  - **Purpose: "To put a seat at the table within reach of every dude."** (Ken's July mission
+    line, now recast as purpose)
+- Open questions named: who the statement is for — attendees, donors, or the organization.
+- action #open (Chris Gould): keep refining with board feedback
+- category: Governance and Organizational Development
+- source: Fathom recap, "DTD Board Meeting 3rd Friday" 2026-08-21
+- links: [[governance-and-org-development#2026-08-04 Mission & Vision debate: "walks" challenged; two new candidates]]
+
+## 2026-08-21 Board asks: photos, LinkedIn, and donor introductions from everyone
+- Two asks landed on **all board members**: **add professional photos and LinkedIn links to
+  the DTD website**, and **identify and connect Andrew with potential donors in their
+  networks**. The second is the board-facing half of the fundraising plan.
+- The meeting also recorded a genuine morale note: "the organization is **gaining traction**,
+  with a **new website improving its professional image** and the model **proving effective
+  across diverse communities**."
+- John forwarded the Fathom recap to **Justin Hall for the minutes** the same afternoon.
+- category: Governance and Organizational Development
+- source: Fathom recap + "Fwd: Recap of your meeting..." 2026-08-21
 
 ## 2026-08-20 DECISION: present the budget high-level to the board and defer accounting to a CPA
 - The unresolved question going into Friday was **how to account for community funding**,

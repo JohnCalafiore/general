@@ -1,20 +1,19 @@
 # Raw dump — Meetings (Granola / Fathom)
 
-Harvest window: 2026-08-20 → 2026-08-21 (America/Denver)
+Harvest window: 2026-08-21 → 2026-08-22 (America/Denver)
 
 ---
 
-## meet-fathom-budgetreview-20260820 Fathom: "DTD Budget review" (72 min)
+## meet-fathom-board-20260821 Fathom: DTD Board Meeting 3rd Friday (104 min)
 
 Recorded and recapped; content harvested via the recap email (see raw/email-inbox.md).
-The recap arrived **without AI-generated action items**, carrying an upgrade prompt instead
-— the Fathom subscription appears to have lapsed to free.
+Again **no AI-generated action items** — the free-tier limitation now affects the most
+important meeting of the month.
 
 ---
 
-## meet-granola-agreements-20260820 Granola: "Dude central agreements outline"
+## meet-granola-none-20260821 Granola: nothing captured Aug 21
 
-Granola's query interface returned no meetings for Aug 20, but John emailed himself a
-**Granola document share link titled "Dude central agreements outline"** at 9:16pm —
-evidence the 5 PM working session did happen and was captured in Granola, even though the
-meeting doesn't surface through the query tool.
+Granola returned no meetings for Aug 21, including the board meeting. Its answer noted the
+possibility that "notes were taken in Granola by someone else on your team [and] they may
+need to share that folder with you."

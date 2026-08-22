@@ -1,6 +1,6 @@
 ---
 area: Support for Existing Communities
-updated: 2026-08-20
+updated: 2026-08-22
 tags: [area]
 ---
 
@@ -14,6 +14,28 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[support-for-existing-communities#...]] and harvested by the brief. -->
+
+## 2026-08-21 Gunnison moves venue: 103 W Tomichi Ave, from Sept 8
+- Chris Peterson asked for the communities page to be updated: "**Next dinner will be Sept
+  8** and **new location will be 103 W Tomichi Avenue, Ste 201-C**. We'll remain with **2nd
+  and 4th**." John committed to updating it the same day and asked whether the venue has a
+  name to display alongside the address.
+- action #open (John): update the Gunnison entry on the communities page
+- action #open (CP): confirm the venue name
+- category: Support for Existing Communities
+- source: "Gunni DTD Location Change" thread 2026-08-21
+
+## 2026-08-21 Mike Molloy's bio arrives — with a question about tone
+- The last outstanding facilitator bio came in from **Mike Molloy** (Summit County co-lead):
+  "I know this is way late, but here it is. Hopefully, this fits with how you want to do
+  this. **If it's got too much 'suicide' and mental health content, I can tweak it.**"
+- His question is the messaging split in miniature — a facilitator sensing the tension
+  between DTD's mental-health substance and its "just dinner" public voice, and asking
+  which register to write in. Worth answering deliberately rather than in passing.
+- action #open (John): reply to Mike on tone and add the bio to the Summit page
+- category: Support for Existing Communities
+- source: "Bio" email from Mike Molloy 2026-08-21
+- links: [[presentations-events-public-presence#2026-08-14 DTD's messaging split, stated plainly: upstream intervention inside, "just dinner" outside]], [[relationships#Mike Molloy]]
 
 ## 2026-08-19 Year Two planning meeting happened — nothing captured
 - Jamie Fanselow's **Clear Creek "Year Two" planning meeting** was set for Wed Aug 19,

@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-21
+updated: 2026-08-22
 tags: [inbox]
 ---
 
@@ -18,6 +18,31 @@ Format the agent uses:
 ```
 
 <!-- entries begin below -->
+
+## 2026-08-22 Three names from the board meeting: Nick Williams, DudeWipes, Brothers Helping Brothers
+- quotes: "Ken: **Contact Nick Williams to kickstart the corporate training initiative**";
+  "**Ideal Sponsor: Ken will approach DudeWipes**"; "Current fiscal sponsors (e.g.
+  **Brothers Helping Brothers**) are unwilling to change their established financial
+  systems" — Fathom recap, board meeting 2026-08-21.
+- context: all three are new. **Brothers Helping Brothers** is likely what "BHB" meant in
+  Chris Peterson's July "new BHB/DTD location" note, which would answer that older question
+  — it appears to be the fiscal sponsor for Gunnison. Nick Williams and the DudeWipes
+  relationship have no other trace.
+- question: is BHB = Brothers Helping Brothers, and which community does it sponsor? Who is
+  Nick Williams, and is there an existing DudeWipes contact or is it a cold approach?
+- answer:
+
+## 2026-08-22 ~20 Leadership Circle invitees have no entry in relationships
+- context: the Aug 27 Leadership Circle list runs to about 55 people and now includes county
+  and institutional contacts I have nothing on — e.g. **klove@chaffeecounty.org**,
+  **jennifer.daniels@mesacounty.us**, **sdonnelly@lpcgov.org**, **lauren.sinclair@va.gov**,
+  **cwheaton@healthsolutionswest.org**, **spencer.cliff@gmail.com**,
+  **jake@jakefishbein.com**, **allisonsager@gmail.com**, **coachnick@skysthelimitcorp.com**.
+- question: worth me building out relationships entries for the Leadership Circle as a
+  whole? If you can point me at a roster with roles and communities I'll do it properly
+  rather than inferring from email domains. (lauren.sinclair@va.gov may be the "Daniel at
+  the VA" connection — or a different person entirely.)
+- answer:
 
 ## 2026-08-21 Who is Faye, and how did the pro bono offer come about?
 - quote: "**Faye, a contract lawyer, offered pro bono support for trademark filing and

@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-08-22
+updated: 2026-08-23
 tags: [area]
 ---
 
@@ -14,6 +14,51 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-08-22 The Google for Nonprofits problem named: the Workspace application was DENIED
+- The three ambiguous "activation update" notices have an answer, and it isn't good: "**Google
+  Workspace nonprofit application was denied (multiple domains flagged) — appealing.**"
+- "Multiple domains flagged" is the likely culprit behind the whole cluster: DTD runs
+  dudetalkdinners.org alongside subdomains like idahospringsco@, crm@, support@,
+  DiscordBot., and now brandkit. The denial also explains why Andrew's Business Standard
+  upgrade request has been sitting.
+- action #open (Andrew): resolve the denial — resubmit or escalate
+- category: Platform, Tools, and Infrastructure
+- source: Granola, "DTD work" 2026-08-22
+- links: [[platform-tools-and-infrastructure#2026-08-20 Google Workspace for Nonprofits: "Issues exist with your activation request"]]
+
+## 2026-08-22 Discord proposed as the community layer — with per-role channels
+- The chat-platform question moved another step: "**Discord proposed as the community
+  layer** with dedicated channels for facilitators, coordinators, fundraising, etc." Taken
+  with "Darren the DudeBot" running on DiscordBot.dudetalkdinners.org, Discord is now the
+  working assumption in two consecutive sessions — though the same meeting also recorded
+  "**no platform chosen yet**" for the facilitator-guide hosting, so the two decisions are
+  being kept separate.
+- category: Platform, Tools, and Infrastructure
+- source: Granola, "DTD work" 2026-08-22
+- links: [[platform-tools-and-infrastructure#2026-08-20 "Darren the DudeBot" — a Discord bot for facilitator video uploads]]
+
+## 2026-08-22 Andrew built a video-to-markdown transcription app; AI billing to consolidate
+- "**Andrew built a web app that auto-transcribes video links to markdown**" — an in-house
+  tool, and a useful one for the vault if meeting and testimonial video starts producing
+  text.
+- Decision alongside it: **consolidate the Claude and ChatGPT subscriptions under the DTD
+  account**, now that both nonprofit discounts are approved. The **ChatGPT discount is still
+  unclaimed** (Goodstack reminder, Aug 21).
+- action #open (Andrew): consolidate AI subscriptions under DTD billing
+- category: Platform, Tools, and Infrastructure
+- source: Granola, "DTD work" 2026-08-22
+- links: [[platform-tools-and-infrastructure#2026-08-18 Both AI nonprofit applications approved within a day]]
+
+## 2026-08-22 Granola notes sit in John's personal workspace — Andrew had to request access
+- "**Andrew Wolff is requesting access to DTD work in John's Workspace.**" The notes from a
+  meeting Andrew attended aren't visible to him, because Granola captures into a personal
+  workspace rather than a shared one.
+- Worth fixing structurally: it's the same reason Granola's own query tool reported "no
+  meetings" for the board meeting — notes taken by someone else aren't shared.
+- action #open (John): approve Andrew's request, and consider a shared Granola workspace
+- category: Platform, Tools, and Infrastructure
+- source: Granola access-request notification 2026-08-22
 
 ## 2026-08-22 The opportunity scanner writes into Supabase and runs weekly
 - The grant finder is a real piece of infrastructure, not a one-off: results land in a

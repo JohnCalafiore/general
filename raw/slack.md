@@ -1,5 +1,5 @@
 # Raw dump — Slack
 
-Harvest window: after 2026-08-20 (America/Denver)
+Harvest window: after 2026-08-21 (America/Denver)
 
 No messages returned across public channels, private channels, DMs, and group DMs.

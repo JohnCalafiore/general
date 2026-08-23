@@ -1,6 +1,6 @@
 ---
 area: Support for Existing Communities
-updated: 2026-08-22
+updated: 2026-08-23
 tags: [area]
 ---
 
@@ -14,6 +14,50 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[support-for-existing-communities#...]] and harvested by the brief. -->
+
+## 2026-08-22 DECISION: the facilitator guide becomes an interactive course, built in Slides first
+- Saturday's three-hour session with Andrew and Dawson reframed the guide entirely: "the
+  current guide is **too long and unstructured** — the goal is to convert it into an
+  **interactive online course**," modelled on the **Be There Certificate** format. John sent
+  the link (betherecertificate.org) an hour later; **all three are to complete that course
+  themselves before the next session** — learning the format by taking it.
+- An **8-module outline** was drafted: Intro/Why · Community Leadership · Facilitator deep
+  dive · Coordinator deep dive · Dinner Flow · Fundraising · Legal/Compliance · Resources.
+- Decisions on how to build it:
+  - **Google Slides first**, migrate to a real platform later — **no platform chosen yet**,
+    with AI (Claude/Gemini) to be queried for recommendations.
+  - The **first-time experience must be linear — no skipping** — with a **text version plus
+    table of contents** unlocked after completion.
+  - All templates live at **brandkit.dudetalkdinners.org**.
+- action #open (Dawson): build the guide in Google Slides from the module outline
+- action #open (all three): complete the Be There Certificate before the next session
+- category: Support for Existing Communities
+- source: Granola, "DTD work" 2026-08-22; "Be There Certificate" email 2026-08-22
+- links: [[support-for-existing-communities#2026-08-06 Startup materials taking shape: facilitator guide, welcome video, site refresh]]
+
+## 2026-08-22 Buena Vista: sponsorship letter approved, Monarch Grant due end of August
+- The BV funding work has concrete artifacts now. The session "**reviewed and approved a
+  sponsorship request letter**" (minor tweaks pending), and named a deadline: the **Monarch
+  Grant application is due end of August**, with the important qualifier that "**the spirit
+  of the grant is local (not Dude Central)**" — so BV applies for itself, exactly the tiered
+  model agreed Aug 18.
+- Also noted: "**Salida has interest but isn't ready to launch yet**" — a new Chaffee County
+  prospect alongside BV.
+- action #open (John, before Monday 10am): send **Justin** the sponsorship letter template
+  and BV testimonial access
+- action #open (Andrew): confirm **BV Givebutter donation notifications** are active
+- category: Support for Existing Communities
+- source: Granola, "DTD work" 2026-08-22
+- links: [[funding-and-financial-development#2026-08-18 DECISION: community fundraising goes tiered — struggling communities keep what they raise]]
+
+## 2026-08-22 Print and sign-in materials designed: two opt-ins, and a quarter-page card
+- Two physical artifacts were specified: a **redesigned sign-in sheet** — name, contact, and
+  **two opt-in checkboxes** (consent captured at the table rather than assumed), with **QR
+  codes judged unlikely to work** in that setting; and a **quarter-page cardstock handout**,
+  DTD information on one side, **local dinner dates plus a QR code** on the other.
+- Both live on brandkit.dudetalkdinners.org with the sponsorship letter.
+- category: Support for Existing Communities
+- source: Granola, "DTD work" 2026-08-22
 
 ## 2026-08-21 Gunnison moves venue: 103 W Tomichi Ave, from Sept 8
 - Chris Peterson asked for the communities page to be updated: "**Next dinner will be Sept

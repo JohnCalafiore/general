@@ -1,6 +1,6 @@
 ---
 area: Presentations, Events, and Public Presence
-updated: 2026-08-22
+updated: 2026-08-23
 tags: [area]
 ---
 
@@ -14,6 +14,16 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[presentations-events-public-presence#...]] and harvested by the brief. -->
+
+## 2026-08-22 A 60–90 second promo video, filmed by John and Andrew, edited by Dawson
+- Assigned in Saturday's session: **John and Andrew film a 60–90 second promo video**, with
+  **Dawson editing** and a **teleprompter app** for delivery. This is the first concrete
+  shoot since the Aug 12 decision to go social-native, and it puts the two of them on camera
+  rather than waiting on attendee footage.
+- action #open (John/Andrew): film the promo; Dawson edits
+- category: Presentations, Events, and Public Presence
+- source: Granola, "DTD work" 2026-08-22
+- links: [[presentations-events-public-presence#2026-08-12 DECISION: the welcome video goes social-native, with Frankie and Dawson together]]
 
 ## 2026-08-21 Dawson's video work starts landing: a shared "website videos" folder
 - **Dawson Wolf** shared a Drive folder, "**website videos**," with John and Andrew — the

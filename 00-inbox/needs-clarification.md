@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-22
+updated: 2026-08-23
 tags: [inbox]
 ---
 
@@ -18,6 +18,16 @@ Format the agent uses:
 ```
 
 <!-- entries begin below -->
+
+## 2026-08-23 What is the Monarch Grant, and who applies?
+- quote: "**Monarch Grant application is due end of August**; **spirit of the grant is local
+  (not Dude Central)**" — Granola, DTD work session 2026-08-22
+- context: it appears nowhere else in the record, and the deadline is this week. "Local not
+  Dude Central" suggests Buena Vista applies in its own name, which is exactly the tiered
+  model — but who is actually writing and submitting it isn't stated.
+- question: which funder is this, what's the amount, and is Justin/BV submitting or is DTD
+  Central drafting on their behalf? I'll file it to Funding with the right owner once I know.
+- answer:
 
 ## 2026-08-22 Three names from the board meeting: Nick Williams, DudeWipes, Brothers Helping Brothers
 - quotes: "Ken: **Contact Nick Williams to kickstart the corporate training initiative**";

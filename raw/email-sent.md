@@ -1,15 +1,18 @@
 # Raw dump — Gmail sent
 
-Harvest window: 2026-08-22 → 2026-08-23 (America/Denver)
+Harvest window: 2026-08-23 → 2026-08-24 (America/Denver)
 
 ---
 
-## gmailsent-betherecert-20260822 Be There Certificate
+## gmailsent-mikemolloy-20260823 Re: Bio
 
 from: john.calafiore@dudetalkdinners.org
-to: dawsonjwolf03@gmail.com, andrew.wolff@dudetalkdinners.org
-date: 2026-08-22 11:02 MT
+to: mike.molloy@gmail.com
+date: 2026-08-23 15:16 MT
 
-The link, sent immediately after the session: **https://www.betherecertificate.org/** — the
-free mental-health course whose format DTD is copying for the facilitator guide, and which
-all three agreed to complete before the next working session.
+"**This looks great, thank you very much!** And I'm glad you like the website, it's been a
+ton of iterations, and certainly not done yet! In fact, **if you're open to connecting at
+some** [point]..."
+
+So the bio was accepted as written — Mike's offer to tone down the "suicide and mental
+health content" wasn't taken up — and John is proposing a conversation with him.

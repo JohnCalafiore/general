@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-21
+updated: 2026-08-24
 tags: [grounding, people]
 ---
 
@@ -241,6 +241,25 @@ Format — one H2 per person:
 - relationship: identified as a potential source of **strategic guidance**; John owes her a
   follow-up. No prior contact appears in the record.
 - source: Fathom recap, "DTD Budget review" 2026-08-20
+
+## Mark (msd27611@gmail.com)
+- relationship: **donor**, and "**one of the guys in [Andrew's] men's group**." Sent DTD a
+  **$500 cash advance** before the 501(c)(3) came through and is now completing the pledge
+  with a **$1,000 grant from his Fidelity Charitable Gift Fund** — DTD's first donor-advised
+  fund gift — with the $500 to be reimbursed. Warm about the mission: "I can't adequately
+  describe the tremendous admiration and respect I have for you and for the mission you've
+  chosen to pursue."
+- Surname not in the record.
+- source: "Re: We just got our 501(c)(3) - Balance of my pledge" thread, forwarded 2026-08-23
+
+## Randy Duran
+- org: **Mental Mastery Consultancy** (mentalmasteryconsultancy.com) — Mental Health Coach;
+  562-542-5678
+- email: randyduran@mentalmasteryconsulting.com (note: the signature domain and the sending
+  domain differ — consultancy vs consulting)
+- relationship: unsolicited inbound to support@ offering a discussion he leads, "**Why We
+  Repeat What Hurts Us**," for use at DTD dinners. No prior connection in the record.
+- source: "A discussion idea for Dude Talk Dinners" 2026-08-23
 
 ## Ryan Davis
 - org: **LF Insurance Group**, 12851 W 43rd Dr. Ste #2, Golden CO 80403 — DTD's insurance

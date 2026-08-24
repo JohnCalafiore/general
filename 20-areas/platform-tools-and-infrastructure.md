@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-08-23
+updated: 2026-08-24
 tags: [area]
 ---
 
@@ -14,6 +14,17 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-08-23 Per-community donation alerts tested: "New gift to Idaho Springs: $50.00"
+- A new CRM notification template ran through: "**1 new gift(s) just came in for Idaho
+  Springs on Givebutter, $50.00 in total**: $25.00 from Sample Donor... **No action needed,
+  this is just so you know.** Open in CRM."
+- This is the community-level donation alert — the mechanism behind Andrew's action to
+  "confirm BV Givebutter donation notifications are active," now demonstrably built and
+  routing by community.
+- category: Platform, Tools, and Infrastructure
+- source: "[Test] New gift to Idaho Springs: $50.00" 2026-08-23
+- links: [[support-for-existing-communities#2026-08-22 Buena Vista: sponsorship letter approved, Monarch Grant due end of August]]
 
 ## 2026-08-22 The Google for Nonprofits problem named: the Workspace application was DENIED
 - The three ambiguous "activation update" notices have an answer, and it isn't good: "**Google

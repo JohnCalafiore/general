@@ -1,6 +1,6 @@
 ---
 area: Support for Existing Communities
-updated: 2026-08-23
+updated: 2026-08-24
 tags: [area]
 ---
 
@@ -14,6 +14,17 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[support-for-existing-communities#...]] and harvested by the brief. -->
+
+## 2026-08-23 Mike Molloy's bio accepted as written — mental-health content kept
+- John answered the tone question by not changing anything: "**This looks great, thank you
+  very much!**" Mike's offer to tone down the "suicide and mental health content" wasn't
+  taken up, so a facilitator bio carrying that substance goes on the Summit page. He also
+  praised the new site, and John proposed connecting properly at some point.
+- All facilitator bios requested on Aug 6 are now in.
+- action #done: collect facilitator bios (Erik, Justin, Mike Mayer, Mike Molloy)
+- category: Support for Existing Communities
+- source: "Re: Bio" 2026-08-23
+- links: [[support-for-existing-communities#2026-08-21 Mike Molloy's bio arrives — with a question about tone]]
 
 ## 2026-08-22 DECISION: the facilitator guide becomes an interactive course, built in Slides first
 - Saturday's three-hour session with Andrew and Dawson reframed the guide entirely: "the

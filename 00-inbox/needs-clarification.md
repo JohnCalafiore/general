@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-23
+updated: 2026-08-24
 tags: [inbox]
 ---
 
@@ -18,6 +18,18 @@ Format the agent uses:
 ```
 
 <!-- entries begin below -->
+
+## 2026-08-24 Mark's surname, and how the $500 reimbursement should be recorded
+- quote: "**make a $1K grant from my Fidelity Charitable Gift Fund** and you then
+  **reimburse me for the $500 cash advance I sent a number of weeks ago**" — Mark
+  (msd27611@gmail.com), forwarded by Andrew 2026-08-23
+- context: DTD's first donor-advised-fund gift, from someone in Andrew's men's group. I have
+  no surname, and the $500 return leg is an accounting question — a refund of a donation
+  made pre-determination, not an expense.
+- question: Mark's full name for relationships, and how you want the $500 recorded? Also
+  worth confirming whether the DAF grant will show in Givebutter or arrive separately from
+  Fidelity, since that affects whether the CRM sees it.
+- answer:
 
 ## 2026-08-23 What is the Monarch Grant, and who applies?
 - quote: "**Monarch Grant application is due end of August**; **spirit of the grant is local

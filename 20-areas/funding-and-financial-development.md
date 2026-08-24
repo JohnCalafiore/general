@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-08-22
+updated: 2026-08-24
 tags: [area]
 ---
 
@@ -14,6 +14,34 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-08-23 A $1,000 DAF grant is waiting on DTD sending an EIN — and a $500 reimbursement
+- **Mark** (msd27611@gmail.com), described by Andrew as "**one of the guys in my men's
+  group**," is ready to complete a pledge: "please do resend [the EIN] along with the
+  address attached to it and I'll then, as we previously arranged, be able to **make a $1K
+  grant from my Fidelity Charitable Gift Fund** and you then **reimburse me for the $500 cash
+  advance I sent a number of weeks ago**."
+- Two things to notice. First, a **donor-advised fund gift** is DTD's first — the DAFpay
+  documentation John shared on Aug 17 is suddenly relevant. Second, the **$500 already sent**
+  needs reimbursing, which is an accounting action, not just a thank-you.
+- Andrew's ask of John: "Let's talk about this tomorrow or Tuesday if possible, and also
+  **decide on a process to get thank you emails out**" — the acknowledgment layer built on
+  Aug 12 still isn't operating.
+- action #open (John/Andrew): send Mark the EIN and mailing address; arrange the $500
+  reimbursement; agree the thank-you process
+- category: Funding and Financial Development
+- source: "Fwd: Re: We just got our 501(c)(3) - Balance of my pledge" 2026-08-23
+- links: [[funding-and-financial-development#2026-08-07 Donation receipts and thank-you emails get a working session]]
+
+## 2026-08-23 Givebutter verification hits a final reminder — three days to act
+- "This is your **final reminder** to log in to your Givebutter dashboard and complete the
+  required action to continue your verification. **If you do not finish this step within 3
+  days**..." The verification flagged as "optional" on Aug 19 now carries a deadline, and
+  Givebutter is the rail the whole tiered community-fundraising plan runs on.
+- action #open (John, by ~Aug 26): finish Givebutter verification
+- category: Funding and Financial Development
+- source: "[Final Reminder] Finish Givebutter Verification" 2026-08-23
+- links: [[funding-and-financial-development#2026-08-19 Givebutter moves payouts to Wallet; verification still unfinished]]
 
 ## 2026-08-22 The grant scanner is live — first sweep names Elevance as a 4/5 fit
 - John built and ran the **DTD Grant & Fundraiser Finder**, an automated opportunity

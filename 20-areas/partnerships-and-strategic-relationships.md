@@ -1,6 +1,6 @@
 ---
 area: Partnerships and Strategic Relationships
-updated: 2026-08-18
+updated: 2026-08-24
 tags: [area]
 ---
 
@@ -14,6 +14,25 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[partnerships-and-strategic-relationships#...]] and harvested by the brief. -->
+
+## 2026-08-23 Inbound pitch: a mental-health coach offers a discussion topic for dinners
+- **Randy Duran**, a Mental Health Coach at **Mental Mastery Consultancy**, wrote in to
+  support@ having found DTD independently. His read of the model is notably accurate:
+  "**really liked the simplicity of bringing men around a table for meaningful conversation
+  without turning the room into therapy or requiring anyone to perform.**"
+- His offer is a discussion he leads, "**Why We Repeat What Hurts Us**" — "why we can clearly
+  know a habit, relationship pattern, coping mechanism, or decision is hurting us and still
+  repeat it... familiarity, avoidance, identity, and the things we do to get through life
+  even when they eventually cost us." He asks whether it "could **fit naturally into
+  something Dude Talk Dinners is already doing**."
+- Worth a considered answer either way: it's the first unsolicited approach from a
+  practitioner offering *content* rather than partnership or funding, and it bumps against
+  the "not therapy, not a support group" line DTD has been careful to hold — a facilitator-led
+  dinner topic is one thing, an outside coach running a session is another.
+- action #open (John/Andrew): decide how to respond to Randy Duran
+- category: Partnerships and Strategic Relationships
+- source: "A discussion idea for Dude Talk Dinners" 2026-08-23
+- links: [[presentations-events-public-presence#2026-08-14 DTD's messaging split, stated plainly: upstream intervention inside, "just dinner" outside]]
 
 ## 2026-08-17 RMCP wants to formalize the partnership — and hands DTD a role in Bridging the Divide
 - The most consequential line in Andrew's ED update: "**Rocky Mountain Crisis Partners

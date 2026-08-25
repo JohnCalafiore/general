@@ -1,6 +1,6 @@
 ---
 area: Governance and Organizational Development
-updated: 2026-08-22
+updated: 2026-08-24
 tags: [area]
 ---
 
@@ -14,6 +14,21 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[governance-and-org-development#...]] and harvested by the brief. -->
+
+## 2026-08-24 Justin commits to getting the board minutes out this week
+- Three days after John forwarded the Fathom recap "for the minutes," Justin Hall replied:
+  "Thanks John!! **I'll get it out this week!**" That puts the 8/21 minutes on track for
+  distribution by ~Aug 28 — the first time in the vault's record that a set of board
+  minutes has a stated turnaround from the person writing them.
+- Worth remembering what the minutes have to carry: the in-kind argument, the deferred
+  mission/vision, and the adopted fundraising strategy. The Fathom recap Justin is working
+  from **has no AI-generated action items** (free-tier limitation), so the Next Steps he
+  writes up come from the summary body, not from an extracted task list.
+- action #open (Justin, by ~2026-08-28): circulate the 8/21 board minutes
+- category: Governance and Organizational Development
+- source: email from Justin Hall, "Re: Recap of your meeting with Western Colorado
+  University" 2026-08-24
+- links: [[governance-and-org-development#2026-08-21 Board asks: photos, LinkedIn, and donor introductions from everyone]], [[governance-and-org-development#2026-08-21 Board meeting: the in-kind question surfaced anyway, and split the room]]
 
 ## 2026-08-21 Board meeting: the in-kind question surfaced anyway, and split the room
 - The plan was to keep the budget high-level. It didn't hold — the **$144k of in-kind

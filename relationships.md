@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-24
+updated: 2026-08-25
 tags: [grounding, people]
 ---
 
@@ -249,8 +249,10 @@ Format — one H2 per person:
   fund gift — with the $500 to be reimbursed. Warm about the mission: "I can't adequately
   describe the tremendous admiration and respect I have for you and for the mission you've
   chosen to pursue."
-- Surname not in the record.
-- source: "Re: We just got our 501(c)(3) - Balance of my pledge" thread, forwarded 2026-08-23
+- Surname not in the record. Andrew sent him DTD's EIN, PO Box address, and the 501(c)(3)
+  determination letter on **2026-08-24**, clearing the way for the DAF grant.
+- source: "Re: We just got our 501(c)(3) - Balance of my pledge" thread, forwarded
+  2026-08-23; "Dude Talk Dinners donation info" 2026-08-24
 
 ## Randy Duran
 - org: **Mental Mastery Consultancy** (mentalmasteryconsultancy.com) — Mental Health Coach;
@@ -385,8 +387,18 @@ Format — one H2 per person:
 
 ## Art Ginley
 - email: artginley@gmail.com
-- relationship: website lead; offered several call windows Aug 5–13
-- source: "Dude Talk Dinners Reaching Out" thread 2026-07-30 → 2026-08-03
+- relationship: website lead; offered several call windows Aug 5–13. The call finally
+  happened **Mon Aug 24, 3–4pm MDT** over Zoom — and Art brought **Jeremy R. Allen**, who
+  organized the meeting. What was discussed is not on record.
+- source: "Dude Talk Dinners Reaching Out" thread 2026-07-30 → 2026-08-11; calendar event
+  "Dude Talk w/ Art, John, and Jeremy" 2026-08-24
+
+## Jeremy R. Allen
+- email: jeremy@jeremyrallen.com
+- relationship: organized and hosted the Aug 24 Zoom with John and **Art Ginley**, titled
+  "Dude Talk w/ Art, John, and Jeremy." Appears to have come in through Art. **Role,
+  organization, and interest in DTD are all unknown** #needs-clarification
+- source: Zoom invitation 2026-08-24; calendar event 2026-08-24
 
 ## Sally Spencer-Thomas
 - email: SallySpencerThomas@gmail.com — addressed as "Dr. Sally"

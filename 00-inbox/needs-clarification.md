@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-24
+updated: 2026-08-25
 tags: [inbox]
 ---
 
@@ -18,6 +18,39 @@ Format the agent uses:
 ```
 
 <!-- entries begin below -->
+
+## 2026-08-25 Who is Jeremy R. Allen, and what came out of Monday's call with Art?
+- quote: "**Dude Talk w/ Art, John, and Jeremy**" — Zoom invitation from
+  jeremy@jeremyrallen.com, Mon Aug 24, 3–4pm MDT
+- context: The Art Ginley call you'd been rescheduling since July 30 happened Monday, but
+  the invite came from a third person — Jeremy R. Allen — who organized the Zoom. The
+  invite body is Zoom boilerplate with no agenda, and there's no Granola note, Fathom
+  recap, or follow-up email. So I have a meeting that happened and nothing about it.
+- question: Who is Jeremy — his role, organization, and how he relates to Art and to DTD?
+  And what, if anything, came out of the hour that should be filed?
+- answer: <!-- write here -->
+
+## 2026-08-25 Did the Chaffee grant follow-up produce anything to file?
+- quote: "**Andrew : Justin (Chaffee grant follow-up)**" — Google Calendar, Mon Aug 24,
+  5:30–6pm MDT (you were invited but didn't respond)
+- context: No description on the invite and no record of the call. Timing suggests it may
+  have been where the board action "Andrew: meet with Justin to plan the grassroots monthly
+  donor campaign" got done, and Justin's QR-code idea that afternoon came out of an Andrew
+  conversation — but I'm not filing either as fact without confirmation.
+- question: What was decided about the Chaffee County grant, and was this the grassroots
+  monthly-donor planning meeting?
+- answer: <!-- write here -->
+
+## 2026-08-25 Who activated the Givebutter Early Access Beta, and is the "Test" campaign yours?
+- quote: "**An admin on your Givebutter account activated our Early Access Beta Program for
+  Dude Talk Dinners**" — Givebutter, 2026-08-24; and a new campaign at
+  givebutter.com/test-tjzqiq the same afternoon
+- context: Givebutter names "an admin" without saying which one, and the account is mid-
+  verification with a ~Aug 26 deadline. The Test campaign fits your sandbox pattern, but I
+  can't confirm you created either.
+- question: Were both of these you? If not, worth knowing who else has admin on the account
+  before beta features land on the donation rail.
+- answer: <!-- write here -->
 
 ## 2026-08-24 Mark's surname, and how the $500 reimbursement should be recorded
 - quote: "**make a $1K grant from my Fidelity Charitable Gift Fund** and you then

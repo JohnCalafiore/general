@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-08-22
+updated: 2026-08-25
 tags: [area]
 ---
 
@@ -14,6 +14,23 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-08-24 The Art Ginley call finally happened — and Art brought someone
+- The conversation John and **Art Ginley** have been trying to schedule since **July 30**
+  (rescheduled twice, most recently on Aug 11) took place **Mon Aug 24, 3–4pm MDT** over
+  Zoom. All three attendees accepted.
+- The notable detail is the third seat: the invite was sent not by John but by
+  **Jeremy R. Allen (jeremy@jeremyrallen.com)**, who organized the Zoom and titled it "**Dude
+  Talk w/ Art, John, and Jeremy**." Art appears to have brought Jeremy in — an inbound
+  contact widening on its own, which is the pattern worth tracking in this area.
+- **No record of the hour exists**: no Granola note, no Fathom recap, no agenda in the
+  invite (Zoom boilerplate only), and no follow-up email. Who Jeremy is and what the three
+  discussed is unknown — filed to the inbox rather than guessed.
+- action #open (John): note what came out of the Art/Jeremy call while it's fresh
+- category: Community Growth and Expansion
+- source: Google Calendar event + Zoom invitation from jeremy@jeremyrallen.com 2026-08-24;
+  email thread "Dude Talk Dinners Reaching Out" 2026-07-30 → 2026-08-11
+- links: [[00-inbox/needs-clarification|Needs clarification]]
 
 ## 2026-08-21 The Leadership Circle invite list has grown to roughly 55 people
 - Next Thursday's monthly **DTD Leadership Circle** (Aug 27, 4–5pm MDT) now carries an invite

@@ -1,11 +1,27 @@
-# Raw dump — Google Calendar
+# Google Calendar (harvest window 2026-08-24T07:09:57Z → 2026-08-25)
 
-Harvest window: 2026-08-23 → 2026-08-28 (America/Denver)
+## cal-umre3iuhsoneg4ns1cpqt76tpk Dude Talk w/ Art, John, and Jeremy
 
-No events Sun Aug 23 and no new bookings since the last run. The week ahead still shows only
-**Dude Talk Dinners - startup conversation** (Wed Aug 26, 3:30–4:30pm, Giovanny Ramirez and
-Anderson both still unresponded) and the **DTD Leadership Circle** (Thu Aug 27, 4–5pm).
+when: Mon 2026-08-24, 3:00–4:00pm MDT
+organizer: jeremy@jeremyrallen.com (Jeremy R. Allen)
+attendees: john.calafiore@dudetalkdinners.org (accepted), artginley@gmail.com (accepted),
+           jeremy@jeremyrallen.com (organizer, accepted)
+location: Zoom — https://us02web.zoom.us/j/83851537557 (Meeting ID 838 5153 7557)
+created: 2026-08-24 15:40 UTC
 
-Two commitments named in email have no calendar entry: the **Monday 10am call with Justin**
-about BV sponsorship, and Andrew's request to talk about Mark's pledge "**tomorrow or
-Tuesday**."
+Description is the standard Zoom boilerplate: "Jeremy R. Allen is inviting you to a
+scheduled Zoom meeting." No agenda given. Follows John's July 30 – Aug 11 email thread
+with Art Ginley ("Dude Talk Dinners Reaching Out"), which had been rescheduled twice.
+
+---
+
+## cal-69043esmdhkvctspgm35spscbf Andrew : Justin (Chaffee grant follow-up)
+
+when: Mon 2026-08-24, 5:30–6:00pm MDT
+organizer: andrew.wolff@dudetalkdinners.org
+attendees: Andrew Wolff (accepted), Justin Hall (accepted),
+           John Calafiore (needsAction — did not respond)
+conference: https://meet.google.com/khx-kfxv-gwy
+created: 2026-08-24 17:40 UTC; updated 2026-08-24 20:49 UTC
+
+No description supplied beyond the title.

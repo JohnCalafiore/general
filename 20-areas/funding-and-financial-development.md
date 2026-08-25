@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-08-24
+updated: 2026-08-25
 tags: [area]
 ---
 
@@ -15,6 +15,99 @@ responsibility but not to a specific dated project get logged here.
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
 
+## 2026-08-24 Andrew takes the fundraising ask to the whole board — a video and a Cal.com link
+- The board action from Friday — "identify and connect Andrew with potential donors in
+  their networks" — became a concrete mechanism three days later. Andrew emailed all six
+  board members (**Ben Shay, Chris Gould, Chris Peterson, John, Justin Hall, Ken Farber**)
+  and posted the same ask in **#executive-director-updates**: "Please watch this video for
+  a message regarding fundraising. Also, please **find a time on my calendar within the
+  next week or two** so that we can set up meetings (coffee, Google Meet, etc.) with any of
+  your contacts who can support DTD with a donation and/or connect us with other
+  fundraising opportunities."
+- Two things make this different from the usual board ask. The **video** (a Google Drive
+  link) carries the pitch so each board member hears it the same way, and the **Cal.com
+  link** (cal.com/andrew-wolff/30min) removes the scheduling friction that has stalled
+  several DTD asks in this vault. The Slack version is blunter about the output:
+  "**schedule a 30 minute meeting with me to make a plan of action**."
+- action #open (all board, by ~2026-09-07): watch the video and book a 30-minute slot with
+  Andrew
+- category: Funding and Financial Development
+- source: email "DTD Fundraising" 2026-08-24; Slack #executive-director-updates
+  2026-08-24 20:44 MDT
+- links: [[governance-and-org-development#2026-08-21 Board asks: photos, LinkedIn, and donor introductions from everyone]], [[funding-and-financial-development#2026-08-21 Board adopts the fundraising strategy — with numbers attached]]
+
+## 2026-08-24 Mark gets the EIN — the first donor-advised-fund gift is unblocked
+- Andrew sent it the next day: "Hi Mark, Here's the info that you requested. **Dude Talk
+  Dinners, Inc. EIN: 41-4806880. Address: PO Box 992, Idaho Springs, CO 80452. 501(c)(3)
+  letter of determination: Attached to this email.**" John was cc'd.
+- That clears the blocker on the **$1,000 Fidelity Charitable Gift Fund grant** — DTD's
+  first DAF gift. Note the EIN and the PO Box address are now on record in the vault as the
+  canonical pair DTD gives to donors and grantmakers.
+- Still outstanding from the same thread: the **$500 cash advance Mark sent weeks ago needs
+  reimbursing**, and Andrew's second ask — "decide on a process to get thank you emails
+  out" — has not been answered.
+- action #done (Andrew): send Mark the EIN and mailing address
+- action #open (John/Andrew): arrange the $500 reimbursement; agree the thank-you process
+- category: Funding and Financial Development
+- source: email from Andrew Wolff, "Dude Talk Dinners donation info" 2026-08-24
+- links: [[funding-and-financial-development#2026-08-23 A $1,000 DAF grant is waiting on DTD sending an EIN — and a $500 reimbursement]]
+
+## 2026-08-24 Weekly grant scan: AmeriCorps Seniors is new, and the DOJ deadline is two weeks out
+- The scanner's first *weekly* digest (the Aug 22 entry was the seed sweep) reports "**3
+  open opportunities in the CRM right now (no overflow beyond this list)**" — a small,
+  honest pipeline rather than a padded one.
+  - **Elevance Health Foundation** [carried over] — fit 4/5, opens Jan 1 2027, due Jan 31
+    2027, national "scalable change" track. Unchanged.
+  - **DOJ Office on Violence Against Women FY2026** [carried over] — fit 2/5, **deadline
+    Sep 8 2026**. New detail: it "requires **SAM.gov registration (DTD has this) plus a
+    Grants.gov workspace account**. Tight deadline given the fit is uncertain." Two weeks
+    out on a 2/5 fit is a go/no-go decision, not a task.
+  - **AmeriCorps FY2027 AmeriCorps Seniors RSVP Competition** [NEW] — fit 2/5, **deadline
+    Oct 20 2026**. The rationale is the interesting part: it "could fund a **volunteer corps
+    of older men to help facilitate/host dinners**" — a staffing model DTD hasn't
+    considered anywhere else in this vault.
+- Two screening results correct earlier entries. **Movember** was logged Aug 22 as
+  "England-only"; the scanner now reports US eligibility exists but is **California-only and
+  requires a PhD researcher as lead applicant** — still ineligible, different reason.
+  **Humana "Connected Healthy Lives"** was logged as fit 3/5 opening Q1 2027 with an action
+  to register now; it has been **reclassified** — the 2026 window ran **Jan 20 – Feb 20 and
+  is closed**, and it is geographically limited to **KY/FL/LA/TX**. Re-check ~January 2027.
+- Also screened out: HHS ACF-OFVPS National Resource Centers; Cigna Group Foundation Youth
+  Mental Health (youth-focused, deadline passed); INNOSpark (high-school teams).
+- action #open (John/Andrew, before Sep 8): decide go/no-go on the DOJ OVW application
+- action #open (John): calendar the AmeriCorps Oct 20 deadline
+- category: Funding and Financial Development
+- source: "DTD Grant Finder — Weekly Digest (2026-08-24)" 2026-08-24
+- links: [[funding-and-financial-development#2026-08-22 The grant scanner is live — first sweep names Elevance as a 4/5 fit]]
+
+## 2026-08-24 Andrew researches Givebutter team fundraising for per-community pages
+- Andrew DM'd John two Givebutter links in twelve minutes: **givebutter.com/fundraising-
+  pages** and the help article "**How to use team fundraising**." John replied with a
+  screenshot (image only, no text).
+- This is the mechanism question behind the still-open action to stand up Givebutter pages
+  for **Clear Creek, Silverthorne, BV, and Grand** — Givebutter's *team fundraising* feature
+  is how one campaign gets per-community sub-pages, each with its own link and tally. No
+  decision is recorded; this is research in progress.
+- action #open (John/Andrew): decide whether team fundraising is the structure for
+  per-community donation pages
+- category: Funding and Financial Development
+- source: Slack DM Andrew Wolff → John Calafiore 2026-08-24 12:03–12:20 MDT
+- links: [[funding-and-financial-development#2026-08-18 DECISION: community fundraising goes tiered — struggling communities keep what they raise]], [[support-for-existing-communities#2026-08-24 A QR code on the table: piloting whether BV can support itself]]
+
+## 2026-08-24 A second DPP practice session: "Zero to Fundraising," Sep 15
+- Louis Diez invited John to "**AI Practice Session: Zero to Fundraising**," **Tuesday
+  September 15, 2026** — the third Donor Participation Project event to reach John since
+  Andrew forwarded the first on Aug 10. The invite notes it was sent because John "engaged
+  with the Donor Participation Project or WIZE."
+- Sequence worth noting: roundtable (Aug 12, attended) → AI for donor outreach (Aug 18) →
+  practice session on fundraising from zero (Sep 15). The titles are moving from concept
+  toward hands-on, which matches the "playbookification" theme John took from the first
+  roundtable.
+- action #open (John): decide whether to register for the Sep 15 session
+- category: Funding and Financial Development
+- source: "You are invited to AI Practice Session: Zero to Fundraising" 2026-08-24
+- links: [[funding-and-financial-development#2026-08-14 Second DPP session offered: AI for donor outreach, Tue Aug 18]], [[30-resources/ai-for-nonprofits-dpp-roundtable|AI for nonprofits — DPP roundtable]]
+
 ## 2026-08-23 A $1,000 DAF grant is waiting on DTD sending an EIN — and a $500 reimbursement
 - **Mark** (msd27611@gmail.com), described by Andrew as "**one of the guys in my men's
   group**," is ready to complete a pledge: "please do resend [the EIN] along with the
@@ -27,8 +120,8 @@ responsibility but not to a specific dated project get logged here.
 - Andrew's ask of John: "Let's talk about this tomorrow or Tuesday if possible, and also
   **decide on a process to get thank you emails out**" — the acknowledgment layer built on
   Aug 12 still isn't operating.
-- action #open (John/Andrew): send Mark the EIN and mailing address; arrange the $500
-  reimbursement; agree the thank-you process
+- action #done (Andrew, 2026-08-24): send Mark the EIN and mailing address
+- action #open (John/Andrew): arrange the $500 reimbursement; agree the thank-you process
 - category: Funding and Financial Development
 - source: "Fwd: Re: We just got our 501(c)(3) - Balance of my pledge" 2026-08-23
 - links: [[funding-and-financial-development#2026-08-07 Donation receipts and thank-you emails get a working session]]

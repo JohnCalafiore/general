@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-08-24
+updated: 2026-08-25
 tags: [area]
 ---
 
@@ -14,6 +14,30 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-08-24 Givebutter turns on Early Access Beta for DTD, and a Test campaign goes up
+- Two Givebutter changes in the same afternoon. First, "**An admin on your Givebutter
+  account activated our Early Access Beta Program for Dude Talk Dinners**" — early access to
+  unreleased features. The account has been through verification friction all month, so
+  beta features on the payment rail are worth watching rather than assuming safe.
+- Second, a new campaign titled "**Test**" was created at **givebutter.com/test-tjzqiq**,
+  consistent with the sandbox pattern John has been using (the Aug 23 "[Test] New gift to
+  Idaho Springs" alert came from the same habit). No indication it is public-facing.
+- Neither event says who took the action — "an admin" is not named — and the Givebutter
+  verification deadline (~Aug 26) is still the live item on this account.
+- category: Platform, Tools, and Infrastructure
+- source: "Givebutter Early Access Beta Program" and "Your new campaign" 2026-08-24
+- links: [[platform-tools-and-infrastructure#2026-08-23 Per-community donation alerts tested: "New gift to Idaho Springs: $50.00"]], [[funding-and-financial-development#2026-08-23 Givebutter verification hits a final reminder — three days to act]]
+
+## 2026-08-24 Email volume halves and DMARC alignment holds at 98%
+- The weekly Postmark digest for **Aug 16–23**: **94 emails processed, 98% SPF or DKIM
+  aligned, 2% not**. Sending sources remain **ActiveCampaign and Postmark**.
+- Volume is down from **207 the previous week** — less than half. That tracks a week with no
+  campaign send, not a deliverability problem; alignment held steady, which is the number
+  that actually matters. Worth noting so the drop isn't misread as breakage later.
+- category: Platform, Tools, and Infrastructure
+- source: "DMARC weekly digest for dudetalkdinners.org" 2026-08-24
+- links: [[platform-tools-and-infrastructure#2026-08-17 DMARC week two: 207 emails, alignment holding at 98%]]
 
 ## 2026-08-23 Per-community donation alerts tested: "New gift to Idaho Springs: $50.00"
 - A new CRM notification template ran through: "**1 new gift(s) just came in for Idaho

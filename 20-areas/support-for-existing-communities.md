@@ -1,6 +1,6 @@
 ---
 area: Support for Existing Communities
-updated: 2026-08-24
+updated: 2026-08-25
 tags: [area]
 ---
 
@@ -14,6 +14,56 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[support-for-existing-communities#...]] and harvested by the brief. -->
+
+## 2026-08-24 A QR code on the table: piloting whether BV can support itself
+- Justin Hall floated a test with a real question behind it: "**Andrew and I were
+  discussing having a QR code that links to the BV specific donation page to pilot seeing
+  if the community is able to support itself through some dudes making donations.** I was
+  thinking of having it just **taped to the center of the tables** to start."
+- This is the first attempt anywhere in the vault to measure **community self-sufficiency**
+  rather than assume it — and it's deliberately low-tech, which suits a dinner table better
+  than an ask from the front of the room. It also gives the in-kind/legal-structure debate
+  an empirical input: if BV dudes fund BV dinners, the pass-through question changes shape.
+- Justin's blocker is practical and unanswered: "**Is there a way you know to generate the
+  QR code? Do you have to be the account holder of the website to make one?**" (He does not
+  need to be — but no reply is on record, so this is still an open ask of John.)
+- Depends on the BV donation page existing, which ties to Andrew's same-day team-fundraising
+  research and the still-open per-community Givebutter pages.
+- action #open (John): answer Justin on generating the QR code and confirm the BV donation
+  page URL
+- category: Support for Existing Communities
+- source: email from Justin Hall, "Re: Recap of your meeting with Western Colorado
+  University" 2026-08-24
+- links: [[funding-and-financial-development#2026-08-24 Andrew researches Givebutter team fundraising for per-community pages]], [[funding-and-financial-development#2026-08-18 DECISION: community fundraising goes tiered — struggling communities keep what they raise]], [[support-for-existing-communities#2026-08-22 Buena Vista: sponsorship letter approved, Monarch Grant due end of August]]
+
+## 2026-08-24 Andrew and Justin met on the Chaffee grant — no record of what was decided
+- A 30-minute call, "**Andrew : Justin (Chaffee grant follow-up)**," ran **Mon Aug 24,
+  5:30–6pm MDT** on Google Meet. Andrew organized it and invited John, who **did not
+  respond to the invite** (responseStatus: needsAction). Andrew and Justin both accepted.
+- The invite carried **no description beyond the title**, and the call produced **no Granola
+  note, no Fathom recap, and no follow-up email**. Whatever was decided about the Chaffee
+  County grant on Monday evening is unrecorded — this is the fourth capture gap logged this
+  month.
+- It is also, on timing, the likely venue for the board action "**Andrew: meet with Justin
+  to plan the grassroots monthly donor campaign**" — and the QR-code idea Justin raised in
+  writing that afternoon came out of an Andrew conversation. Neither link is confirmed.
+- action #open (John): ask Andrew or Justin what came out of the Chaffee follow-up
+- category: Support for Existing Communities
+- source: Google Calendar event "Andrew : Justin (Chaffee grant follow-up)" 2026-08-24;
+  invitation email 2026-08-24
+- links: [[funding-and-financial-development#2026-08-21 Board adopts the fundraising strategy — with numbers attached]], [[support-for-existing-communities#2026-08-24 A QR code on the table: piloting whether BV can support itself]]
+
+## 2026-08-24 John is enrolled in the Be There Certificate
+- The welcome email landed — "**You're on your way to learning how to be there for your and
+  your peers' mental health**" — confirming John completed the enrollment agreed in
+  Saturday's session. The certificate matters twice over: as facilitator training, and as
+  the **format model** for turning the DTD facilitator guide into an interactive course.
+- Enrollment is not completion, and Andrew and Dawson have no enrollment on record at all —
+  the Aug 22 action stays open for them.
+- action #done (John): enroll in the Be There Certificate
+- category: Support for Existing Communities
+- source: "Welcome to the Be There Certificate" 2026-08-24 21:19 MDT
+- links: [[support-for-existing-communities#2026-08-22 DECISION: the facilitator guide becomes an interactive course, built in Slides first]]
 
 ## 2026-08-23 Mike Molloy's bio accepted as written — mental-health content kept
 - John answered the tone question by not changing anything: "**This looks great, thank you

@@ -1,6 +1,6 @@
 ---
 area: Partnerships and Strategic Relationships
-updated: 2026-08-24
+updated: 2026-08-27
 tags: [area]
 ---
 
@@ -14,6 +14,32 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[partnerships-and-strategic-relationships#...]] and harvested by the brief. -->
+
+## 2026-08-26 RMCP moves from Leadership Circle name to a coffee on Sep 1
+- Andrew booked "**RMCP and DTD connection at Starbucks**" for **Tue Sep 1, 10:00–11:00am
+  MDT** with **bmarquez@rmcrisispartners.org** — **Rocky Mountain Crisis Partners**, the
+  organization behind Colorado Crisis Services. RMCP has been on the Leadership Circle
+  invite list since Aug 21 (as brandonw@rmcrisispartners.org) without a direct conversation;
+  this is the first one, and it's in person.
+- The obvious fit is referral in both directions: DTD dinners have no clinician in the room,
+  and RMCP runs the crisis line men in trouble would be pointed to. Nothing about the agenda
+  is recorded.
+- action #open (John/Andrew): prepare what DTD wants from RMCP before Sep 1
+- category: Partnerships and Strategic Relationships
+- source: calendar invitation "RMCP and DTD connection at Starbucks" 2026-08-26
+- links: [[community-growth-and-expansion#2026-08-21 The Leadership Circle invite list has grown to roughly 55 people]]
+
+## 2026-08-26 John proposes reaching Daniel at the VA and "Deke" for one of his events
+- A one-line Slack DM to Andrew: "**Let's connect with Daniel from the VA and Deke for one
+  of his events.**" It arrives the same day the veterans task force was taking shape, which
+  makes the VA half legible — Daniel has been an unidentified VA contact in this vault since
+  early August.
+- "**Deke**" is new and unidentified, as is which events are his. Filed as stated, not
+  interpreted.
+- action #open (John/Andrew): follow up with Daniel at the VA about the veterans group
+- category: Partnerships and Strategic Relationships
+- source: Slack DM John Calafiore → Andrew Wolff 2026-08-26 21:32 MDT
+- links: [[community-growth-and-expansion#2026-08-27 Three new communities in motion: veterans in Northern Colorado, Connecticut, Steamboat]], [[00-inbox/needs-clarification|Needs clarification]]
 
 ## 2026-08-23 Inbound pitch: a mental-health coach offers a discussion topic for dinners
 - **Randy Duran**, a Mental Health Coach at **Mental Mastery Consultancy**, wrote in to

@@ -1,6 +1,6 @@
 ---
 area: Presentations, Events, and Public Presence
-updated: 2026-08-23
+updated: 2026-08-27
 tags: [area]
 ---
 
@@ -14,6 +14,48 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[presentations-events-public-presence#...]] and harvested by the brief. -->
+
+## 2026-08-27 The Clear Creek Library Club Fair is off until 2027
+- **Courtney Botner**, Programs Assistant at the **Clear Creek County Library District**,
+  cancelled: "After reviewing the September community calendar, we realized that **several
+  other events are planned around the time we had been considering**... we've decided to
+  **plan the club fair for 2027, likely in late August**."
+- No fault on DTD's side — the note opens by saying "**we were delighted to hear that so
+  many local organizations were interested**" — and she commits to being in touch next year.
+  A September community-presence slot in Idaho Springs comes off the calendar, and the
+  relationship stays warm.
+- category: Presentations, Events, and Public Presence
+- source: email from Courtney Botner, "Clear Creek Library District Club Fair Cancelled for
+  2026" 2026-08-27
+- links: [[relationships#Courtney Botner]]
+
+## 2026-08-26 "Why DudeTalk Dinners?" — a testimonial-and-data campaign, with Darren as the frame
+- The social-media relaunch has a campaign rather than a posting schedule: "**A new campaign
+  will answer 'Why DudeTalk Dinners?' using testimonials and data (e.g., suicide
+  statistics)**" — which pairs the men's-health numbers already collected in the vault with
+  the voices of men who've been to a dinner.
+- The content ladder, in order: "**Initial: Andrew will record an introductory video as the
+  face of the organization.**" Then "**testimonials (e.g., Kenyon's)** will be used,
+  potentially **with intros to provide context for the short clips**." Then the network
+  itself — "**the Leadership Circle will be asked to share their personal 'Why DudeTalk
+  Dinners?' stories** to generate authentic content."
+- Two framings from the session are worth keeping because they explain the sudden urgency.
+  The **"Darren" avatar** — DTD personified — gives the work a target: "**Darren needs
+  exposure, advocacy, and to be known.**" And a podcast on organizational storytelling
+  landed the operating principle: "**social media is a responsibility for all team members,
+  not just a title-specific task**." The trigger was ordinary — "a recent men's group
+  discussion inspired a renewed commitment."
+- Andrew was to introduce the campaign to the Leadership Circle the next day; the Aug 27
+  recap confirms the Facebook page was announced there but does not mention the campaign
+  being pitched, so whether the "share your why" ask actually landed is unconfirmed.
+- Reminder for whoever writes these: the **AFSP safe-messaging guidelines** in the resources
+  folder apply to any post using suicide statistics.
+- action #open (Andrew): record the introductory video
+- action #open (Andrew): put the "Why DudeTalk Dinners?" ask to the Leadership Circle
+- category: Presentations, Events, and Public Presence
+- source: Fathom recap, "DTD Social Media strategy" 2026-08-26
+  (fathom.video/calls/798843199)
+- links: [[platform-tools-and-infrastructure#2026-08-26 A national Facebook page goes up, and Meta restricts it nine minutes later]], [[30-resources/mens-health-data-reference|Men's health data reference]], [[presentations-events-public-presence#2026-08-22 A 60–90 second promo video, filmed by John and Andrew, edited by Dawson]]
 
 ## 2026-08-22 A 60–90 second promo video, filmed by John and Andrew, edited by Dawson
 - Assigned in Saturday's session: **John and Andrew film a 60–90 second promo video**, with

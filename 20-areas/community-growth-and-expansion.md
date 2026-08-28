@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-08-25
+updated: 2026-08-27
 tags: [area]
 ---
 
@@ -14,6 +14,73 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-08-27 Grand Junction doubles to 42 men in a month, Conifer hits 18
+- The Leadership Circle's headline number: "**Grand Junction: Attendance doubled from 29 to
+  42 men in one month**, prompting discussion of **hosting multiple dinners per month to
+  meet demand**." The 29 was the launch figure recorded Aug 14 — so this is a launch that
+  kept climbing rather than settling, and the constraint has flipped from recruiting men to
+  seating them.
+- Alongside it: "**Conifer: The third dinner drew 18 men, its largest group yet**," and
+  "**Summit County: the Frisco group's fourth dinner focused on mentorship**, leveraging a
+  partnership with mental health sponsor **Building Hope**." A **first-time Conifer
+  attendee's testimonial** was read out, describing a space "free from politics, religion,
+  or sports-only talk."
+- The Circle's read on why: "the model's **powerful word-of-mouth appeal** and the **urgent
+  need for expansion**."
+- action #open (John/Andrew): decide whether Grand Junction runs more than one dinner a month
+- category: Community Growth and Expansion
+- source: Fathom recap, "DTD Leadership Circle" 2026-08-27 (fathom.video/calls/799244361)
+- links: [[community-growth-and-expansion#2026-08-14 Growth numbers on the record: 29 men at Grand Junction, interest from four new states]]
+
+## 2026-08-27 Three new communities in motion: veterans in Northern Colorado, Connecticut, Steamboat
+- The pipeline named at the Leadership Circle, now with people attached rather than
+  geographies alone:
+  - "**Northern Colorado: A task force is forming to launch a group for veterans.**" The
+    first population-specific DTD community, and the first concrete output of the VA thread
+    running through this vault since July.
+  - "**Northeast (CT): Giovanny Ramirez is leading the first expansion outside Colorado.**"
+    Stated as a fact, not a prospect — and Giovanny accepted the Aug 27 startup conversation
+    the day before, his first acceptance on record.
+  - "**Yampa Valley: Lucy Winslow and Emily Schweitzer are planning a launch in Steamboat
+    Springs.**" Both are at **NCC Health Partnership** — so the Steamboat prospect Andrew
+    listed on Aug 17 has named owners, and they come from the Health Partnership
+    relationship rather than a cold inquiry.
+- category: Community Growth and Expansion
+- source: Fathom recap, "DTD Leadership Circle" 2026-08-27
+- links: [[community-growth-and-expansion#2026-08-17 Growth status for the board: no new communities this month, five prospects in motion]], [[community-growth-and-expansion#2026-08-18 Connecticut startup conversation booked: Wed Aug 26, 3:30–4:30pm]]
+
+## 2026-08-26 Inbound from Arizona: Jim Hight wants to start a community in Ajo
+- A website signup form with an unusually complete answer: "**Name Jim Hight · Email
+  jimhightwrites@gmail.com · Phone +1 707-407-9455 · Interest Starting a local Dude Talk
+  Dinners community in my area · Community Org-level · Location Ajo, Arizona**."
+- **Arizona is new** — DTD's out-of-state interest so far has been Brooklyn, Connecticut,
+  Wyoming, and Idaho. Ajo is a small desert town in Pima County near the Mexican border,
+  which makes it a rural-isolation fit on its face, though nothing about Jim's background is
+  in the record beyond an email address suggesting he writes.
+- Unlike the last two form leads, this one carries a message body, a phone number, and a
+  stated intent — so the follow-up has something to work with.
+- action #open (John): reply to Jim Hight
+- category: Community Growth and Expansion
+- source: "New signup form submission" 2026-08-26
+- links: [[community-growth-and-expansion#2026-08-16 Second inbound lead in four days: Jameson Guthrie via the website form]]
+
+## 2026-08-26 Art and a second Jeremy join the Leadership Circle invite — Art can't make this one
+- John sent Andrew two addresses to add — "**artginley@gmail.com and
+  jeremy@frontrangefrc.com**" — and both appear on the Aug 27 **DTD Leadership Circle**
+  invite, which is now **61 addresses**. That is Art being folded into the network two days
+  after Monday's call.
+- Art declined this month with a reason and a commitment: "I saw the invite and **won't be
+  able to join this week. I'll need more time to rearrange my schedule, but will try to
+  join for next month.**"
+- The Jeremy address is **jeremy@frontrangefrc.com**, not the **jeremy@jeremyrallen.com**
+  that organized Monday's Zoom. John sent both addresses together in one message right after
+  that call, which suggests the same person with a work address — but the vault does not
+  confirm it, so this is filed as a question, not a fact.
+- category: Community Growth and Expansion
+- source: Slack DM John → Andrew 2026-08-26 16:09 MDT; DTD Leadership Circle calendar
+  invite as of 2026-08-27; email from Art Ginley, "Leadership Meeting" 2026-08-27
+- links: [[community-growth-and-expansion#2026-08-24 The Art Ginley call finally happened — and Art brought someone]], [[00-inbox/needs-clarification|Needs clarification]]
 
 ## 2026-08-24 The Art Ginley call finally happened — and Art brought someone
 - The conversation John and **Art Ginley** have been trying to schedule since **July 30**

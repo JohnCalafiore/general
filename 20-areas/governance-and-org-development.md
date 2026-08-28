@@ -1,6 +1,6 @@
 ---
 area: Governance and Organizational Development
-updated: 2026-08-24
+updated: 2026-08-27
 tags: [area]
 ---
 
@@ -14,6 +14,44 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[governance-and-org-development#...]] and harvested by the brief. -->
+
+## 2026-08-27 The insurance answer, on the record: $2M GL covers every community's volunteers
+- **Alec Rand** asked the liability question directly, and John came prepared with numbers:
+  a "**$2M general liability policy covers each community**," while "**D&O doesn't apply to
+  volunteer facilitators**." Delivered to the Leadership Circle as "**Dude Central's general
+  liability policy covers all volunteers at dinners**."
+- This is the first time the coverage has been stated to facilitators rather than debated
+  among the board, and it answers the practical half of the liability worry that has been
+  open since July — though only the practical half. The **community agreements Faye is
+  drafting** are what allocate risk between DudeCentral and each community; insurance just
+  pays claims.
+- John's own prep flagged the answer as not fully verified: "**Worth naming the policy and
+  coverage extension clearly (check with Ken to confirm).**" No confirmation from Ken is on
+  record.
+- action #open (John): confirm the GL policy's community coverage with Ken before it is
+  repeated as settled
+- category: Governance and Organizational Development
+- source: Fathom recap, "DTD Leadership Circle" 2026-08-27; Granola, "Car ride to Conifer"
+  2026-08-26
+- links: [[governance-and-org-development#2026-08-20 Pro bono lawyer found: Faye will do the trademark and the community agreements]], [[governance-and-org-development#2026-07-30 Liability: formal Community Agreement needed]]
+
+## 2026-08-27 The facilitator/coordinator split gets a rule: three facilitators minimum
+- The Leadership Circle put structure on two roles that had been used loosely:
+  - "**Facilitator:** Leads the monthly dinner conversation. **A minimum of three
+    facilitators per community** ensures continuity and **prevents the group from becoming
+    tied to one personality**."
+  - "**Coordinator:** Handles operational logistics (**venue, food, marketing,
+    fundraising**). This role is designed to **offload administrative burden from
+    facilitators, who often have full-time jobs**."
+- The "not tied to one personality" rationale is the succession problem stated plainly, and
+  it turns the three-facilitator count from a nice-to-have into a standard new communities
+  will be held to. **Grand Junction** is the live test: **Alec Rand** is coordinator, and
+  the group is "discussing how to distribute these tasks as the community grows."
+- The stated purpose of the whole refinement: "**balance community-led identity with
+  operational efficiency**."
+- category: Governance and Organizational Development
+- source: Fathom recap, "DTD Leadership Circle" 2026-08-27
+- links: [[support-for-existing-communities#2026-08-22 DECISION: the facilitator guide becomes an interactive course, built in Slides first]]
 
 ## 2026-08-24 Justin commits to getting the board minutes out this week
 - Three days after John forwarded the Fathom recap "for the minutes," Justin Hall replied:

@@ -1,43 +1,31 @@
-# Slack (harvest window 2026-08-24T07:09:57Z → 2026-08-25)
+# Slack (harvest window 2026-08-25T18:59:39Z → 2026-08-27)
 
-## slack-C0AMP4SFC86-1787625874 #executive-director-updates — Andrew Wolff
+## slack-D0AHRCQ924E-1787780004 DM Andrew Wolff → John Calafiore
 
-from: Andrew Wolff <andrew.wolff@dudetalkdinners.org>
-when: 2026-08-24 20:44:34 MDT
-permalink: https://dudetalkdinners.slack.com/archives/C0AMP4SFC86/p1787625874909899
+when: 2026-08-26 15:33:24 MDT
+permalink: https://dudetalkdinners.slack.com/archives/D0AHRCQ924E/p1787780004522499
 
-> Hi DTD board members. Please watch this video and schedule a 30 minute meeting with me
-> to make a plan of action to connect with any contacts you have that can donate and/or
-> support or fundraising efforts. Thank you!
->
-> https://cal.com/andrew-wolff/30min
+> JCalafioreDTD1
 
-(Same ask as the "DTD Fundraising" email to the board, posted to Slack the same evening.)
+(A bare handle/username, no context given.)
 
 ---
 
-## slack-D0AHRCQ924E-1787594631 DM Andrew Wolff → John Calafiore
+## slack-D0AHRCQ924E-1787782168 DM John Calafiore → Andrew Wolff
 
-when: 2026-08-24 12:03:51 MDT
-permalink: https://dudetalkdinners.slack.com/archives/D0AHRCQ924E/p1787594631552069
+when: 2026-08-26 16:09:28 MDT
+permalink: https://dudetalkdinners.slack.com/archives/D0AHRCQ924E/p1787782168133559
 
-> givebutter.com/fundraising-pages
+> artginley@gmail.com and jeremy@frontrangefrc.com
 
----
-
-## slack-D0AHRCQ924E-1787595349 DM Andrew Wolff → John Calafiore
-
-when: 2026-08-24 12:15:49 MDT
-permalink: https://dudetalkdinners.slack.com/archives/D0AHRCQ924E/p1787595349858439
-
-> help.givebutter.com/en/articles/1749223-how-to-use-team-fundraising
+(Sent in reply to Andrew's message above. Both addresses were added to the Aug 27
+Leadership Circle invite.)
 
 ---
 
-## slack-D0AHRCQ924E-1787595601 DM John Calafiore → Andrew Wolff
+## slack-D0AHRCQ924E-1787801522 DM John Calafiore → Andrew Wolff
 
-when: 2026-08-24 12:20:01 MDT
-permalink: https://dudetalkdinners.slack.com/archives/D0AHRCQ924E/p1787595601316629
+when: 2026-08-26 21:32:02 MDT
+permalink: https://dudetalkdinners.slack.com/archives/D0AHRCQ924E/p1787801522738079
 
-No message text — a single image attachment (image.png, 111.4 KB). Content of the image
-is not readable from the connector.
+> Let's connect with **Daniel from the VA** and **Deke** for one of his events

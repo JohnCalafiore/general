@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-08-25
+updated: 2026-08-27
 tags: [area]
 ---
 
@@ -14,6 +14,116 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-08-27 DECISION: Discord replaces Slack for all DTD communication
+- Announced to the Leadership Circle as settled: "**Discord Server: This new chat app
+  replaces Slack for all communication.**" The Aug 22 proposal is now the decision, and it
+  is broader than proposed — internal comms move too, not just the community layer.
+- The evaluation is on record for the first time. Candidates considered: **WhatsApp,
+  Facebook Groups, Circle, Mighty Networks, Slack, and Telegram**. Two disqualifying
+  numbers decided it: **WhatsApp caps groups at 256 members** while "**Idaho Springs list
+  already at 200+ names and growing**," and **Slack's premium tier costs ~$8/user/month**
+  against Discord's free tier. Scale and cost, not features.
+- Structure: "a **central hub for the national network** and **dedicated channels for each
+  community** (e.g., General Chat, Dinners, Activities)," plus a **leadership circle tier**
+  and cross-community threads. One caution written into the prep note: "**Don't
+  over-promise on channels** — keep it manageable, avoid an overwhelming list."
+- Moderation is delegated: "**Facilitators will moderate their community channels**,
+  upholding the core rules (**no politics/religion, no unsolicited advice,
+  confidentiality**)" — the dinner rules become the forum rules.
+- Two forward-looking notes: DTD **may split into regional servers (Rocky Mountain, Pacific
+  Northwest) as it scales**, and the **self-hosted option "Stoat" is worth watching** for
+  long-term infrastructure. Also flagged to explore: **Discord server boost and TechSoup
+  hardware discounts**.
+- Rollout plan: keep the message simple ("this is the decision, here's why, join us"),
+  acknowledge unfamiliarity, and offer **optional 15–20 minute Discord office hours** after
+  the call for anyone who needs setup help. The Leadership Circle should "**lean into
+  Discord, not monitor both**."
+- action #open (John): send Discord invites to all Leadership Circle members
+- action #open (all facilitators): begin collecting names/emails from attendees for Discord
+- category: Platform, Tools, and Infrastructure
+- source: Fathom recap, "DTD Leadership Circle" 2026-08-27 (fathom.video/calls/799244361);
+  Granola, "Car ride to Conifer" 2026-08-26
+- links: [[platform-tools-and-infrastructure#2026-08-22 Discord proposed as the community layer — with per-role channels]], [[platform-tools-and-infrastructure#2026-08-20 "Darren the DudeBot" — a Discord bot for facilitator video uploads]]
+
+## 2026-08-27 Givebutter verification clears — donations settle in 48 hours
+- "Congratulations, John! **We've verified Dude Talk Dinners**, which means your account
+  now has access to: ✅ **Faster settlement time** — Donations will now settle and be
+  available for withdrawal in **48 hours**."
+- That closes a thread running since Aug 19 — flagged optional, then a three-day final
+  warning, now done inside the deadline. The 48-hour settlement matters for the tiered
+  community-fundraising model: money raised at a dinner reaches the community in two days,
+  not two weeks.
+- Two other Givebutter facts stated to the Leadership Circle the same day: online donations
+  carry a "**~4% platform fee, which donors can cover**," and "**donations by check are
+  passed through 100% to the community**."
+- action #done (John): finish Givebutter verification
+- category: Platform, Tools, and Infrastructure
+- source: "Dude Talk Dinners has been verified!" 2026-08-27; Fathom recap, "DTD Leadership
+  Circle" 2026-08-27
+- links: [[funding-and-financial-development#2026-08-23 Givebutter verification hits a final reminder — three days to act]], [[funding-and-financial-development#2026-08-18 DECISION: community fundraising goes tiered — struggling communities keep what they raise]]
+
+## 2026-08-27 The new website is live — and every community page is waiting on bios
+- Announced to the Leadership Circle: "**New Website: A major upgrade is live.** Community
+  pages will be built out with facilitator/coordinator **bios and photos to increase
+  approachability**." The site John has been iterating on since early August is now the
+  public artifact the Leadership Circle was walked through.
+- The bottleneck is content, not code. The prep note is specific about what's wanted:
+  "**Bio should lean toward motivation/excitement for DudeTalk, not a resume**," plus a
+  personal photo and a community photo for the main page.
+- This is the third distinct request for facilitator bios (Aug 6, Aug 21, now org-wide),
+  and John chased **Mike Mayer** a third time the day before, including Erik's bio as a
+  worked example.
+- action #open (all facilitators/coordinators): submit photos and bios to John
+- category: Platform, Tools, and Infrastructure
+- source: Fathom recap, "DTD Leadership Circle" 2026-08-27; Granola, "Car ride to Conifer"
+  2026-08-26; "Re: Facilitator Bio and Pic" sent 2026-08-26
+- links: [[support-for-existing-communities#2026-08-23 Mike Molloy's bio accepted as written — mental-health content kept]]
+
+## 2026-08-27 The CRM's daily digest is running — and John asks whether anyone else wants it
+- The reminder emails now carry real numbers rather than test rows. Aug 27's digest:
+  "**3 new contacts** (1 from the website form) · **1 email sent** · **4 transactions
+  recorded ($200.00 income)** · **2 donor-linked donations**." Aug 26's carried a follow-up
+  instead: "**Continue Discord setup: Due Aug 26, 2026**."
+- John forwarded it to Andrew with a product question rather than an announcement: "**Are
+  you getting these notifications? If not, would it be helpful for you to see the CRM
+  activity daily? I could also change it to weekly.**" He signed it "**Chief Operating
+  Officer**" — the first time that title appears in the vault's email record.
+- action #open (Andrew): tell John whether he wants the CRM digest, and at what cadence
+- category: Platform, Tools, and Infrastructure
+- source: "Your DTD reminders — 2026-08-26" and "— 2026-08-27"; "Fwd: Your DTD reminders"
+  sent to Andrew 2026-08-27
+- links: [[platform-tools-and-infrastructure#2026-08-23 Per-community donation alerts tested: "New gift to Idaho Springs: $50.00"]]
+
+## 2026-08-26 A national Facebook page goes up, and Meta restricts it nine minutes later
+- The 28-minute social-media session produced an artifact: "**A national 'DudeTalk Dinners'
+  Facebook page was created**," structured as "**a single national page [serving] as the
+  hub**, with the option to add local community pages later." The rationale closes a
+  question rather than opening one: "**Discord remains the primary community chat platform;
+  Facebook Groups will not be used.**"
+- Then the blocker. Meta **restricted the new Business Portfolio from advertising
+  immediately**, citing "**an automation that doesn't follow our rules**." The email trail
+  is unusually tight: Andrew joined the Business Manager at **16:26 UTC**, the restriction
+  landed at **16:27**, and the reinstatement — "We reviewed your account activity again and
+  found that it does follow our [policies]" — arrived at **16:35**. Nine minutes, resolved
+  automatically, with no action recorded on DTD's side.
+- Still open: the portfolio is needed to link Facebook to Instagram for cross-posting, and
+  **DTD does not currently have access to its own Instagram account**.
+- By the next day the Leadership Circle heard the finished version: "**A Dude Central
+  Facebook page is live, with an Instagram page in development.**"
+- action #open (John): regain access to the DTD Instagram account and link it to the new
+  Facebook page
+- category: Platform, Tools, and Infrastructure
+- source: Fathom recap, "DTD Social Media strategy" 2026-08-26
+  (fathom.video/calls/798843199); Meta Business notifications 2026-08-26 16:26–16:35 UTC
+- links: [[presentations-events-public-presence#2026-08-26 "Why DudeTalk Dinners?" — a testimonial-and-data campaign, with Darren as the frame]]
+
+## 2026-08-26 Chase business online banking set up
+- "**Welcome to Chase Online for Business**" arrived with a temporary password at 21:33
+  UTC; John signed in from a new device and **changed the password** within fifteen minutes.
+  DTD's banking layer is now self-service alongside Givebutter, PayPal, and Venmo.
+- category: Platform, Tools, and Infrastructure
+- source: Chase account and security notifications 2026-08-26
 
 ## 2026-08-24 Givebutter turns on Early Access Beta for DTD, and a Test campaign goes up
 - Two Givebutter changes in the same afternoon. First, "**An admin on your Givebutter

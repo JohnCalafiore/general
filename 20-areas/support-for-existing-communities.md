@@ -1,6 +1,6 @@
 ---
 area: Support for Existing Communities
-updated: 2026-08-25
+updated: 2026-08-27
 tags: [area]
 ---
 
@@ -14,6 +14,35 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[support-for-existing-communities#...]] and harvested by the brief. -->
+
+## 2026-08-27 Mike Mayer goes to a facilitation retreat; his bio is chased a third time
+- Reported to the Leadership Circle: "**Buena Vista: Co-facilitator Mike Mayer is attending
+  a retreat to learn new facilitation skills for the group.**" That's a facilitator
+  investing his own time in the craft, and it's the kind of thing the facilitator guide is
+  meant to systematize.
+- The same week, John chased Mike for the third time on the outstanding bio and photo — "I
+  wanted to **check on this again**... I've **included Erik's bio below**, if that [helps]"
+  — first asked **Aug 6**, promised **Aug 13** ("Yes, let me find some time to make this
+  happen"), still outstanding **Aug 26**. Attaching a worked example is a reasonable next
+  escalation before asking someone else to write it.
+- action #open (Mike Mayer): send bio and photo
+- category: Support for Existing Communities
+- source: Fathom recap, "DTD Leadership Circle" 2026-08-27; "Re: Facilitator Bio and Pic"
+  thread 2026-08-06 → 2026-08-26
+- links: [[platform-tools-and-infrastructure#2026-08-27 The new website is live — and every community page is waiting on bios]]
+
+## 2026-08-26 The facilitator guide gets a date — v1 by year end, and it rests on Dawson
+- John's prep note sets the first deadline the guide has had: "**Facilitator guide: Target
+  v1 by end of year (November/December realistic)**," with a candid dependency —
+  "**Depends on Dawson stepping up to drive it**" — and a design note that v1 will carry
+  "**opening and closing scripts with some flexibility built in**."
+- Naming the dependency is the useful part. The Aug 22 session assigned Dawson the Google
+  Slides build; five days later the schedule is explicitly contingent on whether he takes
+  it on. Dawson is a volunteer, not yet formally an intern.
+- action #open (Dawson, by ~Nov/Dec): drive facilitator guide v1
+- category: Support for Existing Communities
+- source: Granola, "Car ride to Conifer" 2026-08-26
+- links: [[support-for-existing-communities#2026-08-22 DECISION: the facilitator guide becomes an interactive course, built in Slides first]]
 
 ## 2026-08-24 A QR code on the table: piloting whether BV can support itself
 - Justin Hall floated a test with a real question behind it: "**Andrew and I were

@@ -1,194 +1,431 @@
-# Gmail — Inbox (harvest window 2026-08-24T07:09:57Z → 2026-08-25)
+# Gmail — Inbox (harvest window 2026-08-25T18:59:39Z → 2026-08-27)
 
-## gmail-1a031bd2840d26fa Randy Duran — "A discussion idea for Dude Talk Dinners"
+## gmail-1a03ac4b1caa43f7 Google Drive — Document shared: "Grant RD Qs"
 
-from: randyduran@mentalmasteryconsulting.com
-to: support@dudetalkdinners.org
-date: 2026-08-24 03:07 UTC
+from: drive-shares-dm-noreply@google.com (Andrew Wolff)
+date: 2026-08-25 21:12 UTC
 
-Inbound pitch from a mental health coach offering a discussion topic. (Carried over from
-the 08-24 run; already filed to Partnerships.)
+"Andrew Wolff (andrew.wolff@dudetalkdinners.org) has invited you to **edit** the following
+document: **Grant RD Qs**."
+
+Document contents (docs.google.com/document/d/14h-bnvz4L1FqY-Ri7-2FQWOEOVzlzdjHIS58BbUR6s4,
+created 2026-08-24, last modified 2026-08-26 02:57 UTC) — it is a full draft application:
+
+> **Monarch Mountain Community Grant (Impact Grant)**
+> **Dude Talk Dinners, Inc.: Buena Vista Community**
+> Prepared: August 25, 2026 · **Deadline: August 28, 2026** · Grant type: Impact Grant
+> ($5,000 to $15,000) · **Amount requested: $7,500**
+
+Applicant details on the form: Legal name **Dude Talk Dinners, Inc.**; EIN **41-4806880**;
+501(c)(3) status **Approved**; mailing address **PO Box 992, Idaho Springs, CO 80452**;
+website dudetalkdinners.org; primary contact **Andrew Wolff, Executive Director**
+(andrew.wolff@dudetalkdinners.org / 516-507-0798); **annual operating budget $225,193**;
+project title "**Dude Talk Dinners Buena Vista: A Full Year of Connection for Chaffee
+County Men**"; **project period December 2026 through November 2027**.
+
+Mission paragraph as submitted: "Dude Talk Dinners, Inc. is a 501(c)(3) organization
+dedicated to **combating male social isolation and suicide risk in rural areas through the
+simplest of means: a free meal and honest conversation**... No cost, no commitment, no
+membership. Just a table, a meal, and a room where men can show up and be themselves."
+
+Data cited in the "issue" section:
+- Chaffee County suicide rate **40.64 per 100,000** (2020–2024), "close to double
+  Colorado's age-adjusted rate of **20.83**."
+- Colorado: **men account for 77 percent** of suicide deaths; **working-age adults 25–64
+  account for 69 percent**.
+- "The Chaffee County Coroner recorded **12 suicide deaths in the county in 2022** in a
+  population of roughly 20,000."
+- A 2025 behavioral healthcare needs assessment found **15.4 percent of Upper Arkansas
+  Valley residents needed care and could not get it**, with cost and appointment
+  availability the leading barriers alongside stigma.
+- The U.S. Surgeon General "has named social isolation and loneliness a public health
+  epidemic."
+- Current BV attendance: "**between 20-30 men in Chaffee County attending our dinners each
+  month thus far**."
+
+Five stated goals and objectives:
+1. "Hold **12 consecutive monthly Dude Talk Dinners in Buena Vista** between December 2026
+   and November 2027, free to every man who walks in."
+2. "Serve **at least 100 unique Chaffee County men across roughly 300 total attendances**,
+   with **at least 40 men attending three or more dinners**."
+3. "**Measurably reduce social isolation among repeat attendees, using a validated
+   instrument** rather than our impressions."
+4. "**Train all three Buena Vista facilitators in QPR** (Question, Persuade, Refer) or an
+   equivalent gateway curriculum."
+5. "**Move the community toward local self-sufficiency**, so that Buena Vista's dinners
+   continue after this grant period ends."
+
+Alignment section carries a new field story: "A recent anecdote from our August dinner
+highlights this; as a member was struggling with a health issue **other members set up a
+'meal train' support** to provide that person meals recovering from their health issue...
+Those relationships persist between dinners in **hikes, coffees, phone calls, and fishing
+trips that we do not organize and often do not hear about until later**." It also names the
+seasonal-work angle: "With so many of our male residents in Chaffee County doing seasonal
+work from the Arkansas River to our Mountain peaks, many do not have a community here
+outside of work."
 
 ---
 
-## gmail-1a031b62d03e48c2 Andrew Wolff — "Fwd: Re: We just got our 501(c)(3) - Balance of my pledge"
+## gmail-1a03abaaac639290 Calendar invitation — "Ronnie : John : Andrew (DTD chat platform)"
 
 from: andrew.wolff@dudetalkdinners.org
-to: john.calafiore@dudetalkdinners.org
-date: 2026-08-24 03:00 UTC
+to: john.calafiore@dudetalkdinners.org, **ronnie.demanna@huntington.com**
+date: 2026-08-25 21:01 UTC
 
-"Hi John, Mark is one of the guys in my men's group. Let's talk about this tomorrow or
-Tuesday if possible, and also decide in a process to get thank you emails out."
-(Carried over from the 08-24 run; already filed to Funding.)
+Wed Aug 26, 2026, 10:30–11:00am MDT, Google Meet.
 
 ---
 
-## gmail-1a03447f7cc2263b Postmark — "DMARC weekly digest for dudetalkdinners.org"
+## gmail-1a03ab3b16eb8741 Calendar invitation — "DTD CRM training"
 
-from: dmarc@postmarkapp.com
-to: john.calafiore@dudetalkdinners.org
-date: 2026-08-24 14:58 UTC
+from: andrew.wolff@dudetalkdinners.org
+date: 2026-08-25 20:54 UTC
 
-Reporting period Aug 16 – Aug 23. Sending sources listed: **ActiveCampaign, Postmark**.
-
-- **94 emails processed**
-- **98% SPF or DKIM aligned**
-- **2% SPF and DKIM not aligned**
-
-Volume is down sharply from the prior week's 207 processed.
+Fri Aug 28, 2026, 12:00–1:30pm MDT, Google Meet. John and Andrew only.
 
 ---
 
-## gmail-1a03447377b426cf Donor Participation Project — "You are invited to AI Practice Session: Zero to Fundraising"
+## gmail-1a03a92e2dfb3523 Calendar invitation — "DTD Strategic Planning"
 
-from: joindpp@user.luma-mail.com
-to: john.calafiore@dudetalkdinners.org
-date: 2026-08-24 14:57 UTC
+from: andrew.wolff@dudetalkdinners.org
+date: 2026-08-25 20:18 UTC
 
-Host: Louis Diez. "You're invited to AI Practice Session: Zero to Fundraising."
-**Tuesday, September 15, 2026.** Invitation sent because John "engaged with the Donor
-Participation Project or WIZE."
+Fri Aug 28, 2026, 10:00am–12:00pm MDT, Google Meet. John and Andrew only.
 
 ---
 
-## gmail-1a0346eaba7c054b Jeremy R. Allen — Zoom invitation "Dude Talk w/ Art, John, and Jeremy"
+## gmail-1a03a0b5de781ed5 Calendar invitation — "45 min meeting between Andrew Wolff and Greg Vochis"
 
-from: jeremy@jeremyrallen.com
-to: john.calafiore@dudetalkdinners.org, artginley@gmail.com
-date: 2026-08-24 15:41 UTC
+from: andrew.wolff@dudetalkdinners.org
+to: john.calafiore@dudetalkdinners.org, **gvochis@gmail.com**
+date: 2026-08-25 17:50 UTC
 
-"Jeremy R. Allen is inviting you to a scheduled Zoom meeting."
-Mon Aug 24, 2026, 3:00–4:00pm MDT. Zoom meeting ID 838 5153 7557.
+Tue Sep 1, 2026, 1:00–1:45pm MDT, Google Meet. Booked through a scheduling link ("Invitee
+timezone: America/Denver").
 
 ---
 
-## gmail-1a034f9315a801a7 Givebutter — "Your new campaign 🎉"
+## gmail-1a03bab18f76318d Calendar invitation — "DTD Social Media strategy"
+
+from: andrew.wolff@dudetalkdinners.org
+date: 2026-08-26 01:24 UTC
+
+Wed Aug 26, 2026, 10:00–10:30am MDT, Google Meet.
+
+---
+
+## gmail-1a03db27f08fb9d9 New signup form submission — Jim Hight
+
+from: support@dudetalkdinners.org
+date: 2026-08-26 10:51 UTC
+
+> Name **Jim Hight**
+> Email **jimhightwrites@gmail.com**
+> Phone +1 707-407-9455
+> Interest **Starting a local Dude Talk Dinners community in my area.**
+> Community **Org-level**
+> Location **Ajo, Arizona**
+> SMS consent none
+
+---
+
+## gmail-1a03eaf0d905ed35 Updated invitation — "Dude Talk Dinners - startup conversation"
+
+from: andrew.wolff@dudetalkdinners.org
+to: john.calafiore@, deleon_anderson@yahoo.com, info@giovannyramirez.com
+date: 2026-08-26 15:27 UTC
+
+Moved from Wed Aug 26 3:30–4:30pm to **Thu Aug 27, 2026, 11:00am–12:00pm MDT**. Giovanny
+Ramirez has now **accepted**; deleon_anderson@yahoo.com still needsAction.
+
+---
+
+## gmail-1a03ec6fa3e4c7e5 "Your DTD reminders — 2026-08-26"
+
+from: support@dudetalkdinners.org
+date: 2026-08-26 15:53 UTC
+
+> **Follow-ups** — Continue Discord setup: **Due Aug 26, 2026**
+> Activity yesterday: 1 follow-up created
+
+---
+
+## gmail-1a03ee4c972cd2f6 Facebook — "Andrew G. Wolff joined Dude Talk Dinners"
+
+from: notification@facebookmail.com
+date: 2026-08-26 16:26 UTC
+
+"Andrew G. Wolff (andrew.wolff@dudetalkdinners.org) joined **Dude Talk Dinners** Business
+Manager."
+
+---
+
+## gmail-1a03ee5dd8bc5052 Facebook — "[Action required] We restricted your business account"
+
+from: noreply@business.facebook.com
+date: 2026-08-26 16:27 UTC
+
+"**We restricted your business Dude Talk Dinners** — Business ID 1061429079597283. What
+this means: **You can't create or run ads**..."
+
+---
+
+## gmail-1a03eed6d31ab496 Facebook — "URGENT: Your Business Account's advertising access was reinstated"
+
+from: noreply@business.facebook.com
+date: 2026-08-26 16:35 UTC
+
+"We reviewed your account activity again and found that it does follow our [policies] —
+**Your Business Account's advertising access was reinstated**." Nine minutes after the
+restriction.
+
+---
+
+## gmail-1a03ee8ebc0ff5a9 Fathom recap — "DTD Social Media strategy"
+
+from: no-reply@fathom.video
+date: 2026-08-26 16:30 UTC
+meeting: Aug 26, 2026 · 28 mins · fathom.video/calls/798843199 · "Internal Meeting"
+
+**Meeting Purpose:** "Finalize the strategy and create a Facebook presence for DTD."
+
+Key takeaways:
+- "**Facebook Page Created:** A national '**DudeTalk Dinners**' Facebook page was created to
+  reach a broader audience, including potential members, facilitators, and donors."
+- "'**Why DTD' Campaign:** A new campaign will use testimonials and data to answer 'Why
+  DudeTalk Dinners?' and will be introduced to the Leadership Circle tomorrow."
+- "**Technical Blocker:** The new Meta Business Portfolio was immediately restricted from
+  advertising due to a security flag, pausing the rollout."
+- "**Instagram Access:** Regaining access to the DTD Instagram account is a priority, as it
+  is required to link the new Facebook page and enable cross-posting."
+
+Relaunch rationale:
+- "A recent men's group discussion inspired a renewed commitment to social media."
+- "The '**Darren**' avatar concept (DTD personified) provides a framework: '**Darren needs
+  exposure, advocacy, and to be known.**'"
+- "A podcast on organizational storytelling reinforced that **social media is a
+  responsibility for all team members, not just a title-specific task**."
+
+Facebook page structure:
+- "A national 'DudeTalk Dinners' Facebook page was created, **following a framework from
+  Claude (AI)**."
+- "**A single national page will serve as the hub**, with the option to add local community
+  pages later."
+- "Rationale: **Discord remains the primary community chat platform; Facebook Groups will
+  not be used.**"
+
+Content strategy:
+- Campaign answers "Why DudeTalk Dinners?" using "testimonials and data (e.g., suicide
+  statistics)."
+- "Initial: **Andrew will record an introductory video as the face of the organization.**"
+- "Subsequent: Testimonials (e.g., **Kenyon's**) will be used, potentially with intros to
+  provide context for the short clips."
+- "The **Leadership Circle will be asked to share their personal 'Why DudeTalk Dinners?'
+  stories** to generate authentic content."
+
+Technical blocker detail: "**A security flag was triggered, citing 'an automation that
+doesn't follow our rules.'**" Impact: pauses the rollout because the portfolio is needed to
+link Facebook to Instagram for cross-posting.
+
+Next steps: **John** — resolve the Meta Business Portfolio advertising restriction; regain
+access to the DTD Instagram account. **Andrew** — introduce the "Why DudeTalk Dinners?"
+campaign to the Leadership Circle tomorrow.
+
+(No AI-generated action items: "Upgrade to Premium to unlock AI generated action items.")
+
+---
+
+## gmail-1a03f5dcc1675e42 Erik Jacobsen — "Out of Town Tomorrow"
+
+from: erikjacobsen01@gmail.com
+to: andrew.wolff@, john.calafiore@
+date: 2026-08-26 18:38 UTC
+
+> Good afternoon gentlemen,
+>
+> Hope you guys are enjoying August and thriving! I will be **off the grid tomorrow in
+> Yosemite National Park, and won't be at our regularly scheduled leadership meeting.**
+
+John replied 20:08 UTC (cc Andrew): "Thanks for the heads up, Erik. Have a great time in
+Yosemite, that's one of my favorite places! We'll catch up when you're back." Andrew
+reacted 👍.
+
+---
+
+## gmail-1a03ffdb95fcd689 Chase — "Your Online Banking Information"
+
+from: account.management@chase.com
+date: 2026-08-26 21:33 UTC
+
+"Dear JOHN CALAFIORE: **Welcome to Chase Online(SM) for Business.** Below you'll find the
+temporary Password you'll use to log on..." Followed by two security alerts at 21:47 UTC:
+"You signed in with a new device" (Windows 11 – Chrome, Aug 26 05:43 PM ET) and "**You
+changed your password**" (05:44 PM ET). Credentials themselves not recorded here.
+
+---
+
+## gmail-1a040102443b069c Calendar invitation — "RMCP and DTD connection at Starbucks"
+
+from: andrew.wolff@dudetalkdinners.org
+to: john.calafiore@, **bmarquez@rmcrisispartners.org**
+date: 2026-08-26 21:53 UTC
+
+Tue Sep 1, 2026, 10:00–11:00am MDT.
+
+---
+
+## gmail-1a040f4afa9f57f6 Givebutter — "Jessica Shapiro donated $100.00"
 
 from: no-reply@givebutter.com
-to: john.calafiore@dudetalkdinners.org
-date: 2026-08-24 18:12 UTC
+date: 2026-08-27 02:02 UTC
 
-"Givebutter Test 🎉 View Your Campaign https://givebutter.com/test-tjzqiq — Learn how to
-customize, embed, and share your link." Campaign title: **Test**.
-
----
-
-## gmail-1a0354e62f49db75 Givebutter — "Givebutter Early Access Beta Program 🧈"
-
-from: sunny@givebutter.com
-to: john.calafiore@dudetalkdinners.org
-date: 2026-08-24 19:45 UTC
-
-"John, you're in! 🎉 An admin on your Givebutter account activated our Early Access Beta
-Program for **Dude Talk Dinners**. This program gives you early access to Givebutter's
-newest features..."
+"**Jessica Shapiro** just supported your campaign 🎉 Jessica made a donation for a total of
+**$100.00**." Campaign: Dude Talk Dinners, Inc.
 
 ---
 
-## gmail-1a0355a1184701b7 Andrew Wolff — "Fwd: Your receipt from Dude Talk Dinners"
+## gmail-1a040fb54ff7af8a Givebutter — "Troy Switzer donated $100.00"
 
-from: andrew.wolff@dudetalkdinners.org
-to: john.calafiore@dudetalkdinners.org
-date: 2026-08-24 19:57 UTC
+from: no-reply@givebutter.com
+date: 2026-08-27 02:10 UTC
 
-Andrew forwards a Givebutter donor receipt (June 2, 2026 gift, $25 via Venmo, ref
-#1034245374) to John, signed "Andrew Wolff, Executive Director." The forward carries the
-current receipt copy: "Every dinner we host starts with a simple idea: that men show up
-differently when they feel welcome…"
+"**Troy Switzer** just supported your campaign 🎉 Troy made a donation for a total of
+**$100.00**." Campaign: Dude Talk Dinners, Inc.
 
 ---
 
-## gmail-1a0355e64a3e9353 Justin Hall — "Re: Recap of your meeting with Western Colorado University"
+## gmail-1a04482e8cefd8cb Art Ginley — "Leadership Meeting"
 
-from: justin.hall@dudetalkdinners.org
-to: john.calafiore@dudetalkdinners.org
-date: 2026-08-24 20:02 UTC
+from: artginley@gmail.com
+date: 2026-08-27 18:36 UTC
 
-> Thanks John!!
+> Hey John,
 >
-> I'll get it out this week!
+> I saw the invite and **won't be able to join this week. I'll need more time to rearrange
+> my schedule, but will try to join for next month.** Thank you for the invitation.
 >
-> BTW Andrew and I were discussing having a QR code that links to the BV specific
-> donation page to pilot seeing if the community is able to support itself through some
-> dudes making donations.
->
-> I was thinking of having it just taped to the center of the tables to start. Is there a
-> way you know to generate the QR code? Do you have to be the account holder of the
-> website to make one?
->
-> Let me know what you think!
->
-> Justin
-
-(Reply to John's Aug 21 forward of the Fathom board-meeting recap "for the minutes.")
+> Art
 
 ---
 
-## gmail-1a03565d09679e2e Andrew Wolff — "Dude Talk Dinners donation info"
+## gmail-1a044af1da7eb79d Courtney Botner — "Clear Creek Library District Club Fair Cancelled for 2026"
 
-from: andrew.wolff@dudetalkdinners.org
-to: msd27611@gmail.com
-cc: john.calafiore@dudetalkdinners.org
-date: 2026-08-24 20:10 UTC
+from: courtney@clearcreeklibrarydistrict.org
+bcc: idahospringsCO@dudetalkdinners.org
+date: 2026-08-27 19:25 UTC
 
-> Hi Mark,
+> I'm following up regarding the Library District's Club Fair. We were delighted to hear
+> that so many local organizations were interested in participating!
 >
-> Here's the info that you requested.
+> After reviewing the September community calendar, we realized that several other events
+> are planned around the time we had been considering. To help ensure that organizations
+> and community members have plenty of time to participate, we've decided to **plan the
+> club fair for 2027, likely in late August.**
 >
-> Dude Talk Dinners, Inc.
-> EIN: 41-4806880
-> Address: PO Box 992, Idaho Springs, CO 80452
-> 501(c)(3) letter of determination: Attached to this email
->
-> Best,
-> Andrew
+> *Courtney Botner (she/her)*, Programs Assistant, **Clear Creek County Library District**
 
 ---
 
-## gmail-1a0357fc1106fa3d Calendar invitation — "Andrew : Justin (Chaffee grant follow-up)"
+## gmail-1a044dc97e7809db Givebutter — "Dude Talk Dinners has been verified! 🎉"
 
-from: andrew.wolff@dudetalkdinners.org
-to: john.calafiore@dudetalkdinners.org, justin.hall@dudetalkdinners.org
-date: 2026-08-24 20:39 UTC
+from: support@givebutter.com
+date: 2026-08-27 20:15 UTC
 
-"You have been invited by Andrew Wolff to attend an event named Andrew : Justin (Chaffee
-grant follow-up) on Monday Aug 24, 2026 ⋅ 5:30 – 6:00pm (MDT)." Google Meet.
-
----
-
-## gmail-1a036d4328d4b9ee Andrew Wolff — "DTD Fundraising"
-
-from: andrew.wolff@dudetalkdinners.org
-to: benjamin.shay@, chris.gould@, chris.peterson@, john.calafiore@, justin.hall@,
-    ken.farber@ (all @dudetalkdinners.org — the full board)
-date: 2026-08-25 02:50 UTC (Aug 24, 8:50pm MT)
-
-> Hi DTD board members,
->
-> Please watch this video for a message regarding fundraising. Also, please find a time on
-> my calendar within the next week or two so that we can set up meetings (coffee, Google
-> Meet, etc.) with any of your contacts who can support DTD with a donation and/or connect
-> us with other fundraising opportunities.
-
-Video is a Google Drive link; scheduling link is https://cal.com/andrew-wolff/30min.
+"Congratulations, John! **We've verified Dude Talk Dinners**, which means your account now
+has access to: ✅ **Faster settlement time** — Donations will now settle and be available
+for withdrawal in **48 hours**..."
 
 ---
 
-## gmail-1a036ee6aaaecdbf Be There Certificate — "Welcome to the Be There Certificate 💛"
+## gmail-1a0459233b1c98cf Fathom recap — "DTD Leadership Circle"
 
-from: hello@mail.betherecertificate.org
-to: john.calafiore@dudetalkdinners.org
-date: 2026-08-25 03:19 UTC
+from: no-reply@fathom.video
+date: 2026-08-27 23:33 UTC
+meeting: Aug 27, 2026 · 89 mins · fathom.video/calls/799244361
+(subject line reads "Recap of your meeting with The Health Partnership Serving Northwest
+Colorado")
 
-"We're so excited to share the Be There Certificate with you, get started now by logging
-in… You're on your way to learning how to be there for your and your peers' mental
-health." Confirms John's enrollment.
+**Meeting Purpose:** "Leadership Circle sync on community growth, tech updates, and
+fundraising strategy."
+
+Key takeaways:
+- "**Rapid Growth:** Grand Junction's attendance **doubled (29→42) in one month**,
+  highlighting the model's powerful word-of-mouth appeal and the urgent need for expansion."
+- "**Tech Stack Overhaul:** A new website and Discord server are launching to centralize
+  operations and enable year-round connection, **replacing Slack for cost and scale**."
+- "**Fundraising is Top Priority:** While Dude Central's 501(c)(3) status enables
+  tax-deductible donations, **a sustainable funding model for local communities is the
+  primary challenge**."
+- "**Model Refinement:** The facilitator/coordinator model is being refined to balance
+  community-led identity with operational efficiency."
+
+Community growth and impact:
+- "A testimonial from a **first-time Conifer attendee** highlighted the model's success in
+  creating a safe space for vulnerability, **free from politics, religion, or sports-only
+  talk**."
+- "**Grand Junction:** Attendance doubled **from 29 to 42 men in one month**, prompting
+  discussion of **hosting multiple dinners per month** to meet demand."
+- "**Conifer:** The third dinner drew **18 men, its largest group yet**."
+- "**Summit County:** The Frisco group's **fourth dinner focused on mentorship**, leveraging
+  a partnership with mental health sponsor **Building Hope**."
+- "**Buena Vista:** Co-facilitator **Mike Mayer is attending a retreat to learn new
+  facilitation skills** for the group."
+- New initiatives: "**Northern Colorado:** A task force is forming to **launch a group for
+  veterans**." · "**Northeast (CT): Giovanny Ramirez is leading the first expansion outside
+  Colorado.**" · "**Yampa Valley: Lucy Winslow and Emily Schweitzer** are planning a launch
+  in **Steamboat Springs**."
+
+Dude Central updates:
+- "**New Website:** A major upgrade is live. Community pages will be built out with
+  facilitator/coordinator **bios and photos to increase approachability**."
+- "**Discord Server:** This new chat app **replaces Slack for all communication**."
+  Rationale: "Discord is **free and scalable**, unlike **Slack's premium cost (~$8/user/
+  month)** and **WhatsApp's 256-member limit**." Structure: "a central hub for the national
+  network and dedicated channels for each community (e.g., General Chat, Dinners,
+  Activities)." Moderation: "**Facilitators will moderate their community channels**,
+  upholding the core rules (**no politics/religion, no unsolicited advice,
+  confidentiality**)."
+- "**Social Media:** A Dude Central **Facebook page is live**, with an **Instagram page in
+  development**."
+- "**Insurance:** Dude Central's **general liability policy covers all volunteers at
+  dinners**."
+
+Fundraising strategy and challenges:
+- "**Online:** Donations via GiveButter incur a **~4% platform fee, which donors can
+  cover**." · "**Check:** Donations by check are **passed through 100% to the community**."
+- "**Community Funding Model:** The long-term financial relationship between Dude Central
+  and local communities **is still being defined**."
+- "**Walmart Spark Grants: Dude Central is approved as an umbrella organization**, allowing
+  local communities to **apply for up to $5,000 annually**."
+- "**State Agencies: Jamie Fanselow** noted success securing funds from the **Colorado
+  Office of Suicide Prevention** and public health departments."
+- "**Video Testimonials: Andrew Wolff** suggested recording video testimonials from
+  attendees, which are powerful tools for securing local sponsorships."
+
+Facilitator and coordinator roles:
+- "**Facilitator:** Leads the monthly dinner conversation. **A minimum of three facilitators
+  per community** ensures continuity and **prevents the group from becoming tied to one
+  personality**."
+- "**Coordinator:** Handles operational logistics (venue, food, marketing, fundraising).
+  This role is designed to **offload administrative burden from facilitators, who often
+  have full-time jobs**."
+- "**Grand Junction Example: Alec Rand** currently serves as coordinator, but the group is
+  discussing how to distribute these tasks as the community grows."
+
+Next steps: **John Calafiore** — "Send Discord invites to all Leadership Circle members."
+**Andrew Wolff** — "Schedule a meeting with **Bob Holt** to discuss fundraising strategy."
+**All Facilitators** — "Submit bios and photos to John Calafiore for the new website";
+"Begin collecting names/emails from attendees for the Discord server"; "Consider recording
+video testimonials to support local fundraising."
+
+(No AI-generated action items — free-tier limitation again.)
 
 ---
 
 ## gmail-noise Screened out this window
 
-- support@givebutter.com — "Office Hours, Bootcamp, & more education resources are back!"
-  (marketing newsletter, 2026-08-25)
-- maxj@maxjmiller.com — "I said 'Un-retire Your Soul' 59 issues ago…" (newsletter,
-  2026-08-24)
+- mr.butter@givebutter.com — "Launch your buttered up fundraising page today!" (2026-08-25)
+  and "Is your fundraising page ready to make its debut?" (2026-08-26); support@givebutter
+  .com — "Your next move on Givebutter" (2026-08-27). Marketing.
+- support@theawakenedschool.com — "If life feels out of control - watch this" (2026-08-27).
+  Newsletter.

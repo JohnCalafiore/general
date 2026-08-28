@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-25
+updated: 2026-08-27
 tags: [grounding, people]
 ---
 
@@ -351,12 +351,18 @@ Format — one H2 per person:
 - relationship: website lead; intro call Thursday morning
 - source: "Dude Talk Dinners Reaching Out" thread 2026-07-30 → 2026-08-06
 
-## Ronnie (Conifer)
+## Ronnie DeManna (Conifer)
+- email: **ronnie.demanna@huntington.com** — confirmed 2026-08-26, when Andrew's
+  "Ronnie : John : Andrew (DTD chat platform)" invite went to that address and Ronnie
+  accepted. The "likely, unconfirmed" identification from August is now settled.
 - relationship: **Conifer facilitator and a veteran** — leads the Conifer DTD team, credited
-  by Andrew for the community's successful second dinner, and now working with Daniel (VA)
-  on a "military and veterans culture" facilitator training. Likely Ronnie Demanna
-  (ronnie.demanna@huntington.com) from the Leadership Circle list, unconfirmed.
-- source: Leadership Circle recap 2026-08-05; John's board-report draft 2026-08-14
+  by Andrew for the community's successful second dinner, and working with Daniel (VA) on a
+  "military and veterans culture" facilitator training. Consulted directly on the **chat
+  platform decision** ahead of the Discord rollout, and singled out in John's prep note to
+  receive a Discord invite before the Leadership Circle call.
+- source: Leadership Circle recap 2026-08-05; John's board-report draft 2026-08-14; calendar
+  event "Ronnie : John : Andrew (DTD chat platform)" 2026-08-26; Granola, "Car ride to
+  Conifer" 2026-08-26
 
 ## Cody Speece, MPH, CHES®
 - org: Weld County Department of Public Health and Environment — Health Education
@@ -398,7 +404,13 @@ Format — one H2 per person:
 - relationship: organized and hosted the Aug 24 Zoom with John and **Art Ginley**, titled
   "Dude Talk w/ Art, John, and Jeremy." Appears to have come in through Art. **Role,
   organization, and interest in DTD are all unknown** #needs-clarification
-- source: Zoom invitation 2026-08-24; calendar event 2026-08-24
+- On 2026-08-26 John sent Andrew "artginley@gmail.com and **jeremy@frontrangefrc.com**" to
+  add to the Leadership Circle, and both were added. That is a different address from the
+  one that organized the Zoom, sent together with Art's right after their call — suggesting
+  a work address for the same person (**Front Range FRC**, plausibly a family resource
+  center), but the vault does not confirm it. #needs-clarification
+- source: Zoom invitation 2026-08-24; calendar event 2026-08-24; Slack DM John → Andrew
+  2026-08-26; DTD Leadership Circle invite 2026-08-27
 
 ## Sally Spencer-Thomas
 - email: SallySpencerThomas@gmail.com — addressed as "Dr. Sally"

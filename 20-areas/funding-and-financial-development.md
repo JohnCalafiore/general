@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-08-25
+updated: 2026-08-27
 tags: [area]
 ---
 
@@ -14,6 +14,88 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-08-27 Walmart Spark Grants: DTD is an approved umbrella, worth $5,000 per community
+- Announced at the Leadership Circle: "**Walmart Spark Grants: Dude Central is approved as
+  an umbrella organization**, allowing **local communities to apply for up to $5,000
+  annually**." This is the first funding mechanism where DudeCentral's structure does work
+  for the communities rather than raising a question about it — one approval, then each
+  community applies for itself, which is exactly the tiered model.
+- Timing note worth keeping: John's prep for the same call read "**Walmart grant: Not ready
+  to share yet — hold off**," and it was shared anyway. Whether that was a deliberate change
+  of mind or the conversation getting ahead of the plan is not recorded.
+- A second route surfaced from the field: **Jamie Fanselow** reported success securing funds
+  from the **Colorado Office of Suicide Prevention** and county public health departments —
+  state agencies, not foundations, and a channel DTD has not worked directly.
+- action #open (John/Andrew): confirm the Walmart Spark application path and tell
+  communities how to use it
+- category: Funding and Financial Development
+- source: Fathom recap, "DTD Leadership Circle" 2026-08-27; Granola, "Car ride to Conifer"
+  2026-08-26
+- links: [[funding-and-financial-development#2026-08-18 DECISION: community fundraising goes tiered — struggling communities keep what they raise]], [[relationships#Jamie Fanselow]]
+
+## 2026-08-27 Two $100 gifts land, and a $200 day shows up in the CRM
+- **Jessica Shapiro** and **Troy Switzer** each gave **$100.00** to the "Dude Talk Dinners,
+  Inc." campaign within eight minutes of each other. Neither name appears anywhere else in
+  the vault; no campaign attribution is given beyond the main campaign.
+- The CRM digest the next morning reconciles: "**4 transactions recorded ($200.00 income) ·
+  2 donor-linked donations · 3 new contacts** (1 from the website form)." Donation alerts,
+  contact creation, and donor linking are now working end to end on real money rather than
+  test rows — the first time that's true in this vault.
+- action #open (John/Andrew): thank Jessica Shapiro and Troy Switzer — the thank-you process
+  agreed on Aug 12 still isn't operating
+- category: Funding and Financial Development
+- source: Givebutter contribution notifications 2026-08-27; "Your DTD reminders —
+  2026-08-27"
+- links: [[funding-and-financial-development#2026-08-24 Mark gets the EIN — the first donor-advised-fund gift is unblocked]], [[platform-tools-and-infrastructure#2026-08-27 The CRM's daily digest is running — and John asks whether anyone else wants it]]
+
+## 2026-08-25 The Monarch Grant application is drafted — $7,500 for a full year of BV dinners
+- Andrew shared "**Grant RD Qs**" with John for editing, and it is not a question list — it
+  is a **complete draft application** to the **Monarch Mountain Community Grant (Impact
+  Grant)**, prepared Aug 25 against an **Aug 28 deadline**. Range **$5,000–$15,000**;
+  **DTD is asking $7,500**. Project: "**Dude Talk Dinners Buena Vista: A Full Year of
+  Connection for Chaffee County Men**," **December 2026 through November 2027**.
+- Two numbers new to the vault appear on the form: DTD's **annual operating budget is
+  $225,193**, and **Andrew's phone is 516-507-0798**. Andrew is the primary contact — which
+  sits slightly against the Aug 22 note that "the spirit of the grant is local (not Dude
+  Central)," though the applicant is DTD Inc. on behalf of the BV community.
+- The five objectives are unusually measurable for DTD, and two of them commit to things the
+  org has never done:
+  1. **12 consecutive monthly dinners** in BV, free to every man who walks in.
+  2. **At least 100 unique Chaffee County men across ~300 attendances**, with **at least 40
+     men attending three or more dinners**.
+  3. "**Measurably reduce social isolation among repeat attendees, using a validated
+     instrument rather than our impressions**" — the first commitment anywhere to formal
+     outcome measurement.
+  4. **Train all three BV facilitators in QPR** (Question, Persuade, Refer) or equivalent.
+  5. **Move the community toward local self-sufficiency** so BV's dinners continue after the
+     grant period — the same question Justin's QR-code pilot is testing.
+- The narrative also puts a new field story on record: at the **August BV dinner**, when a
+  member was struggling with a health issue, "**other members set up a 'meal train'**" to
+  feed him through his recovery. Andrew's framing of what that proves: those relationships
+  "persist between dinners in **hikes, coffees, phone calls, and fishing trips that we do not
+  organize and often do not hear about until later**."
+- Current BV scale as stated: "**between 20-30 men in Chaffee County attending our dinners
+  each month thus far**."
+- action #open (John/Andrew, by Aug 28): finish and submit the Monarch application
+- category: Funding and Financial Development
+- source: Google Doc "Grant RD Qs," shared by Andrew Wolff 2026-08-25, last modified
+  2026-08-26
+- links: [[support-for-existing-communities#2026-08-22 Buena Vista: sponsorship letter approved, Monarch Grant due end of August]], [[support-for-existing-communities#2026-08-24 A QR code on the table: piloting whether BV can support itself]], [[30-resources/mens-health-data-reference|Men's health data reference]]
+
+## 2026-08-25 Two fundraising conversations booked for Sep 1 — Greg Vochis and Bob Holt
+- **Greg Vochis** booked himself a **45-minute slot on Tue Sep 1, 1:00–1:45pm MDT** through
+  Andrew's scheduling link. That closes the Aug 19 action to get Greg a Cal.com link,
+  although the slot is midday rather than the evening he'd asked for — worth noting in case
+  it needs moving. Greg is DTD's informal accounting advisor and accepted the Leadership
+  Circle invite the same week.
+- Separately, the Leadership Circle produced a new name: **Andrew is to schedule a meeting
+  with Bob Holt to discuss fundraising strategy.** Bob Holt is not otherwise in the vault.
+- action #open (Andrew): schedule the Bob Holt fundraising conversation
+- category: Funding and Financial Development
+- source: calendar invitation "45 min meeting between Andrew Wolff and Greg Vochis"
+  2026-08-25; Fathom recap, "DTD Leadership Circle" 2026-08-27
+- links: [[relationships#Greg Vochis]]
 
 ## 2026-08-24 Andrew takes the fundraising ask to the whole board — a video and a Cal.com link
 - The board action from Friday — "identify and connect Andrew with potential donors in
@@ -131,7 +213,7 @@ responsibility but not to a specific dated project get logged here.
   required action to continue your verification. **If you do not finish this step within 3
   days**..." The verification flagged as "optional" on Aug 19 now carries a deadline, and
   Givebutter is the rail the whole tiered community-fundraising plan runs on.
-- action #open (John, by ~Aug 26): finish Givebutter verification
+- action #done (John, 2026-08-27): finish Givebutter verification — account verified, 48-hour settlement unlocked
 - category: Funding and Financial Development
 - source: "[Final Reminder] Finish Givebutter Verification" 2026-08-23
 - links: [[funding-and-financial-development#2026-08-19 Givebutter moves payouts to Wallet; verification still unfinished]]
@@ -209,7 +291,7 @@ responsibility but not to a specific dated project get logged here.
 - "Yeah, not a problem. **Evenings are probably easiest for me, but I'll see your scheduler
   link when you send it.**" The pass-through-vs-centralized accounting question now has a
   conversation booked in principle; Andrew owes him a Cal.com link.
-- action #open (Andrew): send Greg a Cal.com link for an evening slot
+- action #done (Andrew, 2026-08-25): Greg booked a slot — Tue Sep 1, 1:00–1:45pm MDT
 - category: Funding and Financial Development
 - source: "Re: DTD - Accounting question" 2026-08-20
 - links: [[governance-and-org-development#2026-08-20 DECISION: present the budget high-level to the board and defer accounting to a CPA]]

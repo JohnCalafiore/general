@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-25
+updated: 2026-08-27
 tags: [inbox]
 ---
 
@@ -18,6 +18,38 @@ Format the agent uses:
 ```
 
 <!-- entries begin below -->
+
+## 2026-08-27 Is jeremy@frontrangefrc.com the same Jeremy who set up the Art call?
+- quote: "**artginley@gmail.com and jeremy@frontrangefrc.com**" — Slack DM John → Andrew,
+  2026-08-26, listing people to add to the Leadership Circle
+- context: The Aug 24 Zoom with Art was organized by **jeremy@jeremyrallen.com**. Two days
+  later you sent Andrew Art's address paired with a *different* Jeremy address, and both
+  were added to the Aug 27 Leadership Circle invite. Same person with a work address at
+  Front Range FRC is the obvious reading, but I won't merge two identities on a guess.
+- question: Same Jeremy? And if so, what's Front Range FRC and what's his role there?
+- answer: <!-- write here -->
+
+## 2026-08-27 Who are Jessica Shapiro and Troy Switzer — and does the Monarch draft need your edits?
+- quote: "**Jessica Shapiro just supported your campaign**... a total of $100.00" and
+  "**Troy Switzer**... $100.00" — Givebutter, 2026-08-27, eight minutes apart
+- context: Two $100 gifts from names that appear nowhere else in the vault, arriving
+  together, which usually means one source — a board member's ask, Andrew's fundraising
+  video, or a dinner. Separately, Andrew shared the **Monarch application draft with you as
+  an editor** and it is due **Aug 28**.
+- question: Where did those two gifts come from (so the thank-yous say the right thing)?
+  And is the Monarch draft waiting on your edits before submission?
+- answer: <!-- write here -->
+
+## 2026-08-27 Who is Bob Holt, and who are Daniel at the VA and "Deke"?
+- quote: "**Andrew Wolff: Schedule a meeting with Bob Holt to discuss fundraising
+  strategy**" — Fathom recap, DTD Leadership Circle, 2026-08-27; and "**Let's connect with
+  Daniel from the VA and Deke for one of his events**" — Slack DM to Andrew, 2026-08-26
+- context: Bob Holt appears once, as a fundraising action item, with no affiliation. Daniel
+  has been an unnamed VA contact since early August and now matters more with a veterans
+  task force forming in Northern Colorado. "Deke" is entirely new, and "his events" is
+  unexplained.
+- question: Who are these three, and what's the connection you're reaching for with each?
+- answer: <!-- write here -->
 
 ## 2026-08-25 Who is Jeremy R. Allen, and what came out of Monday's call with Art?
 - quote: "**Dude Talk w/ Art, John, and Jeremy**" — Zoom invitation from

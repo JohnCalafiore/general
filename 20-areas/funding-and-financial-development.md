@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-08-27
+updated: 2026-08-28
 tags: [area]
 ---
 
@@ -77,10 +77,52 @@ responsibility but not to a specific dated project get logged here.
   organize and often do not hear about until later**."
 - Current BV scale as stated: "**between 20-30 men in Chaffee County attending our dinners
   each month thus far**."
+- **The budget: $11,200 total, $7,500 asked of Monarch.** Meals are the bulk — **$6,000 on
+  12 dinners × 25 men × $20** — plus a **$1,200 higher-turnout buffer** ("BV runs 16 to 25
+  men and is growing"), **$1,800 venue contribution** at $150/dinner, **$450 QPR training**,
+  **$500 local outreach**, **$300 referral cards**, **$580 platform allocation** (the
+  org-wide stack "runs **~$4,000/yr across seven communities**"), and **$370 evaluation**.
+  The other $3,700 comes from **$2,000 local business sponsorship** and **$1,700 DTD general
+  operating**. Separately, **$11,544 of in-kind** is disclosed but excluded from the cash
+  budget: **216 volunteer facilitator hours ($7,344)**, Dude Central staff time ($3,000),
+  Leadership Circle access ($1,200). Unit economics stated outright: "**$37.33 total cost
+  per dinner attendance; $25.00 of Monarch grant funding per attendance.**"
+- **A drafting error to fix before submission:** the header and budget say **$7,500**, but
+  the Proposal section twice says **$6,000** ("Dude Talk Dinners requests $6,000 to fund a
+  full year"; "Inputs required. $6,000"). One of those numbers is wrong on a form a reviewer
+  will read end to end.
+- The measurement commitment named in objective 3 is the **UCLA 3-Item Loneliness Scale**,
+  "listed in the **Foundation for Social Connection's Social Connection Measurement Tools
+  Inventory**, and adopting it this year is **a deliberate upgrade from the self-designed
+  surveys we have used to date**." Four outcomes are committed by Nov 30 2027: **60%** of
+  three-plus attendees contacting another Dude between dinners ("**the point at which a
+  monthly event becomes an actual support network**"), **70%** reporting reduced isolation on
+  the UCLA-3, all **3 facilitators QPR-trained by Jan 31 2027** plus **50 attendees** able to
+  name a local resource, and **at least 8 men referred** to a professional — that last one
+  deliberately conservative: "**We would rather commit to a number we can hit and report
+  honestly than promise Monarch something we cannot verify.**"
+- A reporting-window problem is flagged in the document rather than hidden: "**the July 30,
+  2027 final report deadline lands at dinner 8 of 12**," so the plan commits to a substantive
+  interim report plus a **voluntary full-year addendum in December 2027** — with a note that
+  the framing "only holds if you actually send" it.
+- **Nine items are addressed to John for confirmation before submitting**, and several are
+  substantive: confirm the ask (set at $7,500 "deliberately close to the **$7,700 you
+  requested from Workday for Boulder**" — a grant application not otherwise in this vault);
+  confirm the $150/dinner venue figure; **confirm which BV business hosts and which sponsors**
+  (the narrative says "The Buena Viking and **The Railroad studio BV**," the revenue table
+  says "The Buena Viking, **The Boulders BV**") and the $2,000 value; confirm the exact
+  coalition name and presentation date; confirm BV's start date; **check the 100-unique-men
+  commitment against six months of actual roster data before locking it**; check whether
+  **Chaffee County Public Health runs QPR free** (which would free the $450); verify the
+  **$34.00/hour Independent Sector volunteer rate**; and note if the project spans two fiscal
+  years.
 - action #open (John/Andrew, by Aug 28): finish and submit the Monarch application
+- action #open (John, before submitting): resolve the $6,000 vs $7,500 inconsistency and
+  work the nine confirmation items
+- action #open (John): calendar the **voluntary full-year addendum for December 2027**
 - category: Funding and Financial Development
 - source: Google Doc "Grant RD Qs," shared by Andrew Wolff 2026-08-25, last modified
-  2026-08-26
+  2026-08-26; full document read 2026-08-28
 - links: [[support-for-existing-communities#2026-08-22 Buena Vista: sponsorship letter approved, Monarch Grant due end of August]], [[support-for-existing-communities#2026-08-24 A QR code on the table: piloting whether BV can support itself]], [[30-resources/mens-health-data-reference|Men's health data reference]]
 
 ## 2026-08-25 Two fundraising conversations booked for Sep 1 — Greg Vochis and Bob Holt

@@ -1,6 +1,6 @@
 ---
 area: Partnerships and Strategic Relationships
-updated: 2026-08-27
+updated: 2026-08-28
 tags: [area]
 ---
 
@@ -40,6 +40,36 @@ responsibility but not to a specific dated project get logged here.
 - category: Partnerships and Strategic Relationships
 - source: Slack DM John Calafiore → Andrew Wolff 2026-08-26 21:32 MDT
 - links: [[community-growth-and-expansion#2026-08-27 Three new communities in motion: veterans in Northern Colorado, Connecticut, Steamboat]], [[00-inbox/needs-clarification|Needs clarification]]
+
+## 2026-08-25 The Chaffee referral pathway, named honestly: invited in, not yet signed
+- The Monarch application documents DTD's Chaffee County relationships more precisely than
+  anything else in the vault:
+  - "**Two members of the Dude Talk Dinners team have been invited to present to the Chaffee
+    County behavioral health coalition**," the county's convening table for behavioral health
+    providers. The framing is worth keeping: "**It matters that we were invited in rather
+    than arriving with an ask:** local providers want to know what exists upstream of them."
+  - **Chaffee County Public Health** runs a behavioral health navigation program; **Solvista
+    Health** runs 24/7 crisis services and the **Salida Regional Assessment Center**. DTD
+    intends a **two-way referral relationship** with both — facilitators hand men to them,
+    and they gain "a free, no-waitlist, non-clinical place to send men who are isolated but
+    not in crisis."
+- What makes this entry worth trusting is that the document refuses to overstate it: "**We
+  want to be accurate about status. These are the intended partners named in this project
+  plan, and the coalition presentation is the door into them. They are not signed agreements
+  today.**" Nothing here is a partnership yet.
+- The positioning against existing services is stated cleanly too: Chaffee's behavioral
+  health is "clinical, appointment-based, and... oversubscribed," while DTD is "**upstream,
+  non-clinical, free, and requires no appointment, no intake, and no admission that anything
+  is wrong**." And a claim worth verifying before it's repeated publicly: "**We are not aware
+  of any other organization in Chaffee County running a recurring, free, substance-free,
+  peer-led connection program specifically for men.**"
+- action #open (John/Andrew): confirm the coalition's exact name and lock the presentation
+  date
+- action #open (John/Andrew): use the coalition presentation to open formal referral
+  conversations with Solvista Health and Chaffee County Public Health
+- category: Partnerships and Strategic Relationships
+- source: Google Doc "Grant RD Qs" (Monarch application), read 2026-08-28
+- links: [[funding-and-financial-development#2026-08-25 The Monarch Grant application is drafted — $7,500 for a full year of BV dinners]], [[support-for-existing-communities#2026-08-22 Buena Vista: sponsorship letter approved, Monarch Grant due end of August]]
 
 ## 2026-08-23 Inbound pitch: a mental-health coach offers a discussion topic for dinners
 - **Randy Duran**, a Mental Health Coach at **Mental Mastery Consultancy**, wrote in to

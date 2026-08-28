@@ -1,5 +1,4 @@
-<!-- generated 2026-08-28T02:14:33+00:00 | 47 new of 47 blocks; synthesis must read ONLY this file, not raw/ -->
-
+<!-- generated 2026-08-28T02:20:19+00:00 | 48 new of 48 blocks; synthesis must read ONLY this file, not raw/ -->
 <!-- source: calendar.md -->
 # Google Calendar (harvest window 2026-08-25T18:59:39Z → 2026-08-27)
 
@@ -765,3 +764,167 @@ when: 2026-08-26 21:32:02 MDT
 permalink: https://dudetalkdinners.slack.com/archives/D0AHRCQ924E/p1787801522738079
 
 > Let's connect with **Daniel from the VA** and **Deke** for one of his events
+
+<!-- source: email-inbox.md -->
+## gmail-1a03ac4b1caa43f7-full "Grant RD Qs" — full document text (read 2026-08-28)
+
+The earlier block captured only the opening sections from a search snippet. Reading the
+whole document surfaces the proposal, budget, evaluation design, partner status, and a
+list of open questions addressed to John.
+
+**Ask amount — internal inconsistency.** The header and the budget both say **$7,500**
+("Total project cost: $11,200. **Amount requested from Monarch Mountain: $7,500.**"), but
+the Proposal section says "Dude Talk Dinners requests **$6,000** to fund a full year..." and
+"**Inputs required.** $6,000 ($500/dinner for 12 months of dinners)."
+
+**Activities and the ground rules, stated canonically:**
+> On a fixed night each month, Buena Vista men gather for a free dinner. A facilitator
+> introduces a discussion topic, offers light framing, and then **steps back and lets the
+> Dudes talk**. It moves men past the sports-and-weather layer and into **relationships,
+> work, health, grief, and fatherhood**. The ground rules are constant across every DTD
+> community: **all men are welcome; what is shared here stays here; the dinner is substance
+> and alcohol free; speaking is not required but respectful engagement is expected; no focus
+> on politics or religion; no unsolicited advice; and a recognition that this is not
+> therapy, counseling, or coaching. It is dinner, conversation, and connection.**
+
+**Timeline:** Nov 2026 award notification, venue agreement, 12 dates published · Dec 2026
+Dinner 1 + **baseline UCLA-3 loneliness survey** · Dec–Jan all three facilitators complete
+QPR with pre/post assessment · Jan 2027 **referral resource cards finalized with Chaffee
+County Public Health behavioral health navigators and Solvista Health** · Feb–Jun dinners
+3–7 · Jul 2027 interim evaluation at dinner 8, **final report due to Monarch July 30,
+2027** · Aug–Nov dinners 9–12, local sustainability plan executed · Nov 2027 full-year
+evaluation with 12-month UCLA-3 follow-up.
+
+**Expected outputs:** "12 dinners. Roughly 300 total attendances. At least 100 unique
+Chaffee County men served. 3 facilitators formally trained. 12 monthly Leadership Circle
+sessions attended. Printed local referral resource distributed at every dinner."
+
+**Why the model works, in the application's words:** "**A man will come to dinner who would
+be unlikely to book an appointment.**... By offering free food from locally loved
+restaurants and meaningful connections without pressure or expectation, it feels very
+different from an intake questionnaire and talking to an insurance company middleman. **NIH
+research is clear that stigma and marginalization drive away exactly the people who most
+need support, so we removed as much of it as we could at the front door.**" And: "**Buena
+Vista is not a hypothesis.** It has been running for six months with 20 to 30 men at every
+dinner."
+
+**Four committed outcomes by Nov 30, 2027:**
+- *Behavior:* "**At least 60 percent** of men attending three or more dinners will report
+  **contacting another Dude Talk participant outside of a scheduled dinner at least once a
+  month**... This is the outcome we care about most, because it is **the point at which a
+  monthly event becomes an actual support network**."
+- *Attitude:* "**At least 70 percent** of BV men who attend three or more dinners will
+  report **reduced feelings of social isolation**, as measured by the **UCLA 3-Item
+  Loneliness Scale**... listed in the **Foundation for Social Connection's Social Connection
+  Measurement Tools Inventory**, and adopting it this year is **a deliberate upgrade from
+  the self-designed surveys we have used to date**."
+- *Knowledge:* all 3 facilitators QPR-trained by **Jan 31, 2027**; "**at least 50 dinner
+  attendees** will be able to name at least one local behavioral health resource by year
+  end."
+- *Referral:* "**At least 8 men** will be connected to a local professional behavioral
+  health resource through a facilitator referral... **it is intentionally modest, it is the
+  outcome we have the least historical data on**... We would rather commit to a number we
+  can hit and report honestly than promise Monarch something we cannot verify."
+
+**Evaluation instruments:** per-dinner roster in the CRM; participant surveys at mid-point
+and year end; facilitator reporting through the Leadership Circle with **de-identified
+referral counts**. Stated caution: "We want to be able to strike a balance between where our
+dinner attendees can focus on connecting with each other vs filling out surveys... **One of
+the weaknesses of our current mental health services is data collection for the sake of data
+collection and we aim to create an environment where men don't feel like they are in a
+clinic doing another PHQ-9 depression measure.**" And on the real goal: "**We are trying to
+make it ordinary for a man in Buena Vista to have five people he could call.**... **It's the
+drug overdose or suicide attempt that doesn't happen**, in part, because of the sense of
+connection and belonging experienced by dinner attendees."
+
+**Collaboration:**
+- "**Two members of the Dude Talk Dinners team have been invited to present to the Chaffee
+  County behavioral health coalition**... **It matters that we were invited in rather than
+  arriving with an ask:** local providers want to know what exists upstream of them."
+- "**The Buena Viking and The Railroad studio BV** have contributed to the Buena Vista
+  dinners with donated food and space" — note the revenue table instead names "**The Buena
+  Viking, The Boulders BV**," and the confirmation list flags the discrepancy.
+- "**Chaffee County Public Health** operates a behavioral health navigation program, and
+  **Solvista Health** operates 24/7 crisis services and the **Salida Regional Assessment
+  Center**. During this grant period we will formalize a two-way referral relationship with
+  both... **We want to be accurate about status. These are the intended partners named in
+  this project plan... They are not signed agreements today.**"
+- "**Dude Talk Dinners was recently featured on Colorado Public Radio**, which has driven
+  statewide interest and gives Buena Vista visibility it could not generate alone."
+- "We are not aware of any other organization in Chaffee County running a **recurring, free,
+  substance-free, peer-led connection program specifically for men**."
+
+**Challenges section** (unusually candid, worth keeping whole in substance):
+- *Facilitator sustainability:* "**Volunteer fatigue is the single most common reason a
+  community like this dies**... Over the grant year we will **recruit and onboard a fourth
+  Buena Vista facilitator as bench depth**. Longer term, **modest stipends for local
+  volunteer facilitators are under consideration organization-wide**, and we would welcome a
+  conversation with Monarch about whether that is a fundable priority."
+- *Venue dependence:* "donated arrangements end. Paying the host business is our mitigation.
+  **It converts a favor into a commitment on both sides.**"
+- *Seasonality:* "Guiding and construction crews arrive and leave... **we hold the date fixed
+  and the reminder system persistent precisely because consistency is what carries a
+  community through a slow February.**"
+- *Measurement:* "Belonging is not a metric with a clean 12-month arc, and **the July 2027
+  report deadline lands at dinner 8 of 12**."
+- *Year two:* "**The honest challenge is what happens in December 2027.**"
+
+**Budget — total project cost $11,200, ask $7,500:**
+
+| Line | Amount | Basis |
+| --- | --- | --- |
+| Dinner meals | $6,000 | 12 dinners × 25 men × $20 per man |
+| Higher-turnout buffer | $1,200 | $100/dinner; "BV runs 16 to 25 men and is growing" |
+| Venue contribution to host business | $1,800 | $150/dinner |
+| Facilitator gateway training | $450 | QPR for 3 facilitators plus refresher |
+| Local outreach and marketing | $500 | BV-specific print, radio, digital |
+| Referral resource development | $300 | Local resource cards |
+| Technology/engagement platform (BV allocation) | $580 | "**Org-wide platform runs ~$4,000/yr across seven communities**" |
+| Evaluation and reporting | $370 | UCLA-3 administration, surveys, analysis |
+| **Total** | **$11,200** | |
+
+Revenues: **Monarch $7,500** (requested) · **local business sponsorship $2,000** (in kind,
+continuing since early 2026) · **DTD general operating support $1,700** (committed, within
+the $225,193 org budget).
+
+**In-kind not counted in the cash budget: $11,544** — "216 hours of volunteer facilitator
+time ($7,344), Dude Central staff time for site visits and coaching ($3,000), and Leadership
+Circle network access ($1,200)."
+
+**Cost per outcome:** "**$37.33 total cost per dinner attendance; $25.00 of Monarch grant
+funding per attendance.**"
+
+**"Before you submit: what needs your confirmation" — nine items addressed to John:**
+1. "**Ask amount.** I set it at $7,500, deliberately close to the **$7,700 you requested
+   from Workday for Boulder**, so your numbers stay consistent if both funders ever compare
+   notes."
+2. "**Venue contribution of $150 per dinner.**... Change the yellow cell in the spreadsheet
+   and everything recalculates."
+3. "**Which business hosts and which sponsors.** I wrote The Buena Viking as the food sponsor
+   and The Boulders BV as the space. Confirm which is which, and confirm the **$2,000
+   combined sponsorship value**."
+4. "**Coalition name.**... Chaffee County Public Health launched a behavioral health
+   coalition in late 2024. Confirm the exact name and, if the presentation date is set, add
+   it."
+5. "**BV start date.** I wrote 'early 2026' based on six months."
+6. "**Unique men served.** I committed to at least 100 unique men. You have the BV roster.
+   **Check it against six months of actuals before we lock that number.**"
+7. "**Facilitator training provider.**... **Chaffee County Public Health offers QPR training
+   locally and may run it free**, in which case reallocate that $450."
+8. "**Volunteer hour rate.** The in-kind schedule uses **$34.00 per hour as a placeholder.
+   Verify the current Independent Sector rate** before submitting."
+9. "**Fiscal year.**... I built it as the 12-month project period... If DTD runs a calendar
+   fiscal year, add one line noting the project spans two fiscal years."
+
+Closing note in the document: "**The July 30, 2027 final report deadline lands at dinner 8
+of 12 if you start in December. I addressed it head-on**... because a reviewer who spots it
+themselves reads it as sloppiness, and **a reviewer who sees you caught it reads it as
+competence. That framing only holds if you actually send the voluntary full-year addendum in
+December 2027. Put it on the calendar now.**"
+
+A "**Cutting Room Floor**" section at the end retains the clearest statement of the operating
+model: "**Our model is locally owned and centrally supported.**... We built it this way
+because **a community's survival depends almost entirely on how much work it takes to keep
+going. Take that work off local volunteers and the community lasts.**" And of this project:
+"**It is not an expansion into a new market. It is making sure a working thing in Chaffee
+County does not quietly stop working.**"

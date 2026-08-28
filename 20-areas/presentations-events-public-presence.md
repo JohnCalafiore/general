@@ -1,6 +1,6 @@
 ---
 area: Presentations, Events, and Public Presence
-updated: 2026-08-27
+updated: 2026-08-28
 tags: [area]
 ---
 
@@ -56,6 +56,20 @@ responsibility but not to a specific dated project get logged here.
 - source: Fathom recap, "DTD Social Media strategy" 2026-08-26
   (fathom.video/calls/798843199)
 - links: [[platform-tools-and-infrastructure#2026-08-26 A national Facebook page goes up, and Meta restricts it nine minutes later]], [[30-resources/mens-health-data-reference|Men's health data reference]], [[presentations-events-public-presence#2026-08-22 A 60–90 second promo video, filmed by John and Andrew, edited by Dawson]]
+
+## 2026-08-25 Colorado Public Radio has featured DTD — stated in a grant application
+- The Monarch application lists it among resources DTD is drawing on: "**Dude Talk Dinners
+  was recently featured on Colorado Public Radio, which has driven statewide interest** and
+  gives Buena Vista visibility it could not generate alone."
+- This is the first mention of the CPR feature anywhere in the vault — no pitch, no
+  scheduling, no link, and no date. It appears fully formed in a funding document, which
+  means the media work happened outside every channel this brain harvests. Worth capturing
+  the asset: a public-radio credit is usable in every future application and on the website.
+- action #open (John): find the CPR segment link and date, and add it to the press/resources
+  material
+- category: Presentations, Events, and Public Presence
+- source: Google Doc "Grant RD Qs" (Monarch application), read 2026-08-28
+- links: [[funding-and-financial-development#2026-08-25 The Monarch Grant application is drafted — $7,500 for a full year of BV dinners]], [[00-inbox/needs-clarification|Needs clarification]]
 
 ## 2026-08-22 A 60–90 second promo video, filmed by John and Andrew, edited by Dawson
 - Assigned in Saturday's session: **John and Andrew film a 60–90 second promo video**, with

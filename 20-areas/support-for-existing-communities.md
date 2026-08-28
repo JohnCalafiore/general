@@ -1,6 +1,6 @@
 ---
 area: Support for Existing Communities
-updated: 2026-08-27
+updated: 2026-08-28
 tags: [area]
 ---
 
@@ -43,6 +43,31 @@ responsibility but not to a specific dated project get logged here.
 - category: Support for Existing Communities
 - source: Granola, "Car ride to Conifer" 2026-08-26
 - links: [[support-for-existing-communities#2026-08-22 DECISION: the facilitator guide becomes an interactive course, built in Slides first]]
+
+## 2026-08-25 Facilitator burnout named as the top risk — a fourth BV facilitator, and stipends on the table
+- The Monarch application's Challenges section is the most candid internal assessment in the
+  vault, and it leads with people: "**Volunteer fatigue is the single most common reason a
+  community like this dies**," with three volunteers currently carrying Buena Vista for free.
+- Two mitigations are on record, one new. The existing one is the model itself — "**Dude
+  Central takes on the reminders, the CRM, the marketing, and the logistics, so the
+  facilitator's job is to show up and facilitate**" — plus three co-facilitators for
+  succession. The new one: DTD will "**recruit and onboard a fourth Buena Vista facilitator
+  as bench depth**" during the grant year.
+- And a live organizational question stated in writing for the first time: "**modest stipends
+  for local volunteer facilitators are under consideration organization-wide**, and we would
+  welcome a conversation with Monarch about whether that is a fundable priority in a future
+  cycle." Paying facilitators would change the volunteer/in-kind picture the board argued
+  over on Aug 21.
+- Two more risks worth carrying: **venue dependence** — "donated arrangements end. Paying the
+  host business is our mitigation. **It converts a favor into a commitment on both sides**" —
+  and **seasonality**, since BV's guiding and construction crews come and go, which is why
+  "**we hold the date fixed and the reminder system persistent precisely because consistency
+  is what carries a community through a slow February**."
+- action #open (BV team): recruit a fourth Buena Vista facilitator
+- action #open (board): decide whether facilitator stipends become policy
+- category: Support for Existing Communities
+- source: Google Doc "Grant RD Qs" (Monarch application), read 2026-08-28
+- links: [[governance-and-org-development#2026-08-27 The facilitator/coordinator split gets a rule: three facilitators minimum]], [[governance-and-org-development#2026-08-21 Board meeting: the in-kind question surfaced anyway, and split the room]]
 
 ## 2026-08-24 A QR code on the table: piloting whether BV can support itself
 - Justin Hall floated a test with a real question behind it: "**Andrew and I were

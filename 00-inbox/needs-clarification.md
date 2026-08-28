@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-27
+updated: 2026-08-28
 tags: [inbox]
 ---
 
@@ -18,6 +18,52 @@ Format the agent uses:
 ```
 
 <!-- entries begin below -->
+
+## 2026-08-28 The Monarch application asks $7,500 in two places and $6,000 in another
+- quote: "**Amount requested: $7,500**" (header) and "**Amount requested from Monarch
+  Mountain: $7,500**" (budget) vs "**Dude Talk Dinners requests $6,000 to fund a full year**"
+  and "**Inputs required. $6,000**" (Proposal section) — Google Doc "Grant RD Qs"
+- context: Due **Aug 28**. A reviewer reads the whole form, so the mismatch will be seen.
+  The budget math ($11,200 total less $2,000 sponsorship less $1,700 DTD) supports $7,500;
+  the $6,000 figure matches the meals line alone, so the Proposal section looks like it was
+  written against an earlier scope.
+- question: $7,500 is right and the Proposal paragraphs need updating — confirm before you
+  submit?
+- answer: <!-- write here -->
+
+## 2026-08-28 Which Buena Vista business hosts and which sponsors — and is it The Boulders or The Railroad?
+- quote: "**The Buena Viking and The Railroad studio BV** have contributed to the Buena Vista
+  dinners with donated food and space" (narrative) vs "Local business sponsorship (**The
+  Buena Viking, The Boulders BV**)" (revenue table) — same document
+- context: The application's own confirmation list flags this: "I wrote The Buena Viking as
+  the food sponsor and The Boulders BV as the space. **Confirm which is which**, and confirm
+  the **$2,000 combined sponsorship value**." Naming a sponsor wrong in a grant that pays
+  that sponsor $150/dinner is the kind of error that damages a local relationship.
+- question: Which business provides food and which provides space, what's the correct name of
+  the second one, and is $2,000/yr the right in-kind value?
+- answer: <!-- write here -->
+
+## 2026-08-28 When was DTD on Colorado Public Radio?
+- quote: "**Dude Talk Dinners was recently featured on Colorado Public Radio**, which has
+  driven statewide interest" — Monarch application, 2026-08-25
+- context: This is the only mention of a CPR feature anywhere in the vault. No pitch, booking,
+  air date, or link ever came through email, Slack, or a meeting — so it happened entirely
+  outside what this brain sees. It's a reusable credibility asset and I have nothing to file
+  under it.
+- question: When did it air, what's the link, and who made it happen? (Also worth knowing if
+  there are other press hits I'm not seeing.)
+- answer: <!-- write here -->
+
+## 2026-08-28 What is the Workday Boulder application, and does the 100-men commitment match the roster?
+- quote: "I set it at $7,500, deliberately close to the **$7,700 you requested from Workday
+  for Boulder**" and "**Unique men served.** I committed to at least 100 unique men. You have
+  the BV roster. **Check it against six months of actuals before we lock that number.**"
+- context: A **Workday grant application for Boulder** appears nowhere else in this vault —
+  neither in the grant scanner's CRM pipeline nor in any email. And the 100-unique-men figure
+  is a commitment DTD will be reported against, currently unverified.
+- question: What's the Workday/Boulder application and should it be tracked alongside the
+  others? And does six months of BV roster data support 100 unique men over the grant year?
+- answer: <!-- write here -->
 
 ## 2026-08-27 Is jeremy@frontrangefrc.com the same Jeremy who set up the Art call?
 - quote: "**artginley@gmail.com and jeremy@frontrangefrc.com**" — Slack DM John → Andrew,

@@ -15,6 +15,26 @@ responsibility but not to a specific dated project get logged here.
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
 
+## 2026-08-28 Slack has gone silent — and this vault's harvest needs to follow to Discord
+- The first sweep after the Discord decision found **no Slack activity at all** — a search
+  across public channels, private channels, and DMs for anything after Aug 27 returned zero
+  results, where the preceding days carried DM threads and Andrew's ED posts in
+  **#executive-director-updates**.
+- One quiet overnight is not proof of anything, but it is the expected first sign of the
+  migration taking hold, and it has a consequence for this second brain worth recording
+  before it becomes a silent gap: **the nightly harvest reads Slack and has no Discord
+  source**. As conversation moves, decisions and commitments that used to land in a Slack DM
+  will simply not be captured — and an empty Slack sweep will look identical to a quiet week.
+- Not yet a problem: the Discord server is still being set up ("Continue Discord setup" was
+  the CRM follow-up due Aug 26), and the rollout to communities happens after the Leadership
+  Circle call. But the window between "people move" and "the harvest follows" is where
+  content gets lost.
+- action #open (John): add a Discord source to the nightly harvest before the server becomes
+  the main channel
+- category: Platform, Tools, and Infrastructure
+- source: Slack search returning no results after 2026-08-27, nightly sweep 2026-08-28
+- links: [[platform-tools-and-infrastructure#2026-08-27 DECISION: Discord replaces Slack for all DTD communication]]
+
 ## 2026-08-27 DECISION: Discord replaces Slack for all DTD communication
 - Announced to the Leadership Circle as settled: "**Discord Server: This new chat app
   replaces Slack for all communication.**" The Aug 22 proposal is now the decision, and it

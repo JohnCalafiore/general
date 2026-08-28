@@ -1,31 +1,10 @@
-# Slack (harvest window 2026-08-25T18:59:39Z → 2026-08-27)
+# Slack (harvest window 2026-08-28T02:20:19Z → 2026-08-28T07:10Z)
 
-## slack-D0AHRCQ924E-1787780004 DM Andrew Wolff → John Calafiore
+## slack-empty-2026-08-28 No Slack activity after 2026-08-27
 
-when: 2026-08-26 15:33:24 MDT
-permalink: https://dudetalkdinners.slack.com/archives/D0AHRCQ924E/p1787780004522499
-
-> JCalafioreDTD1
-
-(A bare handle/username, no context given.)
-
----
-
-## slack-D0AHRCQ924E-1787782168 DM John Calafiore → Andrew Wolff
-
-when: 2026-08-26 16:09:28 MDT
-permalink: https://dudetalkdinners.slack.com/archives/D0AHRCQ924E/p1787782168133559
-
-> artginley@gmail.com and jeremy@frontrangefrc.com
-
-(Sent in reply to Andrew's message above. Both addresses were added to the Aug 27
-Leadership Circle invite.)
-
----
-
-## slack-D0AHRCQ924E-1787801522 DM John Calafiore → Andrew Wolff
-
-when: 2026-08-26 21:32:02 MDT
-permalink: https://dudetalkdinners.slack.com/archives/D0AHRCQ924E/p1787801522738079
-
-> Let's connect with **Daniel from the VA** and **Deke** for one of his events
+A search across public channels, private channels, and DMs for anything after 2026-08-27
+returned no results. Worth noting rather than passing over: the Leadership Circle decided
+on **2026-08-27 to move all DTD communication off Slack to Discord**, so a quiet Slack is
+now the expected state, and a permanently empty Slack sweep is evidence the migration is
+taking hold rather than evidence of a broken connector. The harvest will need to follow the
+conversation to Discord once the server is populated.

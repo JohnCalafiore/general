@@ -1,6 +1,6 @@
 ---
 area: Governance and Organizational Development
-updated: 2026-08-28
+updated: 2026-08-29
 tags: [area]
 ---
 
@@ -14,6 +14,68 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[governance-and-org-development#...]] and harvested by the brief. -->
+
+## 2026-08-28 The 8/21 board minutes are circulated — and carry four things the recap didn't
+- Justin Hall delivered on schedule, sharing "**DTD Board Meeting Minutes for 8-21-26**" with
+  the full board: "Please find the meeting minutes attached from 8-21. **Please let me know
+  if you would like to add or alter any of the discussion overviews before the next
+  meeting!**" The first properly minuted board meeting in this vault's record.
+- Procedural facts the Fathom recap never captured: the meeting was "**called to order
+  promptly at 10:05 a.m. MDT**" with "**a quorum of the Board present**" and **all five
+  directors attending** (Chris Peterson, Justin Hall, Ken Farber, Ben Shay, Chris Gould) —
+  the "Not present" line is empty. **Ken Farber moved to approve the July 17 minutes, Chris
+  Peterson seconded, approved unanimously.** Justin moved to adjourn, Ken seconded, adjourned
+  **11:48 am MDT**.
+- **Next board meeting: September 18, 2026** — consistent with the third-Friday cadence.
+- Also on the record, and worth noting because it bears on the in-kind and budget argument:
+  both executives are logged as unpaid — "**Andrew Wolff – Executive Director (Volunteer)**"
+  and "**John Calafiore – Consulting COO (Volunteer)**."
+- **Four substantive additions the minutes carry beyond the Fathom recap**, presumably from
+  Justin's own notes:
+  - Grassroots fundraising: "**Possible to have communities sustain themselves through
+    optional donations from dinner attendees**" — the board-level version of the BV QR-code
+    pilot, meaning that idea was live in the room on the 21st, three days before Justin
+    wrote it to John.
+  - Corporate training: "**Invite law enforcement/fire members to attend DTD**" — attendance
+    as the way into the sector, not just a paid-training pitch.
+  - Local employer asks now read "**Kramer, Henderson Mine, Walmart**" — Walmart added, which
+    lands differently now that DTD is an approved Walmart Spark umbrella.
+  - A **third structural option** attributed to Justin: "**Sponsored by existing
+    organizations in the area such as mental health networks — or sponsored by a combination
+    of Dude Central Funds and individual community fundraising through in-kind donations as
+    in Buena Vista.**" The centralized/hybrid debate had only two options until now.
+- The legal action is also phrased more firmly than in the recap, with a deadline attached:
+  "**Andrew Wolff and John Calafiore to secure pro-bono legal help to better determine
+  organizational structure and requirements before next board meeting.**" That is now due
+  **by Sep 18**.
+- action #done (Justin, 2026-08-28): circulate the 8/21 board minutes
+- action #open (all board, before Sep 18): review the minutes and send Justin any changes
+- action #open (Andrew & John, by Sep 18): secure the pro bono legal help on structure
+- category: Governance and Organizational Development
+- source: "DTD Board Meeting Minutes for 8-21-26," shared by Justin Hall 2026-08-28; document
+  read 2026-08-29
+- links: [[governance-and-org-development#2026-08-24 Justin commits to getting the board minutes out this week]], [[governance-and-org-development#2026-08-21 Board meeting: the in-kind question surfaced anyway, and split the room]], [[support-for-existing-communities#2026-08-24 A QR code on the table: piloting whether BV can support itself]]
+
+## 2026-08-28 Strategic Planning and CRM training ran for 3.5 hours and left no record
+- Two sessions were on Friday's calendar, both accepted by Andrew and John, neither cancelled
+  or moved: **DTD Strategic Planning, 10:00am–12:00pm MDT**, and **DTD CRM training,
+  12:00–1:30pm MDT**. Three and a half hours, and the longer of the two carries the most
+  consequential title of any meeting this month.
+- **Nothing was captured.** Granola, queried for both by name: "No meetings from August 28,
+  2026 are showing up in your Granola data — not the DTD Strategic Planning session or the
+  DTD CRM Training." No Fathom recap arrived, and no follow-up email describes either.
+- This is now a pattern rather than an incident — the fifth capture gap this month, and the
+  costliest so far, since strategic planning is exactly the kind of session whose decisions
+  surface months later with no one able to reconstruct why. Two things did happen within
+  hours of the sessions ending — the Google Workspace re-application at 1:58pm MDT and two
+  domain registrations at 6:09pm — but neither is stated to be an output of them.
+- action #open (John): write down whatever came out of Friday's strategic planning while it's
+  still recoverable
+- action #open (John/Andrew): decide how these working sessions get recorded — Granola isn't
+  running on them
+- category: Governance and Organizational Development
+- source: Google Calendar events 2026-08-28; Granola query returning no meetings for the date
+- links: [[platform-tools-and-infrastructure#2026-08-28 Google Workspace for Nonprofits, applied for again]], [[00-inbox/needs-clarification|Needs clarification]]
 
 ## 2026-08-27 The insurance answer, on the record: $2M GL covers every community's volunteers
 - **Alec Rand** asked the liability question directly, and John came prepared with numbers:
@@ -62,7 +124,7 @@ responsibility but not to a specific dated project get logged here.
   mission/vision, and the adopted fundraising strategy. The Fathom recap Justin is working
   from **has no AI-generated action items** (free-tier limitation), so the Next Steps he
   writes up come from the summary body, not from an extracted task list.
-- action #open (Justin, by ~2026-08-28): circulate the 8/21 board minutes
+- action #done (Justin, 2026-08-28): circulate the 8/21 board minutes
 - category: Governance and Organizational Development
 - source: email from Justin Hall, "Re: Recap of your meeting with Western Colorado
   University" 2026-08-24

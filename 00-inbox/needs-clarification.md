@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-28
+updated: 2026-08-29
 tags: [inbox]
 ---
 
@@ -18,6 +18,55 @@ Format the agent uses:
 ```
 
 <!-- entries begin below -->
+
+## 2026-08-29 What are the connectingmen.com/.org domains for — and should DTD own them?
+- quote: "**connectingmen.com** Domain Registration SUCCESS $11.08 / **connectingmen.org**
+  Domain Registration SUCCESS $7.98" — Porkbun order 11510750, forwarded to Andrew and your
+  DTD address 2026-08-28 with no note
+- context: Nothing anywhere says what these are for — a rebrand, a campaign landing page, a
+  second brand for a non-"Dude" audience, or defensive registration. They were also bought on
+  your **personal** Porkbun account under john.calafiore@gmail.com, so DTD doesn't hold them.
+  Separately, the Google Workspace nonprofit application was denied on Aug 22 partly over
+  **multiple domains flagged on the account**, and you filed a fresh Workspace request the
+  same afternoon these were registered.
+- question: What's the plan for connectingmen? And do you want them transferred into DTD's
+  ownership rather than sitting on a personal account?
+- answer: <!-- write here -->
+
+## 2026-08-29 Who is Jake Donziger, and what is the Principled Business copy for?
+- quote: "Andrew Wolff has invited you to edit the following document: **Copy of Principled
+  Business App Responses (for Jake Donziger)**" — Drive share, 2026-08-28, no message body
+- context: Principled Business is the **$50k application already submitted** and awaiting a
+  decision. A *copy* of the responses being prepared "for" a person who appears nowhere else
+  in the vault reads either as someone reviewing/advocating for the submitted application, or
+  as reusing the answers for a different opportunity he's connected to. I won't guess which.
+- question: Who is Jake Donziger, and is this a review of the submitted application or the
+  start of a new one?
+- answer: <!-- write here -->
+
+## 2026-08-29 What came out of Friday's Strategic Planning session?
+- quote: calendar events "**DTD Strategic Planning**" (Fri Aug 28, 10am–12pm MDT) and "**DTD
+  CRM training**" (12–1:30pm MDT), both accepted, neither cancelled
+- context: Three and a half hours, and Granola has nothing for either — I asked for both by
+  name. No Fathom recap, no follow-up email. Strategic planning is the single session type
+  where losing the reasoning hurts most later. Two things happened within hours that may or
+  may not be outputs: the **Google Workspace re-application** (1:58pm) and the **two
+  connectingmen domain registrations** (6:09pm).
+- question: What was decided in strategic planning, and should either of Friday's outputs be
+  filed against it? Also worth settling: Granola isn't capturing your working sessions with
+  Andrew at all — five gaps this month.
+- answer: <!-- write here -->
+
+## 2026-08-29 Who is Bob Holt?
+- quote: "**60 min meeting between Andrew Wolff and Bob**" with **bobxholt@gmail.com**, Wed
+  Sep 2, 3–4pm MDT — booked 2026-08-28, all three accepted
+- context: He came out of the Aug 27 Leadership Circle as "Andrew Wolff: Schedule a meeting
+  with Bob Holt to discuss fundraising strategy," was booked within a day, and got a full
+  hour — longer than the Greg Vochis conversation. But there's still no affiliation or role
+  attached to him anywhere.
+- question: Who is Bob Holt, and is he an advisor, a prospective donor, or a connector? Worth
+  knowing before Wednesday so the ask is right.
+- answer: <!-- write here -->
 
 ## 2026-08-28 The Monarch application asks $7,500 in two places and $6,000 in another
 - quote: "**Amount requested: $7,500**" (header) and "**Amount requested from Monarch

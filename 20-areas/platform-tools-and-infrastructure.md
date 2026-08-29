@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-08-28
+updated: 2026-08-29
 tags: [area]
 ---
 
@@ -14,6 +14,42 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-08-28 Google Workspace for Nonprofits, applied for again
+- "**Activation request received for dudetalkdinners.org**... Thank you for your interest in
+  Google Workspace for Nonprofits. **You should hear back from us within 3 business days.**"
+  Organization **Dude Talk Dinners Inc**, Charity ID **41-4806880**, user
+  john.calafiore@dudetalkdinners.org.
+- This is a fresh application, not a decision on the appeal. The Workspace application was
+  **denied on Aug 23** with multiple domains flagged, and John was appealing; instead of a
+  reversal, a new request has been filed for the single domain. **Decision expected by
+  ~Sep 2.**
+- Worth watching for the same failure mode: the original denial cited multiple domains
+  attached to the account, and John registered **two more domains the same evening** this
+  request went in.
+- action #open (John): watch for the Workspace decision by ~Sep 2; if denied again, get the
+  stated reason before reapplying
+- category: Platform, Tools, and Infrastructure
+- source: "Google Workspace for Nonprofits activation request received" 2026-08-28
+- links: [[platform-tools-and-infrastructure#2026-08-22 The Google for Nonprofits problem named: the Workspace application was DENIED]], [[platform-tools-and-infrastructure#2026-08-28 Two "connectingmen" domains bought, on a personal account]]
+
+## 2026-08-28 Two "connectingmen" domains bought, on a personal account
+- John registered **connectingmen.com ($11.08)** and **connectingmen.org ($7.98)** through
+  Porkbun, **$19.06 total**, and forwarded the receipt to Andrew and to his DTD address with
+  no covering note. Renewal estimates: $11.08 and $11.84.
+- Two things to flag rather than interpret. The purchase was made on **John's personal
+  account** (john.calafiore@gmail.com, personal Porkbun login), so **the domains are not
+  currently held by the organization** — an asset-ownership question DTD has not had to think
+  about before, and the sort of thing that matters if roles change. And the **purpose is
+  unrecorded**: no email, meeting note, or message anywhere says what "connectingmen" is for
+  — a rebrand, a campaign, a landing page, or defensive registration.
+- Timing is suggestive but not evidence: it landed the same evening as the Strategic Planning
+  session, which left no record.
+- action #open (John): say what the connectingmen domains are for, and decide whether they
+  should be transferred to DTD ownership
+- category: Platform, Tools, and Infrastructure
+- source: "Fwd: porkbun.com | Order - Thank You - 11510750" 2026-08-28 (order 11510750)
+- links: [[governance-and-org-development#2026-08-28 Strategic Planning and CRM training ran for 3.5 hours and left no record]], [[00-inbox/needs-clarification|Needs clarification]]
 
 ## 2026-08-28 Slack has gone silent — and this vault's harvest needs to follow to Discord
 - The first sweep after the Discord decision found **no Slack activity at all** — a search

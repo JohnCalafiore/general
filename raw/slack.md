@@ -1,10 +1,8 @@
-# Slack (harvest window 2026-08-28T02:20:19Z → 2026-08-28T07:10Z)
+# Slack (harvest window 2026-08-28T07:10:58Z → 2026-08-29T07:06Z)
 
-## slack-empty-2026-08-28 No Slack activity after 2026-08-27
+## slack-empty-2026-08-29 Second consecutive empty sweep
 
-A search across public channels, private channels, and DMs for anything after 2026-08-27
-returned no results. Worth noting rather than passing over: the Leadership Circle decided
-on **2026-08-27 to move all DTD communication off Slack to Discord**, so a quiet Slack is
-now the expected state, and a permanently empty Slack sweep is evidence the migration is
-taking hold rather than evidence of a broken connector. The harvest will need to follow the
-conversation to Discord once the server is populated.
+A search across public channels, private channels, and DMs for anything after 2026-08-28
+returned no results — the second day running with no Slack activity since the Aug 27
+decision to move all DTD communication to Discord. The last recorded Slack message remains
+John's DM to Andrew on 2026-08-26 21:32 MDT.

@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-08-28
+updated: 2026-08-29
 tags: [area]
 ---
 
@@ -14,6 +14,39 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-08-28 Bob Holt is booked for Sep 2 — and he now has an email address
+- Andrew scheduled "**60 min meeting between Andrew Wolff and Bob**" for **Wed Sep 2,
+  3:00–4:00pm MDT** via Cal.com, with John included. All three have accepted.
+- The invitee is listed only as "Bob," but the address — **bobxholt@gmail.com** — is the
+  first identifying detail attached to the **Bob Holt** named in Thursday's Leadership Circle
+  action, "Andrew Wolff: Schedule a meeting with Bob Holt to discuss fundraising strategy."
+  Booked within a day of that action, and given a **full hour**, which is longer than the
+  Greg Vochis fundraising conversation the day before.
+- Still unknown: who Bob Holt is, what he does, and which side of the fundraising
+  conversation he's on — advisor, donor, or connector.
+- action #done (Andrew, 2026-08-28): schedule the Bob Holt fundraising conversation
+- action #open (John/Andrew): know what you're asking Bob for before Sep 2
+- category: Funding and Financial Development
+- source: calendar invitation "60 min meeting between Andrew Wolff and Bob" 2026-08-28
+- links: [[funding-and-financial-development#2026-08-25 Two fundraising conversations booked for Sep 1 — Greg Vochis and Bob Holt]], [[00-inbox/needs-clarification|Needs clarification]]
+
+## 2026-08-28 The Principled Business responses are shared "for Jake Donziger"
+- Andrew shared "**Copy of Principled Business App Responses (for Jake Donziger)**" with John
+  as an editor, with no covering message.
+- Two readings, and the record doesn't settle between them: a **copy** of DTD's Principled
+  Business application responses is being prepared *for* Jake Donziger — either so he can
+  review or advise on the submitted application, or so the answers can be reused for a
+  different application he is connected to. **Jake Donziger appears nowhere else in this
+  vault.**
+- Context that makes this worth watching: **Principled Business is a $50k grant application**
+  already submitted and pending a decision, and it carried a stated mission-fit doubt. A copy
+  going out to a new name a week later is a change in that thread.
+- action #open (John): find out who Jake Donziger is and what the copy is for
+- category: Funding and Financial Development
+- source: Drive share "Copy of Principled Business App Responses (for Jake Donziger)" from
+  Andrew Wolff 2026-08-28
+- links: [[funding-and-financial-development#2026-08-17 RESOLVED: "Principled Business" is a grant application, and it's being submitted]], [[00-inbox/needs-clarification|Needs clarification]]
 
 ## 2026-08-27 Walmart Spark Grants: DTD is an approved umbrella, worth $5,000 per community
 - Announced at the Leadership Circle: "**Walmart Spark Grants: Dude Central is approved as
@@ -323,7 +356,7 @@ responsibility but not to a specific dated project get logged here.
 - Tooling to match: "**a custom AI bot is being built to score and prioritize grants by
   application deadline**" — the practical version of the AI-for-outreach plan.
 - This is the **one material budget change being announced to the board** on Friday.
-- action #open (John): follow up with **Jennifer Ashley (Vibrant.org, JXA Advisors)** for
+- action #done (John, 2026-08-28): follow up with **Jennifer Ashley (Vibrant.org, JXA Advisors)** for
   potential strategic guidance
 - category: Funding and Financial Development
 - source: Fathom recap, "DTD Budget review" 2026-08-20 (fathom.video/calls/791797417)

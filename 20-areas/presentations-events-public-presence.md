@@ -1,6 +1,6 @@
 ---
 area: Presentations, Events, and Public Presence
-updated: 2026-08-28
+updated: 2026-08-29
 tags: [area]
 ---
 

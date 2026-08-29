@@ -1,6 +1,6 @@
 ---
 area: Partnerships and Strategic Relationships
-updated: 2026-08-28
+updated: 2026-08-29
 tags: [area]
 ---
 
@@ -14,6 +14,29 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[partnerships-and-strategic-relationships#...]] and harvested by the brief. -->
+
+## 2026-08-28 The Vibrant Emotional Health introduction goes out — via John's mother
+- The Jennifer Ashley outreach, open since mid-August, is sent. The connection is personal:
+  "**My mom mentioned she'd connect the two of us**, and just sent me your information. I
+  know she thinks the world of you."
+- What John asked for is **advice, not money** — the sharpest statement yet of where DTD
+  thinks it is: "We're now at the stage where **decisions about structure, fundraising, and
+  leadership will shape this organization's future**, and that's where we'd value your
+  perspective." The ask is **30–45 minutes with him and Andrew** in the next couple of weeks.
+- The alignment argument is the one to reuse: Vibrant runs "**the 988 Suicide & Crisis
+  Lifeline** to the community programs and policy work," and "**Roughly four out of five
+  suicide deaths in this country are men, with particularly high numbers in rural Colorado.
+  What we're building is an upstream, community-level answer to seemingly the same problem
+  Vibrant works on at a national scale.**" National crisis response meets local prevention —
+  the same complementary framing used with Chaffee County.
+- Current scale as stated to an outsider: "**seven active communities and several more
+  getting started**," each drawing "**anywhere from 15 to 45 men**."
+- action #done (John, 2026-08-28): follow up with Jennifer Ashley
+- action #open (John): send a calendar invite once Jennifer replies with times
+- category: Partnerships and Strategic Relationships
+- source: "Introduction to Dude Talk Dinners," sent to jxashley@yahoo.com cc Andrew,
+  2026-08-28
+- links: [[relationships#Jennifer Ashley]], [[partnerships-and-strategic-relationships#2026-08-25 The Chaffee referral pathway, named honestly: invited in, not yet signed]], [[30-resources/mens-health-data-reference|Men's health data reference]]
 
 ## 2026-08-26 RMCP moves from Leadership Circle name to a coffee on Sep 1
 - Andrew booked "**RMCP and DTD connection at Starbucks**" for **Tue Sep 1, 10:00–11:00am

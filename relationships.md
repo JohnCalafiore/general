@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-27
+updated: 2026-08-29
 tags: [grounding, people]
 ---
 
@@ -237,10 +237,31 @@ Format — one H2 per person:
 - source: Fathom recap, "DTD Budget review" 2026-08-20
 
 ## Jennifer Ashley
-- org: **Vibrant.org** and **JXA Advisors**
-- relationship: identified as a potential source of **strategic guidance**; John owes her a
-  follow-up. No prior contact appears in the record.
-- source: Fathom recap, "DTD Budget review" 2026-08-20
+- email: **jxashley@yahoo.com**
+- org: **Vibrant Emotional Health** (Vibrant.org) — which runs the **988 Suicide & Crisis
+  Lifeline** plus community programs and policy work — and **JXA Advisors**
+- relationship: a **connection through John's mother**, who made the introduction ("my mom
+  mentioned she'd connect the two of us... I know she thinks the world of you"). Approached
+  2026-08-28 for **strategic guidance on structure, fundraising, and leadership** — advice,
+  not funding — with a request for 30–45 minutes with John and Andrew. Awaiting her reply.
+- source: Fathom recap, "DTD Budget review" 2026-08-20; "Introduction to Dude Talk Dinners"
+  2026-08-28
+
+## Bob Holt
+- email: **bobxholt@gmail.com**
+- relationship: named at the 2026-08-27 Leadership Circle as someone Andrew should meet "to
+  discuss **fundraising strategy**"; a **60-minute Cal.com meeting** with Andrew and John is
+  booked for **Wed Sep 2, 3–4pm MDT**, which he has accepted. **Role, affiliation, and how
+  he came to DTD are all unknown** #needs-clarification
+- source: Fathom recap, "DTD Leadership Circle" 2026-08-27; calendar invitation 2026-08-28
+
+## Jake Donziger
+- relationship: named only in the title of a document Andrew shared with John — "**Copy of
+  Principled Business App Responses (for Jake Donziger)**" (2026-08-28), a copy of DTD's
+  responses to the pending **$50k Principled Business** grant application. **No email, role,
+  organization, or explanation of his involvement is in the record**
+  #needs-clarification
+- source: Drive share from Andrew Wolff 2026-08-28
 
 ## Mark (msd27611@gmail.com)
 - relationship: **donor**, and "**one of the guys in [Andrew's] men's group**." Sent DTD a

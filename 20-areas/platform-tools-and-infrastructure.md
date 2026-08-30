@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-08-29
+updated: 2026-08-30
 tags: [area]
 ---
 
@@ -14,6 +14,25 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-08-29 First organic-search number on the record: 120 clicks in 28 days
+- Search Console sent a milestone notice: "**Your site reached 120 clicks from Google Search
+  in the past 28 days**" for **dudetalkdinners.org**, as of **Aug 27, 2026** — so roughly the
+  Jul 31 – Aug 27 window.
+- This is the **first traffic figure of any kind in the vault**. Everything logged about the
+  website until now has been work *on* the site: six Events structured-data errors in early
+  August, pages dropped as duplicates, the fixes validated on Aug 15, the new site going live
+  Aug 14 and community pages built out Aug 27. This is the first evidence of anyone arriving.
+- Read it for what it is — a small number, and Search Console sends these as encouragement,
+  not analysis. But it establishes a **baseline** at a useful moment: the rebuilt site went
+  live mid-window, community pages landed at the end of it, and the social-media relaunch and
+  Facebook page came after. The next 28-day figure is the first one that can actually be
+  compared against something.
+- action #open (John): note the 120-click baseline so the post-relaunch numbers mean
+  something
+- category: Platform, Tools, and Infrastructure
+- source: Google Search Console, "Congrats on reaching 120 clicks in 28 days!" 2026-08-29
+- links: [[platform-tools-and-infrastructure#2026-08-27 The new website is live — and every community page is waiting on bios]], [[platform-tools-and-infrastructure#2026-08-15 Search Console: Events structured data issues confirmed fixed]], [[presentations-events-public-presence#2026-08-26 "Why DudeTalk Dinners?" — a testimonial-and-data campaign, with Darren as the frame]]
 
 ## 2026-08-28 Google Workspace for Nonprofits, applied for again
 - "**Activation request received for dudetalkdinners.org**... Thank you for your interest in

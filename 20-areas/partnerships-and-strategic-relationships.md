@@ -1,6 +1,6 @@
 ---
 area: Partnerships and Strategic Relationships
-updated: 2026-08-29
+updated: 2026-08-31
 tags: [area]
 ---
 
@@ -14,6 +14,24 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[partnerships-and-strategic-relationships#...]] and harvested by the brief. -->
+
+## 2026-08-30 Jennifer Ashley says yes — and asks whether evenings work better
+- A warm reply inside two days: "**What a wonderful thing you and Andrew are doing. Of course
+  I would love to connect with you and I'm happy to help however I can. Let's schedule a
+  call.**"
+- The considerate detail is worth keeping, because it tells you how she's reading DTD: "I'm
+  assuming **you both are working full time** so let me know if **evenings are best** for you
+  or you prefer during the day. **I can be a bit flexible.**" She has correctly inferred that
+  the people running this are volunteers with day jobs — which the board minutes now confirm
+  on paper — and is accommodating that rather than expecting business hours.
+- The ball is in John's court: she asked for a preference, not a time, so the next move is
+  naming days and sending the invite for the 30–45 minutes with both John and Andrew.
+- action #open (John, this week): tell Jennifer whether days or evenings work and send the
+  calendar invite
+- category: Partnerships and Strategic Relationships
+- source: "Re: Introduction to Dude Talk Dinners" from jxashley@yahoo.com, cc Andrew,
+  2026-08-30
+- links: [[partnerships-and-strategic-relationships#2026-08-28 The Vibrant Emotional Health introduction goes out — via John's mother]], [[relationships#Jennifer Ashley]]
 
 ## 2026-08-28 The Vibrant Emotional Health introduction goes out — via John's mother
 - The Jennifer Ashley outreach, open since mid-August, is sent. The connection is personal:

@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-29
+updated: 2026-08-31
 tags: [inbox]
 ---
 
@@ -18,6 +18,31 @@ Format the agent uses:
 ```
 
 <!-- entries begin below -->
+
+## 2026-08-31 What is the Facilitator Feedback Form, and is it yours?
+- quote: "**Follow-ups — Work on Facilitator Feedback Form: Due Aug 31, 2026**" — DTD CRM
+  daily digest, 2026-08-30
+- context: The follow-up appears in the CRM with a due date of today and nothing behind it —
+  no email, meeting note, or message anywhere explains what the form is, who asked for it, or
+  who it goes to. It plausibly fills the gap between monthly Leadership Circle calls and
+  supports the facilitator-reporting instrument promised in the Monarch application, but
+  that's my inference, not something the record says.
+- question: Whose item is this and what's the form meant to capture? If it's the
+  between-calls feedback channel, it's worth filing properly rather than living as a CRM
+  reminder.
+- answer: <!-- write here -->
+
+## 2026-08-31 Saturday's website lead has no name — did the form notification fail?
+- quote: "**Activity yesterday — 1 new contact (1 from the website form)**" — DTD CRM daily
+  digest, 2026-08-30
+- context: Every prior website-form submission (Travis Payne, Jameson Guthrie, Jim Hight)
+  arrived as its own notification with the person's name, email, location and interest. This
+  one shows up only as a count in the aggregate digest. So either the per-submission
+  notification stopped firing, or it's routing somewhere I don't harvest — and an inbound
+  lead nobody sees is one nobody answers.
+- question: Is there a notification for Saturday's submission that I'm not seeing? And who is
+  it — worth pulling from the CRM so they get a reply.
+- answer: <!-- write here -->
 
 ## 2026-08-29 What are the connectingmen.com/.org domains for — and should DTD own them?
 - quote: "**connectingmen.com** Domain Registration SUCCESS $11.08 / **connectingmen.org**

@@ -1,8 +1,7 @@
-# Meetings — Fathom / Granola (harvest window 2026-08-29T16:13:45Z → 2026-08-30T07:05Z)
+# Meetings — Fathom / Granola (harvest window 2026-08-30T07:06:07Z → 2026-08-31T07:08Z)
 
-## meetings-empty-2026-08-30 No meetings recorded
+## meetings-empty-2026-08-31 No meetings recorded
 
-Granola: "**No meetings or notes were recorded on August 29 or 30, 2026.** Your Granola
-workspace appears to be empty for those two days — nothing was captured or synced." No
-Fathom recap emails arrived. Nothing was scheduled for either day, so this is a genuinely
-quiet weekend rather than another capture gap.
+Granola: "**No meetings or notes were found for August 30 or 31, 2026.** It looks like those
+two days are clear in your records." No Fathom recap emails arrived. Nothing was on the
+calendar for Sunday, so this is a quiet weekend rather than a capture gap.

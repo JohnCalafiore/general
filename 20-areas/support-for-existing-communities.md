@@ -1,6 +1,6 @@
 ---
 area: Support for Existing Communities
-updated: 2026-08-29
+updated: 2026-08-31
 tags: [area]
 ---
 
@@ -14,6 +14,22 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[support-for-existing-communities#...]] and harvested by the brief. -->
+
+## 2026-08-30 A Facilitator Feedback Form appears in the CRM, due Aug 31
+- The daily digest surfaced a follow-up that exists nowhere else in the vault: "**Work on
+  Facilitator Feedback Form: Due Aug 31, 2026.**" No email, meeting note, or message says who
+  created it or what it is for.
+- Read alongside what is already filed, it fits an obvious gap. DTD has **no mechanism for
+  hearing from facilitators between Leadership Circle calls**, the Aug 27 call established
+  that facilitators "report monthly" through that channel, and the Monarch application
+  commits to facilitator reporting as one of four evaluation instruments. A feedback form
+  would be the first written channel from the people actually running dinners.
+- That reading is inference, not evidence — filed here because the due date is **today** and
+  the item would otherwise pass unrecorded.
+- action #open (John, due Aug 31): work on the Facilitator Feedback Form
+- category: Support for Existing Communities
+- source: "Your DTD reminders — 2026-08-30" (CRM follow-up digest)
+- links: [[support-for-existing-communities#2026-08-26 The facilitator guide gets a date — v1 by year end, and it rests on Dawson]], [[governance-and-org-development#2026-08-27 The facilitator/coordinator split gets a rule: three facilitators minimum]]
 
 ## 2026-08-27 Mike Mayer goes to a facilitation retreat; his bio is chased a third time
 - Reported to the Leadership Circle: "**Buena Vista: Co-facilitator Mike Mayer is attending

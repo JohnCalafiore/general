@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-08-29
+updated: 2026-08-31
 tags: [area]
 ---
 
@@ -14,6 +14,21 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-08-29 Another website-form contact — and this one arrived without a notification
+- The CRM digest records "**1 new contact (1 from the website form)**" for Saturday. The
+  website form keeps producing inbound leads — Travis Payne, Jameson Guthrie, and Jim Hight
+  in Ajo, Arizona are the ones with names.
+- **This one has no name.** Every previous form submission arrived as its own notification
+  email carrying at least the submitter's details; this time only the aggregate count came
+  through. Either the per-submission notification didn't fire, or it went somewhere this
+  harvest doesn't read. The lead exists in the CRM but is invisible from here, and an
+  unanswered inbound lead is the most expensive kind of thing to lose.
+- action #open (John): pull Saturday's website-form contact out of the CRM and follow up
+- action #open (John): check whether the per-submission form notification is still firing
+- category: Community Growth and Expansion
+- source: "Your DTD reminders — 2026-08-30" (CRM digest, reporting Aug 29 activity)
+- links: [[community-growth-and-expansion#2026-08-26 Inbound from Arizona: Jim Hight wants to start a community in Ajo]], [[platform-tools-and-infrastructure#2026-08-27 The CRM's daily digest is running — and John asks whether anyone else wants it]]
 
 ## 2026-08-27 Grand Junction doubles to 42 men in a month, Conifer hits 18
 - The Leadership Circle's headline number: "**Grand Junction: Attendance doubled from 29 to

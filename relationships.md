@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-29
+updated: 2026-08-31
 tags: [grounding, people]
 ---
 
@@ -243,9 +243,12 @@ Format — one H2 per person:
 - relationship: a **connection through John's mother**, who made the introduction ("my mom
   mentioned she'd connect the two of us... I know she thinks the world of you"). Approached
   2026-08-28 for **strategic guidance on structure, fundraising, and leadership** — advice,
-  not funding — with a request for 30–45 minutes with John and Andrew. Awaiting her reply.
+  not funding — with a request for 30–45 minutes with John and Andrew. **Replied 2026-08-30
+  saying yes** ("of course I would love to connect... I'm happy to help however I can") and
+  offered flexibility on timing, assuming John and Andrew work full time. Call not yet
+  scheduled.
 - source: Fathom recap, "DTD Budget review" 2026-08-20; "Introduction to Dude Talk Dinners"
-  2026-08-28
+  thread 2026-08-28 → 2026-08-30
 
 ## Bob Holt
 - email: **bobxholt@gmail.com**

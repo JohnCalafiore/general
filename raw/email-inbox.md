@@ -1,19 +1,46 @@
-# Gmail — Inbox (harvest window 2026-08-29T16:13:45Z → 2026-08-30T07:05Z)
+# Gmail — Inbox (harvest window 2026-08-30T07:06:07Z → 2026-08-31T07:08Z)
 
-## gmail-1a04f683b03f161c Google Search Console — "Congrats on reaching 120 clicks in 28 days!"
+## gmail-1a054513cd978fc1 Jennifer Ashley — "Re: Introduction to Dude Talk Dinners"
 
-from: sc-noreply@google.com
+from: jxashley@yahoo.com
 to: john.calafiore@dudetalkdinners.org
-date: 2026-08-29 21:23 UTC
+cc: andrew.wolff@dudetalkdinners.org
+date: 2026-08-30 20:16 UTC
 
-> **Google Search Impact — 120 — dudetalkdinners.org**
-> Congratulations! **Your site reached 120 clicks from Google Search in the past 28 days**
-> — Aug 27, 2026
+> Hi John,
+>
+> **What a wonderful thing you and Andrew are doing. Of course I would love to connect with
+> you and I'm happy to help however I can.**
+>
+> **Let's schedule a call.** I'm assuming you both are working full time so **let me know if
+> evenings are best for you or you prefer during the day. I can be a bit flexible.**
+>
+> I'm looking forward to talking with you both.
+>
+> Kind regards,
+> Jennifer
+>
+> Sent from Yahoo Mail for iPad
 
-An automated Search Console milestone notification, covering roughly Jul 31 – Aug 27.
+Reply within two days to John's Aug 28 introduction.
+
+---
+
+## gmail-1a053429ebf0801a "Your DTD reminders — 2026-08-30" (CRM digest)
+
+from: support@dudetalkdinners.org
+date: 2026-08-30 15:21 UTC
+
+> **Follow-ups** — **Work on Facilitator Feedback Form: Due Aug 31, 2026**
+> **Activity yesterday** — **1 new contact (1 from the website form)** · **1 email sent**
+
+The "Facilitator Feedback Form" is a follow-up not previously named anywhere in the vault.
+The new contact came through the website form on Aug 29; no notification giving the person's
+name or details arrived separately.
 
 ---
 
 ## gmail-noise Screened out this window
 
-- noreply@email.openai.com — "Your free month of ChatGPT Plus" (marketing, 08-29 21:19)
+- newsletter@menstherapy.online — "[MTO] What if being the 'good son' is still running your
+  life?" (newsletter, 08-30 19:54)

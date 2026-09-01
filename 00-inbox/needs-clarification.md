@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-31
+updated: 2026-09-01
 tags: [inbox]
 ---
 
@@ -18,6 +18,32 @@ Format the agent uses:
 ```
 
 <!-- entries begin below -->
+
+## 2026-09-01 What is "Big Tent," and how do you want to answer Elizabeth Anneka?
+- quote: "I wanted to reach back out since **we never got the chance to continue the
+  conversation after Big Tent**... see if there might be a natural opportunity to
+  collaborate" — Elizabeth Anneka, Touch & Intimacy Coach for Men, 2026-08-31
+- context: **Big Tent** appears nowhere else in the vault — an event you attended that
+  produced at least one contact and left no other trace, so there may be other follow-ups
+  from it I can't see. On the ask itself: this is the second inbound offer of *content* for
+  dinners in eight days, and it sits further from the "not therapy, counseling, or coaching"
+  line and the no-unsolicited-advice ground rule than Randy Duran's did. Not my call to make.
+- question: What was Big Tent (and are there other threads from it worth capturing)? And do
+  you want to take the 20 minutes, decline, or park it?
+- answer: <!-- write here -->
+
+## 2026-09-01 Is DTD running a paid Google Workspace tier while the nonprofit request is pending?
+- quote: "**9 users are missing 2SV account protections**" and "7 instances of app access from
+  unsafe devices" — Google Workspace Admin Console notice, 2026-08-31
+- context: This notice goes to an Admin Console owner, so there is a live Workspace org with
+  at least nine accounts. But the nonprofit Workspace application was **denied Aug 22** and a
+  **fresh activation request went in Aug 28** with a decision due around Sep 2. So the org is
+  running on something — presumably paid — while the discount is decided, which isn't
+  recorded anywhere.
+- question: Which tier is DTD actually on and what is it costing? (Separately, and regardless
+  of the answer: nine accounts without 2SV on the domain holding donor mail and board
+  documents is worth fixing this week.)
+- answer: <!-- write here -->
 
 ## 2026-08-31 What is the Facilitator Feedback Form, and is it yours?
 - quote: "**Follow-ups — Work on Facilitator Feedback Form: Due Aug 31, 2026**" — DTD CRM
@@ -128,7 +154,7 @@ Format the agent uses:
   there are other press hits I'm not seeing.)
 - answer: <!-- write here -->
 
-## 2026-08-28 What is the Workday Boulder application, and does the 100-men commitment match the roster?
+## 2026-08-28 [Workday half likely RESOLVED] What is the Workday Boulder application, and does the 100-men commitment match the roster?
 - quote: "I set it at $7,500, deliberately close to the **$7,700 you requested from Workday
   for Boulder**" and "**Unique men served.** I committed to at least 100 unique men. You have
   the BV roster. **Check it against six months of actuals before we lock that number.**"
@@ -137,6 +163,12 @@ Format the agent uses:
   is a commitment DTD will be reported against, currently unverified.
 - question: What's the Workday/Boulder application and should it be tracked alongside the
   others? And does six months of BV roster data support 100 unique men over the grant year?
+- **partial answer from the record (2026-08-31):** the grant scanner surfaced the **Workday
+  Foundation Human Connection Microgrant Program 2026** — up to $10,000, funds in-person
+  community-connection activities, open to grassroots orgs under a $500K budget, **cycle
+  closed July 31 2026**. That matches a $7,700 Boulder request submitted before the deadline,
+  so I've filed it as the likely referent and put the annual cycle on the grant calendar.
+  Confirm if that's right — and the **100-unique-men question is still open**.
 - answer: <!-- write here -->
 
 ## 2026-08-27 Is jeremy@frontrangefrc.com the same Jeremy who set up the Art call?

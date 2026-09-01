@@ -1,5 +1,5 @@
 ---
-updated: 2026-08-31
+updated: 2026-09-01
 tags: [grounding, people]
 ---
 
@@ -245,10 +245,34 @@ Format — one H2 per person:
   2026-08-28 for **strategic guidance on structure, fundraising, and leadership** — advice,
   not funding — with a request for 30–45 minutes with John and Andrew. **Replied 2026-08-30
   saying yes** ("of course I would love to connect... I'm happy to help however I can") and
-  offered flexibility on timing, assuming John and Andrew work full time. Call not yet
-  scheduled.
+  offered flexibility on timing, assuming John and Andrew work full time. **Booked the call
+  herself for Thu Sep 3, 2–3pm MDT — a full hour, more than the 30–45 minutes asked for.**
+  Calendar address is **jxashley@outlook.com** (she writes from the Yahoo address); timezone
+  America/New_York.
 - source: Fathom recap, "DTD Budget review" 2026-08-20; "Introduction to Dude Talk Dinners"
   thread 2026-08-28 → 2026-08-30
+
+## Elizabeth Anneka
+- org: **howtotouchwomen.com** — "**Touch & Intimacy Coach for Men**," described as "helping
+  men build excellent physical intimacy with women through embodied touch"
+- email: support@howtotouchwomen.com
+- relationship: met John in person at an event she calls "**Big Tent**" (not otherwise in the
+  record); wrote 2026-08-31 asking for **20 minutes** to explore "a natural opportunity to
+  collaborate." Her stated read of DTD — "creating spaces where men can actually sit down,
+  talk honestly, and feel less alone" — is accurate. No prior relationship in the record and
+  **no response sent**.
+- source: "Still open to connecting?" 2026-08-31
+
+## Jim Hight
+- email: jimhightwrites@gmail.com · phone 707.407.9455 ·
+  linkedin.com/in/jim-hight-8b78b52a
+- role: **Writer and Strategic Communications Consultant**
+- relationship: submitted the website form on **2026-08-26** from **Ajo, Arizona**, wanting to
+  start a local community. Replied to DTD's Aug 31 outreach an hour later to **withdraw** —
+  "I've been doing some reflecting since I filled in the form... **decided not to pursue this
+  for now. I'll follow your newsletter.**" Signs "Jim"; Gmail renders his name as James.
+- source: HubSpot form notification 2026-08-26; "Dude Talk Dinners Reaching Out" thread
+  2026-09-01
 
 ## Bob Holt
 - email: **bobxholt@gmail.com**

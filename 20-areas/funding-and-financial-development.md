@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-08-31
+updated: 2026-09-01
 tags: [area]
 ---
 
@@ -14,6 +14,38 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-08-31 Weekly grant scan: nothing new clears the bar, and the Workday question is answered
+- "**3 total open in the tracker — all carried over from prior weeks, nothing new made the cut
+  this run.**" Elevance (4/5, opens Jan 1 2027), DOJ OVW (2/5, **deadline Sep 8 — one week
+  out**), AmeriCorps Seniors RSVP (2/5, Oct 20). A week with no new opportunities is a
+  legitimate result, and the scanner saying so plainly is better than padding the list.
+- Two useful sharpenings. The DOJ item's full title is "Consolidated Grant Program to Assist
+  Children and Youth Affected by and to **Engage Men and Youth in Preventing Domestic
+  Violence**," and the scanner's verdict is blunt: the men-as-prevention-allies track fits,
+  but "its core focus is domestic violence prevention, **a stretch from DTD's peer-support
+  mission**." With Sep 8 a week away and no work started, this is effectively a decline unless
+  someone moves today. Elevance's local track is now enumerated —
+  **CA/FL/GA/IN/MO/NV/NY/OH/TX/VA**, no Colorado — confirming the national "scalable programs"
+  route.
+- **The Workday question from the Monarch draft is answered**: the scanner found "**Workday
+  Foundation — Human Connection Microgrant Program 2026** (up to $10,000, funds in-person
+  community-connection activities, welcomes grassroots orgs under $500K budget — **a strong
+  thematic fit**)," and notes **this cycle closed July 31 2026**. So the "$7,700 you requested
+  from Workday for Boulder" was almost certainly this microgrant, submitted before the July
+  deadline and now awaiting a decision. It "reads as an annual program," so the **2027 cycle
+  belongs on the grant calendar** alongside Elevance and Humana.
+- One forward-looking screen worth keeping: **CDC's Comprehensive Suicide Prevention Program
+  for States** is forecast at **$650K–$1.2M with applications ~April 2027**, and names men as
+  an at-risk group — but it "**requires a state/territorial health department to be the lead
+  applicant**." DTD can't lead it; DTD could be a named partner on someone else's, which is
+  exactly the grant co-writing the board adopted.
+- action #open (John/Andrew, by Sep 8): formally decline or start the DOJ OVW application
+- action #open (John): add the **Workday Human Connection Microgrant (annual, ~July close)**
+  to the grant calendar
+- category: Funding and Financial Development
+- source: "DTD Grant Finder — Weekly Digest (2026-08-31)" 2026-08-31
+- links: [[funding-and-financial-development#2026-08-24 Weekly grant scan: AmeriCorps Seniors is new, and the DOJ deadline is two weeks out]], [[funding-and-financial-development#2026-08-25 The Monarch Grant application is drafted — $7,500 for a full year of BV dinners]]
 
 ## 2026-08-28 Bob Holt is booked for Sep 2 — and he now has an email address
 - Andrew scheduled "**60 min meeting between Andrew Wolff and Bob**" for **Wed Sep 2,

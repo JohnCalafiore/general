@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-08-31
+updated: 2026-09-01
 tags: [area]
 ---
 
@@ -14,6 +14,36 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-08-31 Workspace is live and already flagging security gaps — 9 users without 2SV
+- A Google Workspace admin notice arrived: "**We found some security gaps for your
+  organization**," naming **7 instances of app access from unsafe devices** and — the one that
+  matters — "**9 users are missing 2SV account protections.** Without 2SV, a single instance
+  of password theft can pose huge risks."
+- Two things follow. First, the notice goes to an **Admin Console owner**, so DTD is
+  administering a Workspace org with **at least nine user accounts** — which sits oddly beside
+  the Aug 28 "activation request received" and the Aug 22 denial. Whether this is the paid
+  tier running while the nonprofit discount is decided, or something else, isn't stated.
+- Second, and regardless: **nine accounts without two-step verification** on the domain that
+  holds donor correspondence, the CRM login trail, and the board's documents is a real
+  exposure, and it is a five-minute fix in the Admin Console. DTD has already had one
+  account-security scare this month with the CRM lockout.
+- action #open (John): enforce 2SV across all Workspace users and review the unsafe-device
+  access
+- category: Platform, Tools, and Infrastructure
+- source: "[Notice] Possible unresolved security risks in your Admin Console" 2026-08-31
+- links: [[platform-tools-and-infrastructure#2026-08-28 Google Workspace for Nonprofits, applied for again]], [[00-inbox/needs-clarification|Needs clarification]]
+
+## 2026-08-31 DMARC hits 100% alignment on rising volume
+- Aug 24–31: **112 emails processed, 100% SPF or DKIM aligned, 0% not**. Volume back up from
+  94 the prior week, and the 2% misaligned tail is gone.
+- Small but worth holding as a baseline: the sending setup (ActiveCampaign plus Postmark) is
+  now clean at a moment when volume is about to rise — the Discord rollout, the year-end
+  campaign, and per-community donation pages all generate mail. A clean record before a push
+  is the useful time to have one.
+- category: Platform, Tools, and Infrastructure
+- source: "DMARC weekly digest for dudetalkdinners.org" 2026-08-31
+- links: [[platform-tools-and-infrastructure#2026-08-24 Email volume halves and DMARC alignment holds at 98%]]
 
 ## 2026-08-29 First organic-search number on the record: 120 clicks in 28 days
 - Search Console sent a milestone notice: "**Your site reached 120 clicks from Google Search

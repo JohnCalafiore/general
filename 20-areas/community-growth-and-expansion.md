@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-08-31
+updated: 2026-09-01
 tags: [area]
 ---
 
@@ -14,6 +14,26 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-09-01 Jim Hight withdraws an hour after DTD's reply — six days after he raised his hand
+- The Ajo, Arizona lead is closed, by his own choice: "**Gosh, I've been doing some
+  reflecting since I filled in the form on your website and have decided not to pursue this
+  for now. I'll follow your newsletter.** Good luck and God bless." John answered graciously
+  within six minutes — "No worries at all. Happy to connect in the future."
+- The timing is the lesson, and it's worth being straight about it. Jim submitted the form
+  on **Aug 26**; DTD's outreach went out **Aug 31 at 6:25pm MT**; he withdrew **one hour
+  later**. Six days of silence is long enough for someone's first impulse to cool, and his
+  own explanation — he'd "been doing some reflecting" *since* filling in the form — says
+  exactly that. Travis Payne waited two days, Jameson Guthrie one; this was the slowest
+  response to an inbound lead in the record, and it's the first one lost.
+- Not a total loss: he asked to stay on the newsletter, and he is a **writer and strategic
+  communications consultant** by trade — a useful person to know even if he isn't starting a
+  community.
+- action #open (John/Andrew): shorten the time from form submission to first reply — the
+  new-lead automation was meant to do this and still isn't running
+- category: Community Growth and Expansion
+- source: "Dude Talk Dinners Reaching Out" thread, John → Jim Hight → John, 2026-09-01
+- links: [[community-growth-and-expansion#2026-08-26 Inbound from Arizona: Jim Hight wants to start a community in Ajo]], [[community-growth-and-expansion#2026-08-14 Travis Payne answered by hand rather than by automation]]
 
 ## 2026-08-29 Another website-form contact — and this one arrived without a notification
 - The CRM digest records "**1 new contact (1 from the website form)**" for Saturday. The

@@ -1,6 +1,6 @@
 ---
 area: Support for Existing Communities
-updated: 2026-08-31
+updated: 2026-09-01
 tags: [area]
 ---
 
@@ -14,6 +14,30 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[support-for-existing-communities#...]] and harvested by the brief. -->
+
+## 2026-09-01 The BV QR code is delivered — the self-sufficiency pilot can actually start
+- John sent Justin the QR code for **Buena Vista's own Givebutter page**: "Hey Justin - this
+  is your QR code for BV's Givebutter page. **Give it a shot!**" — eight days after Justin
+  asked, and with an apology for the wait.
+- So the pilot Justin proposed on Aug 24 now has everything it needs: a **BV-specific
+  donation page** exists, and a **printable code to tape to the centre of the tables**. This
+  is the first per-community donation page confirmed live, and it makes BV the test case for
+  whether a community can fund its own dinners — the question running underneath the whole
+  in-kind and legal-structure argument.
+- Two honest caveats John volunteered, both worth fixing before the code goes on tables:
+  "**We're currently using our placeholder picture from the Idaho Springs dinner for all
+  fundraising campaigns**, but we can change that if you'd like" — a BV page showing an Idaho
+  Springs photo undercuts the local framing — and "**We can also change the amounts, which I
+  will most likely do at some point anyway**," meaning the suggested giving levels haven't
+  been set deliberately yet.
+- action #done (John, 2026-09-01): answer Justin on the QR code and the BV donation page
+- action #open (Justin): print the code, put it on the tables, and report what happens
+- action #open (John): swap the Idaho Springs placeholder photo for a BV image and set
+  deliberate donation amounts
+- category: Support for Existing Communities
+- source: "Re: Recap of your meeting with Western Colorado University," John to Justin Hall,
+  2026-09-01 (attachment: qr-code (2).png)
+- links: [[support-for-existing-communities#2026-08-24 A QR code on the table: piloting whether BV can support itself]], [[funding-and-financial-development#2026-08-24 Andrew researches Givebutter team fundraising for per-community pages]], [[funding-and-financial-development#2026-08-18 DECISION: community fundraising goes tiered — struggling communities keep what they raise]]
 
 ## 2026-08-30 A Facilitator Feedback Form appears in the CRM, due Aug 31
 - The daily digest surfaced a follow-up that exists nowhere else in the vault: "**Work on
@@ -99,8 +123,8 @@ responsibility but not to a specific dated project get logged here.
   need to be — but no reply is on record, so this is still an open ask of John.)
 - Depends on the BV donation page existing, which ties to Andrew's same-day team-fundraising
   research and the still-open per-community Givebutter pages.
-- action #open (John): answer Justin on generating the QR code and confirm the BV donation
-  page URL
+- action #done (John, 2026-09-01): answer Justin on generating the QR code and confirm the BV
+  donation page URL
 - category: Support for Existing Communities
 - source: email from Justin Hall, "Re: Recap of your meeting with Western Colorado
   University" 2026-08-24

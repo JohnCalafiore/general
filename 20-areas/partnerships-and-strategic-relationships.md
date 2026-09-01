@@ -1,6 +1,6 @@
 ---
 area: Partnerships and Strategic Relationships
-updated: 2026-08-31
+updated: 2026-09-01
 tags: [area]
 ---
 
@@ -14,6 +14,48 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[partnerships-and-strategic-relationships#...]] and harvested by the brief. -->
+
+## 2026-08-31 The Vibrant call is on the calendar: Thu Sep 3, a full hour
+- John answered Jennifer's timing question with the least friction possible — "**Either day
+  or evening works on our end, so please pick whatever is easiest for you**" — and sent
+  Andrew's Cal.com link. **She booked it herself the same day**: Thu Sep 3, 2:00–3:00pm MDT
+  on Google Meet, with a note on the booking: "Looking forward to talking with you and John.
+  **If this isn't the best time for you just let me know and I can find another.**"
+- Two details worth recording. She asked for **60 minutes**, not the 30–45 John proposed —
+  she's giving more time than was requested. And her calendar timezone is **America/New_York**
+  and she booked from **jxashley@outlook.com**, while she wrote from a Yahoo address; use the
+  Outlook address for anything calendar-related.
+- Ask-to-booked in **three days**, from a personal introduction. Worth noting how much faster
+  that moved than DTD's cold outreach.
+- action #open (John/Andrew, before Sep 3): decide what you actually want out of the hour —
+  she offered "help however I can," which needs a specific ask to be useful
+- category: Partnerships and Strategic Relationships
+- source: "Re: Introduction to Dude Talk Dinners" 2026-08-31; calendar invitation "60 min
+  meeting between Andrew Wolff and Jennifer Ashley" 2026-08-31
+- links: [[partnerships-and-strategic-relationships#2026-08-30 Jennifer Ashley says yes — and asks whether evenings work better]], [[relationships#Jennifer Ashley]]
+
+## 2026-08-31 An inbound collaboration ask from a touch-and-intimacy coach met at "Big Tent"
+- **Elizabeth Anneka** wrote in following up on a face-to-face meeting: "I wanted to reach
+  back out since **we never got the chance to continue the conversation after Big Tent**." She
+  describes herself as a "**Touch & Intimacy Coach for Men** — helping men build excellent
+  physical intimacy with women through embodied touch," and links a video of a men's-group
+  leader who brought her work to his community, plus a "**Bringing This Work to Your Group**"
+  page.
+- Her read of DTD is genuine and accurate: "**Creating spaces where men can actually sit down,
+  talk honestly, and feel less alone aligns well with the conversations I care about too.**"
+  The ask is modest — **20 minutes** by phone or Zoom — to explore "**a natural opportunity to
+  collaborate**."
+- This is the second inbound offer of *content* for dinners in eight days, after Randy Duran's
+  discussion topic, and it presses harder on the same line: DTD holds that a dinner is "not
+  therapy, counseling, or coaching," and its published ground rules include **no unsolicited
+  advice** and a substance-free, non-clinical room. A collaboration built around intimacy
+  coaching is a long way from that, whatever its merits.
+- "**Big Tent**" appears nowhere else in the vault — an event John attended that produced at
+  least one contact and left no other trace.
+- action #open (John): decide how to answer Elizabeth Anneka
+- category: Partnerships and Strategic Relationships
+- source: "Still open to connecting?" from support@howtotouchwomen.com 2026-08-31
+- links: [[partnerships-and-strategic-relationships#2026-08-23 Inbound pitch: a mental-health coach offers a discussion topic for dinners]], [[30-resources/dinner-format-and-ground-rules|The dinner format and ground rules]], [[00-inbox/needs-clarification|Needs clarification]]
 
 ## 2026-08-30 Jennifer Ashley says yes — and asks whether evenings work better
 - A warm reply inside two days: "**What a wonderful thing you and Andrew are doing. Of course

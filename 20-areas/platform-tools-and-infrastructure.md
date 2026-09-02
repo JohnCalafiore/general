@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-09-01
+updated: 2026-09-02
 tags: [area]
 ---
 
@@ -14,6 +14,53 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-09-01 RESOLVED: DTD is on a paid Google Workspace subscription, auto-charged monthly
+- The monthly invoice arrived — domain **dudetalkdinners.org**, name **Dude Talk Dinners**,
+  invoice **5672364871**, payments profile **4327-8402-6149** — with "**The balance will be
+  automatically charged so you don't need to take any action.**"
+- That answers yesterday's open question directly: DTD is **paying for Workspace month to
+  month** while the nonprofit discount application sits pending (denied Aug 22, re-applied
+  Aug 28, decision due ~Sep 2). The amount is in the attached PDF, which the connector can't
+  read, so **the monthly cost is still unknown** — worth checking, since a nine-user Workspace
+  bill is a recurring line the budget hasn't accounted for anywhere in this vault.
+- action #open (John): note the monthly Workspace charge and add it to the budget; if the
+  nonprofit application is approved, confirm the billing actually switches
+- category: Platform, Tools, and Infrastructure
+- source: "Google Workspace: Your invoice is available for dudetalkdinners.org" 2026-09-01
+- links: [[platform-tools-and-infrastructure#2026-08-31 Workspace is live and already flagging security gaps — 9 users without 2SV]], [[platform-tools-and-infrastructure#2026-08-28 Google Workspace for Nonprofits, applied for again]]
+
+## 2026-09-01 DTD is transitioning off HubSpot
+- Said plainly, and to an outsider, in a two-line reply declining a cold pitch: "**We're
+  actually in the process of transitioning off of Hubspot** - thanks for the offer, though."
+- This is the first explicit statement anywhere in the vault that HubSpot is on the way out.
+  It has been the source of the website contact-form notifications and the CRM of record for
+  new leads, and the custom **Supabase-backed CRM** has been steadily taking over that work —
+  donation alerts, contact creation, donor linking, and the daily digest all now run through
+  it. The reply confirms the direction rather than announcing it.
+- Worth flagging one dependency before the switch completes: the **website form
+  notifications** still come through HubSpot, and Saturday's website lead already arrived
+  without one. Anything still hanging off HubSpot needs a home before it's turned off.
+- action #open (John): inventory what still depends on HubSpot — website form, contact
+  records, workflows — before decommissioning
+- category: Platform, Tools, and Infrastructure
+- source: "Re: hubspot," John to dan@trymergeyourdata.com, 2026-09-01
+- links: [[platform-tools-and-infrastructure#2026-08-27 The CRM's daily digest is running — and John asks whether anyone else wants it]], [[community-growth-and-expansion#2026-08-29 Another website-form contact — and this one arrived without a notification]]
+
+## 2026-09-01 A Google Ads setup call is booked — and it collides with the marketing regroup
+- Google booked a phone call for **Wed Sep 2, 10:30–11:00am MDT** — "**Arcell Reñosa will call
+  you on the phone**... we will discuss **optimal setup for your campaign**" — which is a
+  Google Ads onboarding call, presumably following the **Google for Nonprofits** track that
+  includes **Google Ad Grants**.
+- Two things worth noticing. It is the first sign of paid/granted search advertising being set
+  up, which sits slightly against the Aug 26 social-media decision to favour "**organic
+  campaigns and media appearances over paid ads**" — though an Ad Grant is donated inventory,
+  not spend. And it **overlaps the "DTD regroup (social media and marketing)" session** Andrew
+  booked for 10:00–11:30am the same morning, by thirty minutes.
+- action #open (John): resolve the Sep 2 double-booking before 10:30am
+- category: Platform, Tools, and Infrastructure
+- source: "Invitation: Your meeting with Google @ Wed Sep 2" 2026-09-01; calendar
+- links: [[presentations-events-public-presence#2026-08-26 "Why DudeTalk Dinners?" — a testimonial-and-data campaign, with Darren as the frame]], [[platform-tools-and-infrastructure#2026-08-28 Google Workspace for Nonprofits, applied for again]]
 
 ## 2026-08-31 Workspace is live and already flagging security gaps — 9 users without 2SV
 - A Google Workspace admin notice arrived: "**We found some security gaps for your

@@ -1,305 +1,257 @@
-<!-- generated 2026-09-01T07:09:42+00:00 | 23 new of 23 blocks; synthesis must read ONLY this file, not raw/ -->
+<!-- generated 2026-09-02T13:01:00+00:00 | 21 new of 21 blocks; synthesis must read ONLY this file, not raw/ -->
 
 <!-- source: calendar.md -->
-# Google Calendar (harvest window 2026-08-31T07:09:52Z → 2026-09-01T07:07Z)
-
----
-
-<!-- source: calendar.md -->
-## cal-d1ojcujoad67ami38p23aqjg 60 min meeting between Andrew Wolff and Jennifer Ashley
-
-when: **Thu 2026-09-03, 2:00–3:00pm MDT**
-organizer: andrew.wolff@dudetalkdinners.org
-attendees: Andrew (accepted), John (accepted), **jxashley@outlook.com** (accepted)
-conference: https://meet.google.com/ujk-mofy-dwo
-created: 2026-08-31 20:00 UTC · booked via Cal.com · invitee timezone **America/New_York**
-
-Booking note left by Jennifer: "**Looking forward to talking with you and John. If this
-isn't the best time for you just let me know and I can find another. Jennifer**"
+# Google Calendar (harvest window 2026-09-01T07:09:42Z → 2026-09-02T07:07Z)
 
 ---
 
 <!-- source: calendar.md -->
-## cal-4k6jmh9mhpgpa36mvefk07gtr7 travel
+## cal-qf09d60475ini7bq5j6nt8vpts DTD : RMCP
 
-when: Tue 2026-09-01, 9:00–10:00am MDT · **created by John himself**, no attendees
-created: 2026-08-31 22:33 UTC
-
-A one-hour block immediately before the RMCP coffee — travel time to 92 Wadsworth Blvd.
+when: **Tue 2026-09-15, 2:00–3:00pm MDT** · Google Meet
+organizer: Andrew Wolff · attendees: Andrew (accepted), John (accepted),
+**bmarquez@rmcrisispartners.org (needsAction)**
+created: 2026-09-01 17:38 UTC — hours after the morning coffee
 
 ---
 
 <!-- source: calendar.md -->
-## cal-unchanged The rest of the week
+## cal-7d6rcolakt36b9kr0bp4btro44 DTD regroup (social media and marketing)
 
-**RMCP and DTD connection at Starbucks** (Tue Sep 1, 10–11am MDT, 92 Wadsworth Blvd, all
-three accepted) · **45 min meeting between Andrew Wolff and Greg Vochis** (Tue Sep 1,
-1:00–1:45pm; touched 2026-09-01 04:41 UTC with no visible change) · **60 min meeting between
-Andrew Wolff and Bob** [Holt] (Wed Sep 2, 3–4pm). None cancelled or moved.
+when: **Wed 2026-09-02, 10:00–11:30am MDT** · Google Meet
+organizer: Andrew Wolff · attendees: Andrew (accepted), John (accepted),
+**dawsonjwolf03@gmail.com (needsAction)**
+created: 2026-09-01 21:02 UTC
+
+---
+
+<!-- source: calendar.md -->
+## cal-google-ads-2026-09-02 Your meeting with Google
+
+when: **Wed 2026-09-02, 10:30–11:00am MDT** · phone call from **Arcell Reñosa**
+A Google Ads campaign-setup call. **Overlaps the DTD regroup by 30 minutes.**
+
+---
+
+<!-- source: calendar.md -->
+## cal-unchanged Already-filed events still on the books
+
+**60 min meeting between Andrew Wolff and Bob** [Holt] — Wed Sep 2, 3–4pm MDT, all accepted.
+**60 min meeting between Andrew Wolff and Jennifer Ashley** — Thu Sep 3, 2–3pm MDT, all
+accepted. **DTD Board Meeting 3rd Friday** — Fri Sep 18, 10:00–11:30am MDT, organized by
+Justin Hall; everyone accepted except chris.peterson@dudetalkdinners.org (needsAction),
+though christine.peterson@westernalum.org has accepted.
 
 ---
 
 <!-- source: email-inbox.md -->
-# Gmail — Inbox (harvest window 2026-08-31T07:09:52Z → 2026-09-01T07:07Z)
+# Gmail — Inbox (harvest window 2026-09-01T07:09:42Z → 2026-09-02T07:07Z)
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-1a05820a84e699a9 DPP — "AI Practice Session: From Donor Personas to Personalized Campaigns"
+## gmail-1a05d4a5f30fcdcc Google Workspace — "Your invoice is available for dudetalkdinners.org"
 
-from: joindpp@user.luma-mail.com · date: 2026-08-31 14:02 UTC
+from: payments-noreply@google.com · date: 2026-09-01 14:05 UTC
 
-Louis Diez invitation. Second DPP practice session offered in a week (the Sep 15 "Zero to
-Fundraising" invite came Aug 24).
-
----
-
-<!-- source: email-inbox.md -->
-## gmail-1a0583fb02ace059 Google Workspace — "[Notice] Possible unresolved security risks in your Admin Console"
-
-from: workspace-noreply@google.com · date: 2026-08-31 14:36 UTC
-
-> We found some security gaps for your organization... Take action now to better protect
-> your organization
-> - **7 instances of app access from unsafe devices** — "Bad actors can easily exploit and
->   steal data from unsecured devices"
-> - **9 users are missing 2SV account protections** — "Without 2SV, a single instance of
->   password theft can pose huge risks"
-
-Sent to the Admin Console owner, so **DTD is administering a Google Workspace org with at
-least 9 users**.
-
----
-
-<!-- source: email-inbox.md -->
-## gmail-1a058db917e13b63 OpenAI — "ChatGPT - Your new plan"
-
-from: noreply@tm.openai.com · date: 2026-08-31 17:26 UTC
-
-"**You've successfully subscribed to ChatGPT Plus. Enjoy your first month free.**" Taken up
-on the free-month offer that arrived Aug 29.
-
----
-
-<!-- source: email-inbox.md -->
-## gmail-1a0594a924b0104a Elizabeth Anneka — "Still open to connecting?"
-
-from: support@howtotouchwomen.com · date: 2026-08-31 19:27 UTC
-
-> Hi John,
+> Your **Google Workspace monthly invoice** is available... **IMPORTANT: The balance will be
+> automatically charged** so you don't need to take any action.
 >
-> I wanted to reach back out since **we never got the chance to continue the conversation
-> after Big Tent**.
->
-> It was really nice connecting with you there, and I'm still interested in the work you're
-> doing with Dude Talk Dinners. **Creating spaces where men can actually sit down, talk
-> honestly, and feel less alone aligns well with the conversations I care about too.**
->
-> Would you be open to a **quick 20-minute phone or Zoom conversation** sometime in the next
-> few weeks? I'd love to hear more about what you're building and **see if there might be a
-> natural opportunity to collaborate** somewhere along the way.
->
-> Warmly, Elizabeth
->
-> **Elizabeth Anneka — Touch & Intimacy Coach for Men.** "Helping men build excellent
-> physical intimacy with women through embodied touch."
-> Links: a YouTube video, "A Men's Group Leader Shares His Experience" (Kevin Hermann on
-> bringing this work to his community), and howtotouchwomen.com/collaborate
+> Domain **dudetalkdinners.org** · Name **Dude Talk Dinners** · Invoice number **5672364871**
+> · Payments profile ID **4327-8402-6149**
 
-One PNG attachment. "**Big Tent**" is an event not otherwise in the vault.
+PDF attached (5672364871.pdf); the amount is in the attachment, not the body. Confirms DTD
+is on a **paid, auto-charged Workspace subscription**.
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-1a059a53bbb3c5b8 Postmark — "DMARC weekly digest for dudetalkdinners.org"
+## gmail-1a05e28a5a4dbff8 Cold pitch — "hubspot"
 
-from: dmarc@postmarkapp.com · date: 2026-08-31 21:06 UTC
+from: dan@trymergeyourdata.com · date: 2026-09-01 18:08 UTC
 
-Aug 24 – Aug 31. Sources: ActiveCampaign, Postmark.
-- **112 emails processed** (up from 94 the prior week)
-- **100% SPF or DKIM aligned**
-- **0% SPF and DKIM not aligned**
+"Hi John, I noticed you're a HubSpot user - are you getting the most out of it? I can plug
+revenue leaks, close reporting gaps, clean up messy data, and automate the manual work..."
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-1a059f4313474481 Calendar invitation — "60 min meeting between Andrew Wolff and Jennifer Ashley"
+## gmail-1a05e0d63734a678 Calendar invitation — "DTD : RMCP"
 
 from: andrew.wolff@dudetalkdinners.org
-to: john.calafiore@dudetalkdinners.org, **jxashley@outlook.com**
-date: 2026-08-31 22:32 UTC
+to: john.calafiore@, **bmarquez@rmcrisispartners.org**
+date: 2026-09-01 17:38 UTC
 
-**Thu Sep 3, 2026, 2:00–3:00pm MDT**, Google Meet. Invitee timezone **America/New_York**.
-Booked via Cal.com. Jennifer's note on the booking: "**Looking forward to talking with you
-and John. If this isn't the best time for you just let me know and I can find another.
-Jennifer**" — she booked it herself. Note the address differs from the one she wrote from
-(jxashley@yahoo.com).
+**Tue Sep 15, 2026, 2:00–3:00pm MDT**, Google Meet. Booked the same day as the Starbucks
+coffee. Bev Marquez has **not yet responded**; Andrew and John accepted.
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-1a05a92a460347dc Jim Hight — "Re: Dude Talk Dinners Reaching Out"
+## gmail-1a05ec854879c251 Calendar invitation — "DTD regroup (social media and marketing)"
 
-from: jimhightwrites@gmail.com · cc andrew.wolff@ · date: 2026-09-01 01:25 UTC
+from: andrew.wolff@dudetalkdinners.org
+to: john.calafiore@, **dawsonjwolf03@gmail.com**
+date: 2026-09-01 21:03 UTC
 
-> John and Andrew,
->
-> Gosh, **I've been doing some reflecting since I filled in the form on your website and
-> have decided not to pursue this for now. I'll follow your newsletter.** Good luck and God
-> bless,
-> Jim
->
-> **Jim Hight — Writer and Strategic Communications Consultant** · 707.407.9455 ·
-> linkedin.com/in/jim-hight-8b78b52a
+**Wed Sep 2, 2026, 10:00–11:30am MDT**, Google Meet. Andrew and John accepted; **Dawson has
+not responded**.
 
-Sent one hour after John's outreach.
+---
+
+<!-- source: email-inbox.md -->
+## gmail-1a05efe6a8668931 Calendar invitation — "Your meeting with Google"
+
+from: calendar-notification@google.com · date: 2026-09-01 22:02 UTC
+
+**Wed Sep 2, 2026, 10:30–11:00am MDT.** "**Arcell Reñosa will call you on the phone**, please
+mark this meeting in your calendar. During the meeting, we will discuss **optimal setup for
+your campaign**, your current [account]..." A Google Ads onboarding call.
+
+**Note: this overlaps the DTD regroup** (10:00–11:30am) by half an hour.
 
 ---
 
 <!-- source: email-inbox.md -->
 ## gmail-noise Screened out this window
 
-- hello@mail.betherecertificate.org — "Learn How to Start the Conversation..." (marketing)
-- maxj@maxjmiller.com — "Is 'soul' too much?" (newsletter)
+- noreply@email.openai.com — "Welcome to ChatGPT Plus" (duplicate of the Aug 31 confirmation)
+- product@fathom.video — API product update
+- zeno@updates.resend.com — product newsletter
+- support@givebutter.com — "[Free download] Fundraising metrics tracker"
+- support@theawakenedschool.com — newsletter
 
 ---
 
 <!-- source: email-sent.md -->
-# Gmail — Sent (harvest window 2026-08-31T07:09:52Z → 2026-09-01T07:07Z)
+# Gmail — Sent (harvest window 2026-09-01T07:09:42Z → 2026-09-02T07:07Z)
 
 ---
 
 <!-- source: email-sent.md -->
-## gmail-sent-1a058302293859bf "Re: Introduction to Dude Talk Dinners" — John to Jennifer Ashley
+## gmail-sent-1a05ebfb0b71576d "Have a great DTD tonight!" — Andrew to a facilitator group
 
-date: 2026-08-31 14:19 UTC · cc andrew.wolff@
+from: andrew.wolff@dudetalkdinners.org
+to: **Alec.rand.83@gmail.com, bobxholt@gmail.com, bwttraining23@gmail.com,
+grandmesacounseling@gmail.com, cwheaton@healthsolutionswest.org, Andycsweet@gmail.com**
+cc: john.calafiore@dudetalkdinners.org
+date: 2026-09-01 20:53 UTC
 
-> Hi Jennifer,
+> Hi guys,
 >
-> Thank you for the kind words! We're grateful you're willing to make the time. **Either day
-> or evening works on our end, so please pick whatever is easiest for you. Andrew's**
-> [scheduling link follows]
-
----
-
-<!-- source: email-sent.md -->
-## gmail-sent-1a058b977c76a15b "DTD Grant Finder — Weekly Digest (2026-08-31)"
-
-self-sent to john.calafiore@ and andrew.wolff@ · date: 2026-08-31 16:49 UTC
-
-"**3 total open in the tracker — all carried over from prior weeks, nothing new made the cut
-this run.**"
-
-1. **Elevance Health Foundation — Behavioral Health Grant Program.** Fit 4/5. Opens Jan 1
-   2027, due Jan 31 2027. Local track limited to **10 states (CA/FL/GA/IN/MO/NV/NY/OH/TX/VA)**
-   — DTD would apply under the national "scalable programs" track. "Mark the Jan 1 open date
-   now."
-2. **DOJ Office on Violence Against Women FY2026** — full title "Consolidated Grant Program to
-   Assist Children and Youth Affected by and to **Engage Men and Youth in Preventing Domestic
-   Violence**." Fit 2/5, **deadline Sep 8 2026**. "Includes a track for engaging men as
-   prevention allies — but its core focus is domestic violence prevention, **a stretch from
-   DTD's peer-support mission**."
-3. **AmeriCorps FY2027 Seniors RSVP Competition.** Fit 2/5, deadline Oct 20 2026. "Could fund
-   **volunteer recruitment (55+)** for dinner facilitation, but the program itself isn't
-   targeted at men's mental health or suicide prevention."
-
-**Screened this run:**
-- "**Workday Foundation — Human Connection Microgrant Program 2026** (up to $10,000, funds
-  in-person community-connection activities, welcomes grassroots orgs under $500K budget —
-  **a strong thematic fit**). **This cycle's deadline was July 31, 2026**, which had already
-  passed by the time this scan ran. It reads as an annual program, so **worth watching for a
-  2027 announcement**."
-- "**CDC — Comprehensive Suicide Prevention Program for States** (currently a forecast,
-  **~$650K–$1.2M awards, applications expected ~April 2027**). On-topic... and names men as an
-  at-risk group, but structurally **requires a state/territorial health department to be the
-  lead applicant** with epidemiology staff and data-sharing infrastructure — not something DTD
-  could lead, though it's a data point on what CDC is prioritizing."
-- HHS ACF National Research Center for Promoting Work and Strong Families — "requires standing
-  up a national research center; not a fit."
-
-**Sources checked:** Grants.gov (keyword variants across suicide prevention, peer support /
-men's health, loneliness / social connection, community mental health, filtered to
-501(c)(3)-eligible — "most hits remain NIH research grants requiring academic infrastructure").
-Watchlist: **Movember** — "no new US-facing cycle... remains Canada/Ireland/UK/California-only";
-**Humana Foundation** — FY2027 Connected Healthy Lives "not yet open (opens annually in Q1)";
-**Cigna Group Foundation** — no new cycle; **Elevance** — on track, unchanged. Giving days,
-pitch competitions and national sponsorships "came back empty of genuine new apply-to
-opportunities this week."
-
-"— Automated weekly scan. Data lives in **Supabase (project cwgtnpcjhhlzubywrzar, table
-discovered_opportunities)**."
-
----
-
-<!-- source: email-sent.md -->
-## gmail-sent-1a05a5bb6d592cc8 "Dude Talk Dinners Reaching Out" — John to Jim Hight
-
-date: 2026-09-01 00:25 UTC · cc andrew.wolff@
-
-The standard warm-outreach template: "Thanks for reaching out about Dude Talk Dinners...
-We would love to learn more about you, what drew you to this, and the initial steps to get
-things started. **The best next step is a call**... Please click here to see our available
-times" (cal.com/andrew-wolff/30min). Signed "Andrew & John."
-
-Sent **six days** after Jim's Aug 26 website-form submission.
-
----
-
-<!-- source: email-sent.md -->
-## gmail-sent-1a05a982ecc1677a "Re: Dude Talk Dinners Reaching Out" — John's reply to the withdrawal
-
-date: 2026-09-01 01:31 UTC · cc andrew.wolff@
-
-> **Hi James,**
+> Just a quick message to wish you all another fun and impactful **dinner tonight**.
 >
-> No worries at all. Happy to connect in the future, hope all is well!
+> Here is a quick update from last Thursday's Leadership Circle call **which Bob and Alec
+> attended**. **DTD is rolling out a chat app so guys can stay connected between dinners. We
+> landed on Discord, and we're aiming to launch it in the next week or two.**
+>
+> If it feels natural tonight, feel free to mention it to the group. **For anyone interested
+> in joining, we'll just need a phone number or email address to add them. A sign-in sheet has
+> worked well for other communities** if that's an easy way for you to collect the info (and
+> if it feels right for you).
+>
+> Please let us know how it goes tonight and as always please reach out with any questions or
+> ideas that you may have.
+>
+> All the best, Andrew
 
-(Addressed to "James" though he signs "Jim"; Gmail renders his display name as James Hight.)
+Note **bobxholt@gmail.com** — the same address booked for the Sep 2 "fundraising strategy"
+meeting — is on this facilitator list and attended the Aug 27 Leadership Circle.
 
 ---
 
 <!-- source: email-sent.md -->
-## gmail-sent-1a05ae7717f4373b "Re: Recap of your meeting..." — the BV QR code, delivered
+## gmail-sent-1a05e99d8decb37b "Re: hubspot" — John declines a cold pitch, and states a platform direction
 
-to: justin.hall@dudetalkdinners.org · date: 2026-09-01 02:58 UTC
-attachment: **qr-code (2).png**
+to: dan@trymergeyourdata.com · date: 2026-09-01 20:12 UTC
 
-> Hey Justin - **this is your QR code for BV's Givebutter page. Give it a shot!** Please let
-> me know if you want to change anything on the page. **We're currently using our placeholder
-> picture from the Idaho Springs dinner for all fundraising campaigns**, but we can change
-> that if you'd like. **We can also change the amounts, which I will most likely do at some
-> point anyway.**
+> Hi Dan,
 >
-> Thanks for your patience!
-> John — **Chief Operating Officer**
-
-Answers Justin's Aug 24 question, eight days later.
+> **We're actually in the process of transitioning off of Hubspot** - thanks for the offer,
+> though. Best of luck to you.
+>
+> Regards, John — **Chief Operating Officer**
 
 ---
 
 <!-- source: meetings.md -->
-# Meetings — Fathom / Granola (harvest window 2026-08-31T07:09:52Z → 2026-09-01T07:07Z)
+# Meetings — Fathom / Granola (harvest window 2026-09-01T07:09:42Z → 2026-09-02T07:07Z)
 
 ---
 
 <!-- source: meetings.md -->
-## meetings-empty-2026-09-01 No meetings recorded
+## meetings-granola-greg-vochis-2026-09-01 Granola: Greg Vochis call — governance and financial structure
 
-Granola: "**No meetings or notes were found for August 31 or September 1, 2026.** It looks
-like those two days are clear in your records." No Fathom recap emails arrived. Nothing was
-scheduled for Monday; Tuesday's RMCP coffee and Greg Vochis call are still ahead.
+when: 2026-09-01, 1:00pm MDT · 45 minutes · Greg Vochis, Andrew Wolff, John Calafiore
+
+Three governance models discussed:
+- "**Greg's preference: Model 1 (centralized)** — all transactions flow through Dude Talk
+  Central, with **restricted funds tracking chapter-level giving via QuickBooks**. One bank
+  account, no physical segregation."
+- "**Model 3 (fiscal sponsorship)** is the alternative — local entity has its own bank
+  account; a '**fourth model**' variant is **already operating in Gunnison, Summit County, and
+  Bailey**."
+- "**Control & liability:** consensus to **start with more oversight and loosen later**. DNO
+  and general liability insurance in place; **facilitator agreements need to clearly define
+  roles**."
+- "**Reimbursement model:** facilitators pay vendors upfront, then get reimbursed — Greg's
+  preference for simplicity."
+
+Next steps recorded:
+- "**Apply for Colorado Nonprofit Association legal office hours (Wednesdays 9–5 via Zoom)**"
+- "Read *Fiscal Sponsorship: Six Ways to Do It*"
+- "**Bring governance model decision to the board**"
+- "**Arrange a joint call with Greg and a nonprofit lawyer**"
+
+---
+
+<!-- source: meetings.md -->
+## meetings-granola-car-ride-is-2026-09-01 Granola: "Car ride to IS" — corporate/B2B strategy
+
+when: 2026-09-01, 2:18pm MDT · a **solo brainstorm** (no other participants)
+
+- "**Core idea:** Charge **~$10K/company to train 5 employees as certified DudeTalk
+  facilitators**, potentially **partnering with Rocky Mountain Crisis Partners** for
+  specialized training."
+- "**Value prop to companies:** Employee wellbeing, **CSR/HR checkboxes**, and '**stealth**'
+  leadership identification."
+- "**Women's version:** Corporate environment flagged as the **natural entry point**, driven
+  by DEI/equality requirements."
+- "**Key next steps:** Research HR receptivity to wellbeing programs, **define the
+  'dudification' certification package**, and **identify senior dinner attendees to pilot the
+  pitch**."
+
+Granola's own summary speculates this was "likely the RMCP Starbucks thinking session" —
+that is the tool's inference, not something stated in the note. The timing (2:18pm) is
+**after** the 10–11am Starbucks meeting, so it reads as reflection on the drive home.
+
+---
+
+<!-- source: meetings.md -->
+## meetings-gap-rmcp-starbucks-2026-09-01 The RMCP meeting itself has no record
+
+"**RMCP and DTD connection at Starbucks**" ran **Tue Sep 1, 10:00–11:00am MDT** at 92
+Wadsworth Blvd with **Bev Marquez**, Andrew, and John, all accepted. **No Granola note, no
+Fathom recap, and no follow-up email describes it.** What is on record is downstream: a
+follow-up "**DTD : RMCP**" call was booked for **Sep 15** within hours, and the solo car-ride
+brainstorm that afternoon proposes **partnering with RMCP on corporate facilitator
+training** — both consistent with a productive meeting, neither a substitute for a record of
+it.
 
 ---
 
 <!-- source: slack.md -->
-# Slack (harvest window 2026-08-31T07:09:52Z → 2026-09-01T07:07Z)
+# Slack (harvest window 2026-09-01T07:09:42Z → 2026-09-02T07:07Z)
 
 ---
 
 <!-- source: slack.md -->
-## slack-empty-2026-09-01 Fifth consecutive empty sweep
+## slack-D0AHRCQ924E-1788296916 DM Andrew Wolff → John Calafiore
 
-No messages in any public channel, private channel, or DM after 2026-08-30. The last
-recorded Slack activity remains John's DM to Andrew on 2026-08-26 21:32 MDT — five days.
-(The first search attempt returned a 502 from the connector; a retry a minute later returned
-cleanly with no results, so the empty result is real, not a failed call.)
+when: 2026-09-01 15:08:36 MDT
+permalink: https://dudetalkdinners.slack.com/archives/D0AHRCQ924E/p1788296916427659
+
+> Fyqkep-8qemne-myhboj
+
+A bare string in the shape of a Google Meet code, with no context. First Slack message in
+six days.

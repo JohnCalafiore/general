@@ -1,30 +1,34 @@
-# Google Calendar (harvest window 2026-08-31T07:09:52Z → 2026-09-01T07:07Z)
+# Google Calendar (harvest window 2026-09-01T07:09:42Z → 2026-09-02T07:07Z)
 
-## cal-d1ojcujoad67ami38p23aqjg 60 min meeting between Andrew Wolff and Jennifer Ashley
+## cal-qf09d60475ini7bq5j6nt8vpts DTD : RMCP
 
-when: **Thu 2026-09-03, 2:00–3:00pm MDT**
-organizer: andrew.wolff@dudetalkdinners.org
-attendees: Andrew (accepted), John (accepted), **jxashley@outlook.com** (accepted)
-conference: https://meet.google.com/ujk-mofy-dwo
-created: 2026-08-31 20:00 UTC · booked via Cal.com · invitee timezone **America/New_York**
-
-Booking note left by Jennifer: "**Looking forward to talking with you and John. If this
-isn't the best time for you just let me know and I can find another. Jennifer**"
+when: **Tue 2026-09-15, 2:00–3:00pm MDT** · Google Meet
+organizer: Andrew Wolff · attendees: Andrew (accepted), John (accepted),
+**bmarquez@rmcrisispartners.org (needsAction)**
+created: 2026-09-01 17:38 UTC — hours after the morning coffee
 
 ---
 
-## cal-4k6jmh9mhpgpa36mvefk07gtr7 travel
+## cal-7d6rcolakt36b9kr0bp4btro44 DTD regroup (social media and marketing)
 
-when: Tue 2026-09-01, 9:00–10:00am MDT · **created by John himself**, no attendees
-created: 2026-08-31 22:33 UTC
-
-A one-hour block immediately before the RMCP coffee — travel time to 92 Wadsworth Blvd.
+when: **Wed 2026-09-02, 10:00–11:30am MDT** · Google Meet
+organizer: Andrew Wolff · attendees: Andrew (accepted), John (accepted),
+**dawsonjwolf03@gmail.com (needsAction)**
+created: 2026-09-01 21:02 UTC
 
 ---
 
-## cal-unchanged The rest of the week
+## cal-google-ads-2026-09-02 Your meeting with Google
 
-**RMCP and DTD connection at Starbucks** (Tue Sep 1, 10–11am MDT, 92 Wadsworth Blvd, all
-three accepted) · **45 min meeting between Andrew Wolff and Greg Vochis** (Tue Sep 1,
-1:00–1:45pm; touched 2026-09-01 04:41 UTC with no visible change) · **60 min meeting between
-Andrew Wolff and Bob** [Holt] (Wed Sep 2, 3–4pm). None cancelled or moved.
+when: **Wed 2026-09-02, 10:30–11:00am MDT** · phone call from **Arcell Reñosa**
+A Google Ads campaign-setup call. **Overlaps the DTD regroup by 30 minutes.**
+
+---
+
+## cal-unchanged Already-filed events still on the books
+
+**60 min meeting between Andrew Wolff and Bob** [Holt] — Wed Sep 2, 3–4pm MDT, all accepted.
+**60 min meeting between Andrew Wolff and Jennifer Ashley** — Thu Sep 3, 2–3pm MDT, all
+accepted. **DTD Board Meeting 3rd Friday** — Fri Sep 18, 10:00–11:30am MDT, organized by
+Justin Hall; everyone accepted except chris.peterson@dudetalkdinners.org (needsAction),
+though christine.peterson@westernalum.org has accepted.

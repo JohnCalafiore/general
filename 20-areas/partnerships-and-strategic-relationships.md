@@ -1,6 +1,6 @@
 ---
 area: Partnerships and Strategic Relationships
-updated: 2026-09-01
+updated: 2026-09-02
 tags: [area]
 ---
 
@@ -14,6 +14,25 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[partnerships-and-strategic-relationships#...]] and harvested by the brief. -->
+
+## 2026-09-01 The RMCP coffee happened and produced a second meeting — but no record of the first
+- "**RMCP and DTD connection at Starbucks**" ran Tue Sep 1, 10–11am MDT at 92 Wadsworth Blvd
+  with **Bev Marquez**, Andrew and John. Within hours Andrew booked a follow-up — "**DTD :
+  RMCP**," **Tue Sep 15, 2–3pm MDT** on Google Meet — which is the clearest signal available
+  that the conversation went well. Bev hasn't responded to the second invite yet.
+- What was actually said is **not on record**: no Granola note, no Fathom recap, no follow-up
+  email. The sixth capture gap in three weeks, and this one on DTD's most developed
+  partnership.
+- One indirect trace exists. The solo car-ride note that afternoon proposes **partnering with
+  RMCP on corporate facilitator training** — a specific, new idea that wasn't in the vault
+  before the meeting. That it emerged the same day is suggestive; it is not evidence of what
+  was discussed, and it is filed under Funding on its own terms.
+- action #open (John/Andrew): write down what came out of the Starbucks conversation and what
+  the Sep 15 call is for
+- category: Partnerships and Strategic Relationships
+- source: Google Calendar events 2026-09-01 and "DTD : RMCP" invitation 2026-09-01; Granola
+  returned no note for the meeting
+- links: [[partnerships-and-strategic-relationships#2026-08-26 RMCP moves from Leadership Circle name to a coffee on Sep 1]], [[funding-and-financial-development#2026-09-01 The corporate-training idea gets a price and a partner: ~$10k to certify five facilitators]], [[00-inbox/needs-clarification|Needs clarification]]
 
 ## 2026-08-31 The Vibrant call is on the calendar: Thu Sep 3, a full hour
 - John answered Jennifer's timing question with the least friction possible — "**Either day

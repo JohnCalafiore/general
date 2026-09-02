@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-09-01
+updated: 2026-09-02
 tags: [area]
 ---
 
@@ -14,6 +14,30 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-09-01 The corporate-training idea gets a price and a partner: ~$10k to certify five facilitators
+- A solo brainstorm on the drive back from the RMCP coffee turned the board's vague
+  "corporate training at $5k–$10k" line into something specific: "**Charge ~$10K/company to
+  train 5 employees as certified DudeTalk facilitators**, potentially **partnering with Rocky
+  Mountain Crisis Partners for specialized training**."
+- That is a different product from what the board discussed. Not DTD delivering a workshop,
+  but **companies buying the capability to run their own dinners in-house** — which fits the
+  locally-owned/centrally-supported model exactly, and gives RMCP a paid role in the training
+  layer they already approached DTD about.
+- The sales argument named: "**Employee wellbeing, CSR/HR checkboxes, and 'stealth' leadership
+  identification.**" The last one is the interesting one — a company sees who steps up to
+  facilitate.
+- A second thread, filed as stated: "**Women's version** — corporate environment flagged as
+  the **natural entry point**, driven by DEI/equality requirements." First mention anywhere
+  of a women's counterpart to DTD, and it appears as a market observation, not a decision.
+- Sensible first steps recorded: research whether HR actually buys wellbeing programs, define
+  the "dudification" certification package, and **pilot the pitch on senior dinner attendees**
+  — testing on people who already believe in the model before selling it cold.
+- action #open (John): research HR receptivity and define the certification package
+- action #open (John/Andrew): identify senior dinner attendees to pilot the corporate pitch on
+- category: Funding and Financial Development
+- source: Granola, "Car ride to IS" 2026-09-01 (solo note)
+- links: [[funding-and-financial-development#2026-08-21 Board adopts the fundraising strategy — with numbers attached]], [[partnerships-and-strategic-relationships#2026-08-17 RMCP wants to formalize the partnership — and hands DTD a role in Bridging the Divide]], [[00-inbox/needs-clarification|Needs clarification]]
 
 ## 2026-08-31 Weekly grant scan: nothing new clears the bar, and the Workday question is answered
 - "**3 total open in the tracker — all carried over from prior weeks, nothing new made the cut

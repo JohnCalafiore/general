@@ -1,111 +1,67 @@
-# Gmail — Inbox (harvest window 2026-08-31T07:09:52Z → 2026-09-01T07:07Z)
+# Gmail — Inbox (harvest window 2026-09-01T07:09:42Z → 2026-09-02T07:07Z)
 
-## gmail-1a05820a84e699a9 DPP — "AI Practice Session: From Donor Personas to Personalized Campaigns"
+## gmail-1a05d4a5f30fcdcc Google Workspace — "Your invoice is available for dudetalkdinners.org"
 
-from: joindpp@user.luma-mail.com · date: 2026-08-31 14:02 UTC
+from: payments-noreply@google.com · date: 2026-09-01 14:05 UTC
 
-Louis Diez invitation. Second DPP practice session offered in a week (the Sep 15 "Zero to
-Fundraising" invite came Aug 24).
+> Your **Google Workspace monthly invoice** is available... **IMPORTANT: The balance will be
+> automatically charged** so you don't need to take any action.
+>
+> Domain **dudetalkdinners.org** · Name **Dude Talk Dinners** · Invoice number **5672364871**
+> · Payments profile ID **4327-8402-6149**
+
+PDF attached (5672364871.pdf); the amount is in the attachment, not the body. Confirms DTD
+is on a **paid, auto-charged Workspace subscription**.
 
 ---
 
-## gmail-1a0583fb02ace059 Google Workspace — "[Notice] Possible unresolved security risks in your Admin Console"
+## gmail-1a05e28a5a4dbff8 Cold pitch — "hubspot"
 
-from: workspace-noreply@google.com · date: 2026-08-31 14:36 UTC
+from: dan@trymergeyourdata.com · date: 2026-09-01 18:08 UTC
 
-> We found some security gaps for your organization... Take action now to better protect
-> your organization
-> - **7 instances of app access from unsafe devices** — "Bad actors can easily exploit and
->   steal data from unsecured devices"
-> - **9 users are missing 2SV account protections** — "Without 2SV, a single instance of
->   password theft can pose huge risks"
-
-Sent to the Admin Console owner, so **DTD is administering a Google Workspace org with at
-least 9 users**.
+"Hi John, I noticed you're a HubSpot user - are you getting the most out of it? I can plug
+revenue leaks, close reporting gaps, clean up messy data, and automate the manual work..."
 
 ---
 
-## gmail-1a058db917e13b63 OpenAI — "ChatGPT - Your new plan"
-
-from: noreply@tm.openai.com · date: 2026-08-31 17:26 UTC
-
-"**You've successfully subscribed to ChatGPT Plus. Enjoy your first month free.**" Taken up
-on the free-month offer that arrived Aug 29.
-
----
-
-## gmail-1a0594a924b0104a Elizabeth Anneka — "Still open to connecting?"
-
-from: support@howtotouchwomen.com · date: 2026-08-31 19:27 UTC
-
-> Hi John,
->
-> I wanted to reach back out since **we never got the chance to continue the conversation
-> after Big Tent**.
->
-> It was really nice connecting with you there, and I'm still interested in the work you're
-> doing with Dude Talk Dinners. **Creating spaces where men can actually sit down, talk
-> honestly, and feel less alone aligns well with the conversations I care about too.**
->
-> Would you be open to a **quick 20-minute phone or Zoom conversation** sometime in the next
-> few weeks? I'd love to hear more about what you're building and **see if there might be a
-> natural opportunity to collaborate** somewhere along the way.
->
-> Warmly, Elizabeth
->
-> **Elizabeth Anneka — Touch & Intimacy Coach for Men.** "Helping men build excellent
-> physical intimacy with women through embodied touch."
-> Links: a YouTube video, "A Men's Group Leader Shares His Experience" (Kevin Hermann on
-> bringing this work to his community), and howtotouchwomen.com/collaborate
-
-One PNG attachment. "**Big Tent**" is an event not otherwise in the vault.
-
----
-
-## gmail-1a059a53bbb3c5b8 Postmark — "DMARC weekly digest for dudetalkdinners.org"
-
-from: dmarc@postmarkapp.com · date: 2026-08-31 21:06 UTC
-
-Aug 24 – Aug 31. Sources: ActiveCampaign, Postmark.
-- **112 emails processed** (up from 94 the prior week)
-- **100% SPF or DKIM aligned**
-- **0% SPF and DKIM not aligned**
-
----
-
-## gmail-1a059f4313474481 Calendar invitation — "60 min meeting between Andrew Wolff and Jennifer Ashley"
+## gmail-1a05e0d63734a678 Calendar invitation — "DTD : RMCP"
 
 from: andrew.wolff@dudetalkdinners.org
-to: john.calafiore@dudetalkdinners.org, **jxashley@outlook.com**
-date: 2026-08-31 22:32 UTC
+to: john.calafiore@, **bmarquez@rmcrisispartners.org**
+date: 2026-09-01 17:38 UTC
 
-**Thu Sep 3, 2026, 2:00–3:00pm MDT**, Google Meet. Invitee timezone **America/New_York**.
-Booked via Cal.com. Jennifer's note on the booking: "**Looking forward to talking with you
-and John. If this isn't the best time for you just let me know and I can find another.
-Jennifer**" — she booked it herself. Note the address differs from the one she wrote from
-(jxashley@yahoo.com).
+**Tue Sep 15, 2026, 2:00–3:00pm MDT**, Google Meet. Booked the same day as the Starbucks
+coffee. Bev Marquez has **not yet responded**; Andrew and John accepted.
 
 ---
 
-## gmail-1a05a92a460347dc Jim Hight — "Re: Dude Talk Dinners Reaching Out"
+## gmail-1a05ec854879c251 Calendar invitation — "DTD regroup (social media and marketing)"
 
-from: jimhightwrites@gmail.com · cc andrew.wolff@ · date: 2026-09-01 01:25 UTC
+from: andrew.wolff@dudetalkdinners.org
+to: john.calafiore@, **dawsonjwolf03@gmail.com**
+date: 2026-09-01 21:03 UTC
 
-> John and Andrew,
->
-> Gosh, **I've been doing some reflecting since I filled in the form on your website and
-> have decided not to pursue this for now. I'll follow your newsletter.** Good luck and God
-> bless,
-> Jim
->
-> **Jim Hight — Writer and Strategic Communications Consultant** · 707.407.9455 ·
-> linkedin.com/in/jim-hight-8b78b52a
+**Wed Sep 2, 2026, 10:00–11:30am MDT**, Google Meet. Andrew and John accepted; **Dawson has
+not responded**.
 
-Sent one hour after John's outreach.
+---
+
+## gmail-1a05efe6a8668931 Calendar invitation — "Your meeting with Google"
+
+from: calendar-notification@google.com · date: 2026-09-01 22:02 UTC
+
+**Wed Sep 2, 2026, 10:30–11:00am MDT.** "**Arcell Reñosa will call you on the phone**, please
+mark this meeting in your calendar. During the meeting, we will discuss **optimal setup for
+your campaign**, your current [account]..." A Google Ads onboarding call.
+
+**Note: this overlaps the DTD regroup** (10:00–11:30am) by half an hour.
 
 ---
 
 ## gmail-noise Screened out this window
 
-- hello@mail.betherecertificate.org — "Learn How to Start the Conversation..." (marketing)
-- maxj@maxjmiller.com — "Is 'soul' too much?" (newsletter)
+- noreply@email.openai.com — "Welcome to ChatGPT Plus" (duplicate of the Aug 31 confirmation)
+- product@fathom.video — API product update
+- zeno@updates.resend.com — product newsletter
+- support@givebutter.com — "[Free download] Fundraising metrics tracker"
+- support@theawakenedschool.com — newsletter

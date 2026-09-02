@@ -1,5 +1,5 @@
 ---
-updated: 2026-09-01
+updated: 2026-09-02
 tags: [inbox]
 ---
 
@@ -19,6 +19,39 @@ Format the agent uses:
 
 <!-- entries begin below -->
 
+## 2026-09-02 Which community does Bob Holt facilitate — and what is Wednesday's meeting actually about?
+- quote: Andrew's pre-dinner note to facilitators, cc you, listing **bobxholt@gmail.com** and
+  saying "last Thursday's Leadership Circle call **which Bob and Alec attended**" — 2026-09-01
+- context: This changes the picture. Bob isn't an outside fundraising contact, he's **a
+  facilitator inside the network** who came up at the Leadership Circle as someone to talk to
+  about fundraising strategy. Which community he runs still isn't anywhere in the record, and
+  the meeting is **this afternoon, 3–4pm**.
+- question: Which community is Bob's, and is Wednesday a facilitator conversation about
+  community-level fundraising, or is he a route to outside money?
+- answer: <!-- write here -->
+
+## 2026-09-02 A "women's version" of DTD appeared in your notes — is that a real thread?
+- quote: "**Women's version:** Corporate environment flagged as the **natural entry point**,
+  driven by DEI/equality requirements" — Granola, "Car ride to IS," 2026-09-01
+- context: This is the first mention anywhere in the vault of a women's counterpart to Dude
+  Talk Dinners. It appears inside a corporate-sales brainstorm as a market observation, not a
+  decision, so I've filed only the corporate-training half and left this alone.
+- question: Is a women's version something DTD is actually considering, or was it a passing
+  thought while working the corporate angle? If it's real, it probably wants its own place in
+  the vault rather than a line in a sales note.
+- answer: <!-- write here -->
+
+## 2026-09-02 What is the "fourth model" already running in Gunnison, Summit County and Bailey?
+- quote: "Model 3 (fiscal sponsorship) is the alternative — local entity has its own bank
+  account; a '**fourth model**' variant is **already operating in Gunnison, Summit County, and
+  Bailey**" — Granola, Greg Vochis call, 2026-09-01
+- context: Three live communities are running on a financial structure that has no
+  description anywhere in the vault, and the board is about to choose between models on
+  Sep 18. Whatever those three are doing is either the thing to standardize on or the thing
+  to migrate — and it can't be either while it's undocumented.
+- question: What is the fourth model in practice, and did it get chosen or just happen?
+- answer: <!-- write here -->
+
 ## 2026-09-01 What is "Big Tent," and how do you want to answer Elizabeth Anneka?
 - quote: "I wanted to reach back out since **we never got the chance to continue the
   conversation after Big Tent**... see if there might be a natural opportunity to
@@ -32,7 +65,7 @@ Format the agent uses:
   you want to take the 20 minutes, decline, or park it?
 - answer: <!-- write here -->
 
-## 2026-09-01 Is DTD running a paid Google Workspace tier while the nonprofit request is pending?
+## 2026-09-01 [RESOLVED — yes, paid] Is DTD running a paid Google Workspace tier while the nonprofit request is pending?
 - quote: "**9 users are missing 2SV account protections**" and "7 instances of app access from
   unsafe devices" — Google Workspace Admin Console notice, 2026-08-31
 - context: This notice goes to an Admin Console owner, so there is a live Workspace org with
@@ -43,6 +76,11 @@ Format the agent uses:
 - question: Which tier is DTD actually on and what is it costing? (Separately, and regardless
   of the answer: nine accounts without 2SV on the domain holding donor mail and board
   documents is worth fixing this week.)
+- **answered by the record (2026-09-01):** the monthly Workspace invoice arrived —
+  auto-charged, invoice 5672364871, payments profile 4327-8402-6149 — so DTD is on a **paid
+  subscription** while the nonprofit application is pending. **The amount is in the attached
+  PDF and I can't read it**, so the monthly cost is still unrecorded; worth noting for the
+  budget. The 2SV item stands.
 - answer: <!-- write here -->
 
 ## 2026-08-31 What is the Facilitator Feedback Form, and is it yours?

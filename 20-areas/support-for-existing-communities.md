@@ -1,6 +1,6 @@
 ---
 area: Support for Existing Communities
-updated: 2026-09-01
+updated: 2026-09-02
 tags: [area]
 ---
 
@@ -14,6 +14,30 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[support-for-existing-communities#...]] and harvested by the brief. -->
+
+## 2026-09-01 The Discord rollout reaches facilitators — with a sign-in sheet as the collection method
+- Andrew emailed six facilitators before a dinner night with the first field-facing statement
+  of the decision: "**DTD is rolling out a chat app so guys can stay connected between
+  dinners. We landed on Discord, and we're aiming to launch it in the next week or two.**"
+  That puts the launch around **Sep 8–15**.
+- The ask is deliberately light, and it's worth noting the tone: "**If it feels natural
+  tonight**, feel free to mention it to the group... **For anyone interested in joining, we'll
+  just need a phone number or email address to add them. A sign-in sheet has worked well for
+  other communities** if that's an easy way for you to collect the info (**and if it feels
+  right for you**)." No mandate, no deadline for facilitators — consistent with the
+  volunteer-fatigue thinking, though it also means uptake will vary by community.
+- The practical mechanic is the sign-in sheet: the printed materials designed on Aug 22 are
+  now the collection route for Discord invitations, which quietly makes the two-opt-in
+  sign-in sheet the on-ramp to the whole community layer.
+- Recipients: **Alec Rand, Bob Holt, bwttraining23@, grandmesacounseling@, Chris Wheaton
+  (Health Solutions West), Andy Sweet** — and the note that "**Bob and Alec attended**" last
+  Thursday's Leadership Circle.
+- action #open (facilitators): mention Discord at dinners and collect phone/email for anyone
+  interested
+- action #open (John/Andrew, by ~Sep 15): actually launch the Discord server
+- category: Support for Existing Communities
+- source: "Have a great DTD tonight!" from Andrew Wolff, cc John, 2026-09-01
+- links: [[platform-tools-and-infrastructure#2026-08-27 DECISION: Discord replaces Slack for all DTD communication]], [[support-for-existing-communities#2026-08-22 Print and sign-in materials designed: two opt-ins, and a quarter-page card]]
 
 ## 2026-09-01 The BV QR code is delivered — the self-sufficiency pilot can actually start
 - John sent Justin the QR code for **Buena Vista's own Givebutter page**: "Hey Justin - this

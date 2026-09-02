@@ -1,6 +1,6 @@
 ---
 area: Governance and Organizational Development
-updated: 2026-09-01
+updated: 2026-09-02
 tags: [area]
 ---
 
@@ -14,6 +14,36 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[governance-and-org-development#...]] and harvested by the brief. -->
+
+## 2026-09-01 Greg Vochis on structure: centralize it, and a fourth model is already running
+- The 45-minute accounting call finally happened, and it gives the board's unresolved
+  structure question its first outside professional opinion. **Greg's preference is Model 1,
+  centralized** — "all transactions flow through Dude Talk Central, with **restricted funds
+  tracking chapter-level giving via QuickBooks**. **One bank account, no physical
+  segregation.**" That is Ben's position from Aug 21, now backed by someone with accounting
+  experience, and it answers CP's objection with a mechanism rather than an argument:
+  restricted-fund tracking gives you per-community visibility without separate accounts.
+- **Model 3 (fiscal sponsorship)** — local entity with its own bank account — is the
+  alternative. And a fact new to the vault: a "**fourth model**" variant is **already
+  operating in Gunnison, Summit County, and Bailey**. Three communities are running on a
+  structure nobody has written down.
+- Two further positions worth carrying into the board decision: on control and liability, the
+  consensus was to "**start with more oversight and loosen later**," with **facilitator
+  agreements needing to clearly define roles**; and on money movement, "**facilitators pay
+  vendors upfront, then get reimbursed**" — Greg's preference, chosen for simplicity, though
+  it does ask volunteers to float costs.
+- A cheap, concrete resource surfaced: "**Colorado Nonprofit Association legal office hours,
+  Wednesdays 9–5 via Zoom**" — free legal time on exactly the question Faye's pro bono offer
+  is meant to cover, available weekly.
+- action #open (John/Andrew): apply for Colorado Nonprofit Association legal office hours
+- action #open (John/Andrew): arrange a joint call with Greg and a nonprofit lawyer
+- action #open (John/Andrew, by Sep 18): bring the governance-model decision to the board
+- action #open: read *Fiscal Sponsorship: Six Ways to Do It*
+- action #open (John): document what the "fourth model" running in Gunnison, Summit and
+  Bailey actually is
+- category: Governance and Organizational Development
+- source: Granola, "Greg Vochis call" 2026-09-01
+- links: [[governance-and-org-development#2026-08-28 The 8/21 board minutes are circulated — and carry four things the recap didn't]], [[governance-and-org-development#2026-08-21 Board meeting: the in-kind question surfaced anyway, and split the room]], [[governance-and-org-development#2026-08-20 Pro bono lawyer found: Faye will do the trademark and the community agreements]]
 
 ## 2026-08-28 The 8/21 board minutes are circulated — and carry four things the recap didn't
 - Justin Hall delivered on schedule, sharing "**DTD Board Meeting Minutes for 8-21-26**" with

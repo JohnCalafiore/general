@@ -1,5 +1,5 @@
 ---
-updated: 2026-09-01
+updated: 2026-09-02
 tags: [grounding, people]
 ---
 
@@ -276,11 +276,14 @@ Format — one H2 per person:
 
 ## Bob Holt
 - email: **bobxholt@gmail.com**
-- relationship: named at the 2026-08-27 Leadership Circle as someone Andrew should meet "to
-  discuss **fundraising strategy**"; a **60-minute Cal.com meeting** with Andrew and John is
-  booked for **Wed Sep 2, 3–4pm MDT**, which he has accepted. **Role, affiliation, and how
-  he came to DTD are all unknown** #needs-clarification
-- source: Fathom recap, "DTD Leadership Circle" 2026-08-27; calendar invitation 2026-08-28
+- relationship: **a DTD facilitator, not an outside contact** — he is on the facilitator
+  distribution list Andrew wrote to before a dinner night (2026-09-01) and **attended the
+  Aug 27 Leadership Circle** alongside Alec Rand. Separately named at that call as someone
+  Andrew should meet "to discuss **fundraising strategy**"; a **60-minute meeting** with
+  Andrew and John is booked for **Wed Sep 2, 3–4pm MDT**, which he has accepted. **Which
+  community he facilitates is still not in the record** #needs-clarification
+- source: Fathom recap, "DTD Leadership Circle" 2026-08-27; calendar invitation 2026-08-28;
+  "Have a great DTD tonight!" 2026-09-01
 
 ## Jake Donziger
 - relationship: named only in the title of a document Andrew shared with John — "**Copy of

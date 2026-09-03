@@ -1,5 +1,5 @@
 ---
-updated: 2026-09-02
+updated: 2026-09-03
 tags: [grounding, people]
 ---
 
@@ -274,16 +274,58 @@ Format — one H2 per person:
 - source: HubSpot form notification 2026-08-26; "Dude Talk Dinners Reaching Out" thread
   2026-09-01
 
+## Mike Swartz
+- org: **Empowerment Consulting** (empowermentconsultingllc.com) — coach; he/him;
+  linkedin.com/in/coachmikeswartz
+- email: mswartz@empowermentconsultingllc.com
+- relationship: **a friend of Andrew's**, lives in **Steamboat Springs**, introduced to the
+  Routt County team 2026-09-02 and **volunteering as a facilitator** — "he excitedly offered
+  to join as a facilitator and has a few other colleagues or friends in mind." His own reason:
+  "**I participate in our local men's group currently, and to me, DTD is a beautiful way to
+  keep expanding that movement to more men in our community.**"
+- source: "Routt County DTD e-introduction" thread 2026-09-02
+
+## Emily Schweitzer
+- org: **The Health Partnership Serving Northwest Colorado** — **Community Impact Manager**
+  (she/her); 2720 Lincoln Ave, Steamboat Springs, CO 80487; 970-875-6260
+- email: eschweitzer@ncchealthpartnership.org
+- relationship: leading the **Routt County DTD startup** with **Ali Givnish** — "Ali and I
+  recently started working on the **start-up guide**." Attended the Aug 27 Leadership Circle.
+- source: "Routt County DTD e-introduction" thread 2026-09-02
+
+## The Health Partnership Serving Northwest Colorado — Routt County team
+- **Ashley Ellis** (aellis@), **Lucy Winslow** (lwinslow@), **Anthony Werre** (awerre@),
+  **Emily Schweitzer** (eschweitzer@), **Ali Givnish** (agivnish@) — all
+  @ncchealthpartnership.org. Lucy, Emily and Ali attended the Aug 27 Leadership Circle.
+- relationship: the leadership team standing up **one or more DTD communities in Routt
+  County** (Steamboat Springs), working on the startup guide themselves.
+- source: "Routt County DTD e-introduction" thread 2026-09-02; Leadership Circle invite lists
+
+## Paul Steinweg
+- relationship: **new facilitator in the Summit/Frisco community**; bio and photo forwarded to
+  John by **Nadia Borovich** on 2026-09-02, with more to follow
+- source: "Fwd: DTD Bios for Website" 2026-09-02
+
+## Brian Gilmore
+- email: **bgilmore@brotherly.net** — the domain matches "**Brotherly**," the group whose
+  organic Instagram shout-out was named a catalyst for DTD's social-media launch the same day
+- relationship: submitted the website form 2026-09-03 wanting to **start a community in
+  Denver, Colorado**. No reply sent yet.
+- source: "New signup form submission" 2026-09-03
+
 ## Bob Holt
 - email: **bobxholt@gmail.com**
-- relationship: **a DTD facilitator, not an outside contact** — he is on the facilitator
-  distribution list Andrew wrote to before a dinner night (2026-09-01) and **attended the
-  Aug 27 Leadership Circle** alongside Alec Rand. Separately named at that call as someone
-  Andrew should meet "to discuss **fundraising strategy**"; a **60-minute meeting** with
-  Andrew and John is booked for **Wed Sep 2, 3–4pm MDT**, which he has accepted. **Which
-  community he facilitates is still not in the record** #needs-clarification
-- source: Fathom recap, "DTD Leadership Circle" 2026-08-27; calendar invitation 2026-08-28;
-  "Have a great DTD tonight!" 2026-09-01
+- relationship: a **Grand Junction facilitator** who, as of the 2026-09-02 meeting, is
+  **joining DudeCentral to work on fundraising and facilitator training**. He runs the "**Bob
+  ride**" (a dawn Sunday bike group in GJ), will help build the fundraising pitch deck, and is
+  designing a "**see one, do one, teach one**" facilitator-training model — with the stated
+  philosophy that facilitation needs a "light touch," "avoiding a 'Bob show.'" Attended the
+  Aug 27 Leadership Circle alongside Alec Rand. His fundraising counsel: "**slow down to go
+  fast**" — build relationships toward asks of **$2.5k+** before making small ones, and target
+  donors with a personal "tie" to the cause. Also brought a **Kroger Community Rewards**
+  contact and a proposal to replace Givebutter with a lower-fee gateway.
+- source: Fathom recap, "DTD Leadership Circle" 2026-08-27; "Have a great DTD tonight!"
+  2026-09-01; Fathom recap, "60 min meeting between Andrew Wolff and Bob" 2026-09-02
 
 ## Jake Donziger
 - relationship: named only in the title of a document Andrew shared with John — "**Copy of

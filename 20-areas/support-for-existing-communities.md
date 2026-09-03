@@ -1,6 +1,6 @@
 ---
 area: Support for Existing Communities
-updated: 2026-09-02
+updated: 2026-09-03
 tags: [area]
 ---
 
@@ -14,6 +14,32 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[support-for-existing-communities#...]] and harvested by the brief. -->
+
+## 2026-09-02 Facilitator training gets a model — and the feedback form gets a purpose
+- Two pieces of the facilitator system landed in the Bob Holt conversation. Training will use
+  a "**see one, do one, teach one**" model with **in-field training**, and the philosophy is
+  stated as a warning against the obvious failure mode: facilitation should have a "**light
+  touch**" that creates space for participants, "**avoiding a 'Bob show.'**" That is the same
+  principle as the published ground rules, now applied to how facilitators are made rather
+  than how dinners run.
+- The **Facilitator Feedback Form** — which appeared in the CRM on Aug 30 with nothing behind
+  it — now has a stated purpose: it "**is being simplified to track key metrics (attendance,
+  challenges) for grant applications**." So it is the reporting instrument the Monarch
+  application promised, and the "simplified" framing matches the caution about not making men
+  fill in forms. That resolves the Aug 31 inbox question about what the form is for.
+- Bob will also "**begin documenting local fundraising and marketing strategies for the
+  facilitator guide**" — the first contribution to the guide from a working facilitator rather
+  than from Central, and it fills the guide's Fundraising module.
+- Also new: **Paul Steinweg** joins as a facilitator in Summit, with Nadia Borovich forwarding
+  his bio and photo and promising the rest — the first bio to arrive unchased since the Aug 6
+  request went out.
+- action #open (Bob): send GJ facilitator bios and photos; document the local
+  fundraising/marketing playbook for the guide
+- action #open (John): add Paul Steinweg's bio and photo to the Summit community page
+- category: Support for Existing Communities
+- source: Fathom recap, "60 min meeting between Andrew Wolff and Bob" 2026-09-02; "Fwd: DTD
+  Bios for Website" from Nadia Borovich 2026-09-02
+- links: [[support-for-existing-communities#2026-08-30 A Facilitator Feedback Form appears in the CRM, due Aug 31]], [[support-for-existing-communities#2026-08-26 The facilitator guide gets a date — v1 by year end, and it rests on Dawson]], [[30-resources/dinner-format-and-ground-rules|The dinner format and ground rules]]
 
 ## 2026-09-01 The Discord rollout reaches facilitators — with a sign-in sheet as the collection method
 - Andrew emailed six facilitators before a dinner night with the first field-facing statement
@@ -74,7 +100,8 @@ responsibility but not to a specific dated project get logged here.
   would be the first written channel from the people actually running dinners.
 - That reading is inference, not evidence — filed here because the due date is **today** and
   the item would otherwise pass unrecorded.
-- action #open (John, due Aug 31): work on the Facilitator Feedback Form
+- action #open (John): simplify the Facilitator Feedback Form to track attendance and
+  challenges for grant reporting (purpose confirmed 2026-09-02)
 - category: Support for Existing Communities
 - source: "Your DTD reminders — 2026-08-30" (CRM follow-up digest)
 - links: [[support-for-existing-communities#2026-08-26 The facilitator guide gets a date — v1 by year end, and it rests on Dawson]], [[governance-and-org-development#2026-08-27 The facilitator/coordinator split gets a rule: three facilitators minimum]]

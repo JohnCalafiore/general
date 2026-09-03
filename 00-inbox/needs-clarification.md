@@ -1,5 +1,5 @@
 ---
-updated: 2026-09-02
+updated: 2026-09-03
 tags: [inbox]
 ---
 
@@ -19,7 +19,45 @@ Format the agent uses:
 
 <!-- entries begin below -->
 
-## 2026-09-02 Which community does Bob Holt facilitate — and what is Wednesday's meeting actually about?
+## 2026-09-03 Do you want Levine Law's sponsorship — and does DTD need a gift-acceptance policy?
+- quote: "We admire the work your organization does in the community. **We are interested in
+  donating to support your mission**" — Levine Law Accident Attorneys to the Idaho Springs
+  address, 2026-09-02; your forward to Andrew: "**seems legit... Probably needs to be a
+  larger-scale discussion…**"
+- context: You already flagged this as bigger than one gift, and I agree — a personal-injury
+  firm sponsoring men's mental-health dinners is a judgment call about whose name sits beside
+  the mission, and there's no policy to decide it against. It's also the second corporate
+  approach in a fortnight, with a year-end campaign about to invite more.
+- question: Yes or no on Levine Law — and is it worth writing a one-page gift-acceptance /
+  sponsorship policy now, while the question is concrete rather than hypothetical?
+- answer: <!-- write here -->
+
+## 2026-09-03 You're away in October — what does that mean for everything else?
+- quote: "**The launch is timed for October, when John is away**, requiring Andrew and Dawson
+  to be self-sufficient on the platforms" — Fathom recap, DTD regroup, 2026-09-02
+- context: This is the first mention anywhere in the vault that you're away in October, and it
+  surfaced incidentally in a social-media plan. Plenty currently sits on you: the Discord
+  launch and permissions, the CRM and its digests, the HubSpot migration, the Workspace
+  billing and 2SV, the grant calendar, the Google Ads credit, and the per-community Givebutter
+  pages.
+- question: What are the dates, and what needs handing over or finishing before you go? Worth
+  a deliberate list rather than discovering the gaps in October.
+- answer: <!-- write here -->
+
+## 2026-09-03 Is replacing Givebutter with a low-fee gateway a real plan or an idea?
+- quote: "To cut fees **from 5% to ~2.5%**, Bob suggested **replacing GiveButter with a custom
+  gateway (e.g., Authorize.net)** and negotiating 'cost plus' pricing, **a move feasible now
+  due to the org's small size**" — Fathom recap, 2026-09-02
+- context: The saving is real and the timing argument is sound. But Givebutter verification
+  only cleared on Aug 27, the **BV QR code went out Sep 1**, per-community pages are the
+  mechanism for the whole tiered fundraising model, and the social plan just committed to
+  Donate links pointing at it. Switching rails mid-rollout costs more than the fee difference
+  if it stalls BV's pilot.
+- question: Is this something you want scoped now, or parked until the community pages and the
+  year-end campaign are through? Either way it's worth a decision rather than an open thread.
+- answer: <!-- write here -->
+
+## 2026-09-02 [RESOLVED] Which community does Bob Holt facilitate — and what is Wednesday's meeting actually about?
 - quote: Andrew's pre-dinner note to facilitators, cc you, listing **bobxholt@gmail.com** and
   saying "last Thursday's Leadership Circle call **which Bob and Alec attended**" — 2026-09-01
 - context: This changes the picture. Bob isn't an outside fundraising contact, he's **a
@@ -28,6 +66,9 @@ Format the agent uses:
   the meeting is **this afternoon, 3–4pm**.
 - question: Which community is Bob's, and is Wednesday a facilitator conversation about
   community-level fundraising, or is he a route to outside money?
+- **answered by the record (2026-09-02):** **Grand Junction**, and neither of my guesses —
+  the meeting was about **Bob joining DudeCentral** to lead fundraising and facilitator
+  training. Filed to Funding, and his relationships entry is rewritten.
 - answer: <!-- write here -->
 
 ## 2026-09-02 A "women's version" of DTD appeared in your notes — is that a real thread?
@@ -83,7 +124,7 @@ Format the agent uses:
   budget. The 2SV item stands.
 - answer: <!-- write here -->
 
-## 2026-08-31 What is the Facilitator Feedback Form, and is it yours?
+## 2026-08-31 [RESOLVED] What is the Facilitator Feedback Form, and is it yours?
 - quote: "**Follow-ups — Work on Facilitator Feedback Form: Due Aug 31, 2026**" — DTD CRM
   daily digest, 2026-08-30
 - context: The follow-up appears in the CRM with a due date of today and nothing behind it —
@@ -94,6 +135,10 @@ Format the agent uses:
 - question: Whose item is this and what's the form meant to capture? If it's the
   between-calls feedback channel, it's worth filing properly rather than living as a CRM
   reminder.
+- **answered by the record (2026-09-02):** the Bob Holt call states it plainly — the form "is
+  being **simplified to track key metrics (attendance, challenges) for grant applications**."
+  So it's the facilitator-reporting instrument the Monarch application promised. Filed to
+  Support.
 - answer: <!-- write here -->
 
 ## 2026-08-31 Saturday's website lead has no name — did the form notification fail?

@@ -1,6 +1,6 @@
 ---
 area: Presentations, Events, and Public Presence
-updated: 2026-09-02
+updated: 2026-09-03
 tags: [area]
 ---
 
@@ -14,6 +14,45 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[presentations-events-public-presence#...]] and harvested by the brief. -->
+
+## 2026-09-02 The social-media launch gets a plan, a tagline, and an October deadline
+- An 87-minute regroup with Andrew and Dawson turned the Aug 26 intent into an operating
+  plan. The **tagline is decided: "Connecting Men in a Disconnected World,"** with a voice
+  that is "**relaxed, authentic, and non-flashy**," on the reasoning that DTD is "**selling an
+  experience and connection, not a product**."
+- **The deadline is the forcing function, and it's a personnel fact worth noting: "the launch
+  is timed for October, when John is away, requiring Andrew and Dawson to be self-sufficient
+  on the platforms."** John being away in October is new information in this vault and has
+  implications well beyond social media.
+- Cadence and mix: "**~3 times per week to maintain algorithm visibility**," rotating **5–6
+  post types** — testimonials, dinner promotions, new-community announcements, **statistics on
+  men's connection**, **partner spotlights ("DTD Partner Friday")**, and **collab posts** with
+  other organizations. Sourcing includes asking members to tag the accounts and "**using AI
+  (e.g., Claude) to repurpose existing Fathom/Granola meeting transcripts into scripts and
+  post ideas**" — the meeting record becoming content raw material.
+- Three catalysts are named, and all three are inbound rather than manufactured: "**a
+  powerful, unsolicited testimonial from the Conifer dinner**," "**an organic shout-out on the
+  'Brotherly' group's Instagram post**," and "**a direct request from Andrew's men's group for
+  more shared content**." The demand is arriving before the supply.
+- A moderation policy exists before the first post, which is the right order: monitor comments
+  daily; "**negative comments: ignore or delete. Do not engage in arguments**"; leave
+  constructive critical replies up "**if other users defend DTD, as this demonstrates
+  community support**"; and treat negativity as "**an opportunity to reinforce DTD's inclusive
+  mission**."
+- Practical constraint: **all video must be portrait**, and Dawson will convert the existing
+  landscape footage — which means the intro video already shot needs rework before it can run.
+- Reminder that applies here: the **AFSP safe-messaging guidelines** govern any post using the
+  suicide statistics in the content rotation.
+- action #open (Andrew): record a new portrait-orientation welcome video; edit testimonials
+  with Dawson
+- action #open (Dawson): research FB/IG/LinkedIn best practices and draft a content-strategy
+  framework; convert the landscape intro video to portrait
+- action #open (all): update Facebook and Instagram bios with the tagline and Donate links,
+  then start posting to the rotation
+- category: Presentations, Events, and Public Presence
+- source: Fathom recap, "DTD regroup (social media and marketing)" 2026-09-02
+  (fathom.video/calls/807253726)
+- links: [[presentations-events-public-presence#2026-08-26 "Why DudeTalk Dinners?" — a testimonial-and-data campaign, with Darren as the frame]], [[30-resources/mens-health-data-reference|Men's health data reference]], [[funding-and-financial-development#2026-09-02 Social media gets a fundraising job: a $30k year-end target and a $600 dinner sponsorship]]
 
 ## 2026-08-27 The Clear Creek Library Club Fair is off until 2027
 - **Courtney Botner**, Programs Assistant at the **Clear Creek County Library District**,

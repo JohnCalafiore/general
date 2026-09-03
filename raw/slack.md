@@ -1,11 +1,6 @@
-# Slack (harvest window 2026-09-01T07:09:42Z → 2026-09-02T07:07Z)
+# Slack (harvest window 2026-09-02T13:01:00Z → 2026-09-03T07:07Z)
 
-## slack-D0AHRCQ924E-1788296916 DM Andrew Wolff → John Calafiore
+## slack-empty-2026-09-03 No Slack activity in the window
 
-when: 2026-09-01 15:08:36 MDT
-permalink: https://dudetalkdinners.slack.com/archives/D0AHRCQ924E/p1788296916427659
-
-> Fyqkep-8qemne-myhboj
-
-A bare string in the shape of a Google Meet code, with no context. First Slack message in
-six days.
+Nothing in any public channel, private channel, or DM after 2026-08-31. The last recorded
+message remains Andrew's bare Google Meet code to John on 2026-09-01 15:08 MDT.

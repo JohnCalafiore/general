@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-09-02
+updated: 2026-09-03
 tags: [area]
 ---
 
@@ -14,6 +14,76 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-09-02 Social media gets a fundraising job: a $30k year-end target and a $600 dinner sponsorship
+- The social-media plan carries a number that hasn't appeared before: the channels exist in
+  part "to support the **end-of-year $30k target**." That sits alongside Bob's "few hundred
+  thousand this year" as a distinct, nearer, campaign-shaped goal.
+- The donor ask is framed as **a choice rather than a plea**, which is the most interesting
+  fundraising idea in the plan: "**Local Impact:** support a specific chapter (e.g., Conifer)
+  to keep dinners free" versus "**Movement Growth:** support DudeCentral to expand into new
+  communities." That turns the pass-through/centralized tension the board has been arguing
+  about into a donor-facing feature instead of an internal problem.
+- A concrete unit for the ask: "**encourage members to sponsor one dinner ($600)** by
+  fundraising from their personal networks" — the first time a dinner has a price attached
+  publicly, and it's consistent with the Monarch budget's $500/dinner plus buffer.
+- Mechanics: **Donate links in all bios**, and a **pinned donation-ask video** at the top of
+  the feed.
+- action #open (John): set up Meta Business Suite — Donate button, bios, IG cross-post, daily
+  moderation
+- action #open (Andrew): **draft the BV donation ask for Justin and pilot it at the BV dinner**
+- category: Funding and Financial Development
+- source: Fathom recap, "DTD regroup (social media and marketing)" 2026-09-02
+- links: [[presentations-events-public-presence#2026-09-02 The social-media launch gets a plan, a tagline, and an October deadline]], [[support-for-existing-communities#2026-09-01 The BV QR code is delivered — the self-sufficiency pilot can actually start]], [[funding-and-financial-development#2026-08-18 DECISION: community fundraising goes tiered — struggling communities keep what they raise]]
+
+## 2026-09-02 Bob Holt joins DudeCentral for fundraising and facilitator training
+- The Sep 2 meeting resolves what Bob Holt is: **a Grand Junction facilitator who is now
+  joining DudeCentral**, "focusing on **fundraising and facilitator training**." He'll help
+  build the pitch deck and create a "**see one, do one, teach one**" training model.
+- His fundraising advice is the most experienced-sounding counsel DTD has received, and it
+  cuts against the current approach: "'**slow down to go fast**' — **build relationships for
+  larger asks ($2.5k+) before making small ones**, and target donors with a **personal
+  connection ('tie') to the cause**." Set against a board strategy built on individual asks
+  and a year-end monthly-donor push, that's a caution about sequencing, not a contradiction.
+- **The funding goal is stated plainly for the first time: "raise a few hundred thousand
+  dollars this year,"** on a "**both/and**" model of grants plus community contributions —
+  and with a mechanism for Central's own sustainability: "**a small percentage (e.g., 5%) of
+  community-raised funds could support Central operations**." That is the admin-fee idea Ben
+  argued for on Aug 21, now with a number.
+- A concrete cost saving proposed: **replace Givebutter's ~5% fee with a custom gateway** such
+  as **Authorize.net** on "**cost plus**" pricing, "**a move feasible now due to the org's
+  small size**." Worth weighing carefully — Givebutter verification only just cleared, the BV
+  QR code and per-community pages run on it, and switching rails mid-rollout has its own cost.
+- action #open (Bob): review Givebutter and send payment-tech recommendations; email the
+  **Kroger Community Rewards** contact; compile friends-and-family donor prospects
+- action #open (Andrew, by Sep 9): **draft two fundraising pitch decks** (presentation +
+  send-ahead) and share with Bob
+- action #open (Andrew): send Bob a calendar invite for the fundraising follow-up next week
+- category: Funding and Financial Development
+- source: Fathom recap, "60 min meeting between Andrew Wolff and Bob" 2026-09-02
+  (fathom.video/calls/806619348)
+- links: [[funding-and-financial-development#2026-08-21 Board adopts the fundraising strategy — with numbers attached]], [[relationships#Bob Holt]], [[platform-tools-and-infrastructure#2026-08-27 Givebutter verification clears — donations settle in 48 hours]]
+
+## 2026-09-02 An inbound sponsorship offer from a law firm — and John flags it as a bigger question
+- **Levine Law Accident Attorneys** wrote to the **Idaho Springs community address**: "We
+  admire the work your organization does in the community. **We are interested in donating to
+  support your mission.**" Unsolicited, and addressed to a community rather than to
+  DudeCentral.
+- John forwarded it to Andrew six minutes later with the right instinct: "**Interesting
+  thought, seems legit. Let's discuss later... Probably needs to be a larger-scale
+  discussion…**" The larger question he's pointing at is real — a **personal-injury law firm**
+  sponsoring a men's mental-health dinner raises a judgment call about what kind of money DTD
+  takes and whose name sits alongside the mission, and it arrives with no sponsorship policy
+  in place to answer it.
+- Worth settling generally rather than case by case: this is the second corporate-sponsorship
+  approach in a fortnight, community-level sponsorship is central to the BV model, and the
+  year-end campaign will attract more.
+- action #open (John/Andrew): decide on Levine Law, and draft a basic gift-acceptance /
+  sponsorship policy while the question is live
+- category: Funding and Financial Development
+- source: "Supporting Your Mission — Community Sponsorship Opportunity" to
+  idahospringsCO@dudetalkdinners.org 2026-09-02; John's forward to Andrew the same day
+- links: [[support-for-existing-communities#2026-08-22 Buena Vista: sponsorship letter approved, Monarch Grant due end of August]], [[00-inbox/needs-clarification|Needs clarification]]
 
 ## 2026-09-01 The corporate-training idea gets a price and a partner: ~$10k to certify five facilitators
 - A solo brainstorm on the drive back from the RMCP coffee turned the board's vague

@@ -1,43 +1,27 @@
-# Gmail — Sent (harvest window 2026-09-01T07:09:42Z → 2026-09-02T07:07Z)
+# Gmail — Sent (harvest window 2026-09-02T13:01:00Z → 2026-09-03T07:07Z)
 
-## gmail-sent-1a05ebfb0b71576d "Have a great DTD tonight!" — Andrew to a facilitator group
+## gmail-sent-1a062b19ed59b39a "Fwd: Supporting Your Mission" — John to Andrew on the Levine Law offer
 
-from: andrew.wolff@dudetalkdinners.org
-to: **Alec.rand.83@gmail.com, bobxholt@gmail.com, bwttraining23@gmail.com,
-grandmesacounseling@gmail.com, cwheaton@healthsolutionswest.org, Andycsweet@gmail.com**
-cc: john.calafiore@dudetalkdinners.org
-date: 2026-09-01 20:53 UTC
+date: 2026-09-02 15:16 UTC · six minutes after the inbound arrived
 
-> Hi guys,
->
-> Just a quick message to wish you all another fun and impactful **dinner tonight**.
->
-> Here is a quick update from last Thursday's Leadership Circle call **which Bob and Alec
-> attended**. **DTD is rolling out a chat app so guys can stay connected between dinners. We
-> landed on Discord, and we're aiming to launch it in the next week or two.**
->
-> If it feels natural tonight, feel free to mention it to the group. **For anyone interested
-> in joining, we'll just need a phone number or email address to add them. A sign-in sheet has
-> worked well for other communities** if that's an easy way for you to collect the info (and
-> if it feels right for you).
->
-> Please let us know how it goes tonight and as always please reach out with any questions or
-> ideas that you may have.
->
-> All the best, Andrew
-
-Note **bobxholt@gmail.com** — the same address booked for the Sep 2 "fundraising strategy"
-meeting — is on this facilitator list and attended the Aug 27 Leadership Circle.
+> **Interesting thought, seems legit. Let's discuss later when you have a moment. Probably
+> needs to be a larger-scale discussion…**
 
 ---
 
-## gmail-sent-1a05e99d8decb37b "Re: hubspot" — John declines a cold pitch, and states a platform direction
+## gmail-sent-1a0638952fa7afcd "Fwd: Recap of your meeting with The Health Partnership..."
 
-to: dan@trymergeyourdata.com · date: 2026-09-01 20:12 UTC
+to: andrew.wolff@dudetalkdinners.org · date: 2026-09-02 19:12 UTC
 
-> Hi Dan,
->
-> **We're actually in the process of transitioning off of Hubspot** - thanks for the offer,
-> though. Best of luck to you.
->
-> Regards, John — **Chief Operating Officer**
+John forwards the **Aug 27 Leadership Circle Fathom recap** to Andrew with no covering note —
+six days after it arrived.
+
+---
+
+## gmail-sent-1a063d7d14656297 "Re: Dude Talk Dinner Parker" — John answers Andrew
+
+date: 2026-09-02 20:38 UTC · 18 minutes after Andrew asked
+
+> **Yes - Patrick Whitehorn (pwhitehorn@gmail.com)**
+
+(Note: the Leadership Circle invite carries **pcwhitehorn@gmail.com**, one letter different.)

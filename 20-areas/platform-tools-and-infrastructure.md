@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-09-02
+updated: 2026-09-03
 tags: [area]
 ---
 
@@ -14,6 +14,53 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-09-02 Fathom's AI action items are back — after two weeks of stripped recaps
+- Both of today's recaps carry a populated "**Action Items ✨**" section with named owners and
+  timestamps: eleven items on the Bob Holt call, four on the social-media regroup.
+- That closes a gap worth remembering. Since **Aug 20**, every Fathom recap in this vault
+  carried "**Upgrade to Premium to unlock AI generated action items**" — including the budget
+  review and, most costly, the **Aug 21 board meeting**, whose next steps had to be read out
+  of the summary prose and were later found to be incomplete when Justin's minutes surfaced
+  four items the recap had missed. Whatever changed — a plan upgrade or a trial — extraction
+  is working again, and the meeting record is materially better for it.
+- action #open (John): confirm what changed on the Fathom plan so this doesn't silently revert
+- category: Platform, Tools, and Infrastructure
+- source: Fathom recaps 2026-09-02 (calls 806619348 and 807253726)
+- links: [[governance-and-org-development#2026-08-28 The 8/21 board minutes are circulated — and carry four things the recap didn't]]
+
+## 2026-09-02 An Instagram login attempt, and Dawson gets a DTD account
+- Instagram sent a verification code to the DTD address: "Hi **dudetalkdinners**, **Someone
+  tried to log in to your Instagram profile.**" Most likely John or Andrew doing exactly the
+  setup work the social plan calls for — the Instagram handle has been the open blocker since
+  the Facebook page went up Aug 26 — but the vault can't distinguish an intended login from an
+  unintended one, and this lands on an org with **nine Workspace accounts still missing 2SV**.
+- Separately, **Dawson Wolf now has an org email**: Facebook records
+  "**dawson.wolf@dudetalkdinners.org** joined Dude Talk Dinners Business Manager." He has been
+  the "unofficial intern" on a personal Gmail since late July; a domain account and a Business
+  Manager seat make him operationally part of the org, days before he is expected to run the
+  social channels with Andrew while John is away in October.
+- action #open (John): confirm the Instagram login was yours, and turn on 2SV across the
+  Workspace accounts
+- category: Platform, Tools, and Infrastructure
+- source: Instagram security email 2026-09-02; Facebook Business Manager notification
+  2026-09-02
+- links: [[platform-tools-and-infrastructure#2026-08-31 Workspace is live and already flagging security gaps — 9 users without 2SV]], [[platform-tools-and-infrastructure#2026-08-26 A national Facebook page goes up, and Meta restricts it nine minutes later]], [[relationships#Dawson Wolf]]
+
+## 2026-09-02 The Google Ads call was missed — and there's a $3,000 credit at stake
+- The 10:30am call with the Google Ads rep, flagged yesterday as colliding with the marketing
+  regroup, "**was missed**." The regroup won.
+- What it was for is now on record and is worth rescheduling promptly: understanding the
+  **$3,000 ad credit** — which reads as the **Google Ad Grant** that comes with Google for
+  Nonprofits — and whether it can extend to **video editing software with auto-captions**,
+  an idea taken from the AI ad company **Higgsfield**.
+- Note the tension left unresolved: the Aug 26 social decision favoured "**organic campaigns
+  and media appearances over paid ads**," and the org is now chasing an ad credit. Granted
+  inventory isn't spend, but nobody has said which way this goes.
+- action #open (John): **reschedule the Google Ads call and include Andrew and Dawson**
+- category: Platform, Tools, and Infrastructure
+- source: Fathom recap, "DTD regroup (social media and marketing)" 2026-09-02
+- links: [[platform-tools-and-infrastructure#2026-09-01 A Google Ads setup call is booked — and it collides with the marketing regroup]], [[platform-tools-and-infrastructure#2026-08-28 Google Workspace for Nonprofits, applied for again]]
 
 ## 2026-09-01 RESOLVED: DTD is on a paid Google Workspace subscription, auto-charged monthly
 - The monthly invoice arrived — domain **dudetalkdinners.org**, name **Dude Talk Dinners**,

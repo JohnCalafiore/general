@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-09-02
+updated: 2026-09-03
 tags: [area]
 ---
 
@@ -14,6 +14,66 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-09-02 Routt County gets its first facilitator, and the Health Partnership is running the startup
+- Andrew made a formal e-introduction between **The Health Partnership Serving Northwest
+  Colorado** and **Mike Swartz** of **Empowerment Consulting** — "a friend of mine as well as
+  **an excellent coach and committed father who lives in Steamboat**" — who "**excitedly
+  offered to join as a facilitator and has a few other colleagues or friends in mind**."
+- Mike replied within 90 minutes, and his reason for joining is the strongest kind: "**I
+  participate in our local men's group currently, and to me, DTD is a beautiful way to keep
+  expanding that movement to more men in our community.**" A facilitator who already does the
+  work, recruited from Andrew's own network rather than cold.
+- **Emily Schweitzer** replied the same evening with the more consequential fact: "**Ali and I
+  recently started working on the start-up guide** and would love to get a meeting together in
+  the near future." The Health Partnership team is **working DTD's startup materials
+  themselves** — a partner organization driving a launch rather than waiting on DudeCentral,
+  which is exactly the leverage the locally-owned model is supposed to produce.
+- Names now attached to the ncchealthpartnership.org addresses: **Ashley Ellis, Lucy Winslow,
+  Anthony Werre, Emily Schweitzer (Community Impact Manager), Ali Givnish**. Three of them —
+  Lucy, Emily and Ali — attended the Aug 27 Leadership Circle.
+- Steamboat has moved from "prospect in a pipeline list" (Aug 17) to a named leadership team,
+  a facilitator, and work underway, in about two weeks.
+- action #open (Health Partnership + Mike Swartz): connect and set a startup meeting
+- category: Community Growth and Expansion
+- source: "Routt County DTD e-introduction" thread, Andrew Wolff → Mike Swartz → Emily
+  Schweitzer, 2026-09-02
+- links: [[community-growth-and-expansion#2026-08-27 Three new communities in motion: veterans in Northern Colorado, Connecticut, Steamboat]], [[relationships#Mike Swartz]]
+
+## 2026-09-02 Two more website leads — Brian Gilmore in Denver, and one that looks like spam
+- **Brian Gilmore** (**bgilmore@brotherly.net**, Denver) submitted the form wanting to start a
+  community. The domain is worth noticing: **"Brotherly" is the group whose organic Instagram
+  shout-out** was named the same day as one of three catalysts for launching DTD's social
+  media. An inbound lead from a men's organization that was already talking about DTD publicly
+  is a warmer prospect than the form suggests.
+- **Daniel Edwards** (daniel.websolution015@gmail.com, "New York, New York," interest:
+  "Making a donation") reads as spam or a vendor probe — the address pattern is a web-services
+  handle and no donation followed. Filed so it isn't chased as a donor lead.
+- Both arrived as **proper per-submission notifications**, which answers the Aug 31 worry that
+  the form notification had stopped firing — it hadn't; Saturday's lead was the exception.
+- action #open (John/Andrew): reply to Brian Gilmore quickly — the Jim Hight lesson is that
+  six days is too long
+- category: Community Growth and Expansion
+- source: "New signup form submission" notifications 2026-09-02 and 2026-09-03
+- links: [[community-growth-and-expansion#2026-09-01 Jim Hight withdraws an hour after DTD's reply — six days after he raised his hand]], [[presentations-events-public-presence#2026-09-02 The social-media launch gets a plan, a tagline, and an October deadline]]
+
+## 2026-09-02 Grand Junction holds 33 in the rain, and builds two things between dinners
+- The September Grand Junction dinner drew **33 men** — "vs. 60 hoped for, likely due to
+  rain," and down from August's 42 — but the number that matters more is **10 men staying
+  after for personal conversations**. The debrief reads it as validation rather than
+  disappointment.
+- Two between-dinner structures have appeared, both invented locally: the "**Bob ride**," a
+  **dawn Sunday bike group**, and **Discord channels for specific interests (e.g., gamers)** —
+  Grand Junction is already using Discord ahead of the org-wide launch. This is precisely the
+  outcome the Monarch application commits to measuring: men contacting each other between
+  dinners.
+- Facilitation details worth keeping: a structured flow with a "**light touch**" to create
+  space, the topic "**What kind of man do you want to be?**", and a **local suicide report
+  (75% men)** cited to frame the need.
+- action #open (Bob): ping Alec to send John the contact data from the dinner
+- category: Community Growth and Expansion
+- source: Fathom recap, "60 min meeting between Andrew Wolff and Bob" 2026-09-02
+- links: [[community-growth-and-expansion#2026-08-27 Grand Junction doubles to 42 men in a month, Conifer hits 18]], [[funding-and-financial-development#2026-08-25 The Monarch Grant application is drafted — $7,500 for a full year of BV dinners]]
 
 ## 2026-09-01 Jim Hight withdraws an hour after DTD's reply — six days after he raised his hand
 - The Ajo, Arizona lead is closed, by his own choice: "**Gosh, I've been doing some

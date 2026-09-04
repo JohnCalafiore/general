@@ -1,5 +1,5 @@
 ---
-updated: 2026-09-03
+updated: 2026-09-04
 tags: [inbox]
 ---
 
@@ -18,6 +18,30 @@ Format the agent uses:
 ```
 
 <!-- entries begin below -->
+
+## 2026-09-04 Is the annual budget $325k or $225k?
+- quote: "**Year 1 budget ~$325K; Year 2 ~$650K**" — Jennifer Ashley call, 2026-09-03; against
+  "**Annual operating budget: $225,193**" on the Monarch Mountain grant application, prepared
+  2026-08-25
+- context: Both were stated to outsiders eight days apart, and they differ by ~$100k. Most
+  likely one is the funded/current budget and the other the fundraising target including paid
+  staff — "getting paid is the top priority" points that way — but the vault can't tell which
+  is which, and both numbers are now in circulation with funders.
+- question: Which figure is the operating budget and which is the goal? Worth settling before
+  the pitch deck quotes one and a grant application quotes the other.
+- answer: <!-- write here -->
+
+## 2026-09-04 Does the new-lead automation duplicate your manual outreach?
+- quote: Brian Gilmore replied "**Thank you, looking forward to it**" to an automated
+  "**Starting a Dude Talk Dinners Community**" email from support@ (2026-09-02 22:36) — and you
+  also sent him a personal note the next morning
+- context: Good news, mostly: the automation you've wanted since Travis Payne is live, and your
+  12-hour personal reply is a big improvement on the six days that lost Jim Hight. But he got
+  two first-contact emails, and they may read as either thorough or disjointed depending on
+  what the automated one says.
+- question: What does the automated email say, and do you want it to keep firing when you're
+  also replying by hand — or should it become the follow-up rather than the opener?
+- answer: <!-- write here -->
 
 ## 2026-09-03 Do you want Levine Law's sponsorship — and does DTD need a gift-acceptance policy?
 - quote: "We admire the work your organization does in the community. **We are interested in
@@ -275,7 +299,7 @@ Format the agent uses:
   And is the Monarch draft waiting on your edits before submission?
 - answer: <!-- write here -->
 
-## 2026-08-27 Who is Bob Holt, and who are Daniel at the VA and "Deke"?
+## 2026-08-27 [MOSTLY RESOLVED] Who is Bob Holt, and who are Daniel at the VA and "Deke"?
 - quote: "**Andrew Wolff: Schedule a meeting with Bob Holt to discuss fundraising
   strategy**" — Fathom recap, DTD Leadership Circle, 2026-08-27; and "**Let's connect with
   Daniel from the VA and Deke for one of his events**" — Slack DM to Andrew, 2026-08-26
@@ -284,6 +308,11 @@ Format the agent uses:
   task force forming in Northern Colorado. "Deke" is entirely new, and "his events" is
   unexplained.
 - question: Who are these three, and what's the connection you're reaching for with each?
+- **answered by the record:** **Bob Holt** is the Grand Junction facilitator, now joining
+  DudeCentral (2026-09-02). **Daniel** is **Daniel Leal-Diaz, LCSW, LAC — Community Engagement
+  and Partnership Coordinator, Suicide Prevention Program, Rocky Mountain Regional VA Medical
+  Center** (2026-09-03), and he's already sending referrals. **"Deke" is still unidentified**,
+  as are "his events."
 - answer: <!-- write here -->
 
 ## 2026-08-25 Who is Jeremy R. Allen, and what came out of Monday's call with Art?

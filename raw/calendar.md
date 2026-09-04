@@ -1,21 +1,32 @@
-# Google Calendar (harvest window 2026-09-02T13:01:00Z → 2026-09-03T07:07Z)
+# Google Calendar (harvest window 2026-09-03T07:09:31Z → 2026-09-04T07:07Z)
 
-## cal-leadership-circle-recurrence-change DTD Leadership Circle — recurrence updated
+## cal-1nk7bfgkjrofnn73la6tg2ehts DTD braindump for mission, vision, pitchdeck
 
-The monthly Leadership Circle now reads "**Monthly from 4pm to 5pm on the last Thursday**,
-Thu Aug 27 → Wed Sep 23 (MDT)," updated 2026-09-02 20:24 UTC. Invite list at **57
-addresses**, up from 61 listed on Aug 27 — the list was pruned as well as extended.
-
----
-
-## cal-today-2026-09-03 Today's meeting stands
-
-**60 min meeting between Andrew Wolff and Jennifer Ashley** — Thu Sep 3, 2:00–3:00pm MDT,
-Google Meet, all three accepted. Unchanged.
+when: **Fri 2026-09-04, 11:00am–1:00pm MDT** (two hours) · Google Meet
+organizer: Andrew Wolff · Andrew and John, both accepted
+created: 2026-09-03 22:14 UTC — eight hours after the Jennifer Ashley call
 
 ---
 
-## cal-upcoming Still on the books
+## cal-6btjgifnsshi3ubsd7qsresg9r DTD Vision (and maybe mission)
 
-**DTD : RMCP** — Tue Sep 15, 2–3pm MDT (Bev Marquez still needsAction).
+when: **Thu 2026-09-10, 1:00–2:00pm MDT** · Google Meet
+organizer: Andrew Wolff · attendees: Andrew, John, **jxashley@outlook.com** — all accepted
+created: 2026-09-03 21:08 UTC
+
+**Jennifer Ashley is joining a working session on vision and mission**, one week after the
+introductory call.
+
+---
+
+## cal-7e19jhh2lb52cffo6qbltu6bn2 Review for meeting
+
+when: Thu 2026-09-03, 1:00–2:00pm MDT · created by John, no attendees
+An hour of prep booked immediately before the Jennifer Ashley call.
+
+---
+
+## cal-unchanged Still on the books
+
+**DTD : RMCP** — Tue Sep 15, 2–3pm MDT; **Bev Marquez has now accepted**.
 **DTD Board Meeting 3rd Friday** — Fri Sep 18, 10:00–11:30am MDT.

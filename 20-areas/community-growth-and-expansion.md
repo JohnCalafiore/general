@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-09-03
+updated: 2026-09-04
 tags: [area]
 ---
 
@@ -14,6 +14,41 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-09-03 Parker becomes a real prospect, with two interested people and a county introduction
+- **Daniel Leal-Diaz at the VA** introduced Andrew to **Laura Larson, Assistant Director for
+  Community Health at Douglas County**, who "**knows someone who has expressed interest in
+  implementing a Dude Talk Dinner in Parker**." Andrew's reply looped in **Patrick Whitehorn**,
+  "**who is also from Parker and has expressed some interest becoming a facilitator**" — so
+  Parker now has **two independent interested parties who found DTD separately**, plus a county
+  health official making the connection.
+- Andrew's offer sets out the model plainly: "**I would love to schedule a call with everyone**
+  to share more about the Dude Talk Dinners model... **Once you are all ready, we will coach
+  everyone on how to get started.**" Central coaches; locals run it.
+- One thing to check before it becomes a habit: John gave the address as
+  **pwhitehorn@gmail.com** and Andrew cc'd **pcwhitehorn@gmail.com** — the Leadership Circle
+  invite carries the latter. Worth confirming which reaches him.
+- action #open (Andrew): schedule the Parker call with Laura Larson and Patrick Whitehorn
+- category: Community Growth and Expansion
+- source: "Re: Dude Talk Dinner Parker" thread 2026-09-02/03
+- links: [[partnerships-and-strategic-relationships#2026-09-03 The VA contact has a name: Daniel Leal-Diaz — and he opened Parker]], [[community-growth-and-expansion#2026-08-27 Three new communities in motion: veterans in Northern Colorado, Connecticut, Steamboat]]
+
+## 2026-09-03 Brian Gilmore answered in 12 hours — and the new-lead automation is firing
+- John replied to the Denver inbound the same day, **about 12 hours after the form came in**,
+  against **six days** for Jim Hight who withdrew an hour after finally hearing back. The reply
+  is also personalised rather than templated — "**Brotherly seems like a great initiative**" —
+  which matters when the lead comes from a men's organisation that was already talking about
+  DTD publicly.
+- Two things confirmed. Brian replied "**Thank you, looking forward to it**" — to an automated
+  "**Starting a Dude Talk Dinners Community**" email sent from support@ the previous evening,
+  so **the new-lead automation is now running**, and it fired alongside John's manual note.
+  Worth checking the two don't read as duplicate outreach.
+- action #open (John/Andrew): get Brian Gilmore onto a call — and see whether the Brotherly
+  connection is worth pursuing as a partnership as well as a community
+- category: Community Growth and Expansion
+- source: "Dude Talk Dinners Reaching Out" to bgilmore@brotherly.net 2026-09-03; his reply the
+  same day
+- links: [[community-growth-and-expansion#2026-09-02 Two more website leads — Brian Gilmore in Denver, and one that looks like spam]], [[community-growth-and-expansion#2026-09-01 Jim Hight withdraws an hour after DTD's reply — six days after he raised his hand]]
 
 ## 2026-09-02 Routt County gets its first facilitator, and the Health Partnership is running the startup
 - Andrew made a formal e-introduction between **The Health Partnership Serving Northwest

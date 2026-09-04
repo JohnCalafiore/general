@@ -1,5 +1,5 @@
 ---
-updated: 2026-09-03
+updated: 2026-09-04
 tags: [grounding, people]
 ---
 
@@ -248,7 +248,12 @@ Format — one H2 per person:
   offered flexibility on timing, assuming John and Andrew work full time. **Booked the call
   herself for Thu Sep 3, 2–3pm MDT — a full hour, more than the 30–45 minutes asked for.**
   Calendar address is **jxashley@outlook.com** (she writes from the Yahoo address); timezone
-  America/New_York.
+  America/New_York. **The call happened 2026-09-03** and converted immediately into working
+  involvement: she is **joining a 1-hour vision/mission drafting session on Thu Sep 10**, and
+  asked for **DTD's bylaws and testimonials** in advance. Her counsel: formalize vision and
+  mission before approaching corporates; bring the board a recommendation rather than a
+  discussion; **5–6 image-heavy pitch slides, not 20 pages**; **pick 5 verticals, not 70**;
+  and Facebook birthday fundraisers, which "**drove $15M+**" for Vibrant.
 - source: Fathom recap, "DTD Budget review" 2026-08-20; "Introduction to Dude Talk Dinners"
   thread 2026-08-28 → 2026-08-30
 
@@ -312,6 +317,35 @@ Format — one H2 per person:
 - relationship: submitted the website form 2026-09-03 wanting to **start a community in
   Denver, Colorado**. No reply sent yet.
 - source: "New signup form submission" 2026-09-03
+
+## Daniel Leal-Diaz
+- org: **Rocky Mountain Regional VA Medical Center**, Aurora CO — **Community Engagement and
+  Partnership Coordinator (CEPC), Suicide Prevention Program**; LCSW, LAC
+- email: Daniel.Leal-Diaz@va.gov · office (720) 857-5259 · cell (303) 859-2429
+- relationship: **the "Daniel from the VA" referenced since early August**, now identified.
+  An **active referral source** — on 2026-09-02 he introduced Andrew to **Laura Larson** at
+  Douglas County because someone there wanted to start a DTD community in **Parker**.
+- source: "Re: Dude Talk Dinner Parker" thread 2026-09-02/03
+
+## Laura Larson
+- org: **Douglas County** — **Assistant Director for Community Health**
+- email: llarson@douglasco.gov
+- relationship: introduced to Andrew by **Daniel Leal-Diaz** 2026-09-02; "**she knows someone
+  who has expressed interest in implementing a Dude Talk Dinner in Parker**"
+- source: "Re: Dude Talk Dinner Parker" thread 2026-09-02/03
+
+## Patrick Whitehorn
+- email: **pcwhitehorn@gmail.com** (John gave it as pwhitehorn@gmail.com — one letter differs,
+  worth confirming); on the Leadership Circle invite list since ~Sep 2
+- relationship: **from Parker**, and "**has expressed some interest becoming a facilitator of a
+  DTD Community**"; looped into the Parker introduction 2026-09-03
+- source: "Re: Dude Talk Dinner Parker" thread 2026-09-02/03
+
+## Zach Lyles
+- relationship: **the first donor to a community-specific DTD campaign** — $20.00 to "**DTD
+  Buena Vista, CO**" on 2026-09-04, three days after the BV QR code went out. Not otherwise in
+  the record; presumably a BV dinner attendee.
+- source: Givebutter contribution notification 2026-09-04
 
 ## Bob Holt
 - email: **bobxholt@gmail.com**

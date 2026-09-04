@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-09-03
+updated: 2026-09-04
 tags: [area]
 ---
 
@@ -14,6 +14,30 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-09-03 The budget stated to an outsider: ~$325k year one, ~$650k year two
+- Told to Jennifer Ashley: "**Year 1 budget ~$325K; Year 2 ~$650K — getting paid is the top
+  priority.**" Two things to hold onto. The **$325k** is higher than the **$225,193** annual
+  operating budget on the Monarch application eight days earlier, so one of those numbers is
+  aspirational and the vault can't say which. And "**getting paid is the top priority**" is the
+  bluntest statement yet of the unpaid-executive problem the board minutes record — Andrew and
+  John are both logged as volunteers, and Ken's employment is gated on budget tranches.
+- The donor verticals brainstormed run wide: **family foundations, individual donors,
+  male-focused brands (Irish Spring, Anheuser-Busch), the construction industry, NFL/sports,
+  CU Boulder alumni** — with Jennifer's correction attached: "**pick 5 realistic verticals, not
+  70**."
+- Her one concrete channel suggestion is cheap and fits the social launch: "**Facebook birthday
+  fundraisers drove $15M+ for [Vibrant]** at one point." Against a $30k year-end target and an
+  audience of men with networks, that is a better-matched tactic than most of the vertical list.
+- One growth fact worth keeping from the same call: all of it so far on "**zero marketing
+  spend**."
+- action #open (John/Andrew): reconcile the $325k figure with the $225,193 on the Monarch
+  application before either goes into another document
+- action #open (John/Andrew): choose the five verticals
+- action #open (Dawson/Andrew): add **Facebook birthday fundraisers** to the social plan
+- category: Funding and Financial Development
+- source: Granola, Jennifer Ashley call 2026-09-03
+- links: [[funding-and-financial-development#2026-08-25 The Monarch Grant application is drafted — $7,500 for a full year of BV dinners]], [[partnerships-and-strategic-relationships#2026-09-03 Jennifer Ashley delivers, and the price is formalizing the vision first]], [[funding-and-financial-development#2026-09-02 Social media gets a fundraising job: a $30k year-end target and a $600 dinner sponsorship]]
 
 ## 2026-09-02 Social media gets a fundraising job: a $30k year-end target and a $600 dinner sponsorship
 - The social-media plan carries a number that hasn't appeared before: the channels exist in

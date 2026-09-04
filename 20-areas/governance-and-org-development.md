@@ -1,6 +1,6 @@
 ---
 area: Governance and Organizational Development
-updated: 2026-09-03
+updated: 2026-09-04
 tags: [area]
 ---
 
@@ -14,6 +14,34 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[governance-and-org-development#...]] and harvested by the brief. -->
+
+## 2026-09-03 Vision and mission get a deadline and an outside facilitator
+- The question the board deferred on Aug 21 — vision and mission, parked until the legal
+  structure settled — now has a date and someone from outside driving it. Andrew booked **two
+  hours tomorrow, Fri Sep 4, "DTD braindump for mission, vision, pitchdeck,"** and a **1-hour
+  working session on Thu Sep 10 with Jennifer Ashley in the room** to actually draft them.
+  Both were created within hours of her call.
+- What changed is the reason for urgency. In August the blocker was internal (structure first);
+  now it is external and commercial — Jennifer's verdict was that the **current framing is too
+  informal to take to corporates**, and the pitch deck Andrew owes Bob by **Sep 9** can't be
+  built until vision and mission are locked. The dependency chain is now explicit: **vision →
+  deck → corporate asks**.
+- Her process advice cuts against how DTD has handled this twice: "**keep [the board] out of
+  the kitchen on vision/mission; bring a recommendation**." That means the **Sep 18 board
+  meeting** should receive a proposal from John, Andrew and Jennifer rather than reopen the
+  drafting — a change in method worth being deliberate about, since Chris Gould has owned the
+  drafting since July.
+- Also on the record, and pointed: "**seed [the board] with talent, not warm bodies; every
+  member should be on a committee**." DTD has no committee structure anywhere in this vault.
+- Two live drafts remain the starting point — Vision "A world where no man walks alone,"
+  Mission "When men connect, communities get stronger" — against her suggestion that it go
+  deeper, toward "**every man has a sense of belonging**."
+- action #open (John/Andrew, Sep 4 and Sep 10): run the braindump and the Jennifer session
+- action #open (John/Andrew, by Sep 18): bring the board a **recommendation**, not a discussion
+- action #open (board, later): consider a committee structure
+- category: Governance and Organizational Development
+- source: Granola, Jennifer Ashley call 2026-09-03; calendar invitations 2026-09-03
+- links: [[governance-and-org-development#2026-08-21 DECISION: mission and vision deferred until the structure is settled]], [[partnerships-and-strategic-relationships#2026-09-03 Jennifer Ashley delivers, and the price is formalizing the vision first]], [[funding-and-financial-development#2026-09-02 Bob Holt joins DudeCentral for fundraising and facilitator training]]
 
 ## 2026-09-01 Greg Vochis on structure: centralize it, and a fourth model is already running
 - The 45-minute accounting call finally happened, and it gives the board's unresolved

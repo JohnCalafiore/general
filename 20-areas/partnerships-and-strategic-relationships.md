@@ -1,6 +1,6 @@
 ---
 area: Partnerships and Strategic Relationships
-updated: 2026-09-03
+updated: 2026-09-04
 tags: [area]
 ---
 
@@ -14,6 +14,53 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[partnerships-and-strategic-relationships#...]] and harvested by the brief. -->
+
+## 2026-09-03 Jennifer Ashley delivers, and the price is formalizing the vision first
+- The hour with Vibrant's Jennifer Ashley produced the most direct outside challenge DTD has
+  had, and it lands on the thing the board keeps deferring: "**Vision/mission must be
+  formalized before approaching corporates — current framing is too informal.**" She also
+  pushed on substance, not just polish: the vision "**should go deeper than '1,000 dinners' —
+  closer to 'every man has a sense of belonging.'**"
+- Her advice on **how to get it decided** is worth as much as the content, because the board
+  has stalled twice on exactly this: "**Keep them out of the kitchen on vision/mission; bring
+  a recommendation.**" And on board composition: "**Seed with talent, not warm bodies; every
+  member should be on a committee.**"
+- Two practical constraints for the fundraising work now underway. **Pitch deck: "5–6
+  image-heavy slides, not 20 pages," with testimonials — "like the two retirees in Clear
+  Creek" — front and centre**, which is a sharp brief for the deck Andrew owes Bob by Sep 9.
+  And **"pick 5 realistic verticals, not 70"** against a brainstormed list that ran to family
+  foundations, individual donors, male-focused brands (**Irish Spring, Anheuser-Busch**),
+  construction, **NFL/sports**, and CU Boulder alumni.
+- One channel idea from her own experience: "**Facebook birthday fundraisers drove $15M+ for
+  her org (Vibrant)**" — which pairs directly with the social launch and its $30k target.
+- She converted immediately: **a 1-hour working session on Thu Sep 10 to draft vision and
+  mission, with her in the room**, and she asked for the **bylaws and testimonials** in
+  advance. This is no longer advice; she is doing the work with them.
+- action #open (Andrew, before Sep 10): send Jennifer the bylaws and testimonials
+- action #open (John & Andrew, before Sep 10): "**reflect on your personal 'why'**" — she will
+  pull vision language from that conversation
+- action #open (Andrew): build the pitch deck **after** vision/mission are locked
+- category: Partnerships and Strategic Relationships
+- source: Granola, Jennifer Ashley call 2026-09-03
+- links: [[partnerships-and-strategic-relationships#2026-08-31 The Vibrant call is on the calendar: Thu Sep 3, a full hour]], [[governance-and-org-development#2026-09-03 Vision and mission get a deadline and an outside facilitator]], [[relationships#Jennifer Ashley]]
+
+## 2026-09-03 The VA contact has a name: Daniel Leal-Diaz — and he opened Parker
+- The unidentified "Daniel from the VA," open since early August, is **Daniel Leal-Diaz, LCSW,
+  LAC — Community Engagement and Partnership Coordinator, Suicide Prevention Program, Rocky
+  Mountain Regional VA Medical Center** (Aurora). And he did not wait to be chased: he
+  introduced Andrew to **Laura Larson, Assistant Director for Community Health at Douglas
+  County**, because "**she knows someone who has expressed interest in implementing a Dude
+  Talk Dinner in Parker**."
+- That makes him an active referral source rather than a name on a list — a suicide-prevention
+  coordinator at the regional VA sending DTD county-health introductions is exactly the
+  upstream/downstream relationship the Chaffee framing describes, and it arrives with the
+  veterans task force still forming in Northern Colorado.
+- action #done: identify "Daniel from the VA"
+- action #open (John/Andrew): follow up with Daniel Leal-Diaz directly about the veterans group
+  — he is clearly willing to help
+- category: Partnerships and Strategic Relationships
+- source: "Re: Dude Talk Dinner Parker" thread, Daniel Leal-Diaz → Andrew Wolff, 2026-09-02/03
+- links: [[partnerships-and-strategic-relationships#2026-08-26 John proposes reaching Daniel at the VA and "Deke" for one of his events]], [[community-growth-and-expansion#2026-09-03 Parker becomes a real prospect, with two interested people and a county introduction]], [[relationships#Daniel Leal-Diaz]]
 
 ## 2026-09-01 The RMCP coffee happened and produced a second meeting — but no record of the first
 - "**RMCP and DTD connection at Starbucks**" ran Tue Sep 1, 10–11am MDT at 92 Wadsworth Blvd

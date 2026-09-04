@@ -1,6 +1,6 @@
 ---
 area: Support for Existing Communities
-updated: 2026-09-03
+updated: 2026-09-04
 tags: [area]
 ---
 
@@ -14,6 +14,28 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[support-for-existing-communities#...]] and harvested by the brief. -->
+
+## 2026-09-04 The BV pilot works: the first community-specific donation lands, $20
+- "**Zach Lyles just supported your campaign** 🎉 Zach made a donation for a total of
+  **$20.00**. **Campaign: DTD Buena Vista, CO**."
+- Small money, large signal. This is **the first donation in the vault to a community-specific
+  campaign rather than the org-wide one**, and it arrives **three days after John sent Justin
+  the QR code** — which is the pilot Justin proposed on Aug 24 to test "**whether the
+  community is able to support itself through some dudes making donations**." The mechanism
+  works end to end: BV page live, QR code in hand, a BV dude gives, and the alert names the
+  community.
+- What it does not yet show is scale or repetition — one $20 gift is a working pipe, not a
+  self-sustaining community. The measure Justin actually proposed needs several dinners' worth
+  of data.
+- Also worth noting for the thank-you process, still not operating: Givebutter's own prompt is
+  "**Say thanks by replying to this email**," and this donor is the most thankable in the file.
+- action #open (John/Andrew): thank Zach Lyles — and tell Justin the first gift came in
+- action #open (Justin): keep the code on the tables and report attendance-to-donation over the
+  next few dinners
+- category: Support for Existing Communities
+- source: Givebutter contribution notification, "Zach Lyles donated $20.00 to 'DTD Buena Vista,
+  CO'" 2026-09-04
+- links: [[support-for-existing-communities#2026-09-01 The BV QR code is delivered — the self-sufficiency pilot can actually start]], [[support-for-existing-communities#2026-08-24 A QR code on the table: piloting whether BV can support itself]], [[funding-and-financial-development#2026-08-18 DECISION: community fundraising goes tiered — struggling communities keep what they raise]]
 
 ## 2026-09-02 Facilitator training gets a model — and the feedback form gets a purpose
 - Two pieces of the facilitator system landed in the Bob Holt conversation. Training will use
@@ -116,7 +138,10 @@ responsibility but not to a specific dated project get logged here.
   — first asked **Aug 6**, promised **Aug 13** ("Yes, let me find some time to make this
   happen"), still outstanding **Aug 26**. Attaching a worked example is a reasonable next
   escalation before asking someone else to write it.
-- action #open (Mike Mayer): send bio and photo
+- **Update 2026-09-03:** Mike finally replied — "**I am so behind and finally getting caught
+  up after a long summer. I will get something to you next week.**" Four weeks after the
+  first ask, with a soft commitment rather than a delivery.
+- action #open (Mike Mayer, ~week of Sep 7): send bio and photo
 - category: Support for Existing Communities
 - source: Fathom recap, "DTD Leadership Circle" 2026-08-27; "Re: Facilitator Bio and Pic"
   thread 2026-08-06 → 2026-08-26

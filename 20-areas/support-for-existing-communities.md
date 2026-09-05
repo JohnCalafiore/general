@@ -1,6 +1,6 @@
 ---
 area: Support for Existing Communities
-updated: 2026-09-04
+updated: 2026-09-05
 tags: [area]
 ---
 
@@ -14,6 +14,34 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[support-for-existing-communities#...]] and harvested by the brief. -->
+
+## 2026-09-04 Andrew opens the structure conversation with Summit — the first community asked directly
+- Andrew wrote to **Nadia Borovich at Building Hope Summit County**, and it is the first time
+  DudeCentral has taken the legal-structure question *to a community* rather than debating it
+  internally: "**As the Dude Talk Dinners movement grows, establishing a formal relationship
+  between Dude Talk Dinners, Inc. (Dude Central) and our communities across Colorado and
+  beyond is becoming more important. As we are considering a couple of different partnership
+  structures, I would love to meet with you and anyone else on Building Hope's leadership team
+  to hear how things are going and discuss the best way to structure our relationship moving
+  forward.**"
+- The timing is deliberate: **Greg Vochis recommended the centralized model on Sep 1**, the
+  board decides on **Sep 18**, and **Summit is one of the three communities running the
+  undocumented "fourth model."** Asking the affected partner before the board votes is the
+  right order — and it directly serves the Aug 21 board action for Andrew to "**call current
+  sponsors (Nadia, Allison) for their perspective on a centralized financial model**."
+- Note the framing is consultative rather than announced — "hear how things are going and
+  discuss the best way to structure our relationship" — which matters, because Chris
+  Peterson's objection has been that existing fiscal sponsors **won't** change their
+  established systems.
+- action #done (Andrew, 2026-09-04): open the structure conversation with Nadia (Summit)
+- action #open (Andrew): the same conversation with **Allison** at All Access Wellness, per the
+  Aug 21 board action
+- action #open (John/Andrew): make sure what Summit says lands **before** the Sep 18 board
+  decision, not after
+- category: Support for Existing Communities
+- source: "Dude Central and DTD Summit partnership," Andrew Wolff to Nadia Borovich, cc John,
+  2026-09-04
+- links: [[governance-and-org-development#2026-09-01 Greg Vochis on structure: centralize it, and a fourth model is already running]], [[funding-and-financial-development#2026-08-21 Board adopts the fundraising strategy — with numbers attached]], [[relationships#Nadia Borovich]]
 
 ## 2026-09-04 The BV pilot works: the first community-specific donation lands, $20
 - "**Zach Lyles just supported your campaign** 🎉 Zach made a donation for a total of

@@ -1,6 +1,6 @@
 ---
 area: Presentations, Events, and Public Presence
-updated: 2026-09-04
+updated: 2026-09-05
 tags: [area]
 ---
 
@@ -14,6 +14,36 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[presentations-events-public-presence#...]] and harvested by the brief. -->
+
+## 2026-09-04 The positioning argument gets written down — and "third space" replaces "safe space"
+- The mission/vision braindump produced foundational positioning rather than statements —
+  Granola is explicit that "**no formal mission/vision statements were drafted yet, and no
+  pitch deck structure was finalized**" — but what it did produce is the clearest articulation
+  of DTD's argument in the record. Captured in full as
+  [[30-resources/why-dinner-positioning|Why dinner — the positioning argument]].
+- **One decision worth flagging as a decision: "third space" is preferred over "safe
+  space."** That is a real brand choice — "third space" is sociological and neutral, "safe
+  space" carries the therapeutic register DTD keeps trying to stay outside of. It should
+  propagate to the website, the facilitator guide and social copy.
+- The avatar work is the other substantive output, and it's a deliberate narrowing: **the
+  primary participant is "the guy who wants more community, even if not fully isolated"** —
+  not a man in crisis. The secondary types are the "**wit's end**" guy, "**sometimes pushed by
+  a partner**," and the "**built for this**" guy. That choice should shape the testimonial
+  selection and the imagery in the 5–6 slide deck.
+- The "why dinner" case now has four legs to stand on: it **sidesteps stigma** ("it's just
+  dinner"), it has a **physiological basis** (breaking bread triggers a parasympathetic
+  response), it offers **a good meal many guys don't often get**, and it has **thousands of
+  years of precedent**.
+- And the honest self-assessment, which matters more than the rest: "**testimonials are strong
+  but hard data is a gap; quantitative evidence of community impact is needed.**" That is the
+  same gap the Monarch application's UCLA-3 commitment and the Facilitator Feedback Form are
+  meant to close.
+- action #open (John/Andrew): carry the avatar and "third space" language into the Sep 10
+  vision session with Jennifer
+- action #open (John/Andrew): propagate "third space" to the website, guide and social copy
+- category: Presentations, Events, and Public Presence
+- source: Granola, "DTD Claude interview notes - day 1" 2026-09-04
+- links: [[30-resources/why-dinner-positioning|Why dinner — the positioning argument]], [[governance-and-org-development#2026-09-03 Vision and mission get a deadline and an outside facilitator]], [[30-resources/dinner-format-and-ground-rules|The dinner format and ground rules]]
 
 ## 2026-09-02 The social-media launch gets a plan, a tagline, and an October deadline
 - An 87-minute regroup with Andrew and Dawson turned the Aug 26 intent into an operating

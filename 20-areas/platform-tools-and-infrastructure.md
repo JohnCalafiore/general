@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-09-04
+updated: 2026-09-05
 tags: [area]
 ---
 
@@ -14,6 +14,34 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-09-04 RESOLVED: Google for Nonprofits is approved — and it unlocks four products
+- "**Administrator access approved!** ... You've been added as an administrator to the account
+  for **Dude Talk Dinners Inc**." Two notices arrived, one to Andrew and one to John, and
+  Andrew forwarded his. Charity ID **41-4806880**.
+- This closes a thread that has run since **Aug 2**: verified, then Workspace activation
+  requested, then "issues exist with your activation request" (Aug 20), then **denied with
+  multiple domains flagged (Aug 22)**, an appeal, a **fresh application on Aug 28** — and now
+  approved, roughly on the "3 business days" the Aug 28 receipt promised.
+- Four products are named as available, and three of them matter immediately:
+  - **G Suite / Workspace for Nonprofits** — which should end the **paid, auto-charged
+    subscription** confirmed on Sep 1. Worth verifying the billing actually switches rather
+    than assuming it.
+  - **Google Ad Grants** — the **$3,000/month** in free search ads the missed Sep 2 call was
+    about. That call now has a real reason to be rescheduled.
+  - **YouTube Nonprofit Program** — and separately, **YouTube advanced features were verified
+    the same day**, so video uploads beyond the default limits are now available just as the
+    social launch needs them.
+  - **Google Maps Platform**, with **$250/month in credits** — no current use, noted for
+    completeness.
+- action #open (John): confirm the **Workspace billing switches to the nonprofit tier** and
+  the paid invoice stops
+- action #open (John): reschedule the Google Ads call now that the Ad Grant is actually
+  available
+- category: Platform, Tools, and Infrastructure
+- source: "Google for Nonprofits administrator access request approved" and "Fwd: You now have
+  access to Google for Nonprofits" 2026-09-04; YouTube verification email 2026-09-04
+- links: [[platform-tools-and-infrastructure#2026-08-28 Google Workspace for Nonprofits, applied for again]], [[platform-tools-and-infrastructure#2026-09-01 RESOLVED: DTD is on a paid Google Workspace subscription, auto-charged monthly]], [[platform-tools-and-infrastructure#2026-09-02 The Google Ads call was missed — and there's a $3,000 credit at stake]]
 
 ## 2026-09-02 Fathom's AI action items are back — after two weeks of stripped recaps
 - Both of today's recaps carry a populated "**Action Items ✨**" section with named owners and

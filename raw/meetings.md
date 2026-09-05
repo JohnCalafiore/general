@@ -1,42 +1,43 @@
-# Meetings — Fathom / Granola (harvest window 2026-09-03T07:09:31Z → 2026-09-04T07:07Z)
+# Meetings — Fathom / Granola (harvest window 2026-09-04T07:08:51Z → 2026-09-05T07:05Z)
 
-## meetings-granola-jennifer-ashley-2026-09-03 Granola: the Jennifer Ashley (Vibrant) call
+## meetings-granola-claude-interview-day1-2026-09-04 Granola: "DTD Claude interview notes - day 1"
 
-when: 2026-09-03, 2:00–3:00pm MDT · Jennifer Ashley, Andrew Wolff, John Calafiore
+when: 2026-09-04 · **a solo session** — John working through positioning material with an AI
+interviewer, rather than the two-person braindump the calendar shows
 
-**Orientation given to Jennifer:** free monthly dinners for men; **501(c)(3) approved**;
-operating in Colorado with **a community starting in Connecticut**; and "**zero marketing
-spend driving all growth**."
+Granola's note on scope: it "doesn't explicitly cover mission, vision, or pitch deck as
+discrete topics, but it does lay foundational thinking for all three... **No formal
+mission/vision statements were drafted yet, and no pitch deck structure was finalized.**"
 
-**Fundraising discussion:**
-- "**Year 1 budget ~$325K; Year 2 ~$650K** — **getting paid is the top priority**"
-- Donor verticals brainstormed: **family foundations, individual donors, male-focused brands
-  (Irish Spring, Anheuser-Busch), construction industry, NFL/sports, CU Boulder alumni**
-- "Jennifer noted **Facebook birthday fundraisers drove $15M+ for her org (Vibrant)** at one
-  point"
+**The target participant (avatar work):**
+- "**Primary:** guy who wants more community, **even if not fully isolated**"
+- "**Secondary:** '**wit's end**' guy (**sometimes pushed by a partner**) and '**built for
+  this**' guy"
+- "Core insight: **men are communal by nature but pushed into isolation by remote work,
+  friends with families**, etc."
+- "DTD's low-barrier framing lets **natural human instinct toward community do the heavy
+  lifting**"
 
-**Jennifer's advice:**
-- "**Vision/mission must be formalized before approaching corporates** — current framing is
-  too informal"
-- "Vision should go deeper than '**1,000 dinners**' — closer to '**every man has a sense of
-  belonging**'"
-- "**Board:** Keep them **out of the kitchen** on vision/mission; **bring a recommendation**.
-  **Seed with talent, not warm bodies**; **every member should be on a committee**"
-- "**Pitch deck: 5–6 image-heavy slides, not 20 pages** — **testimonials (like the two
-  retirees in Clear Creek) should be front and centre**"
-- "**Fundraising: pick 5 realistic verticals, not 70**"
+**Why dinner — the core pitch logic:**
+- "'Dinner' **sidesteps mental health stigma** — *it's just dinner*"
+- "**Physiological case: breaking bread triggers a parasympathetic (rest & digest) response,
+  lowering defenses**"
+- "Practical hook: **a good meal (BBQ, quality pizza) many guys don't often get**"
+- "**Thousands of years of precedent** as a human bonding ritual"
+- "**Key framing: 'Not therapy, not counseling, not coaching'**"
+- "**Brand language decision: 'Third space' preferred over 'safe space'**"
 
-**Next steps:**
-- *Andrew* — send Jennifer **the bylaws and testimonials before Thursday Sep 10**
-- *Andrew* — send an invite for a **1-hour working session Thu Sep 10, 1pm MT / 3pm ET** to
-  draft vision and mission
-- *John & Andrew* — "**reflect on your personal 'why' ahead of the vision session; Jennifer
-  will pull language from the conversation**"
-- *Andrew* — build the pitch deck **after** vision/mission are locked; 5–6 image-led slides
+**What DTD gets right about men:**
+- "Men **do** have emotional capacity — **societal conditioning removes it, not the capacity
+  itself**"
+- "The **simplicity is the point**: prompted conversation, no feedback, no judgment"
+- "Memorable proof point: **an elderly man shared his wife had died the week before; the table
+  held space**"
+- "Mental health professionals are responding positively — **podcast invites, partnership
+  interest, 'eureka' reactions**"
+- "**No RSVP, no commitment required**: men just need to know **there's a place once a
+  month**. Idaho Springs: after only 1–2 dinners, guys said '**this has to continue**'"
 
----
-
-## meetings-fathom-2026-09-03 Fathom: no recap for the Jennifer call
-
-No Fathom recap arrived for Sep 3. Granola captured this one; the two Sep 2 sessions were
-captured by Fathom. Coverage is now split across both tools with no rule about which runs.
+**Decision / next step recorded:**
+- "**Gather hard data** — testimonials are strong but **acknowledged as a gap**; quantitative
+  evidence of community impact is needed"

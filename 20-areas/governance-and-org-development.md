@@ -1,6 +1,6 @@
 ---
 area: Governance and Organizational Development
-updated: 2026-09-04
+updated: 2026-09-05
 tags: [area]
 ---
 
@@ -14,6 +14,44 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[governance-and-org-development#...]] and harvested by the brief. -->
+
+## 2026-09-04 The board's officer roles are on the record for the first time
+- Sent to National Philanthropic Trust as part of the DAF diligence, and the first complete
+  officer list anywhere in this vault:
+  - **Ken Farber — Board Chair**
+  - **Benjamin Shay — Board Vice Chair**
+  - **Chris Peterson — Board Treasurer**
+  - **Justin Hall — Board Secretary**
+  - **Christopher Gould — Member**
+  - **Andrew Wolff — Member**
+- Two of these were inferred before and are now confirmed (Ken as Chair, Justin doing the
+  minutes as Secretary); **Ben as Vice Chair and Chris Peterson as Treasurer are new**, and
+  the Treasurer role matters given CP has been the loudest voice against including in-kind
+  donations in the budget. **Andrew sits on the board as a Member while also serving as
+  Executive Director** — worth knowing when the governance-model decision comes up on Sep 18.
+- Also stated to a funder in writing: "**none of our board members are compensated for their
+  services**," consistent with the minutes recording both executives as volunteers.
+- category: Governance and Organizational Development
+- source: Andrew Wolff to National Philanthropic Trust, "Re: Pending Donation..." 2026-09-04
+- links: [[funding-and-financial-development#2026-09-04 A $10,000 donor-advised-fund gift is pending — DTD's largest single donation yet]], [[governance-and-org-development#2026-08-28 The 8/21 board minutes are circulated — and carry four things the recap didn't]]
+
+## 2026-09-04 Connecticut public-charity registration filed — the first out-of-state footprint
+- The State of Connecticut eLicensing system verified DTD's email and issued a paid receipt:
+  "**Application - PUBLIC CHARITY**, Item # 6515328, **Application Fee $50.00**, Amount Paid
+  ($50.00)." Filed under Andrew's name for **Dude Talk Dinners, Inc**.
+- This is **the first regulatory filing outside Colorado**, and it follows the Connecticut
+  community that Giovanny Ramirez and Anderson have been standing up since July. Most states
+  require **charitable-solicitation registration** before an organization can ask for money
+  there, so this is the compliance groundwork for a community that hasn't launched yet —
+  quietly sensible, and a cost that will repeat with every new state.
+- The receipt's own caveat is worth keeping: "**This receipt is not a license or an
+  authorization to do business.**" Registration is pending, not granted.
+- action #open (John/Andrew): watch for the Connecticut approval, and note that each new state
+  will need its own registration
+- category: Governance and Organizational Development
+- source: State of Connecticut eLicensing email verification and invoice receipt 2026-09-04;
+  John's forward to Andrew
+- links: [[community-growth-and-expansion#2026-08-18 Connecticut startup conversation booked: Wed Aug 26, 3:30–4:30pm]], [[governance-and-org-development#2026-09-01 Greg Vochis on structure: centralize it, and a fourth model is already running]]
 
 ## 2026-09-03 Vision and mission get a deadline and an outside facilitator
 - The question the board deferred on Aug 21 — vision and mission, parked until the legal

@@ -1,5 +1,5 @@
 ---
-updated: 2026-09-04
+updated: 2026-09-05
 tags: [grounding, people]
 ---
 
@@ -21,14 +21,16 @@ Format — one H2 per person:
 <!-- entries begin below -->
 
 ## Andrew Wolff
-- org: Dude Talk Dinners — **Executive Director** (per his email signature)
+- org: Dude Talk Dinners — **Executive Director**, and also **a board Member** (officer list
+  sent to NPT 2026-09-04). Logged as a **volunteer** in the 8/21 board minutes.
 - email: andrew.wolff@dudetalkdinners.org; phone 516-507-0798 (per microgrant
   application)
 - source: signature in email 2026-07-24; Patricia Markwell email 2026-07-20; 501(c)(3)
   board announcement 2026-07-19
 
 ## Ken Farber
-- org: Dude Talk Dinners — **Board Chair** (per his signature, 2026-08-17); led the
+- org: Dude Talk Dinners — **Board Chair** (confirmed in the officer list sent to NPT
+  2026-09-04; also per his signature 2026-08-17); led the
   501(c)(3) application; active in Clear Creek and Frisco dinners; recruits leadership
   (intro'd Cole); handles the insurance correspondence and circulates the board packet.
   His formal employment, like Andrew's, is gated on the budget "tranches."
@@ -37,8 +39,9 @@ Format — one H2 per person:
   "Aug 21 Board Packet" 2026-08-17
 
 ## Justin Hall
-- org: Dude Talk Dinners board — drafted/shared the 7/17/26 board meeting minutes; also a
-  **Buena Vista facilitator** (attended the Aug 6 BV dinner)
+- org: Dude Talk Dinners — **Board Secretary** (officer list sent to NPT 2026-09-04); drafts
+  and circulates the board minutes; also a **Buena Vista facilitator** (attended the Aug 6 BV
+  dinner)
 - bio (his own words, 2026-08-08): has lived and worked in the **Buena Vista area in the
   mental health field since 2023**; experience and passion for group work and men's work;
   involved with the **Chamber of Commerce, BV Library, and the Chaffee Mental Health
@@ -48,8 +51,8 @@ Format — one H2 per person:
 - source: Drive share email 2026-07-21; "Re: Facilitator Bio and Pic" 2026-08-08
 
 ## Chris Gould
-- org: Dude Talk Dinners board — also **Facilitator, Clear Creek County DTD** (per his
-  signature); owns the Mission & Vision drafting work; was in England in July (missed
+- org: Dude Talk Dinners — **board Member** (officer list sent to NPT 2026-09-04, as
+  "Christopher Gould"); also **Facilitator, Clear Creek County DTD** (per his signature); owns the Mission & Vision drafting work; was in England in July (missed
   the 7/17 board meeting); actively facilitating dinners — sent John the Aug 10 topic
   ("relationships... repair/strengthen/build") for the reminder
 - email: chris.gould@dudetalkdinners.org
@@ -70,8 +73,9 @@ Format — one H2 per person:
 - source: calendar invites 2026-07-28/30, 2026-08-03; Drive share 2026-08-04
 
 ## Chris Peterson
-- org: Dude Talk Dinners board — goes by "CP"; championing the Zero Suicide Academy
-  application
+- org: Dude Talk Dinners — **Board Treasurer** (officer list sent to NPT 2026-09-04); goes by
+  "CP"; championing the Zero Suicide Academy application; the strongest voice against
+  including in-kind donations in the budget
 - email: chris.peterson@dudetalkdinners.org and christine.peterson@westernalum.org
   (confirmed same person — signed "Chris Peterson" from the westernalum address,
   2026-07-23); phone 970-209-4188. A christine.peterson@state.co.us address also accepted
@@ -79,8 +83,8 @@ Format — one H2 per person:
 - source: 501(c)(3) board thread 2026-07-20; Zero Suicide Academy thread 2026-07-23/25
 
 ## Benjamin Shay
-- org: Dude Talk Dinners board — drafted the donor-outreach script for the seed-fund
-  campaign (goes by "Ben")
+- org: Dude Talk Dinners — **Board Vice Chair** (officer list sent to NPT 2026-09-04);
+  drafted the donor-outreach script for the seed-fund campaign (goes by "Ben")
 - email: benjamin.shay@dudetalkdinners.org; also reached at ben@bshaycreative.com
   (board fwd 2026-07-23)
 - source: board cc lists 2026-07-19/21; fundraising-asks email 2026-07-22

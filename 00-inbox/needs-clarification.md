@@ -1,5 +1,5 @@
 ---
-updated: 2026-09-04
+updated: 2026-09-05
 tags: [inbox]
 ---
 
@@ -18,6 +18,32 @@ Format the agent uses:
 ```
 
 <!-- entries begin below -->
+
+## 2026-09-05 What's in the "DTD Org Overview" doc you sent Andrew?
+- quote: "Hey Andrew, **Take a look at this doc and let me know what you think. I think it's a
+  good place to start but will probably need a bit more of a review**" — 2026-09-05 04:37 UTC
+  (~10:37pm Friday), attachment ~520KB
+- context: Sent the evening of the mission/vision braindump day, so it plausibly *is* the
+  braindump written up — an org overview would be the natural artifact between the positioning
+  work and the pitch deck. But the attachment isn't readable from here, so I've filed the
+  Granola session and left this alone.
+- question: Is this the write-up of the braindump, and should it be captured in the vault —
+  or is it a different document (org chart, one-pager, something for the board)?
+- answer: <!-- write here -->
+
+## 2026-09-05 NPT asked for a Form 990 and about expense reimbursement — is that settled?
+- quote: NPT requires "**a copy of the organization's most recently filed Form 990, including
+  Schedule B**" and confirmation of "**whether or not the Directors receive reimbursement for
+  expenses incurred**" — 2026-09-04, on a **$10,000** pending gift
+- context: Andrew's reply sent the determination letter and the board list and confirmed
+  directors are uncompensated, which is most of it. But **DTD has no 990 to send** (too new to
+  have filed one), and **the reimbursement question wasn't answered**. Neither is a problem —
+  they're just unanswered, on the largest gift in the file.
+- question: Do you want to pre-empt the follow-up — a one-line "our first fiscal year closes
+  [date], no 990 filed yet" plus the reimbursement position? Also worth knowing whether DTD
+  actually has a written reimbursement policy, since Greg's model assumes facilitators pay
+  upfront and get reimbursed.
+- answer: <!-- write here -->
 
 ## 2026-09-04 Is the annual budget $325k or $225k?
 - quote: "**Year 1 budget ~$325K; Year 2 ~$650K**" — Jennifer Ashley call, 2026-09-03; against

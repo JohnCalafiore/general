@@ -1,103 +1,87 @@
-# Gmail — Inbox (harvest window 2026-09-03T07:09:31Z → 2026-09-04T07:07Z)
+# Gmail — Inbox (harvest window 2026-09-04T07:08:51Z → 2026-09-05T07:05Z)
 
-## gmail-1a067c93bb71fad0 "Re: Dude Talk Dinner Parker" — the VA introduction, and Daniel is named
+## gmail-1a06d2893b29cbc9 "Fwd: Pending Donation from National Philanthropic Trust" — a $10,000 DAF gift
 
-from: andrew.wolff@dudetalkdinners.org
-to: **Daniel.Leal-Diaz@va.gov** · cc **llarson@douglasco.gov**, **pcwhitehorn@gmail.com**, John
-date: 2026-09-03 15:00 UTC
+from: andrew.wolff@dudetalkdinners.org (forwarding) · date: 2026-09-04 16:02 UTC
+original from: **J.P. Morgan Charitable Giving Fund / jpmcgf@nptrust.org**, 2026-09-04 07:18
 
-**The original introduction, from Daniel (2026-09-02 13:18):**
-> Hi Andrew, I wanted to introduce you to **Laura Larson, Assistant Director for Community
-> Health at Douglas County**. **She knows someone who has expressed interest in implementing
-> a Dude Talk Dinner in Parker.** I wanted to facilitate this introduction.
+> I am contacting you from **National Philanthropic Trust (NPT)**, a sponsoring organization
+> of donor-advised funds. **A donation has been recommended from one of NPT's donor-advised
+> funds of $10,000.00 to Dude Talk Dinners Inc.**
 >
-> **Daniel Leal-Diaz, LCSW, LAC — Community Engagement and Partnership Coordinator (CEPC),
-> Suicide Prevention Program, Rocky Mountain Regional VA Medical Center**, 1700 N. Wheeling
-> Street, Aurora, CO 80045. Office (720) 857-5259, cell (303) 859-2429.
-
-**Andrew's reply:**
-> Hi Laura, It's a pleasure to meet you, and **I'm excited that there's interest in starting a
-> Dude Talk Dinners Community in Parker. I have cc'd Patrick Whitehorn, who is also from
-> Parker and has expressed some interest becoming a facilitator of a DTD Community.**
+> Because your organization **has either been in existence as a charity for less than 5 years
+> or does not yet appear in either the IRS Publication 78 listing** of tax-exempt public
+> charities or its Exempt Organization's Business Master File Extract, **we require
+> additional information**:
+> - A copy of the organization's **most recently filed Form 990, including Schedule B**
+> - **A complete and current list of the organization's Board of Directors** and confirmation
+>   of (1) **whether or not the Directors are compensated** and (2) **whether or not the
+>   Directors receive reimbursement for expenses incurred**.
 >
-> Hi Patrick... **there seems to be growing interest in your area.**
->
-> **I would love to schedule a call with everyone** to share more about the Dude Talk Dinners
-> model and how men across Colorado benefit from these connections. **Once you are all ready,
-> we will coach everyone on how to get started.**
+> **Jared Miller** | Seasonal Grants, Associate, National Philanthropic Trust,
+> 2 Ash Street Suite 3000, Conshohocken PA 19428. T: +1 445 895 1852.
+> **Reference Case #01989840**
 
 ---
 
-## gmail-1a0678e388ec0e2f Justin Hall — "Re: Recap of your meeting..."
+## gmail-1a06d40a9eb188c2 Google for Nonprofits — "administrator access request approved"
 
-from: justin.hall@dudetalkdinners.org · date: 2026-09-03 13:55 UTC
+from: googlefornonprofits-noreply@google.com · date: 2026-09-04 16:29 UTC
 
-> **Awesome! Thanks John!!**
-
-Acknowledging the BV QR code.
+"Sign in to review administrator access."
 
 ---
 
-## gmail-1a067edda55aff1d Brian Gilmore — "Re: Starting a Dude Talk Dinners Community"
+## gmail-1a06d6806b7736a9 "Fwd: You now have access to Google for Nonprofits"
 
-from: bgilmore@brotherly.net · to: support@dudetalkdinners.org · date: 2026-09-03 15:24 UTC
+from: andrew.wolff@dudetalkdinners.org (forwarding) · date: 2026-09-04 17:11 UTC
+original to: andrew.wolff@dudetalkdinners.org, 2026-09-04 10:29 MDT
 
-> **Thank you, looking forward to it**
+> **Administrator access approved!** Welcome to Google for Nonprofits. You've been added as an
+> administrator to the account for **Dude Talk Dinners Inc**.
 
-Replying to an automated "Starting a Dude Talk Dinners Community" email sent from support@ on
-**2026-09-02 22:36** — so the **new-lead automation is now firing**, on top of John's manual
-reply.
-
----
-
-## gmail-1a0681a22b037d6a Mike Swartz — "Re: Routt County DTD e-introduction"
-
-from: mswartz@empowermentconsultingllc.com · date: 2026-09-03 16:28 UTC
-
-> Sounds good! I'm looking forward to connecting on this. **There are several guys from our
-> men's group who I think would be great facilitators as well.**
+Products listed as available: **G Suite for Nonprofits**, **Google Ad Grants** ("free ads for
+your nonprofit"), **YouTube Nonprofit Program**, and **Google Maps Platform** with
+"**$250/month in Google Maps Platform credits**."
+Organization: Dude Talk Dinners Inc · Charity ID: 41-4806880 · User ID:
+andrew.wolff@dudetalkdinners.org
 
 ---
 
-## gmail-1a069075417b6dd5 Mike Mayer — "Re: Facilitator Bio and Pic"
+## gmail-1a06d8ff2296329a Google Drive — Dawson Wolf shared "Untitled presentation"
 
-from: mike@buildterraform.com · date: 2026-09-03 20:47 UTC
+from: drive-shares-dm-noreply@google.com · cc andrew.wolff@ · date: 2026-09-04 17:55 UTC
 
-> John! **I am so behind and finally getting caught up after a long summer. I will get
-> something to you next week.**
-
-First reply since Aug 13; the bio was first requested **Aug 6** and chased three times.
-
----
-
-## gmail-1a0691a027d0b28e Calendar invitation — "DTD Vision (and maybe mission)"
-
-from: andrew.wolff@dudetalkdinners.org
-to: john.calafiore@, **jxashley@outlook.com** · date: 2026-09-03 21:08 UTC
-
-**Thu Sep 10, 2026, 1:00–2:00pm MDT**, Google Meet. All three accepted.
+"**Dawson Wolf (dawsonjwolf03@gmail.com)** has invited you to **edit** the following
+presentation: **Untitled presentation**." Note: shared from his **personal Gmail**, and
+Google flags "Dawson Wolf is outside your organization" — despite the new
+dawson.wolf@dudetalkdinners.org account.
 
 ---
 
-## gmail-1a06956b25eafe4e Calendar invitation — "DTD braindump for mission, vision, pitchdeck"
+## gmail-1a06e4612e0ba16e / gmail-1a06eb8428a3e886 State of Connecticut eLicensing
 
-from: andrew.wolff@dudetalkdinners.org · date: 2026-09-03 22:14 UTC
+from: donotreplyelicense2@ct.gov · dates: 2026-09-04 21:14 and 23:18 UTC
 
-**Fri Sep 4, 2026, 11:00am–1:00pm MDT**, Google Meet. Andrew and John, both accepted.
+First an email-verification notice addressed to "**Dude Talk Dinners, Inc**," then a paid
+invoice addressed to **Andrew Wolff**:
+
+> **Application - PUBLIC CHARITY** · Item # 6515328 · **Application Fee $50.00** · Amount
+> Paid ($50.00) · **Total Amount Due $0.00**
+> "This receipt is not a license or an authorization to do business."
 
 ---
 
-## gmail-1a06a10ca0323d9f Givebutter — "Zach Lyles donated $20.00 to 'DTD Buena Vista, CO'"
+## gmail-1a06e5119f321d1d YouTube — "You can use advanced YouTube features"
 
-from: no-reply@givebutter.com · date: 2026-09-04 01:37 UTC
+from: no-reply@youtube.com · date: 2026-09-04 21:26 UTC
 
-> **New Contribution 💛 — Zach Lyles just supported your campaign 🎉** Zach made a donation for
-> a total of **$20.00**. Say thanks by replying to this email.
-> **Campaign: DTD Buena Vista, CO**
+"**Your video verification is approved. You can now use advanced YouTube features.**"
 
 ---
 
 ## gmail-noise Screened out this window
 
-- community@givebutter.com — "The Spread" hackathon invitation, Oct 1–2
-- support@theawakenedschool.com — newsletter
+- p.parisi@workwithecseco.com — cold pitch for warehouse racking/shelving (second attempt
+  since Aug 5); John declined: "**We don't have an inventory, so we're all set on space.**"
+- support@givebutter.com — "2026 is the year to launch an auction" (marketing)

@@ -1,240 +1,259 @@
-<!-- generated 2026-09-04T07:08:51+00:00 | 22 new of 22 blocks; synthesis must read ONLY this file, not raw/ -->
+<!-- generated 2026-09-05T07:07:26+00:00 | 20 new of 20 blocks; synthesis must read ONLY this file, not raw/ -->
 
 <!-- source: calendar.md -->
-# Google Calendar (harvest window 2026-09-03T07:09:31Z → 2026-09-04T07:07Z)
+# Google Calendar (harvest window 2026-09-04T07:08:51Z → 2026-09-05T07:05Z)
 
 ---
 
 <!-- source: calendar.md -->
-## cal-1nk7bfgkjrofnn73la6tg2ehts DTD braindump for mission, vision, pitchdeck
+## cal-nochange-2026-09-05 No new or changed events
 
-when: **Fri 2026-09-04, 11:00am–1:00pm MDT** (two hours) · Google Meet
-organizer: Andrew Wolff · Andrew and John, both accepted
-created: 2026-09-03 22:14 UTC — eight hours after the Jennifer Ashley call
+Nothing created, moved or cancelled. **DTD Vision (and maybe mission)** (Thu Sep 10,
+1–2pm MDT, with Jennifer Ashley) was touched at 2026-09-05 01:38 UTC with no visible change;
+all three remain accepted. **DTD : RMCP** (Tue Sep 15, 2–3pm) and the **DTD Board Meeting**
+(Fri Sep 18, 10–11:30am) are unchanged.
 
----
-
-<!-- source: calendar.md -->
-## cal-6btjgifnsshi3ubsd7qsresg9r DTD Vision (and maybe mission)
-
-when: **Thu 2026-09-10, 1:00–2:00pm MDT** · Google Meet
-organizer: Andrew Wolff · attendees: Andrew, John, **jxashley@outlook.com** — all accepted
-created: 2026-09-03 21:08 UTC
-
-**Jennifer Ashley is joining a working session on vision and mission**, one week after the
-introductory call.
-
----
-
-<!-- source: calendar.md -->
-## cal-7e19jhh2lb52cffo6qbltu6bn2 Review for meeting
-
-when: Thu 2026-09-03, 1:00–2:00pm MDT · created by John, no attendees
-An hour of prep booked immediately before the Jennifer Ashley call.
-
----
-
-<!-- source: calendar.md -->
-## cal-unchanged Still on the books
-
-**DTD : RMCP** — Tue Sep 15, 2–3pm MDT; **Bev Marquez has now accepted**.
-**DTD Board Meeting 3rd Friday** — Fri Sep 18, 10:00–11:30am MDT.
+The **DTD braindump for mission, vision, pitchdeck** (Fri Sep 4, 11am–1pm MDT, Andrew + John)
+ran as scheduled.
 
 ---
 
 <!-- source: email-inbox.md -->
-# Gmail — Inbox (harvest window 2026-09-03T07:09:31Z → 2026-09-04T07:07Z)
+# Gmail — Inbox (harvest window 2026-09-04T07:08:51Z → 2026-09-05T07:05Z)
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-1a067c93bb71fad0 "Re: Dude Talk Dinner Parker" — the VA introduction, and Daniel is named
+## gmail-1a06d2893b29cbc9 "Fwd: Pending Donation from National Philanthropic Trust" — a $10,000 DAF gift
 
-from: andrew.wolff@dudetalkdinners.org
-to: **Daniel.Leal-Diaz@va.gov** · cc **llarson@douglasco.gov**, **pcwhitehorn@gmail.com**, John
-date: 2026-09-03 15:00 UTC
+from: andrew.wolff@dudetalkdinners.org (forwarding) · date: 2026-09-04 16:02 UTC
+original from: **J.P. Morgan Charitable Giving Fund / jpmcgf@nptrust.org**, 2026-09-04 07:18
 
-**The original introduction, from Daniel (2026-09-02 13:18):**
-> Hi Andrew, I wanted to introduce you to **Laura Larson, Assistant Director for Community
-> Health at Douglas County**. **She knows someone who has expressed interest in implementing
-> a Dude Talk Dinner in Parker.** I wanted to facilitate this introduction.
+> I am contacting you from **National Philanthropic Trust (NPT)**, a sponsoring organization
+> of donor-advised funds. **A donation has been recommended from one of NPT's donor-advised
+> funds of $10,000.00 to Dude Talk Dinners Inc.**
 >
-> **Daniel Leal-Diaz, LCSW, LAC — Community Engagement and Partnership Coordinator (CEPC),
-> Suicide Prevention Program, Rocky Mountain Regional VA Medical Center**, 1700 N. Wheeling
-> Street, Aurora, CO 80045. Office (720) 857-5259, cell (303) 859-2429.
-
-**Andrew's reply:**
-> Hi Laura, It's a pleasure to meet you, and **I'm excited that there's interest in starting a
-> Dude Talk Dinners Community in Parker. I have cc'd Patrick Whitehorn, who is also from
-> Parker and has expressed some interest becoming a facilitator of a DTD Community.**
+> Because your organization **has either been in existence as a charity for less than 5 years
+> or does not yet appear in either the IRS Publication 78 listing** of tax-exempt public
+> charities or its Exempt Organization's Business Master File Extract, **we require
+> additional information**:
+> - A copy of the organization's **most recently filed Form 990, including Schedule B**
+> - **A complete and current list of the organization's Board of Directors** and confirmation
+>   of (1) **whether or not the Directors are compensated** and (2) **whether or not the
+>   Directors receive reimbursement for expenses incurred**.
 >
-> Hi Patrick... **there seems to be growing interest in your area.**
->
-> **I would love to schedule a call with everyone** to share more about the Dude Talk Dinners
-> model and how men across Colorado benefit from these connections. **Once you are all ready,
-> we will coach everyone on how to get started.**
+> **Jared Miller** | Seasonal Grants, Associate, National Philanthropic Trust,
+> 2 Ash Street Suite 3000, Conshohocken PA 19428. T: +1 445 895 1852.
+> **Reference Case #01989840**
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-1a0678e388ec0e2f Justin Hall — "Re: Recap of your meeting..."
+## gmail-1a06d40a9eb188c2 Google for Nonprofits — "administrator access request approved"
 
-from: justin.hall@dudetalkdinners.org · date: 2026-09-03 13:55 UTC
+from: googlefornonprofits-noreply@google.com · date: 2026-09-04 16:29 UTC
 
-> **Awesome! Thanks John!!**
-
-Acknowledging the BV QR code.
+"Sign in to review administrator access."
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-1a067edda55aff1d Brian Gilmore — "Re: Starting a Dude Talk Dinners Community"
+## gmail-1a06d6806b7736a9 "Fwd: You now have access to Google for Nonprofits"
 
-from: bgilmore@brotherly.net · to: support@dudetalkdinners.org · date: 2026-09-03 15:24 UTC
+from: andrew.wolff@dudetalkdinners.org (forwarding) · date: 2026-09-04 17:11 UTC
+original to: andrew.wolff@dudetalkdinners.org, 2026-09-04 10:29 MDT
 
-> **Thank you, looking forward to it**
+> **Administrator access approved!** Welcome to Google for Nonprofits. You've been added as an
+> administrator to the account for **Dude Talk Dinners Inc**.
 
-Replying to an automated "Starting a Dude Talk Dinners Community" email sent from support@ on
-**2026-09-02 22:36** — so the **new-lead automation is now firing**, on top of John's manual
-reply.
-
----
-
-<!-- source: email-inbox.md -->
-## gmail-1a0681a22b037d6a Mike Swartz — "Re: Routt County DTD e-introduction"
-
-from: mswartz@empowermentconsultingllc.com · date: 2026-09-03 16:28 UTC
-
-> Sounds good! I'm looking forward to connecting on this. **There are several guys from our
-> men's group who I think would be great facilitators as well.**
+Products listed as available: **G Suite for Nonprofits**, **Google Ad Grants** ("free ads for
+your nonprofit"), **YouTube Nonprofit Program**, and **Google Maps Platform** with
+"**$250/month in Google Maps Platform credits**."
+Organization: Dude Talk Dinners Inc · Charity ID: 41-4806880 · User ID:
+andrew.wolff@dudetalkdinners.org
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-1a069075417b6dd5 Mike Mayer — "Re: Facilitator Bio and Pic"
+## gmail-1a06d8ff2296329a Google Drive — Dawson Wolf shared "Untitled presentation"
 
-from: mike@buildterraform.com · date: 2026-09-03 20:47 UTC
+from: drive-shares-dm-noreply@google.com · cc andrew.wolff@ · date: 2026-09-04 17:55 UTC
 
-> John! **I am so behind and finally getting caught up after a long summer. I will get
-> something to you next week.**
-
-First reply since Aug 13; the bio was first requested **Aug 6** and chased three times.
-
----
-
-<!-- source: email-inbox.md -->
-## gmail-1a0691a027d0b28e Calendar invitation — "DTD Vision (and maybe mission)"
-
-from: andrew.wolff@dudetalkdinners.org
-to: john.calafiore@, **jxashley@outlook.com** · date: 2026-09-03 21:08 UTC
-
-**Thu Sep 10, 2026, 1:00–2:00pm MDT**, Google Meet. All three accepted.
+"**Dawson Wolf (dawsonjwolf03@gmail.com)** has invited you to **edit** the following
+presentation: **Untitled presentation**." Note: shared from his **personal Gmail**, and
+Google flags "Dawson Wolf is outside your organization" — despite the new
+dawson.wolf@dudetalkdinners.org account.
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-1a06956b25eafe4e Calendar invitation — "DTD braindump for mission, vision, pitchdeck"
+## gmail-1a06e4612e0ba16e / gmail-1a06eb8428a3e886 State of Connecticut eLicensing
 
-from: andrew.wolff@dudetalkdinners.org · date: 2026-09-03 22:14 UTC
+from: donotreplyelicense2@ct.gov · dates: 2026-09-04 21:14 and 23:18 UTC
 
-**Fri Sep 4, 2026, 11:00am–1:00pm MDT**, Google Meet. Andrew and John, both accepted.
+First an email-verification notice addressed to "**Dude Talk Dinners, Inc**," then a paid
+invoice addressed to **Andrew Wolff**:
+
+> **Application - PUBLIC CHARITY** · Item # 6515328 · **Application Fee $50.00** · Amount
+> Paid ($50.00) · **Total Amount Due $0.00**
+> "This receipt is not a license or an authorization to do business."
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-1a06a10ca0323d9f Givebutter — "Zach Lyles donated $20.00 to 'DTD Buena Vista, CO'"
+## gmail-1a06e5119f321d1d YouTube — "You can use advanced YouTube features"
 
-from: no-reply@givebutter.com · date: 2026-09-04 01:37 UTC
+from: no-reply@youtube.com · date: 2026-09-04 21:26 UTC
 
-> **New Contribution 💛 — Zach Lyles just supported your campaign 🎉** Zach made a donation for
-> a total of **$20.00**. Say thanks by replying to this email.
-> **Campaign: DTD Buena Vista, CO**
+"**Your video verification is approved. You can now use advanced YouTube features.**"
 
 ---
 
 <!-- source: email-inbox.md -->
 ## gmail-noise Screened out this window
 
-- community@givebutter.com — "The Spread" hackathon invitation, Oct 1–2
-- support@theawakenedschool.com — newsletter
+- p.parisi@workwithecseco.com — cold pitch for warehouse racking/shelving (second attempt
+  since Aug 5); John declined: "**We don't have an inventory, so we're all set on space.**"
+- support@givebutter.com — "2026 is the year to launch an auction" (marketing)
 
 ---
 
 <!-- source: email-sent.md -->
-# Gmail — Sent (harvest window 2026-09-03T07:09:31Z → 2026-09-04T07:07Z)
+# Gmail — Sent (harvest window 2026-09-04T07:08:51Z → 2026-09-05T07:05Z)
 
 ---
 
 <!-- source: email-sent.md -->
-## gmail-sent-1a0682db9e3e7b60 "Dude Talk Dinners Reaching Out" — John to Brian Gilmore
+## gmail-sent-1a06d988c85c6952 "Re: Pending Donation from National Philanthropic Trust" — Andrew answers NPT
 
-to: bgilmore@brotherly.net · cc andrew.wolff@ · date: 2026-09-03 16:50 UTC
+from: andrew.wolff@dudetalkdinners.org · to: jpmcgf@nptrust.org · cc John
+date: 2026-09-04 18:04 UTC · attachment: **DTD 501(c)(3) letter of determination.pdf**
 
-> Hi Brian, Thanks for reaching out about Dude Talk Dinners. It means a lot that you see what
-> we're building and want to learn more about it. **Brotherly seems like a great initiative,
-> it would be [great]...**
+> Dear Jared, Thank you for your email regarding the pending donation to Dude Talk Dinners
+> Inc. **Attached to this email is a copy of our IRS letter of determination.**
+>
+> Additionally, please find a list of our Board of Directors below. **Please note that none of
+> our board members are compensated for their services.**
+>
+> **Ken Farber - Board Chair**
+> **Benjamin Shay - Board Vice Chair**
+> **Chris Peterson - Board Treasurer**
+> **Justin Hall - Board Secretary**
+> **Christopher Gould - Member**
+> **Andrew Wolff - Member**
 
-Sent **12 hours** after Brian's form submission — against six days for Jim Hight — and it
-names Brotherly specifically rather than using the template unchanged.
+Answered **within eleven hours**. Note what was *not* sent: NPT asked for a **Form 990 with
+Schedule B**, and Andrew supplied the determination letter and board list instead — DTD is
+too new to have filed a 990. He also did not address the **expense-reimbursement** half of
+NPT's question.
+
+---
+
+<!-- source: email-sent.md -->
+## gmail-sent-1a06dc21acb42b45 "Dude Central and DTD Summit partnership" — Andrew to Nadia Borovich
+
+cc: john.calafiore@ · date: 2026-09-04 18:50 UTC
+
+> Hi Nadia, Thank you for your efforts in creating a thriving DTD Community for the men in
+> Summit County. I thoroughly enjoyed attending the dinner in July...
+>
+> **As the Dude Talk Dinners movement grows, establishing a formal relationship between Dude
+> Talk Dinners, Inc. (Dude Central) and our communities across Colorado and beyond is becoming
+> more important. As we are considering a couple of different partnership structures, I would
+> love to meet with you and anyone else on Building Hope's leadership team to hear how things
+> are going and discuss the best way to structure our relationship moving forward.**
+>
+> Here's a link to my scheduler [cal.com/andrew-wolff/45min]. I would greatly appreciate it if
+> we could find a time to connect **in the next week or two**.
+
+---
+
+<!-- source: email-sent.md -->
+## gmail-sent-1a06eb8b31ff5573 "Fwd: Invoice Receipt" — John forwards the Connecticut receipt to Andrew
+
+date: 2026-09-04 23:19 UTC · body: "**FYI**"
+
+---
+
+<!-- source: email-sent.md -->
+## gmail-sent-1a06fdbd12e0ce59 "DTD Org Overview" — John shares a document with Andrew
+
+to: andrew.wolff@dudetalkdinners.org · date: 2026-09-05 04:37 UTC (~10:37pm MDT Sep 4)
+
+> Hey Andrew, **Take a look at this doc and let me know what you think. I think it's a good
+> place to start but will probably need a bit more of a review.**
+
+~520KB, so a document is attached or embedded. Sent the evening of the mission/vision
+braindump day.
+
+---
+
+<!-- source: email-sent.md -->
+## gmail-sent-1a06db5d0942f59c "Re: quick one about dude talk dinners" — declining a cold pitch
+
+to: p.parisi@workwithecseco.com · date: 2026-09-04 18:37 UTC
+
+> Hi Paul, **We don't have an inventory, so we're all set on space.** Thanks and have a great
+> weekend.
 
 ---
 
 <!-- source: meetings.md -->
-# Meetings — Fathom / Granola (harvest window 2026-09-03T07:09:31Z → 2026-09-04T07:07Z)
+# Meetings — Fathom / Granola (harvest window 2026-09-04T07:08:51Z → 2026-09-05T07:05Z)
 
 ---
 
 <!-- source: meetings.md -->
-## meetings-granola-jennifer-ashley-2026-09-03 Granola: the Jennifer Ashley (Vibrant) call
+## meetings-granola-claude-interview-day1-2026-09-04 Granola: "DTD Claude interview notes - day 1"
 
-when: 2026-09-03, 2:00–3:00pm MDT · Jennifer Ashley, Andrew Wolff, John Calafiore
+when: 2026-09-04 · **a solo session** — John working through positioning material with an AI
+interviewer, rather than the two-person braindump the calendar shows
 
-**Orientation given to Jennifer:** free monthly dinners for men; **501(c)(3) approved**;
-operating in Colorado with **a community starting in Connecticut**; and "**zero marketing
-spend driving all growth**."
+Granola's note on scope: it "doesn't explicitly cover mission, vision, or pitch deck as
+discrete topics, but it does lay foundational thinking for all three... **No formal
+mission/vision statements were drafted yet, and no pitch deck structure was finalized.**"
 
-**Fundraising discussion:**
-- "**Year 1 budget ~$325K; Year 2 ~$650K** — **getting paid is the top priority**"
-- Donor verticals brainstormed: **family foundations, individual donors, male-focused brands
-  (Irish Spring, Anheuser-Busch), construction industry, NFL/sports, CU Boulder alumni**
-- "Jennifer noted **Facebook birthday fundraisers drove $15M+ for her org (Vibrant)** at one
-  point"
+**The target participant (avatar work):**
+- "**Primary:** guy who wants more community, **even if not fully isolated**"
+- "**Secondary:** '**wit's end**' guy (**sometimes pushed by a partner**) and '**built for
+  this**' guy"
+- "Core insight: **men are communal by nature but pushed into isolation by remote work,
+  friends with families**, etc."
+- "DTD's low-barrier framing lets **natural human instinct toward community do the heavy
+  lifting**"
 
-**Jennifer's advice:**
-- "**Vision/mission must be formalized before approaching corporates** — current framing is
-  too informal"
-- "Vision should go deeper than '**1,000 dinners**' — closer to '**every man has a sense of
-  belonging**'"
-- "**Board:** Keep them **out of the kitchen** on vision/mission; **bring a recommendation**.
-  **Seed with talent, not warm bodies**; **every member should be on a committee**"
-- "**Pitch deck: 5–6 image-heavy slides, not 20 pages** — **testimonials (like the two
-  retirees in Clear Creek) should be front and centre**"
-- "**Fundraising: pick 5 realistic verticals, not 70**"
+**Why dinner — the core pitch logic:**
+- "'Dinner' **sidesteps mental health stigma** — *it's just dinner*"
+- "**Physiological case: breaking bread triggers a parasympathetic (rest & digest) response,
+  lowering defenses**"
+- "Practical hook: **a good meal (BBQ, quality pizza) many guys don't often get**"
+- "**Thousands of years of precedent** as a human bonding ritual"
+- "**Key framing: 'Not therapy, not counseling, not coaching'**"
+- "**Brand language decision: 'Third space' preferred over 'safe space'**"
 
-**Next steps:**
-- *Andrew* — send Jennifer **the bylaws and testimonials before Thursday Sep 10**
-- *Andrew* — send an invite for a **1-hour working session Thu Sep 10, 1pm MT / 3pm ET** to
-  draft vision and mission
-- *John & Andrew* — "**reflect on your personal 'why' ahead of the vision session; Jennifer
-  will pull language from the conversation**"
-- *Andrew* — build the pitch deck **after** vision/mission are locked; 5–6 image-led slides
+**What DTD gets right about men:**
+- "Men **do** have emotional capacity — **societal conditioning removes it, not the capacity
+  itself**"
+- "The **simplicity is the point**: prompted conversation, no feedback, no judgment"
+- "Memorable proof point: **an elderly man shared his wife had died the week before; the table
+  held space**"
+- "Mental health professionals are responding positively — **podcast invites, partnership
+  interest, 'eureka' reactions**"
+- "**No RSVP, no commitment required**: men just need to know **there's a place once a
+  month**. Idaho Springs: after only 1–2 dinners, guys said '**this has to continue**'"
 
----
-
-<!-- source: meetings.md -->
-## meetings-fathom-2026-09-03 Fathom: no recap for the Jennifer call
-
-No Fathom recap arrived for Sep 3. Granola captured this one; the two Sep 2 sessions were
-captured by Fathom. Coverage is now split across both tools with no rule about which runs.
+**Decision / next step recorded:**
+- "**Gather hard data** — testimonials are strong but **acknowledged as a gap**; quantitative
+  evidence of community impact is needed"
 
 ---
 
 <!-- source: slack.md -->
-# Slack (harvest window 2026-09-03T07:09:31Z → 2026-09-04T07:07Z)
+# Slack (harvest window 2026-09-04T07:08:51Z → 2026-09-05T07:05Z)
 
 ---
 
 <!-- source: slack.md -->
-## slack-empty-2026-09-04 No Slack activity in the window
+## slack-empty-2026-09-05 No Slack activity in the window
 
 Nothing in any public channel, private channel, or DM after 2026-09-02.

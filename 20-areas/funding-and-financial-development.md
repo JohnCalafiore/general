@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-09-04
+updated: 2026-09-05
 tags: [area]
 ---
 
@@ -14,6 +14,33 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-09-04 A $10,000 donor-advised-fund gift is pending — DTD's largest single donation yet
+- **National Philanthropic Trust**, writing as the **J.P. Morgan Charitable Giving Fund**:
+  "**A donation has been recommended from one of NPT's donor-advised funds of $10,000.00 to
+  Dude Talk Dinners Inc.**" Reference case **#01989840**, contact **Jared Miller**.
+- **By an order of magnitude the largest gift in this vault** — the previous high-water marks
+  are Mark's $1,000 Fidelity DAF grant and two $100 gifts. It is also the **second DAF gift in
+  a fortnight**, which is a pattern worth noticing: donor-advised funds are finding DTD now
+  that the 501(c)(3) is on record.
+- **NPT's diligence is the interesting part**, because it is what every large funder will ask:
+  since DTD has "**been in existence as a charity for less than 5 years**" and doesn't yet
+  appear in **IRS Publication 78** or the Business Master File, they require a **Form 990 with
+  Schedule B** and a **complete board list** with confirmation on **compensation** and
+  **expense reimbursement**.
+- Andrew answered in eleven hours with the **501(c)(3) determination letter** and the board
+  list, stating "**none of our board members are compensated**." Two gaps to be aware of
+  rather than alarmed by: **DTD has no Form 990 to send** — too new to have filed one — and
+  the reply **doesn't address the expense-reimbursement question**, which NPT asked
+  explicitly. Both may come back.
+- action #open (Andrew/John): expect a follow-up on the 990 and reimbursement — have the
+  answer ready ("first fiscal year, no 990 filed yet" plus the reimbursement policy)
+- action #open (John): note that **IRS Pub 78 / BMF listing** is the underlying friction —
+  worth checking when DTD appears, since it will keep recurring with DAF sponsors
+- category: Funding and Financial Development
+- source: "Fwd: Pending Donation from National Philanthropic Trust" and Andrew's reply,
+  2026-09-04
+- links: [[funding-and-financial-development#2026-08-24 Mark gets the EIN — the first donor-advised-fund gift is unblocked]], [[governance-and-org-development#2026-09-04 The board's officer roles are on the record for the first time]]
 
 ## 2026-09-03 The budget stated to an outsider: ~$325k year one, ~$650k year two
 - Told to Jennifer Ashley: "**Year 1 budget ~$325K; Year 2 ~$650K — getting paid is the top

@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-09-05
+updated: 2026-09-07
 tags: [area]
 ---
 
@@ -14,6 +14,24 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-09-05 Levine Law chases its own sponsorship offer — the unanswered question is now costing goodwill
+- Jerome Sallan wrote again three days after the first approach: "**Following up on my emails
+  regarding community sponsorship.**" Still to the **Idaho Springs community address**, still
+  unanswered, and now marked unread and important in the inbox.
+- The plural "**emails**" is worth noting — he counts more than the one message this vault has
+  captured, so an earlier attempt may have landed on a community address nobody monitors.
+- Nothing has changed on DTD's side since 2026-09-02: the offer is still parked behind John's
+  "**larger-scale discussion**," and the gift-acceptance question it raised is still open. What
+  has changed is that the firm is now waiting on a visible silence rather than a pause, and a
+  community inbox is the one absorbing it.
+- action #open (John/Andrew): send Jerome Sallan at least a holding reply, or decide the answer
+  is no — the decision has been open five days and the policy question behind it longer
+- category: Funding and Financial Development
+- source: email from Jerome Sallan (Levine Law Accident Attorneys) to
+  idahospringsCO@dudetalkdinners.org, "Re: Supporting Your Mission — Community Sponsorship
+  Opportunity" 2026-09-05
+- links: [[funding-and-financial-development#2026-09-02 An inbound sponsorship offer from a law firm — and John flags it as a bigger question]], [[00-inbox/needs-clarification|Needs clarification]], [[relationships#Jerome Sallan]]
 
 ## 2026-09-04 A $10,000 donor-advised-fund gift is pending — DTD's largest single donation yet
 - **National Philanthropic Trust**, writing as the **J.P. Morgan Charitable Giving Fund**:

@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-09-05
+updated: 2026-09-07
 tags: [area]
 ---
 
@@ -14,6 +14,18 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-09-06 Capture gap: the Sep 6 nightly sweep started but did not finish
+- The 2026-09-06 sync harvested Gmail and then stopped before writing dumps, filing, or
+  committing, so `last_run` stayed at **2026-09-05T07:07Z** and no commit landed for that day.
+- Covered rather than lost: this run widened its window to the full **09-05T07:07 → 09-07T07:06**
+  span, so the weekend is captured in one pass. The Morning brief will see a two-day gap between
+  nightly commits, not missing content.
+- Recorded because an absent commit is otherwise indistinguishable from a quiet day, and the
+  brief's contract treats those differently.
+- category: Platform, Tools, and Infrastructure
+- source: `state/seen.json` last_run stamp; git log (no 09-06 nightly commit)
+- links: [[platform-tools-and-infrastructure#2026-09-04 RESOLVED: Google for Nonprofits is approved — and it unlocks four products]]
 
 ## 2026-09-04 RESOLVED: Google for Nonprofits is approved — and it unlocks four products
 - "**Administrator access approved!** ... You've been added as an administrator to the account

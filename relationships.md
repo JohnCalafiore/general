@@ -1,5 +1,5 @@
 ---
-updated: 2026-09-05
+updated: 2026-09-07
 tags: [grounding, people]
 ---
 
@@ -559,3 +559,12 @@ Format — one H2 per person:
 - email: colepmhnp@gmail.com — full name unknown (see needs-clarification)
 - relationship: met Ken at the July Frisco Dinner; joining the Leadership Circle
 - source: "Dude Talk Leadership Call" thread 2026-07-18→20
+
+## Jerome Sallan
+- email: jsallan@levlawllc.com — Levine Law Accident Attorneys, phone (303) 333-8000
+- relationship: inbound corporate-sponsorship contact, not a DTD relationship. Wrote
+  unsolicited to the Idaho Springs community address 2026-09-02 offering a donation in
+  exchange for the firm's logo on the DTD website, and followed up 2026-09-05 ("following up
+  on my emails"). No reply sent; the offer is parked pending a gift-acceptance decision.
+- source: "Supporting Your Mission — Community Sponsorship Opportunity" 2026-09-02 and its
+  2026-09-05 follow-up

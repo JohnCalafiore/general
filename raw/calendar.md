@@ -1,11 +1,8 @@
-# Google Calendar (harvest window 2026-09-04T07:08:51Z → 2026-09-05T07:05Z)
+# Google Calendar
+harvest window: 2026-09-05T07:07:26Z → 2026-09-07T07:06Z (covers the Sep 6 sweep, which did not complete)
+calendar: john.calafiore@dudetalkdinners.org (America/Denver), looked ahead through 2026-09-08
 
-## cal-nochange-2026-09-05 No new or changed events
-
-Nothing created, moved or cancelled. **DTD Vision (and maybe mission)** (Thu Sep 10,
-1–2pm MDT, with Jennifer Ashley) was touched at 2026-09-05 01:38 UTC with no visible change;
-all three remain accepted. **DTD : RMCP** (Tue Sep 15, 2–3pm) and the **DTD Board Meeting**
-(Fri Sep 18, 10–11:30am) are unchanged.
-
-The **DTD braindump for mission, vision, pitchdeck** (Fri Sep 4, 11am–1pm MDT, Andrew + John)
-ran as scheduled.
+No events on the calendar for Sat 2026-09-05, Sun 2026-09-06, or Mon 2026-09-07 (Labor Day), and
+none scheduled for the morning of Tue 2026-09-08. The calendar's own `updated` stamp is
+2026-09-06T01:28:14Z, so the calendar was touched during the window even though no event in the
+range came back — nothing further is visible to this harvest.

@@ -1,5 +1,5 @@
 ---
-updated: 2026-09-05
+updated: 2026-09-07
 tags: [inbox]
 ---
 
@@ -78,6 +78,10 @@ Format the agent uses:
   firm sponsoring men's mental-health dinners is a judgment call about whose name sits beside
   the mission, and there's no policy to decide it against. It's also the second corporate
   approach in a fortnight, with a year-end campaign about to invite more.
+- update 2026-09-05: he chased it — "**Following up on my emails regarding community
+  sponsorship**" — and the message is still sitting unread on the Idaho Springs address. The
+  plural "emails" suggests he's written more than the vault has seen. Whatever the answer, the
+  silence is now the thing being noticed.
 - question: Yes or no on Levine Law — and is it worth writing a one-page gift-acceptance /
   sponsorship policy now, while the question is concrete rather than hypothetical?
 - answer: <!-- write here -->

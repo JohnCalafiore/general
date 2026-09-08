@@ -1,6 +1,6 @@
 ---
 area: Partnerships and Strategic Relationships
-updated: 2026-09-05
+updated: 2026-09-08
 tags: [area]
 ---
 
@@ -14,6 +14,33 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[partnerships-and-strategic-relationships#...]] and harvested by the brief. -->
+
+## 2026-09-07 Bev Marquez will make eight funder introductions by end of business Tuesday — and the Starbucks gap partly closes
+- Andrew wrote to Bev at 4:00pm ahead of the Sep 15 virtual meeting; she answered 78 minutes
+  later: "**Yes, I will be making all of those introductions by the end of business tomorrow.**"
+  That puts eight warm introductions in flight for **Tue 2026-09-08**.
+- The email also does what nobody had done yet: it **puts the Sep 1 Starbucks conversation on
+  record**. Two concrete things Bev offered there are now documented in her own reply's quoted
+  thread — the funder contact list, and an invitation to the **CBHC conference at the end of
+  September**. The rest of that meeting is still uncaptured, but its two deliverables no longer
+  depend on memory.
+- Andrew's tone is that of a partner asking to be useful rather than waiting: "**if there is
+  anything I can do to help move that process forward please let me know.**"
+- The conference ask is candid about money: "**DTD doesn't currently have the budget for this.
+  Do you think I can go without registering? Has RMCP registered as an organization, and if so
+  can I tag along?**" DTD is asking a partner to carry its access to a sector conference — a
+  small ask, but the second time in a fortnight that RMCP's institutional weight is standing in
+  for DTD's own.
+- action #open (Andrew): confirm receipt of the eight introductions and route each one
+  #open, due 2026-09-08 per Bev's own commitment
+- action #open (Bev/RMCP): answer the CBHC question — whether Andrew can attend under RMCP's
+  registration, and by when he'd need to decide
+- action #done (John/Andrew): "write down what came out of the Starbucks conversation" — partly
+  answered by this thread; see the Sep 1 entry
+- category: Partnerships and Strategic Relationships
+- source: "DTD : RMCP follow-up" — Andrew Wolff → Bev Marquez (cc John) 2026-09-07T22:00Z, and
+  her reply 2026-09-07T23:18Z
+- links: [[partnerships-and-strategic-relationships#2026-09-01 The RMCP coffee happened and produced a second meeting — but no record of the first]], [[funding-and-financial-development#2026-09-07 Eight named funders are about to arrive as warm introductions]], [[relationships#Bev Marquez]]
 
 ## 2026-09-03 Jennifer Ashley delivers, and the price is formalizing the vision first
 - The hour with Vibrant's Jennifer Ashley produced the most direct outside challenge DTD has

@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-09-07
+updated: 2026-09-08
 tags: [area]
 ---
 
@@ -14,6 +14,88 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-09-07 Eight named funders are about to arrive as warm introductions
+- The RMCP contact list Bev Marquez offered at the Sep 1 coffee is now written down, and she has
+  committed to making the introductions **by end of business 2026-09-08**: **Anschutz**,
+  **El Pomar**, **Leightner Sams**, **Greenwood Village Rotary**, **Impact 100**, **Colorado
+  Health Foundation**, **Caring for Denver**, and the **EAP association**.
+- This is a different kind of pipeline than anything else in this log. Every grant the weekly
+  scan has surfaced is a cold application against published criteria; these are eight warm
+  introductions from an established Colorado behavioral-health organization, arriving at once.
+- It also lands the same week as the **DTD_One_Pager_v1.pdf** draft and while the vision work
+  with Jennifer Ashley is still in progress — DTD will need something to hand these funders
+  within days, and the collateral is not finished.
+- action #open (Andrew/John): have a funder-ready one-pager and a consistent ask ready before
+  the introductions land
+- category: Funding and Financial Development
+- source: "DTD : RMCP follow-up" — Andrew Wolff → Bev Marquez (cc John) 2026-09-07, and her
+  reply the same evening
+- links: [[partnerships-and-strategic-relationships#2026-09-07 Bev Marquez will make eight funder introductions by end of business Tuesday — and the Starbucks gap partly closes]], [[funding-and-financial-development#2026-09-07 A one-pager reaches v1 — and Andrew gets it the night before the introductions]], [[relationships#Bev Marquez]]
+
+## 2026-09-07 A one-pager reaches v1 — and Andrew gets it the night before the introductions
+- John sent Andrew **DTD_One_Pager_v1.pdf** at **6:53pm MDT** with a one-word body: "**Attached**."
+- The timing is the point: it arrives hours after Bev committed to eight funder introductions for
+  the next day. Whether by design or coincidence, DTD's first versioned leave-behind exists on
+  the eve of needing one.
+- Contents unknown — this harvest did not open the attachment, so nothing is claimed about what
+  the one-pager says. #needs-clarification
+- category: Funding and Financial Development
+- source: "One Pager" — John Calafiore → Andrew Wolff 2026-09-08T00:53Z (2026-09-07 evening MDT),
+  attachment DTD_One_Pager_v1.pdf
+- links: [[funding-and-financial-development#2026-09-07 Eight named funders are about to arrive as warm introductions]], [[00-inbox/needs-clarification|Needs clarification]]
+
+## 2026-09-07 John answers Levine Law — a holding reply, and the policy question stays open
+- Five days after the offer and two after the chase, John replied to Jerome Sallan: "**Thanks
+  for following up, and for your interest! We are currently discussing our sponsorship process
+  internally, but don't have exact details at this time. I will keep you updated when we** […]"
+- The right move on the relationship — it converts a silence into a pause, and it says out loud
+  that DTD has a sponsorship process rather than an answer.
+- What it does not do is settle anything. The **gift-acceptance / sponsorship policy still
+  doesn't exist**, and John's reply has now committed DTD to producing one — "we are currently
+  discussing our sponsorship process internally" is a promise a funder can follow up on.
+- action #done (John): reply to Jerome Sallan — sent 2026-09-07
+- action #open (John/Andrew): draft the gift-acceptance / sponsorship policy the reply implies
+  exists
+- category: Funding and Financial Development
+- source: John Calafiore → jsallan@levlawllc.com, "Re: Supporting Your Mission — Community
+  Sponsorship Opportunity" 2026-09-07T21:40Z (message body truncated in capture)
+- links: [[funding-and-financial-development#2026-09-05 Levine Law chases its own sponsorship offer — the unanswered question is now costing goodwill]], [[funding-and-financial-development#2026-09-02 An inbound sponsorship offer from a law firm — and John flags it as a bigger question]], [[00-inbox/needs-clarification|Needs clarification]]
+
+## 2026-09-07 Weekly grant scan: nothing new clears the bar, and four more funders are screened out
+- "**No brand-new open fits surfaced this run**" — the three open opportunities are all carried
+  over: **Elevance Health Foundation** Behavioral Health (fit 4/5, cycle opens 2027-01-01, due
+  2027-01-31, "closest match to DTD's mission found so far"); **DOJ Office on Violence Against
+  Women** Engage Men and Youth (fit 2/5, due **2026-09-08** — "likely too tight to act on");
+  **AmeriCorps Seniors RSVP** (fit 2/5, due 2026-10-20, "indirect fit only").
+- Four funders were checked and closed out, which is worth as much as the finds:
+  **Movember**'s Community Men's Health Research Program is confirmed research-institution-only
+  (the PI must be an academic), so it stays permanently rejected; **Humana**'s 2026 cycle has
+  closed and its new **$12.2M "emotional health" slate is already awarded** (13 orgs, 5
+  university teams), with a second slate teased for Fall 2026; **Cigna**'s new $9M veteran
+  program is past deadline and limited to 10 states; and the **VA Staff Sergeant Fox Suicide
+  Prevention Grant** (up to $750K) is "directly on-topic" but requires demonstrated prior
+  experience serving Veterans — "**worth revisiting if DTD builds veteran-specific
+  programming**," which is a real note given Daniel Leal-Diaz and the Parker VA connection.
+- **Foundation for Social Connection** is a new funder found and screened out — its open call
+  targets teen social connection in tech environments, not adult men's peer support.
+- The scan is now mostly re-confirming a thin field. Three open opportunities, one of which is a
+  four-month wait, is the honest state of the cold-application pipeline — which is why the RMCP
+  introductions matter more than another scan would.
+- category: Funding and Financial Development
+- source: "DTD Grant Finder — Weekly Digest (2026-09-07)" to John and Andrew, 2026-09-07T16:11Z
+- links: [[funding-and-financial-development#2026-09-07 Eight named funders are about to arrive as warm introductions]], [[funding-and-financial-development#2026-08-31 Weekly grant scan: nothing new clears the bar, and the Workday question is answered]], [[relationships#Daniel Leal-Diaz]]
+
+## 2026-09-07 Andrew flags Rural Philanthropy Days — Heart of Colorado
+- Andrew sent John a bare link on Slack with no accompanying text:
+  `crcco.org/programs/rural-action-network/rural-philanthropy-days/heart-of-colorado` — the
+  Community Resource Center's Rural Philanthropy Days program for the Heart of Colorado region.
+- Sent 35 minutes before his RMCP follow-up email, so it reads as part of the same funder-mapping
+  push, but nothing was said about it and no intent is on record. #needs-clarification
+- category: Funding and Financial Development
+- source: Slack DM Andrew → John 2026-09-07 15:25 MDT
+  (dudetalkdinners.slack.com/archives/D0AHRCQ924E/p1788816317594309)
+- links: [[funding-and-financial-development#2026-09-07 Eight named funders are about to arrive as warm introductions]], [[00-inbox/needs-clarification|Needs clarification]]
 
 ## 2026-09-05 Levine Law chases its own sponsorship offer — the unanswered question is now costing goodwill
 - Jerome Sallan wrote again three days after the first approach: "**Following up on my emails

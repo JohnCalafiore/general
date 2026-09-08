@@ -1,8 +1,11 @@
 # Google Calendar
-harvest window: 2026-09-05T07:07:26Z → 2026-09-07T07:06Z (covers the Sep 6 sweep, which did not complete)
-calendar: john.calafiore@dudetalkdinners.org (America/Denver), looked ahead through 2026-09-08
+harvest window: 2026-09-07T07:07:59Z → 2026-09-08T07:06Z
+calendar: john.calafiore@dudetalkdinners.org (America/Denver), looked ahead through 2026-09-09
 
-No events on the calendar for Sat 2026-09-05, Sun 2026-09-06, or Mon 2026-09-07 (Labor Day), and
-none scheduled for the morning of Tue 2026-09-08. The calendar's own `updated` stamp is
-2026-09-06T01:28:14Z, so the calendar was touched during the window even though no event in the
-range came back — nothing further is visible to this harvest.
+No events returned for Mon 2026-09-07 (Labor Day), Tue 2026-09-08, or the morning of
+Wed 2026-09-09. The calendar's `updated` stamp is 2026-09-08T00:37:28Z, so it was touched during
+the window; nothing further is visible to this harvest.
+
+Note: two future commitments were named in email this window but do not appear on this calendar —
+the **virtual meeting with Bev Marquez / RMCP on 9/15** and the **CBHC conference at the end of
+September**. Flagged rather than assumed missing.

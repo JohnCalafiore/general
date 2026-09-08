@@ -391,7 +391,7 @@ responsibility but not to a specific dated project get logged here.
 - action #open (John): send Cody a fresh **Slack invite** — his original link expired
 - category: Community Growth and Expansion
 - source: "DTD Update/Question" thread 2026-08-05/06
-- links: [[relationships#Cody Speece]], [[relationships#Elisa Selby]]
+- links: [[relationships#Cody Speece, MPH, CHES®]], [[relationships#Elisa Selby]]
 
 ## 2026-08-05 Leadership Circle recap sent: Conifer's second dinner, LinkedIn titles, legal ask
 - Andrew's recap to the full circle (John supplied the contact list and recording link).

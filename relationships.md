@@ -1,5 +1,5 @@
 ---
-updated: 2026-09-07
+updated: 2026-09-08
 tags: [grounding, people]
 ---
 
@@ -105,8 +105,15 @@ Format — one H2 per person:
 ## Bev Marquez
 - org: Rocky Mountain Crisis Partners — CEO (16 years with RMCP)
 - email: bmarquez@rmcrisispartners.org
-- relationship: newly introduced to John & Andrew; open to a direct meeting
-- source: "E-Intro" thread 2026-07-20
+- relationship: DTD's most active institutional partner contact. Met John and Andrew in person
+  at the Sep 1 Starbucks meeting; a virtual follow-up is set for **Tue 2026-09-15, 2–3pm MDT**.
+  Offered — and on 2026-09-07 committed to making by end of business the next day — warm
+  introductions to **Anschutz, El Pomar, Leightner Sams, Greenwood Village Rotary, Impact 100,
+  Colorado Health Foundation, Caring for Denver, and the EAP association**. Also raised the
+  possibility of Andrew attending the CBHC conference at the end of September under RMCP's
+  registration. Replies fast and from her phone.
+- source: "E-Intro" thread 2026-07-20; calendar 2026-09-01; "DTD : RMCP follow-up" thread
+  2026-09-07
 
 ## Brianna Martinez
 - org: Rocky Mountain Crisis Partners — CRM point of contact (grants/contact tracking)

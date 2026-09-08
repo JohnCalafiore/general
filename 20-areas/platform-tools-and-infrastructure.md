@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-09-07
+updated: 2026-09-08
 tags: [area]
 ---
 
@@ -14,6 +14,50 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-09-07 Google Workspace for Nonprofits is rejected — Google can't verify DTD owns its own domain
+- Three days after Google for Nonprofits was approved, the **Workspace** side came back
+  refused: "**your activation couldn't be processed because the connection between Dude Talk
+  Dinners Inc and dudetalkdinners.org couldn't be verified.**"
+- These are two different things and the vault should not conflate them: the **Google for
+  Nonprofits account** (Charity ID 41-4806880) was approved 2026-09-04 and unlocked Ad Grants,
+  YouTube Nonprofit and Maps; **Google Workspace for Nonprofits** — the discounted Workspace
+  tier — is the request that just failed. DTD's Workspace remains on the paid plan it is on.
+- The stated remedy is narrow and doable: "**You can send us more information for this domain or
+  submit a different domain**," and Google suggests adding text to the official domain, "on a
+  hidden subpage if necessary," tying the domains together. Since dudetalkdinners.org **is** the
+  official domain, this is a verification-evidence problem rather than a mismatch — the fix is
+  probably registration paperwork naming the domain, not a website change.
+- This is the second Google rejection in the sequence (denied Aug 22, reapplied Aug 28, approved
+  Sep 4 for GFN) and it lands on the account holding donor mail and board documents.
+- action #open (John): send Google the domain-ownership evidence for dudetalkdinners.org and
+  re-submit the Workspace activation
+- category: Platform, Tools, and Infrastructure
+- source: "Google Workspace for Nonprofits activation update" from googlefornonprofits-noreply@
+  google.com to John, 2026-09-07T14:47Z (Org: Dude Talk Dinners Inc, Charity ID 41-4806880)
+- links: [[platform-tools-and-infrastructure#2026-09-04 RESOLVED: Google for Nonprofits is approved — and it unlocks four products]], [[00-inbox/needs-clarification|Needs clarification]]
+
+## 2026-09-07 CRM migration is "roughly two months out," and the Discord server is still unfinished
+- John's own status read on the two platform migrations, given in the Day 2 knowledge-capture
+  session: **HubSpot integrations are being migrated**, with the work "**expected roughly two
+  months out**" — putting completion around **early November**; and the **Discord server is
+  still in progress**, with facilitators to "plug it at dinner wrap-up" once it exists.
+- Two months is the first duration ever attached to the HubSpot retirement, and it is longer
+  than the October social-media launch it has to survive alongside — during the month John is
+  away.
+- Both figures come from Granola's paraphrase of a solo session rather than a dated plan, so
+  treat them as John's working estimate, not a commitment.
+- category: Platform, Tools, and Infrastructure
+- source: Granola note "DTD Claude Interview Day 2" 2026-09-07 (summary paraphrase; see the
+  capture caveat in that day's dump)
+- links: [[governance-and-org-development#2026-09-07 Day 2 of the knowledge-capture interviews: a three-facilitator minimum, and funds custody still unresolved in four towns]], [[support-for-existing-communities#2026-09-01 The Discord rollout reaches facilitators — with a sign-in sheet as the collection method]], [[00-inbox/needs-clarification|Needs clarification]]
+
+## 2026-09-07 DMARC weekly digest: 267 emails, 100% aligned
+- Postmark's weekly report for **Aug 31 – Sep 7**: **267 emails processed, 100% SPF or DKIM
+  aligned, 0% unaligned**. Clean, and up from 207 the week of Aug 17 — sending volume is rising
+  as the automations come online, and authentication is holding.
+- category: Platform, Tools, and Infrastructure
+- source: DMARC weekly digest for dudetalkdinners.org, dmarc@postmarkapp.com 2026-09-07T22:15Z
 
 ## 2026-09-06 Capture gap: the Sep 6 nightly sweep started but did not finish
 - The 2026-09-06 sync harvested Gmail and then stopped before writing dumps, filing, or

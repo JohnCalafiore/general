@@ -1,6 +1,6 @@
 ---
 area: Governance and Organizational Development
-updated: 2026-09-05
+updated: 2026-09-08
 tags: [area]
 ---
 
@@ -14,6 +14,27 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[governance-and-org-development#...]] and harvested by the brief. -->
+
+## 2026-09-07 Day 2 of the knowledge-capture interviews: a three-facilitator minimum, and funds custody still unresolved in four towns
+- A second solo session, "**DTD Claude Interview Day 2**," ran Mon 2026-09-07 at 4:23pm MDT —
+  John alone, recording what he knows rather than meeting anyone.
+- DECISION recorded: **every community must have at least three facilitators.** The first
+  hard staffing floor in the vault, and it has teeth — it makes single-facilitator communities
+  under-staffed by definition and turns facilitator recruitment into a launch prerequisite.
+- The unresolved item is the significant one: **local funds custody is still open in Gunnison,
+  Summit, Bailey, and Conifer.** Local partner organizations are holding the money while the
+  **chapter-versus-franchise model is worked through with the CPA, the lawyer, and the board**.
+  Four communities are operating with someone else holding their funds, and DTD's answer depends
+  on a structural decision that has been pending since Greg Vochis raised it on Sep 1.
+- Also recorded: facilitator feedback and "**360-style accountability**" are being developed.
+- Caveat on sourcing: a direct request for this session's notes came back empty from the same
+  connector that had just listed the meeting, so the content above is Granola's summarization at
+  one remove rather than John's words. Nothing here is quoted as his phrasing.
+- action #open (John/Andrew/board): settle the chapter-vs-franchise structure with the CPA and
+  lawyer — four communities' funds are waiting on it
+- category: Governance and Org Development
+- source: Granola note "DTD Claude Interview Day 2" 2026-09-07 (summary paraphrase)
+- links: [[governance-and-org-development#2026-09-01 Greg Vochis on structure: centralize it, and a fourth model is already running]], [[support-for-existing-communities#2026-09-07 A three-facilitator minimum — and still no crisis protocol]], [[platform-tools-and-infrastructure#2026-09-07 CRM migration is "roughly two months out," and the Discord server is still unfinished]]
 
 ## 2026-09-04 The board's officer roles are on the record for the first time
 - Sent to National Philanthropic Trust as part of the DAF diligence, and the first complete

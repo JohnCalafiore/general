@@ -1,5 +1,5 @@
 ---
-updated: 2026-09-07
+updated: 2026-09-08
 tags: [inbox]
 ---
 
@@ -18,6 +18,39 @@ Format the agent uses:
 ```
 
 <!-- entries begin below -->
+
+## 2026-09-07 Is DTD_One_Pager_v1.pdf the funder leave-behind for the RMCP introductions?
+- quote: "**Attached**" — the entire body of "One Pager" to Andrew, 2026-09-07 6:53pm MDT, with
+  DTD_One_Pager_v1.pdf
+- context: It went out hours after Bev committed to eight funder introductions for the next day,
+  and it's DTD's first versioned one-pager. I haven't opened the attachment, so I've filed the
+  fact of it without claiming anything about its contents. If it *is* the funder piece, the
+  eight introductions are the deadline it was implicitly written against.
+- question: What's in it, and is it meant for the RMCP introductions — or is it something else
+  (board, community launch, partner)? Should the vault hold a copy?
+- answer: <!-- write here -->
+
+## 2026-09-07 What's the plan for Rural Philanthropy Days — Heart of Colorado?
+- quote: a bare link, no text — `crcco.org/programs/rural-action-network/rural-philanthropy-days/
+  heart-of-colorado` — Andrew to you on Slack, 2026-09-07 3:25pm MDT
+- context: Sent 35 minutes before his RMCP follow-up email, so it looks like part of the same
+  funder-mapping push. RPD convenes rural Colorado funders regionally, which would fit DTD's
+  mountain-town footprint better than most cold applications. But nothing was said about it.
+- question: Is this something you and Andrew are pursuing — attending, applying, or just noting
+  it? If it's live, it should be tracked alongside the eight RMCP introductions.
+- answer: <!-- write here -->
+
+## 2026-09-07 Google Workspace for Nonprofits was rejected — is the fix paperwork or the website?
+- quote: "**your activation couldn't be processed because the connection between Dude Talk
+  Dinners Inc and dudetalkdinners.org couldn't be verified**" — Google for Nonprofits, 2026-09-07
+- context: Distinct from the Google *for Nonprofits* account approved Sep 4 — this is the
+  discounted Workspace tier, and it's now the second Google rejection in the sequence. Since
+  dudetalkdinners.org is your actual official domain, Google's suggested workaround (add text on
+  a hidden subpage linking the domains) looks like the wrong remedy for your case; the real gap
+  is probably evidence tying the incorporated entity to the domain.
+- question: Do you want to re-submit with the incorporation/registration paperwork naming the
+  domain — and is anyone other than you positioned to chase this?
+- answer: <!-- write here -->
 
 ## 2026-09-05 What's in the "DTD Org Overview" doc you sent Andrew?
 - quote: "Hey Andrew, **Take a look at this doc and let me know what you think. I think it's a

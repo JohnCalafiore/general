@@ -1,6 +1,6 @@
 ---
 area: Support for Existing Communities
-updated: 2026-09-05
+updated: 2026-09-08
 tags: [area]
 ---
 
@@ -14,6 +14,29 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[support-for-existing-communities#...]] and harvested by the brief. -->
+
+## 2026-09-07 A three-facilitator minimum — and still no crisis protocol
+- The facilitator role is now described end to end: facilitators **lead the welcome, the ground
+  rules, the topic handoff, and the closing**, and **each community should have at least three**
+  of them. That minimum is new, and it reframes recruitment — a community with one or two
+  facilitators is now short-staffed rather than simply small.
+- Set against that: "**No formal protocol yet**" for crisis situations. The stopgap is that
+  facilitators "should have local and virtual resources ready, including AA, therapy, and crisis
+  lines" — which puts the judgment on volunteers with no written procedure behind them. A
+  facilitator guide and **likely-required crisis-intervention training via Rocky Mountain Crisis
+  Partners** are both in progress.
+- That gap is the sharpest risk currently on record in this area: dinners are running monthly,
+  in multiple towns, on a subject where a crisis is foreseeable, and the protocol is still being
+  written. It is also the clearest argument for the RMCP training partnership being a necessity
+  rather than a revenue idea.
+- action #open (John/Andrew): finish the crisis-resource guidance and confirm whether RMCP
+  crisis-intervention training becomes mandatory for facilitators
+- action #open (John): build the facilitator feedback form (carried; still not delivered)
+- action #open (John): complete the startup and facilitator guides
+- category: Support for Existing Communities
+- source: Granola note "DTD Claude Interview Day 2" 2026-09-07 (summary paraphrase; a direct
+  request for the full note returned no data)
+- links: [[governance-and-org-development#2026-09-07 Day 2 of the knowledge-capture interviews: a three-facilitator minimum, and funds custody still unresolved in four towns]], [[support-for-existing-communities#2026-09-02 Facilitator training gets a model — and the feedback form gets a purpose]], [[funding-and-financial-development#2026-09-01 The corporate-training idea gets a price and a partner: ~$10k to certify five facilitators]]
 
 ## 2026-09-04 Andrew opens the structure conversation with Summit — the first community asked directly
 - Andrew wrote to **Nadia Borovich at Building Hope Summit County**, and it is the first time

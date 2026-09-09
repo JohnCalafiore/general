@@ -1,5 +1,5 @@
 ---
-updated: 2026-09-08
+updated: 2026-09-09
 tags: [grounding, people]
 ---
 
@@ -265,8 +265,12 @@ Format — one H2 per person:
   mission before approaching corporates; bring the board a recommendation rather than a
   discussion; **5–6 image-heavy pitch slides, not 20 pages**; **pick 5 verticals, not 70**;
   and Facebook birthday fundraisers, which "**drove $15M+**" for Vibrant.
+  **Also a donor**: John thanked her on 2026-09-08 for "**your generous gift**" — amount, date
+  and channel not on record. The bylaws, testimonials, start-up guide and a sample flyer were
+  delivered to her in a shared Drive folder on 2026-09-08, with the one-pager following that
+  evening and an organizational overview still promised.
 - source: Fathom recap, "DTD Budget review" 2026-08-20; "Introduction to Dude Talk Dinners"
-  thread 2026-08-28 → 2026-08-30
+  thread 2026-08-28 → 2026-08-30; "DTD Materials for Thursday's Call" thread 2026-09-08
 
 ## Elizabeth Anneka
 - org: **howtotouchwomen.com** — "**Touch & Intimacy Coach for Men**," described as "helping
@@ -575,3 +579,20 @@ Format — one H2 per person:
   on my emails"). No reply sent; the offer is parked pending a gift-acceptance decision.
 - source: "Supporting Your Mission — Community Sponsorship Opportunity" 2026-09-02 and its
   2026-09-05 follow-up
+
+## Derek (Lightner Sams Foundation)
+- email: foundation@lightnersams.org — last name not in the record
+- relationship: funder contact, warm-introduced to Andrew and John by Bev Marquez 2026-09-08.
+  An **on-going supporter of Rocky Mountain Crisis Partners**; Bev described the foundation's
+  "commitment to bettering the mental health of all and your support of programs that move the
+  needle in suicide prevention." Not yet contacted by DTD.
+- source: "Introduction of Dude Talk Dinners," Bev Marquez → foundation@lightnersams.org, cc
+  Andrew and John, 2026-09-08
+
+## Lorez Kindle (Caring for Denver)
+- email: kindle@caring4denver.org — addressed as "Lorez"; full name inferred from the address and
+  not stated in the record #needs-clarification
+- relationship: funder contact at **Caring for Denver Foundation**, warm-introduced to Andrew by
+  Bev Marquez 2026-09-08 ("I am pleased to make an e-introduction to you and Andrew Wolff, the
+  executive director of Dude Talk Dinners"). Not yet contacted by DTD.
+- source: "Introduction," Bev Marquez → kindle@caring4denver.org, cc Andrew and John, 2026-09-08

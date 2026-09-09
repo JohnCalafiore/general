@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-09-08
+updated: 2026-09-09
 tags: [area]
 ---
 
@@ -14,6 +14,43 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-09-08 RESOLVED: Google Workspace for Nonprofits is activated — 21 hours after the rejection
+- "**Congratulations! Google Workspace for Nonprofits is activated for dudetalkdinners.org**"
+  landed at 12:13Z, with a human follow-up three minutes later from a named agent: "**The domain
+  dudetalkdinners.org has now been successfully upgraded to Google Workspace for Nonprofits.**"
+- The second message came from `googlefornonprofits-support@` and is signed by a person
+  ("Soundarya, Google for Nonprofits Team") rather than the no-reply address, and its subject is
+  "Google for Nonprofits Support Request" — so a support ticket was raised and worked between the
+  rejection and this. **Who raised it and what evidence was supplied is not in the record.**
+  #needs-clarification
+- Practical effect: the Workspace tier that yesterday's entry said DTD did not have, it now has.
+  The **paid-plan note in this vault is superseded**, and there is a billing change to verify.
+- The whole Google sequence, now closed: denied Aug 22 → reapplied Aug 28 → GFN approved Sep 4 →
+  Workspace rejected Sep 7 → **Workspace activated Sep 8**.
+- action #done: re-submit the Workspace activation — resolved 2026-09-08
+- action #open (John): confirm the Workspace billing actually moved to the nonprofit tier, and
+  that the nine accounts still missing 2SV are unaffected by the change
+- category: Platform, Tools, and Infrastructure
+- source: "Google Workspace for Nonprofits is activated" 2026-09-08T12:13Z and "Google for
+  Nonprofits Support Request" 2026-09-08T12:16Z, both to John
+- links: [[platform-tools-and-infrastructure#2026-09-07 Google Workspace for Nonprofits is rejected — Google can't verify DTD owns its own domain]], [[platform-tools-and-infrastructure#2026-09-04 RESOLVED: Google for Nonprofits is approved — and it unlocks four products]], [[00-inbox/needs-clarification|Needs clarification]]
+
+## 2026-09-08 Capture gap: two hours on social media, nothing on record
+- **DTD Social Media**, Tue 2026-09-08, **10:00am–12:00pm MDT** on Google Meet, organised by
+  Andrew with **Dawson Wolf** and John invited. Two hours on the launch that has an October
+  deadline — and **no Granola note, no Fathom recap, no follow-up email**.
+- This is the second multi-hour working session in a fortnight to leave no trace, after the
+  Aug 28 Strategic Planning and CRM training. The pattern is consistent: scheduled internal
+  working sessions get captured far less reliably than external calls.
+- The CRM reminder job, by contrast, is working — it emailed John "**Ask for board bios: Due
+  Sep 8, 2026**" that morning, which is the follow-up system doing exactly what it was built for.
+- action #open (John/Andrew): write down what the Sep 8 social-media session decided, while it
+  is still recent
+- category: Platform, Tools, and Infrastructure
+- source: Google Calendar event "DTD Social Media" 2026-09-08 (created 09-04, updated 09-08);
+  Granola returned no meetings for Sep 8–9; "Your DTD reminders — 2026-09-08" from support@
+- links: [[presentations-events-public-presence#2026-09-02 The social-media launch gets a plan, a tagline, and an October deadline]], [[00-inbox/needs-clarification|Needs clarification]]
 
 ## 2026-09-07 Google Workspace for Nonprofits is rejected — Google can't verify DTD owns its own domain
 - Three days after Google for Nonprofits was approved, the **Workspace** side came back

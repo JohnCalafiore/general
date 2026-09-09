@@ -1,6 +1,6 @@
 ---
 area: Presentations, Events, and Public Presence
-updated: 2026-09-05
+updated: 2026-09-09
 tags: [area]
 ---
 
@@ -14,6 +14,40 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[presentations-events-public-presence#...]] and harvested by the brief. -->
+
+## 2026-09-08 The website bios trickle in — Mike from Summit, and the board still owes theirs
+- Nadia sent **Mike's bio and photo** ("Hi John! Here is Mike's bio and pic!"), the second Summit
+  facilitator after **Paul Steinweg** on Sep 2, when she promised "I'll work on the others!"
+  John: "Amazing...thank you again!!!"
+- The same morning the CRM reminded John that "**Ask for board bios**" was **due Sep 8** — so
+  facilitator bios are arriving from a partner organization while the board's own are still
+  outstanding.
+- action #open (John): chase the board bios — the reminder came due 2026-09-08
+- action #open (Nadia): the remaining Summit facilitator bios
+- category: Presentations, Events, and Public Presence
+- source: "Fwd: DTD Bios for Website," Nadia Borovich → John 2026-09-08T16:35Z and John's reply
+  19:10Z; "Your DTD reminders — 2026-09-08" from support@dudetalkdinners.org
+- links: [[relationships#Paul Steinweg]], [[relationships#Nadia Borovich]]
+
+## 2026-09-08 Andrew sends isolation research with a mass-shooting frame — and no framing of his own
+- A Slack DM, no comment attached: "**A separate Virginia Commonwealth University analysis of 177
+  mass shooters found social isolation was the most important external indicator leading up to
+  attacks**, acting as a '**crisis multiplier**' that let other crises compound, since isolated
+  people lose the people around them who'd normally push back when their behavior turns
+  concerning."
+- It arrives three days after the positioning work acknowledged that "testimonials are strong but
+  hard data is a gap," so the impulse is understandable — this is Andrew hunting for evidence
+  that isolation has consequences.
+- Filed with a caution rather than added to the citable-numbers resource. The wording "A
+  separate … analysis" means it was pasted out of a longer piece whose source and other claims
+  are not in the record, so **the citation is unverified**; and framing men's isolation through
+  mass shooters is a different argument from the one DTD makes publicly, which is about belonging
+  and a "third space." Whether it belongs anywhere near DTD's messaging is a judgment call for
+  John and Andrew, not an assumption this vault should make. #needs-clarification
+- category: Presentations, Events, and Public Presence
+- source: Slack DM Andrew → John 2026-09-08 15:26 MDT
+  (dudetalkdinners.slack.com/archives/D0AHRCQ924E/p1788902814237089)
+- links: [[30-resources/mens-health-data-reference|Men's health data reference]], [[30-resources/why-dinner-positioning|Why dinner — positioning]], [[00-inbox/needs-clarification|Needs clarification]]
 
 ## 2026-09-04 The positioning argument gets written down — and "third space" replaces "safe space"
 - The mission/vision braindump produced foundational positioning rather than statements —

@@ -1,83 +1,72 @@
 # Gmail — sent
-harvest window: 2026-09-07T07:07:59Z → 2026-09-08T07:06Z
+harvest window: 2026-09-08T07:09:19Z → 2026-09-09T07:06Z
 query: `newer_than:1d -in:draft`
 
 ---
 
-## gmail-1a07dd0e8a2042f0 Re: Supporting Your Mission — John answers Levine Law
+## gmail-1a081283428b10fa DTD Materials for Thursday's Call — and a gift from Jennifer Ashley
 
-- from: john.calafiore@dudetalkdinners.org
-- to: jsallan@levlawllc.com (Jerome Sallan, Levine Law Accident Attorneys)
-- date: 2026-09-07T21:40:38Z
-- thread: 1a062ac58e5b7970 (offer 2026-09-02, chase 2026-09-05, this reply 2026-09-07)
+- from: john.calafiore@dudetalkdinners.org, to jxashley@yahoo.com, cc Andrew Wolff
+- date: 2026-09-08T13:14:50Z
 
-> Hi Jerome,
+> Hi Jennifer,
 >
-> Thanks for following up, and for your interest! We are currently discussing our sponsorship
-> process internally, but don't have exact details at this time. I will keep you updated when we
-> […]
+> Thank you for your time last week. Andrew and I both walked away from that conversation
+> feeling energized and supported. Your questions have already pushed us to expand our thinking
+> about the next stage of Dude Talk Dinners.
+>
+> **Thank you so much for your generous gift, we truly appreciate it beyond words.**
+>
+> As promised, here's a folder with some of our materials:
+>
+> Jennifer's Folder Link
+> https://drive.google.com/drive/folders/1hQpHDirw5n-UizE4QJDqgf6AXryEMPRz?usp=drive_link
+>
+> It currently includes **testimonials from facilitators and men who have attended the dinners,
+> our start-up guide for new communities, our bylaws, and a sample flyer**. We're finishing an
+> **organizational overview document that pulls the whole picture together**, and I'll get that
+> to you with enough time to review before we talk on Thursday.
+>
+> Looking forward to the conversation.
+>
+> Warm regards,
+> John & Andrew
 
-(The captured snippet truncates after "when we"; the remainder of the message body was not
-returned by the connector.)
+Two things not previously on record: **Jennifer Ashley has made a donation to DTD**, and she
+asked for the **bylaws and testimonials** on the Sep 3 call — both now delivered via a shared
+Drive folder.
 
 ---
 
-## gmail-1a07e812e8efcad1 One Pager — DTD_One_Pager_v1.pdf to Andrew
+## gmail-1a0843baac4a4d1e Re: DTD Materials for Thursday's Call — the one-pager goes to Jennifer
 
-- from: john.calafiore@dudetalkdinners.org
-- to: andrew.wolff@dudetalkdinners.org
-- date: 2026-09-08T00:53:10Z
-- attachment: **DTD_One_Pager_v1.pdf** (~660 KB)
+- from: john.calafiore@dudetalkdinners.org, to jxashley@yahoo.com, cc Andrew Wolff
+- date: 2026-09-09T03:34:57Z (2026-09-08 ~9:35pm MDT)
+- attachment: **DTD One-Pager.pdf** (~1.1 MB)
 
-> Attached
+> Hi Jennifer,
 >
-> John Calafiore
-> Chief Operations Officer
+> **Apologies for the late email, but we wanted to get this one-pager (attached) over to you for
+> review as soon as possible.** We have also uploaded it to the folder we shared with you
+> previously.
+>
+> Please let us know if you have any questions; otherwise, talk to you on Thursday!
+>
+> John & Andrew
 
-No other body text. The attachment itself was not opened by this harvest.
+This answers the open question about DTD_One_Pager_v1.pdf's audience: it is **for Jennifer
+Ashley's review ahead of the Thursday 2026-09-10 vision working session**, not the RMCP funder
+introductions. Note the filename changed from `DTD_One_Pager_v1.pdf` (to Andrew, Sep 7) to
+`DTD One-Pager.pdf` (to Jennifer, Sep 8) and grew from ~660 KB to ~1.1 MB, so it was revised in
+between.
 
 ---
 
-## gmail-1a07ca36115a8eba DTD Grant Finder — Weekly Digest (2026-09-07)
+## gmail-1a0826d78d454a82 Re: DTD Bios for Website
 
-- from/to: john.calafiore@dudetalkdinners.org, cc andrew.wolff@dudetalkdinners.org
-- date: 2026-09-07T16:11:16Z
-- automated weekly output of the grant-scanning agent
+- from: john.calafiore@dudetalkdinners.org, to nadia@buildinghopesummit.org
+- date: 2026-09-08T19:10:06Z
 
-> Weekly scan complete. **No brand-new open fits surfaced this run** — the 3 open opportunities
-> below are all carried over from prior weeks and still awaiting review.
-
-Top open opportunities (3, all carried over):
-1. **Elevance Health Foundation — Behavioral Health Grant Program**, fit 4/5. Cycle opens
-   2027-01-01, applications due 2027-01-31; amount not published. "Explicitly names loneliness
-   reduction and behavioral health access as funding goals — closest match to DTD's mission
-   found so far. Mark the calendar for Jan 2027."
-2. **DOJ Office on Violence Against Women — FY2026 Consolidated Grant Program to Engage Men and
-   Youth in Preventing Domestic Violence**, fit 2/5, deadline **2026-09-08** ("tomorrow — likely
-   too tight to act on if not already in progress"). Core focus is DV prevention, "a stretch
-   from DTD's peer-support mission."
-3. **AmeriCorps — FY2027 AmeriCorps Seniors RSVP Competition**, fit 2/5, deadline 2026-10-20.
-   Could fund 55+ volunteer recruitment for dinner facilitation; "indirect fit only."
-
-Screened and rejected this run:
-- **Movember Foundation** — Community Men's Health Research Program confirmed
-  research-institution-only (PI must be an academic researcher); stays rejected.
-- **Humana Foundation** — 2026 Connected Healthy Lives cycle closed; a new $12.2M "emotional
-  health" slate was announced but awards are already decided (13 orgs, 5 university teams); a
-  second slate is teased for Fall 2026 with no application details yet.
-- **Cigna Group Foundation** — new $9M veteran housing/mental-health program ($150K awards), but
-  FY2026 deadline (July 9) passed and it's restricted to veterans in 10 specific states.
-- **VA Staff Sergeant Fox Suicide Prevention Grant Program** (up to $750K) — "directly on-topic
-  for suicide prevention, but requires demonstrated prior experience serving Veterans
-  specifically," and its FY2027 deadline (June 12) passed. "Worth revisiting if DTD builds
-  veteran-specific programming."
-- **Foundation for Social Connection** — open call (with Young Futures) targets teen social
-  connection in tech environments, not adult men's peer support.
-- GivingTuesday/matching campaigns: no funder-side apply-to programs found. Pitch competitions:
-  nothing new (The Greater Sum, INNOSpark remain rejected — cohort/eligibility restricted).
-  National sponsorships: nothing new DTD could apply to directly.
-
-> All screened candidates (including this run's 3 rejects) are saved in the CRM so they won't be
-> re-researched.
+> **Amazing...thank you again!!!**
 
 ---

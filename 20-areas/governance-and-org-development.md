@@ -1,6 +1,6 @@
 ---
 area: Governance and Organizational Development
-updated: 2026-09-08
+updated: 2026-09-09
 tags: [area]
 ---
 
@@ -14,6 +14,29 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[governance-and-org-development#...]] and harvested by the brief. -->
+
+## 2026-09-08 RESOLVED: Connecticut approves the public charity registration — in about twelve hours
+- Submitted 11:06Z, approved 19:51Z, certificate delivered 23:22Z. The state's own email promised
+  "approximately 2-3 business days for review" and then "2-3 business days" again for the
+  certificate; both arrived the same day.
+- "**We have approved your initial application for PUBLIC CHARITY under the name of DUDE TALK
+  DINNERS INC. Your credential number is CHR.0070723 with an effective date of 09/08/2026.**"
+  The certificate PDF followed that evening. No hardcopy is issued — "You will **Not** receive a
+  hardcopy of a certificate in the mail" — so **the emailed PDF is the only certificate DTD will
+  ever have**, and it should be filed somewhere durable rather than left in an inbox.
+- This closes the loop opened on Sep 4, when the $50 fee receipt carried the caveat "This receipt
+  is not a license or an authorization to do business." It now is one. **DTD is registered to
+  solicit charitable funds in Connecticut** — the first state outside Colorado.
+- Note the submission on Sep 8 is a *second* filing event four days after the Sep 4 fee payment;
+  whether that was a required second step or a re-submission is not stated in the record.
+- action #done (John/Andrew): watch for the Connecticut approval — granted 2026-09-08
+- action #open (John): save CHR.0070723 and the certificate PDF somewhere permanent, and note
+  the renewal date when it is published
+- category: Governance and Organizational Development
+- source: State of Connecticut eLicensing, "Online Application Submission" 2026-09-08T11:06Z,
+  "Connecticut Charity Initial Application Approval" 2026-09-08T19:51Z, and "CT Charity
+  Certificate for DUDE TALK DINNERS INC" 2026-09-08T23:22Z
+- links: [[governance-and-org-development#2026-09-04 Connecticut public-charity registration filed — the first out-of-state footprint]], [[community-growth-and-expansion#2026-08-18 Connecticut startup conversation booked: Wed Aug 26, 3:30–4:30pm]]
 
 ## 2026-09-07 Day 2 of the knowledge-capture interviews: a three-facilitator minimum, and funds custody still unresolved in four towns
 - A second solo session, "**DTD Claude Interview Day 2**," ran Mon 2026-09-07 at 4:23pm MDT —

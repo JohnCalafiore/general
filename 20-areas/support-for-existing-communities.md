@@ -1,6 +1,6 @@
 ---
 area: Support for Existing Communities
-updated: 2026-09-08
+updated: 2026-09-09
 tags: [area]
 ---
 
@@ -14,6 +14,27 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[support-for-existing-communities#...]] and harvested by the brief. -->
+
+## 2026-09-08 Summit books the structure conversation for Sep 23 — and brings three people to it
+- Nadia Borovich answered Andrew's Sep 4 partnership letter by booking it herself: "**I scheduled
+  something on your calendar. I scheduled it for 9/23 as I have three events I'm coordinating in
+  the next two weeks. I included everyone at Building Hope that should be able to** […]" Andrew:
+  "**Great! We look forward to connecting on 9/23. Thanks Nadia 🙏**"
+- The invite — **45 minutes, Wed 2026-09-23, 1:15–2:00pm MDT** — carries **nadia@, nicole@ and
+  kristen@buildinghopesummit.org** plus Andrew and John. Three Building Hope staff, not one, so
+  Summit is treating the structure question as an organizational decision rather than Nadia's
+  call.
+- The timing is the problem worth flagging: **the board decides the governance model on Sep 18,
+  five days before this conversation happens.** The Sep 4 entry logged an open action to make
+  sure Summit's view lands *before* the board decides — as scheduled, it will not. Either the
+  board decision moves, or Summit is consulted after the fact, or Andrew carries their view into
+  Sep 18 from a separate conversation.
+- action #open (Andrew/John): resolve the Sep 18 / Sep 23 collision — the community running the
+  undocumented "fourth model" will be heard five days late
+- category: Support for Existing Communities
+- source: "Re: Dude Central and DTD Summit partnership," Nadia Borovich → Andrew (cc John)
+  2026-09-08T16:32Z and Andrew's reply 20:48Z; calendar invitation 2026-09-08T17:57Z
+- links: [[support-for-existing-communities#2026-09-04 Andrew opens the structure conversation with Summit — the first community asked directly]], [[governance-and-org-development#2026-09-01 Greg Vochis on structure: centralize it, and a fourth model is already running]], [[relationships#Nadia Borovich]]
 
 ## 2026-09-07 A three-facilitator minimum — and still no crisis protocol
 - The facilitator role is now described end to end: facilitators **lead the welcome, the ground

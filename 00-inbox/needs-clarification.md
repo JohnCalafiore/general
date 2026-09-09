@@ -1,5 +1,5 @@
 ---
-updated: 2026-09-08
+updated: 2026-09-09
 tags: [inbox]
 ---
 
@@ -19,6 +19,50 @@ Format the agent uses:
 
 <!-- entries begin below -->
 
+## 2026-09-08 What did the two-hour social-media session decide?
+- quote: calendar only — "**DTD Social Media**," Tue Sep 8, 10:00am–12:00pm MDT, Andrew
+  organizing, Dawson Wolf and you invited. No Granola note, no Fathom recap, no follow-up email.
+- context: Two hours on the launch that has an October deadline — during the month you're away —
+  and nothing survives it. This is the second multi-hour internal session in a fortnight to leave
+  no trace, after Aug 28. External calls get captured; your own working sessions don't.
+- question: What came out of it — accounts, content calendar, who posts, launch date? Even three
+  bullets would let the vault hold it. And is it worth putting Granola on the internal sessions
+  by default?
+- answer: <!-- write here -->
+
+## 2026-09-08 How much was Jennifer Ashley's gift, and is it recorded anywhere?
+- quote: "**Thank you so much for your generous gift, we truly appreciate it beyond words**" —
+  your email to Jennifer Ashley, 2026-09-08
+- context: This is the first indication anywhere that Jennifer is a donor as well as an advisor,
+  and it changes how the Sep 10 vision session reads. But no Givebutter notification for it has
+  appeared in any harvest, so the vault knows a gift happened and nothing else.
+- question: What was the amount and date, and is it in Givebutter and the CRM — or was it given
+  some other way (check, DAF, in-kind) that the automations wouldn't see?
+- answer: <!-- write here -->
+
+## 2026-09-08 Do you want the mass-shooter isolation research anywhere near DTD's messaging?
+- quote: "**A separate Virginia Commonwealth University analysis of 177 mass shooters found
+  social isolation was the most important external indicator leading up to attacks**, acting as a
+  'crisis multiplier'" — Andrew to you on Slack, 2026-09-08, with no comment attached
+- context: I've logged it but deliberately kept it out of the citable-numbers resource. Two
+  reasons: "A separate … analysis" means it was pasted from a longer piece, so the underlying
+  source isn't verified; and arguing men's isolation through mass shootings is a different frame
+  from the belonging/"third space" positioning you settled on Sep 5. It could also read badly to
+  the funders now being introduced.
+- question: Is this research you want to use — and if so, where (grant narratives? never
+  publicly?) — or was Andrew just thinking out loud?
+- answer: <!-- write here -->
+
+## 2026-09-08 Who fixed the Google Workspace rejection, and does billing actually change?
+- quote: "**The domain dudetalkdinners.org has now been successfully upgraded to Google Workspace
+  for Nonprofits**" — a *named* support agent, 21 hours after the automated rejection
+- context: Someone raised a support request and supplied whatever Google wanted, between Sep 7
+  afternoon and Sep 8 morning. Nothing in the record says who or what. It matters because the
+  vault has been carrying "DTD is on the paid Workspace plan" as a fact, and that's now stale.
+- question: Did you (or Andrew) file the support request, and has the billing actually moved to
+  the nonprofit tier — or is the upgrade cosmetic until something else is done?
+- answer: <!-- write here -->
+
 ## 2026-09-07 Is DTD_One_Pager_v1.pdf the funder leave-behind for the RMCP introductions?
 - quote: "**Attached**" — the entire body of "One Pager" to Andrew, 2026-09-07 6:53pm MDT, with
   DTD_One_Pager_v1.pdf
@@ -28,6 +72,12 @@ Format the agent uses:
   eight introductions are the deadline it was implicitly written against.
 - question: What's in it, and is it meant for the RMCP introductions — or is it something else
   (board, community launch, partner)? Should the vault hold a copy?
+- ANSWERED 2026-09-08 by the record: it went to **Jennifer Ashley** for review before the Thu
+  Sep 10 vision session, revised overnight (`DTD_One_Pager_v1.pdf` ~660 KB → `DTD One-Pager.pdf`
+  ~1.1 MB). Not the RMCP funder piece. Filed to
+  [[funding-and-financial-development#2026-09-08 RESOLVED: the one-pager was for Jennifer Ashley — and it was rewritten overnight]].
+  Its *contents* are still unread by this vault — if you want them summarized, say so and I'll
+  open the PDF next run.
 - answer: <!-- write here -->
 
 ## 2026-09-07 What's the plan for Rural Philanthropy Days — Heart of Colorado?

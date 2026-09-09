@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-09-08
+updated: 2026-09-09
 tags: [area]
 ---
 
@@ -14,6 +14,80 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-09-08 The first two introductions land: Lightner Sams and Caring for Denver
+- **Lightner Sams Foundation** (foundation@lightnersams.org, addressed to "Derek") and **Caring
+  for Denver** (kindle@caring4denver.org, addressed to "Lorez") both received e-introductions
+  from Bev Marquez on the evening of 2026-09-08, with Andrew and John copied.
+- Her pitch to Lightner Sams is worth keeping, because it is the first time an outside party has
+  described DTD to a funder and it is sharper than DTD's own materials: "**the response from men
+  in their local communities coming together and having dinner and conversation about mental
+  health and life in general is impressive and impactful**… They are active in Colorado and have
+  a **scalable model that could work in any community.**" She also named the fit explicitly —
+  Lightner Sams' "**commitment to bettering the mental health of all and your support of programs
+  that move the needle in suicide prevention**."
+- She signs as **Chief Executive Officer of Rocky Mountain Crisis Partners** and leads with "I am
+  so grateful for your on-going support of RMCP," so these arrive as a CEO spending existing
+  donor capital, not a cold forward. And she hands the relationship over cleanly: "**I will let
+  you all take it from here.**"
+- One thing to correct in future materials: Bev describes Andrew and John as "**the founders**"
+  of DTD. Whether that is how DTD wants to be introduced to funders is a positioning question,
+  not a fact this vault can settle. #needs-clarification
+- **Impact 100 Metro Denver** was not an introduction but a pointer —
+  impact100metrodenver.org/impact-grants/ with "I will continue to find our contact."
+- action #open (Andrew): respond to Derek at Lightner Sams and Lorez at Caring for Denver —
+  these are warm and time-sensitive
+- category: Funding and Financial Development
+- source: "Introduction of Dude Talk Dinners" (Bev Marquez → foundation@lightnersams.org, cc
+  Andrew and John) 2026-09-08T22:40Z; "Introduction" (Bev Marquez → kindle@caring4denver.org)
+  2026-09-08T22:13Z; Impact 100 link 2026-09-08T22:08Z
+- links: [[funding-and-financial-development#2026-09-07 Eight named funders are about to arrive as warm introductions]], [[partnerships-and-strategic-relationships#2026-09-08 Bev delivers — and the RMCP partnership turns into shared access rather than referrals]], [[00-inbox/needs-clarification|Needs clarification]]
+
+## 2026-09-08 Jennifer Ashley is a donor, not only an advisor
+- Buried in a thank-you note: "**Thank you so much for your generous gift, we truly appreciate it
+  beyond words.**" Jennifer Ashley — the Vibrant advisor who ran the Sep 3 call and is
+  facilitating the vision session on Sep 10 — **has given money to DTD**.
+- That changes how she sits in the file. She was logged as an outside advisor doing pro-bono
+  strategy; she is now also a donor, which makes the Sep 10 session a working relationship with
+  someone who has already put her own money behind the mission.
+- **Amount and date are not on record** — the gift is known only from John's thank-you, and no
+  Givebutter notification for it has appeared in any harvest. #needs-clarification
+- action #open (John): confirm the gift is recorded in Givebutter and the CRM, not just
+  acknowledged by email
+- category: Funding and Financial Development
+- source: "DTD Materials for Thursday's Call," John Calafiore → Jennifer Ashley, cc Andrew,
+  2026-09-08T13:14Z
+- links: [[partnerships-and-strategic-relationships#2026-09-03 Jennifer Ashley delivers, and the price is formalizing the vision first]], [[relationships#Jennifer Ashley]], [[00-inbox/needs-clarification|Needs clarification]]
+
+## 2026-09-08 RESOLVED: the one-pager was for Jennifer Ashley — and it was rewritten overnight
+- Yesterday's open question is answered. **DTD One-Pager.pdf went to Jennifer Ashley** at
+  9:35pm MDT for review before the Thursday 2026-09-10 vision session: "**Apologies for the late
+  email, but we wanted to get this one-pager (attached) over to you for review as soon as
+  possible. We have also uploaded it to the folder we shared with you previously.**" It was not
+  built for the RMCP funder introductions.
+- It also changed in the day between: **DTD_One_Pager_v1.pdf (~660 KB) to Andrew on Sep 7**
+  became **DTD One-Pager.pdf (~1.1 MB) to Jennifer on Sep 8** — a revision, not a forward.
+- The materials package around it is now on record too. Jennifer got a shared Drive folder
+  containing "**testimonials from facilitators and men who have attended the dinners, our
+  start-up guide for new communities, our bylaws, and a sample flyer**," which delivers the
+  bylaws and testimonials she asked for on Sep 3. Still outstanding, by John's own promise: "**an
+  organizational overview document that pulls the whole picture together**."
+- action #done (Andrew/John): send Jennifer the bylaws and testimonials — delivered 2026-09-08
+- action #open (John, before Thu Sep 10): finish the organizational overview document
+- category: Funding and Financial Development
+- source: "DTD Materials for Thursday's Call" 2026-09-08T13:14Z and its follow-up
+  2026-09-09T03:34Z, John Calafiore → Jennifer Ashley, cc Andrew
+- links: [[funding-and-financial-development#2026-09-07 A one-pager reaches v1 — and Andrew gets it the night before the introductions]], [[partnerships-and-strategic-relationships#2026-09-03 Jennifer Ashley delivers, and the price is formalizing the vision first]]
+
+## 2026-09-08 Levine Law accepts the pause — the thread is parked, not closed
+- Jerome Sallan replied within twelve hours: "**I totally understand. Thank you for the update,
+  and I look forward to hearing from you once the details are finalized.**"
+- The relationship is intact and the ball is explicitly DTD's. He is now waiting on "the
+  details" — i.e. the sponsorship policy that does not yet exist.
+- category: Funding and Financial Development
+- source: Jerome Sallan → John Calafiore, "Re: Supporting Your Mission — Community Sponsorship
+  Opportunity" 2026-09-08T08:56Z
+- links: [[funding-and-financial-development#2026-09-07 John answers Levine Law — a holding reply, and the policy question stays open]]
 
 ## 2026-09-07 Eight named funders are about to arrive as warm introductions
 - The RMCP contact list Bev Marquez offered at the Sep 1 coffee is now written down, and she has

@@ -1,6 +1,6 @@
 ---
 area: Partnerships and Strategic Relationships
-updated: 2026-09-08
+updated: 2026-09-09
 tags: [area]
 ---
 
@@ -14,6 +14,38 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[partnerships-and-strategic-relationships#...]] and harvested by the brief. -->
+
+## 2026-09-08 Bev delivers — and the RMCP partnership turns into shared access rather than referrals
+- She kept the commitment the same day she made it, and set expectations honestly about the
+  rest: "**I am going to send these over as I have responses. Thank you for your patience.**"
+  Two of the eight introductions went out that evening; the others are staged behind her own
+  outreach rather than dropped.
+- The CBHC answer is more generous than what Andrew asked for. He asked whether he could attend
+  without registering; she offered a share of RMCP's vendor presence: "**We are a vendor and we
+  are happy to have some Dude Talk information at our table and you can join us at our table if
+  you'd like… we have a team dinner during the conference that we'd love to have you join.**"
+  That is DTD getting exhibitor-level visibility at a state behavioral-health conference for
+  nothing, plus a room full of RMCP's people over dinner.
+- The **EAP association** lead turns out to be brand new on RMCP's side too: "**We just joined
+  the Employee Assistance Association today. We want to present to them and as soon as I get
+  their current application, I will make an introduction to you.**" (Rocky Mountain EAPA.) DTD
+  is being brought into a door RMCP opened one day earlier — which is a different relationship
+  than being handed an old contact, and it pairs directly with the corporate-training idea.
+- On **Impact 100** she sent the grants page and admitted the gap: "**I will continue to find our
+  contact.**"
+- Read across the four messages, this is no longer a referral favour. Bev is spending her own
+  institutional standing — her vendor table, her team dinner, her brand-new association
+  membership — on DTD's behalf, which raises the stakes on DTD showing up prepared.
+- action #open (Andrew): confirm the CBHC arrangement with Bev — registration status, whether he
+  needs a room, and what DTD material goes on the RMCP table
+- action #open (John/Andrew): produce printed material for the RMCP table, end of September
+- action #open (Bev): the remaining introductions (Anschutz, El Pomar, Greenwood Village Rotary,
+  Colorado Health Foundation, Impact 100, EAPA) as responses come in
+- category: Partnerships and Strategic Relationships
+- source: four messages from Bev Marquez on the "Re: DTD : RMCP follow-up" thread, 2026-09-08
+  16:21Z, 16:34Z and 22:08Z; https://www.cbhc.org/conference/, https://rockymountaineapa.org/,
+  https://impact100metrodenver.org/impact-grants/
+- links: [[partnerships-and-strategic-relationships#2026-09-07 Bev Marquez will make eight funder introductions by end of business Tuesday — and the Starbucks gap partly closes]], [[funding-and-financial-development#2026-09-08 The first two introductions land: Lightner Sams and Caring for Denver]], [[funding-and-financial-development#2026-09-01 The corporate-training idea gets a price and a partner: ~$10k to certify five facilitators]], [[relationships#Bev Marquez]]
 
 ## 2026-09-07 Bev Marquez will make eight funder introductions by end of business Tuesday — and the Starbucks gap partly closes
 - Andrew wrote to Bev at 4:00pm ahead of the Sep 15 virtual meeting; she answered 78 minutes

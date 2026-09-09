@@ -1,270 +1,381 @@
-<!-- generated 2026-09-08T07:09:19+00:00 | 17 new of 17 blocks; synthesis must read ONLY this file, not raw/ -->
+<!-- generated 2026-09-09T07:09:07+00:00 | 30 new of 30 blocks; synthesis must read ONLY this file, not raw/ -->
 
 <!-- source: calendar.md -->
 # Google Calendar
-harvest window: 2026-09-07T07:07:59Z → 2026-09-08T07:06Z
-calendar: john.calafiore@dudetalkdinners.org (America/Denver), looked ahead through 2026-09-09
+harvest window: 2026-09-08T07:09:19Z → 2026-09-09T07:06Z
+calendar: john.calafiore@dudetalkdinners.org (America/Denver), looked ahead through 2026-09-10
 
-No events returned for Mon 2026-09-07 (Labor Day), Tue 2026-09-08, or the morning of
-Wed 2026-09-09. The calendar's `updated` stamp is 2026-09-08T00:37:28Z, so it was touched during
-the window; nothing further is visible to this harvest.
+---
 
-Note: two future commitments were named in email this window but do not appear on this calendar —
-the **virtual meeting with Bev Marquez / RMCP on 9/15** and the **CBHC conference at the end of
-September**. Flagged rather than assumed missing.
+<!-- source: calendar.md -->
+## calendar-3spd5omg6hvq91195jqumfoo7a DTD Social Media
+
+- when: **Tue 2026-09-08, 10:00am–12:00pm MDT** (two hours)
+- organizer: Andrew Wolff (accepted)
+- attendees: Andrew Wolff, **Dawson Wolf** (dawsonjwolf03@gmail.com, needsAction),
+  John Calafiore (needsAction)
+- conference: https://meet.google.com/pqz-oauh-jdw
+- created 2026-09-04T17:55Z, updated 2026-09-08T16:13Z (the invitation was re-sent by email the
+  morning of the meeting)
+
+No Granola note and no Fathom recap exists for this slot — a two-hour working session on the
+October social-media launch with no record of what was decided.
+
+---
+
+<!-- source: calendar.md -->
+Nothing else on the calendar for 2026-09-08, 2026-09-09, or the morning of 2026-09-10 — note
+that the **Jennifer Ashley vision working session referred to in email as "Thursday"
+(2026-09-10)** does not appear on this calendar, nor does the **Sep 15 RMCP call**, the **Sep 23
+Building Hope meeting** booked this window, or the **CBHC conference**. Flagged rather than
+assumed absent.
 
 ---
 
 <!-- source: email-inbox.md -->
 # Gmail — inbox
-harvest window: 2026-09-07T07:07:59Z → 2026-09-08T07:06Z
+harvest window: 2026-09-08T07:09:19Z → 2026-09-09T07:06Z
 query: `newer_than:1d -in:draft`
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-1a07e2b3f7754c52 Re: DTD : RMCP follow-up — Bev commits to making the introductions
+## gmail-1a0832dfccb84f7e Introduction of Dude Talk Dinners — Bev Marquez → Lightner Sams Foundation
+
+- from: Bev Marquez <bmarquez@rmcrisispartners.org>, CEO, Rocky Mountain Crisis Partners
+- to: foundation@lightnersams.org ("Derek"), cc Andrew Wolff and John Calafiore
+- date: 2026-09-08T22:40:00Z
+- labels: IMPORTANT, INBOX
+
+> Hello Derek,
+>
+> I am so grateful for your on-going support of Rocky Mountain Crisis Partners. I have recently
+> met two gentlemen who have started a non-profit that you may be interested in and wanted to
+> provide an e-introduction. **Andrew and John are the founders of Dude Talk Dinners**
+> https://dudetalkdinners.org/ and the response from men in their local communities coming
+> together and having dinner and conversation about mental health and life in general is
+> impressive and impactful. I have spoken to them about Lightner Sams Foundation, **your
+> commitment to bettering the mental health of all and your support of programs that move the
+> needle in suicide prevention**. They are active in Colorado and have a **scalable model that
+> could work in any community**. I will let you all take it from here and thank you for your
+> time.
+>
+> Sincerely,
+> Bev
+>
+> Bev Marquez | Chief Executive Officer | Rocky Mountain Crisis Partners
+> Mobile: (720) 252-6724
+
+---
+
+<!-- source: email-inbox.md -->
+## gmail-1a083162e8e5eae2 Introduction — Bev Marquez → Caring for Denver
 
 - from: Bev Marquez <bmarquez@rmcrisispartners.org>
-- to: andrew.wolff@dudetalkdinners.org, cc john.calafiore@dudetalkdinners.org
-- date: 2026-09-07T23:18:55Z
+- to: kindle@caring4denver.org ("Lorez"), cc Andrew Wolff and John Calafiore
+- date: 2026-09-08T22:13:59Z
+- labels: IMPORTANT, INBOX
+- snippet only (full body not retrieved):
+
+> Hello Lorez, I hope you are doing very well. I am pleased to make an e-introduction to you and
+> **Andrew Wolff, the executive director of Dude Talk Dinners** https://dudetalkdinners.org/
+> RMCP has learned of […]
+
+---
+
+<!-- source: email-inbox.md -->
+## gmail-1a081d362413704b Re: DTD : RMCP follow-up — the CBHC answer: come to our table
+
+- from: Bev Marquez, to Andrew, cc John and herself
+- date: 2026-09-08T16:21:06Z
+
+> Hello Andrew, **I am going to send these over as I have responses.** Thank you for your
+> patience. **We are a vendor and we are happy to have some Dude Talk information at our table
+> and you can join us at our table if you'd like.** I will know more about our official status
+> on registrations/room etc and **we have a team dinner during the conference that we'd love to
+> have you join**……
+>
+> https://www.cbhc.org/conference/
+
+---
+
+<!-- source: email-inbox.md -->
+## gmail-1a081dfe07c671fa Re: DTD : RMCP follow-up — the EAP lead, with RMCP one day ahead
+
+- from: Bev Marquez, to Andrew, cc John
+- date: 2026-09-08T16:34:45Z
+
+> https://rockymountaineapa.org/
+>
+> **We just joined the Employee Assistance Association today. We want to present to them and as
+> soon as I get their current application, I will make an introduction to you.**
+
+(Rocky Mountain Employee Assistance Professionals Association — the "EAP association" from
+Andrew's list.)
+
+---
+
+<!-- source: email-inbox.md -->
+## gmail-1a083111d3c075cc Re: DTD : RMCP follow-up — Impact 100 link, contact still being found
+
+- from: Bev Marquez, to Andrew, cc John
+- date: 2026-09-08T22:08:27Z
+
+> https://impact100metrodenver.org/impact-grants/ **I will continue to find our contact**
+
+---
+
+<!-- source: email-inbox.md -->
+## gmail-1a0803b960dfb209 Re: Supporting Your Mission — Jerome Sallan accepts the holding reply
+
+- from: Jerome Sallan <jsallan@levlawllc.com>, to John
+- date: 2026-09-08T08:56:06Z
 - labels: IMPORTANT, INBOX
 
-> Hello Andrew, thanks for the message. Yes, I will be making all of those introductions by the
-> end of business tomorrow. Take good care.
+> Hi John,
 >
-> Bev
-> Sent from my iPhone
-
-Replying to Andrew's message sent 78 minutes earlier the same evening (see below).
+> **I totally understand. Thank you for the update, and I look forward to hearing from you once
+> the details are finalized.**
+>
+> Best regards,
+> Jerome Sallan
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-1a07de32e54a8ca3 DTD : RMCP follow-up — Andrew's ask, with the funder list named
+## gmail-1a080f05242b4078 Google Workspace for Nonprofits is activated
 
-- from: Andrew Wolff <andrew.wolff@dudetalkdinners.org>
-- to: bmarquez@rmcrisispartners.org, cc john.calafiore@dudetalkdinners.org
-- date: 2026-09-07T22:00:12Z
+- from: googlefornonprofits-noreply@google.com, to John
+- date: 2026-09-08T12:13:48Z
 - labels: IMPORTANT, INBOX
 
-> Hi Bev,
->
-> Thank you again for meeting with me and John at the end of last month, it was so great to
-> connect with you in person. We enjoyed our time together and are even more excited about our
-> collaboration. I wanted to follow up on a couple of things before our virtual meeting on 9/15.
->
-> - Regarding the list of contacts you offered to connect us with (Anschutz, El Pomar, Leightner
->   Sams, Greenwood Village Rotary, Impact 100, Coloado Health Foundation, Caring for Denver, EAP
->   association) - if there is anything I can do to help move that process forward please let me
->   know.
-> - You mentioned that I might be able to join the CBHC conference taking place at the end of
->   this month. As we discussed, DTD doesn't currently have the budget for this. Do you think I
->   can go without registering? Has RMCP registered as an organization, and if so can I tag
->   along?
->
-> Thanks again Bev. We look forward to connecting.
->
-> With appreciation,
-> Andrew
-
-("Coloado" is Andrew's typo for Colorado Health Foundation.)
+> **Congratulations! Google Workspace for Nonprofits is activated for dudetalkdinners.org**
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-1a07c56a3f61b2d5 Google Workspace for Nonprofits activation update — issues exist
+## gmail-1a080f28dfe9cb87 Google for Nonprofits Support Request — the human confirmation
 
-- from: googlefornonprofits-noreply@google.com
-- to: john.calafiore@dudetalkdinners.org
-- date: 2026-09-07T14:47:27Z
-- labels: IMPORTANT, INBOX
-- org: Dude Talk Dinners Inc | Charity ID: 41-4806880 | User ID: john.calafiore@dudetalkdinners.org
+- from: googlefornonprofits-support@google.com (signed "Soundarya, Google for Nonprofits Team")
+- to: John
+- date: 2026-09-08T12:16:10Z
 
-> Issues exist with your activation request
+> Hello John,
 >
-> Hello,
+> Good news!
 >
-> Thank you for your interest in Google Workspace for Nonprofits. Unfortunately, your activation
-> couldn't be processed because the connection between Dude Talk Dinners Inc and
-> dudetalkdinners.org couldn't be verified. You can send us more information for this domain or
-> submit a different domain.
->
-> Note: If you are submitting a domain that is different from your organization's official
-> domain, you can add text to your official domain (on a hidden subpage if necessary) that
-> indicates that the new domain is related to the official domain.
->
-> The Google for Nonprofits Team
+> **The domain dudetalkdinners.org has now been successfully upgraded to Google Workspace for
+> Nonprofits.** You can now log in to your Admin Console using your account email address
+> (please note that Gmail addresses cannot be used for this login).
+
+Arrives **21 hours** after the 2026-09-07 "Issues exist with your activation request" rejection,
+and from a named support agent rather than the automated address — so a support request was
+raised and resolved inside the window.
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-1a07df0917ebac8a DMARC weekly digest for dudetalkdinners.org
+## gmail-1a0829409bef84fa Connecticut Charity Initial Application Approval for DUDE TALK DINNERS INC
 
-- from: dmarc@postmarkapp.com (ActiveCampaign Postmark)
-- to: john.calafiore@dudetalkdinners.org
-- date: 2026-09-07T22:15:12Z
+- from: donotreplyelicense2@ct.gov, to John
+- date: 2026-09-08T19:51:42Z
 
-> dudetalkdinners.org Aug 31 – Sep 07 · 267 Emails processed · 100% SPF or DKIM aligned ·
-> 0% SPF and DKIM not aligned
-
----
-
-<!-- source: email-inbox.md -->
-## gmail-1a07e6487fae3d1a Frisco Summit DYD photos
-
-- from: Andrew Wolff <andrew@wolffcoaching.com> (personal address)
-- to: john.calafiore@dudetalkdinners.org
-- date: 2026-09-08T00:21:39Z
-- attachments: ~8 MB of images; no body text captured
+> Dear Applicant:
+>
+> **We have approved your initial application for PUBLIC CHARITY under the name of DUDE TALK
+> DINNERS INC. Your credential number is CHR.0070723 with an effective date of 09/08/2026.**
+>
+> This credential information can be verified at the Department of Consumer Protection's website.
+> A printable certificate will be sent to your email under separate cover in 2-3 business days.
+> You will **Not** receive a hardcopy of a certificate in the mail.
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-1a07e6778e14e825 (no subject) — single photo from Andrew's personal address
+## gmail-1a0835535dcc6262 CT Charity Certificate for DUDE TALK DINNERS INC
 
-- from: Andrew Wolff <andrew@wolffcoaching.com>
-- to: john.calafiore@dudetalkdinners.org
-- date: 2026-09-08T00:24:51Z
-- attachments: IMG_4916.jpeg; no subject and no body text
+- from: donotreplyelicense2@ct.gov, to John
+- date: 2026-09-08T23:22:30Z, ~3.7 MB attachment
+
+> Dear Applicant: This notice contains **the certificate for your Connecticut Department of
+> Consumer Protection PUBLIC CHARITY #CHR.0070723.** Please save a copy of the attached
+> certificate for your records.
+
+Certificate arrived the same evening, not in the 2–3 business days the approval promised.
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-1a07bbee282d0905 Field notes on what a life is for — Max J Miller newsletter [NOISE]
+## gmail-1a080bfbc7e63298 Online Application Submission for Dude Talk Dinners, Inc
 
-- from: maxj@maxjmiller.com, issue #077, 2026-09-07T12:01:41Z, unread
-- Subscription newsletter, no DTD content. Logged as noise, not for filing.
+- from: donotreplyelicense2@ct.gov, to John
+- date: 2026-09-08T11:06:17Z
+
+> Your application for PUBLIC CHARITY has been posted to the Department's credentialing system.
+> Please allow approximately 2-3 business days for review.
+
+Submitted 11:06Z, approved 19:51Z, certificate 23:22Z — the whole Connecticut registration
+cleared in about twelve hours.
+
+---
+
+<!-- source: email-inbox.md -->
+## gmail-1a081dcf5c28479b Re: Dude Central and DTD Summit partnership — Nadia books the structure conversation
+
+- from: Nadia Borovich <nadia@buildinghopesummit.org>, to Andrew, cc John
+- date: 2026-09-08T16:32:03Z
+
+> Hi Andrew! **I scheduled something on your calendar. I scheduled it for 9/23 as I have three
+> events I'm coordinating in the next two weeks. I included everyone at Building Hope that
+> should be able to** […]
+
+Andrew replied 2026-09-08T20:48:21Z: "**Great! We look forward to connecting on 9/23. Thanks
+Nadia 🙏**"
+
+---
+
+<!-- source: email-inbox.md -->
+## gmail-1a0822b6bf6f5c1e Invitation: 45 min meeting between Andrew Wolff and Nadia Borovich @ Wed Sep 23, 2026 1:15pm–2pm (MDT)
+
+- from: andrew.wolff@dudetalkdinners.org (calendar invitation), 2026-09-08T17:57:57Z
+- invitees: Andrew Wolff, John Calafiore, nadia@ / nicole@ / kristen@buildinghopesummit.org
+
+Three Building Hope people on the invite, not one — Nadia brought her leadership team as she said
+she would.
+
+---
+
+<!-- source: email-inbox.md -->
+## gmail-1a081e00beb90f45 Fwd: DTD Bios for Website — Mike's bio and photo
+
+- from: Nadia Borovich, to John
+- date: 2026-09-08T16:35:25Z, ~1.1 MB
+
+> Hi John! **Here is Mike's bio and pic!** Thank you!
+
+Second instalment of the Summit facilitator bios; Paul Steinweg's came 2026-09-02 with "I'll work
+on the others!"
+
+---
+
+<!-- source: email-inbox.md -->
+## gmail-1a0819bd0668c3c8 Your DTD reminders — 2026-09-08
+
+- from: support@dudetalkdinners.org (the DTD CRM reminder job), to John
+- date: 2026-09-08T15:21:06Z
+
+> **Follow-ups — Ask for board bios: Due Sep 8, 2026** — Open your dashboard
+
+---
+
+<!-- source: email-inbox.md -->
+## gmail-1a0811791ca432d2 Google Workspace: Gemini for nonprofits [NOISE]
+
+- workspace-noreply@google.com, 2026-09-08T12:56:40Z. Marketing. Not for filing.
+
+---
+
+<!-- source: email-inbox.md -->
+## gmail-1a0818c21e32846d Givebutter: nonprofit content calendar template [NOISE]
+
+- support@givebutter.com, 2026-09-08T15:02:08Z. Marketing. Not for filing.
+
+---
+
+<!-- source: email-inbox.md -->
+## gmail-1a08218b1e32f644 The Awakened School newsletter [NOISE]
+
+- support@theawakenedschool.com, 2026-09-08T17:37:04Z, to john@. Newsletter. Not for filing.
 
 ---
 
 <!-- source: email-sent.md -->
 # Gmail — sent
-harvest window: 2026-09-07T07:07:59Z → 2026-09-08T07:06Z
+harvest window: 2026-09-08T07:09:19Z → 2026-09-09T07:06Z
 query: `newer_than:1d -in:draft`
 
 ---
 
 <!-- source: email-sent.md -->
-## gmail-1a07dd0e8a2042f0 Re: Supporting Your Mission — John answers Levine Law
+## gmail-1a081283428b10fa DTD Materials for Thursday's Call — and a gift from Jennifer Ashley
 
-- from: john.calafiore@dudetalkdinners.org
-- to: jsallan@levlawllc.com (Jerome Sallan, Levine Law Accident Attorneys)
-- date: 2026-09-07T21:40:38Z
-- thread: 1a062ac58e5b7970 (offer 2026-09-02, chase 2026-09-05, this reply 2026-09-07)
+- from: john.calafiore@dudetalkdinners.org, to jxashley@yahoo.com, cc Andrew Wolff
+- date: 2026-09-08T13:14:50Z
 
-> Hi Jerome,
+> Hi Jennifer,
 >
-> Thanks for following up, and for your interest! We are currently discussing our sponsorship
-> process internally, but don't have exact details at this time. I will keep you updated when we
-> […]
+> Thank you for your time last week. Andrew and I both walked away from that conversation
+> feeling energized and supported. Your questions have already pushed us to expand our thinking
+> about the next stage of Dude Talk Dinners.
+>
+> **Thank you so much for your generous gift, we truly appreciate it beyond words.**
+>
+> As promised, here's a folder with some of our materials:
+>
+> Jennifer's Folder Link
+> https://drive.google.com/drive/folders/1hQpHDirw5n-UizE4QJDqgf6AXryEMPRz?usp=drive_link
+>
+> It currently includes **testimonials from facilitators and men who have attended the dinners,
+> our start-up guide for new communities, our bylaws, and a sample flyer**. We're finishing an
+> **organizational overview document that pulls the whole picture together**, and I'll get that
+> to you with enough time to review before we talk on Thursday.
+>
+> Looking forward to the conversation.
+>
+> Warm regards,
+> John & Andrew
 
-(The captured snippet truncates after "when we"; the remainder of the message body was not
-returned by the connector.)
+Two things not previously on record: **Jennifer Ashley has made a donation to DTD**, and she
+asked for the **bylaws and testimonials** on the Sep 3 call — both now delivered via a shared
+Drive folder.
 
 ---
 
 <!-- source: email-sent.md -->
-## gmail-1a07e812e8efcad1 One Pager — DTD_One_Pager_v1.pdf to Andrew
+## gmail-1a0843baac4a4d1e Re: DTD Materials for Thursday's Call — the one-pager goes to Jennifer
 
-- from: john.calafiore@dudetalkdinners.org
-- to: andrew.wolff@dudetalkdinners.org
-- date: 2026-09-08T00:53:10Z
-- attachment: **DTD_One_Pager_v1.pdf** (~660 KB)
+- from: john.calafiore@dudetalkdinners.org, to jxashley@yahoo.com, cc Andrew Wolff
+- date: 2026-09-09T03:34:57Z (2026-09-08 ~9:35pm MDT)
+- attachment: **DTD One-Pager.pdf** (~1.1 MB)
 
-> Attached
+> Hi Jennifer,
 >
-> John Calafiore
-> Chief Operations Officer
+> **Apologies for the late email, but we wanted to get this one-pager (attached) over to you for
+> review as soon as possible.** We have also uploaded it to the folder we shared with you
+> previously.
+>
+> Please let us know if you have any questions; otherwise, talk to you on Thursday!
+>
+> John & Andrew
 
-No other body text. The attachment itself was not opened by this harvest.
+This answers the open question about DTD_One_Pager_v1.pdf's audience: it is **for Jennifer
+Ashley's review ahead of the Thursday 2026-09-10 vision working session**, not the RMCP funder
+introductions. Note the filename changed from `DTD_One_Pager_v1.pdf` (to Andrew, Sep 7) to
+`DTD One-Pager.pdf` (to Jennifer, Sep 8) and grew from ~660 KB to ~1.1 MB, so it was revised in
+between.
 
 ---
 
 <!-- source: email-sent.md -->
-## gmail-1a07ca36115a8eba DTD Grant Finder — Weekly Digest (2026-09-07)
+## gmail-1a0826d78d454a82 Re: DTD Bios for Website
 
-- from/to: john.calafiore@dudetalkdinners.org, cc andrew.wolff@dudetalkdinners.org
-- date: 2026-09-07T16:11:16Z
-- automated weekly output of the grant-scanning agent
+- from: john.calafiore@dudetalkdinners.org, to nadia@buildinghopesummit.org
+- date: 2026-09-08T19:10:06Z
 
-> Weekly scan complete. **No brand-new open fits surfaced this run** — the 3 open opportunities
-> below are all carried over from prior weeks and still awaiting review.
-
-Top open opportunities (3, all carried over):
-1. **Elevance Health Foundation — Behavioral Health Grant Program**, fit 4/5. Cycle opens
-   2027-01-01, applications due 2027-01-31; amount not published. "Explicitly names loneliness
-   reduction and behavioral health access as funding goals — closest match to DTD's mission
-   found so far. Mark the calendar for Jan 2027."
-2. **DOJ Office on Violence Against Women — FY2026 Consolidated Grant Program to Engage Men and
-   Youth in Preventing Domestic Violence**, fit 2/5, deadline **2026-09-08** ("tomorrow — likely
-   too tight to act on if not already in progress"). Core focus is DV prevention, "a stretch
-   from DTD's peer-support mission."
-3. **AmeriCorps — FY2027 AmeriCorps Seniors RSVP Competition**, fit 2/5, deadline 2026-10-20.
-   Could fund 55+ volunteer recruitment for dinner facilitation; "indirect fit only."
-
-Screened and rejected this run:
-- **Movember Foundation** — Community Men's Health Research Program confirmed
-  research-institution-only (PI must be an academic researcher); stays rejected.
-- **Humana Foundation** — 2026 Connected Healthy Lives cycle closed; a new $12.2M "emotional
-  health" slate was announced but awards are already decided (13 orgs, 5 university teams); a
-  second slate is teased for Fall 2026 with no application details yet.
-- **Cigna Group Foundation** — new $9M veteran housing/mental-health program ($150K awards), but
-  FY2026 deadline (July 9) passed and it's restricted to veterans in 10 specific states.
-- **VA Staff Sergeant Fox Suicide Prevention Grant Program** (up to $750K) — "directly on-topic
-  for suicide prevention, but requires demonstrated prior experience serving Veterans
-  specifically," and its FY2027 deadline (June 12) passed. "Worth revisiting if DTD builds
-  veteran-specific programming."
-- **Foundation for Social Connection** — open call (with Young Futures) targets teen social
-  connection in tech environments, not adult men's peer support.
-- GivingTuesday/matching campaigns: no funder-side apply-to programs found. Pitch competitions:
-  nothing new (The Greater Sum, INNOSpark remain rejected — cohort/eligibility restricted).
-  National sponsorships: nothing new DTD could apply to directly.
-
-> All screened candidates (including this run's 3 rejects) are saved in the CRM so they won't be
-> re-researched.
+> **Amazing...thank you again!!!**
 
 ---
 
 <!-- source: meetings.md -->
 # Meetings — Granola / Fathom
-harvest window: 2026-09-07T07:07:59Z → 2026-09-08T07:06Z
+harvest window: 2026-09-08T07:09:19Z → 2026-09-09T07:06Z
 
----
+Granola: **no meetings recorded for 2026-09-08 or 2026-09-09** ("Searched your attended meetings
+for Sep 8–9, 2026; found 0").
 
-<!-- source: meetings.md -->
-## granola-2026-09-07 DTD Claude Interview Day 2
-
-- date: Monday 2026-09-07, 4:23 PM MDT (2026-09-07T22:23Z)
-- attendees: **John Calafiore only** — a solo knowledge-capture session, not a multi-party meeting
-- no recorded meetings for 2026-09-08
-
-Granola's summary of decisions:
-- Require **at least three facilitators per community**.
-- Continue developing facilitator guidance, crisis training, and accountability structures.
-
-Granola's summary of action items: build the facilitator feedback form; finalize crisis-resource
-guidance and training; complete the startup and facilitator guides; progress the CRM and Discord
-rollout; resolve the local funds-custody structure.
-
-Topic detail returned on a follow-up query (Granola's paraphrase, not verbatim transcript):
-- **Facilitators** — lead the welcome, ground rules, topic handoff, and closing. Each community
-  should have at least three. Feedback and "360-style accountability" are being developed.
-- **Crisis resources** — "No formal protocol yet." A facilitator guide and likely-required
-  crisis-intervention training via **Rocky Mountain Crisis Partners** are in progress.
-  Facilitators should have local and virtual resources ready, including AA, therapy, and crisis
-  lines.
-- **Local funds custody** — "still unresolved in **Gunnison, Summit, Bailey, and Conifer**. Local
-  partner organizations currently hold funds while the chapter-versus-franchise model is worked
-  through with the CPA, lawyer, and board."
-- **CRM** — HubSpot integrations being migrated; "expected roughly two months out."
-- **Discord** — moving from Slack to Discord; the server is still in progress, and facilitators
-  will plug it at dinner wrap-up.
-
-Capture caveat: a direct request for the full notes of this session returned "I don't have any
-meeting data available for 'DTD Claude Interview Day 2'" even though the same connector had just
-listed it. The content above came back through a topic query instead, so it is Granola's
-summarization at one remove rather than John's own words.
+That is a capture gap, not a quiet day: the calendar shows **DTD Social Media, Tue 2026-09-08,
+10:00am–12:00pm MDT**, a two-hour session with Andrew Wolff and Dawson Wolf on Google Meet.
+Nothing from it is on record.
 
 Fathom: not queried this run — `list_meetings` requires interactive approval, unavailable in an
 unattended scheduled run. Standing capture gap.
@@ -273,19 +384,32 @@ unattended scheduled run. Standing capture gap.
 
 <!-- source: slack.md -->
 # Slack
-harvest window: 2026-09-07T07:07:59Z → 2026-09-08T07:06Z
-query: `after:2026-09-06` across public channels, private channels, group DMs and DMs
+harvest window: 2026-09-08T07:09:19Z → 2026-09-09T07:06Z
+query: `after:2026-09-07` across public channels, private channels, group DMs and DMs
 
 ---
 
 <!-- source: slack.md -->
-## slack-1788816317.594309 Andrew shares the Rural Philanthropy Days link
+## slack-1788902814.237089 Andrew sends research on isolation as a "crisis multiplier"
 
 - channel: DM between Andrew Wolff and John Calafiore (D0AHRCQ924E)
 - from: Andrew Wolff
-- date: 2026-09-07 15:25:17 MDT (2026-09-07T21:25:17Z)
-- permalink: https://dudetalkdinners.slack.com/archives/D0AHRCQ924E/p1788816317594309
+- date: 2026-09-08 15:26:54 MDT (2026-09-08T21:26:54Z)
+- permalink: https://dudetalkdinners.slack.com/archives/D0AHRCQ924E/p1788902814237089
 
-> https://crcco.org/programs/rural-action-network/rural-philanthropy-days/heart-of-colorado
+> A separate Virginia Commonwealth University analysis of **177 mass shooters** found **social
+> isolation was the most important external indicator leading up to attacks**, acting as a
+> "**crisis multiplier**" that let other crises compound, since isolated people lose the people
+> around them who'd normally push back when their behavior turns concerning.
 
-Link only, no accompanying text. Sent 35 minutes before Andrew's RMCP follow-up email.
+Sent with no framing. The phrase "A separate … analysis" implies it was pasted from a longer
+piece of research whose other findings are not in this message.
+
+---
+
+<!-- source: slack.md -->
+## slack-1788918603.988749 John replies (empty)
+
+- same DM, from John Calafiore, 2026-09-08 19:50:03 MDT
+- the connector returned **no text** for this message — likely a file, image or link-only post
+  that the search API did not render. Content unknown.

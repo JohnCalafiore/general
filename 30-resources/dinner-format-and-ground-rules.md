@@ -1,15 +1,18 @@
 ---
-updated: 2026-08-28
+updated: 2026-09-10
 tags: [resource, reference, program-model]
 ---
 
 # The dinner format and ground rules
 
-Canonical description of how a Dude Talk Dinner runs and the rules that govern it, taken
-verbatim from the Monarch Mountain Community Grant application (Aug 2026) — the first place
-in the record where the format and rules are written out in full rather than referred to.
-Reuse this language in grant applications, the facilitator guide, the website, and
-onboarding rather than re-deriving it.
+Canonical description of how a Dude Talk Dinner runs and the rules that govern it. Two sources,
+both quoted verbatim: the **Monarch Mountain Community Grant application (Aug 2026)**, the first
+place the format was written out in full for an outside reader; and **Andrew Wolff's 2026-09-09
+letter to the Grand Junction leadership team**, which is the first internal statement of the
+ground rules, the coordinator/facilitator roles, and the growth doctrine. Where they differ,
+Andrew's letter is the operating document and the grant application is the outward-facing case.
+Reuse this language in grant applications, the facilitator guide, the website, and onboarding
+rather than re-deriving it.
 
 ## The format
 
@@ -20,20 +23,87 @@ onboarding rather than re-deriving it.
 
 ## The ground rules
 
-"Constant across every DTD community":
+Andrew Wolff's own wording, written out for a community lead on 2026-09-09 — treat this as the
+canonical list. He frames it as something "**every DTD Community follows**," and "**every
+facilitator shares them with the group at the start of each dinner**":
 
 - **All men are welcome.**
-- **What is shared here stays here.**
-- **The dinner is substance and alcohol free.**
-- **Speaking is not required, but respectful engagement is expected.**
-- **No focus on politics or religion.**
-- **No unsolicited advice.**
-- **A recognition that this is not therapy, counseling, or coaching.** "It is dinner,
-  conversation, and connection."
+- **Dinners are always free.**
+- **This is not therapy, coaching, or counseling. It's dinner, conversation, and connection.**
+- **Dinners are substance-free.**
+- **Dinners are confidential.** "We like to ask for a quick **thumbs-up from every dude**
+  confirming he agrees. Sometimes we say: **what's shared here stays here, but what's learned
+  here leaves here.**"
+- **Politics and religion are off the table.** "There are plenty of other places for those
+  conversations. Our priority is what unites us as men."
+- **We only offer advice when it's requested.**
+- **Guys don't have to talk.** "Anyone can pass on any topic or question. We do expect
+  respectful listening and engagement."
+
+Two things this version adds to the earlier seven-rule list: **"dinners are always free" is
+stated as a ground rule**, not just a fact of the format; and confidentiality comes with a
+**ritual** (the thumbs-up) and a memorable formulation ("what's learned here leaves here").
 
 These same rules carry over to Discord as the moderation standard — facilitators moderate
 their own community channels against "no politics/religion, no unsolicited advice,
 confidentiality" (Leadership Circle, 2026-08-27).
+
+## The two roles: coordinator and facilitator
+
+Also from Andrew's 2026-09-09 letter, and the first clean statement of the leadership structure
+anywhere in this vault. "**DTD is designed to run sustainably in every community with a
+leadership team built around two distinct roles.**"
+
+- **Coordinator** — "the **single point of accountability for logistics**: scheduling the
+  leadership team, the venue, the food, marketing, and making sure a facilitator is confirmed for
+  each dinner." Explicitly: "**The coordinator can be a man or a woman.**"
+- **Facilitator** — "**leads, hosts, and gently facilitates the dinner itself.**"
+
+Both are **volunteer** roles. "We are all busy with jobs, families, and our own lives - so
+sharing the workload is critical."
+
+Staffing and rotation: "**Most communities run with at least three facilitators. All of them show
+up at every dinner, but one leads each month, and that rotates.**" Andrew's practical advice is
+to **set the schedule 6 or 12 months out** and have each facilitator claim specific months —
+swaps are fine, but "having that clarity well ahead of time is what makes it work."
+
+Leadership-team cadence, by the Idaho Springs example: "**meets in person once every 3-6
+months**," staying in touch by email or virtual meeting between times.
+
+## Keep facilitation simple
+
+> DTD dinners are **lightly facilitated**. Each facilitator brings his own style, and **guys show
+> up to connect and talk with each other, not to listen to a presentation**. Some of the most
+> impactful dinners I've been part of, both as a dude and as a facilitator, are the ones where a
+> topic gets introduced and the guys take it and run wherever they want to go.
+>
+> **The topic matters less than you'd think.** What matters is that guys feel empowered to share
+> without judgment, to be heard, to connect, and to feel like they belong. **Keeping facilitation
+> this simple also lowers the bar for more men to step up and lead.**
+
+The last sentence is the design argument: simple facilitation is not just pleasant, it is the
+recruitment mechanism.
+
+## Growth: add communities, not activities
+
+Andrew's guidance to the largest community, and a scaling principle rather than local advice:
+
+> With **40 to 50 men at a dinner**, one monthly gathering may not be enough to meet the demand,
+> and **it's easy for a guy to feel lost in a room that size**. Rather than stacking more
+> programs onto your team, a better path may be to help **new, smaller dinner groups** launch
+> [nearby]. Or **another monthly dinner in the same town with an additional leadership team**.
+> More connection points, more men served, and less pressure on any one leadership team. **Dude
+> Central will support those launches.**
+
+Paired with it, the discipline he asks of a fast-growing community — "**SLOW YOUR ROLE** (in
+terms of new activities and ideas aside from the dinners themselves)… put your energy into the
+systems that make the existing monthly dinners successful and sustainable. **Everything else,
+including additional activities, gets easier once that foundation is reliable.**"
+
+Between-dinner activities have a designated home: "Conversations about other activities (biking,
+fishing, and so on) will start to come up organically. **We encourage dudes to self-organize
+those among themselves rather than adding them to the leadership team's plate. Discord is the
+place for that.**"
 
 ## The operating model, in one paragraph
 

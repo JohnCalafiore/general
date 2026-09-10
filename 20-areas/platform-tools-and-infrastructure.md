@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-09-09
+updated: 2026-09-10
 tags: [area]
 ---
 
@@ -14,6 +14,64 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-09-09 The Discord server goes live — Bob Holt is the first user, and he immediately finds two gaps
+- Six hours after Andrew asked on Slack "**realistically, how far off are we from Discord getting
+  up....Bob is asking**," John answered "**later today once I'm done fixing things here**" — and
+  delivered at 7:02pm MDT: "**The Dude Talk Dinners Discord is up and running!**" Invite:
+  discord.gg/Xy3aqueCtP. **The migration off Slack that has been "in progress" since August now
+  has a live server.**
+- The design is visible in the invite. Onboarding **asks two questions** — pick your community,
+  then facilitator yes/no — and facilitator status is **manually approved by John**: "That flags
+  your account for me to approve, and I'll switch on your facilitator access from my end."
+  Access is then **community channels plus a leadership circle**. Grand Junction is the pilot,
+  and the rollout is gated on Bob's verdict: "If you don't see any concerns, I will send invites
+  out to the rest of the leadership team for Grand Junction, and send over instructions for how
+  to invite dudes to the server."
+- Bob replied within 90 minutes, positive — "**I like how it's laid out**" — and found two real
+  design gaps in the first sitting:
+  1. **Roles are single-select but reality isn't.** "**Can I be in two groups both as a
+     coordinator and as a facilitator? We are currently very fluid in that design
+     designation.**" The onboarding assumes one role per person; Grand Junction runs people in
+     both. Worth noting Andrew defined those two roles as *distinct* the same afternoon.
+  2. **No interest channels.** "**How do we build the framework/channels to include more
+     specific Grand Junction interests?… Would love to have interest areas where our guys could
+     self select and find others to do stuff / build community.**" That is precisely the job
+     Andrew's letter assigns to Discord — self-organized biking and fishing, kept off the
+     leadership team's plate — so the need is designed-in and the channels aren't built yet.
+- action #open (John): answer Bob — dual role assignment, and whether communities can create
+  their own interest channels
+- action #open (John): once Bob signs off, invite the rest of the Grand Junction leadership team
+  and send the instructions for inviting dudes
+- category: Platform, Tools, and Infrastructure
+- source: "Dude Talk Discord," John Calafiore → Bob Holt (cc Andrew) 2026-09-10T01:02Z, and Bob's
+  reply 2026-09-10T02:38Z; Slack DM Andrew → John 2026-09-09 13:08 MDT and John's reply 13:33
+- links: [[support-for-existing-communities#2026-09-01 The Discord rollout reaches facilitators — with a sign-in sheet as the collection method]], [[support-for-existing-communities#2026-09-09 Andrew writes the operating model down — and tells the biggest community to slow down]], [[platform-tools-and-infrastructure#2026-09-07 CRM migration is "roughly two months out," and the Discord server is still unfinished]], [[relationships#Bob Holt]]
+
+## 2026-09-09 The CRM reminder job sends the same digest four times
+- "**Your DTD reminders — 2026-09-09**" arrived four times in twelve hours — 15:21Z, 22:44Z,
+  02:10Z and 03:20Z — each with an identical body: "**Activity yesterday — 1 new contact, 2
+  follow-ups created.**"
+- Same content, four sends, clustering overnight. That pattern is a scheduling or retry fault in
+  the job, not four distinct reports. Minor now; it matters because this is the system that will
+  carry follow-ups while John is away in October, and a reminder job that cries wolf gets muted.
+- action #open (John): look at the reminder job's schedule/retry logic before it trains anyone to
+  ignore it
+- category: Platform, Tools, and Infrastructure
+- source: four copies of "Your DTD reminders — 2026-09-09" from support@dudetalkdinners.org,
+  2026-09-09T15:21Z through 2026-09-10T03:20Z
+- links: [[platform-tools-and-infrastructure#2026-09-08 Capture gap: two hours on social media, nothing on record]]
+
+## 2026-09-09 A support ticket is confirmed behind the Workspace fix — case 8-4279000041597
+- Google's feedback survey names it: "**I see you recently had an interaction with our Google for
+  Nonprofits support team**," referencing **case 8-4279000041597** and addressed to John.
+- That partly answers yesterday's open question. A ticket did exist, and it went to John's
+  address — evidence he raised it, though **what was submitted is still not in the record**, and
+  the billing question is untouched.
+- category: Platform, Tools, and Infrastructure
+- source: "Re: [8-4279000041597] Google for Nonprofits Support: Tell us what you think!" from
+  no-reply@google.com to John, 2026-09-10T01:00Z
+- links: [[platform-tools-and-infrastructure#2026-09-08 RESOLVED: Google Workspace for Nonprofits is activated — 21 hours after the rejection]], [[00-inbox/needs-clarification|Needs clarification]]
 
 ## 2026-09-08 RESOLVED: Google Workspace for Nonprofits is activated — 21 hours after the rejection
 - "**Congratulations! Google Workspace for Nonprofits is activated for dudetalkdinners.org**"

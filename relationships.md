@@ -1,5 +1,5 @@
 ---
-updated: 2026-09-09
+updated: 2026-09-10
 tags: [grounding, people]
 ---
 
@@ -203,7 +203,12 @@ Format — one H2 per person:
 - relationship: informal advisor to Andrew — "I've been chatting with Andrew every once in
   a while to support him as he develops Dude Talk Dinners into an organization"; made the
   Daniel Knudsen introduction
-- source: "Introduction" email 2026-08-05
+- **Unresolved:** on 2026-09-09 a "**Gina Moran, Executive Director, All Access Wellness**"
+  wrote from info@allaccesswellness.org asking for a Conifer flyer, and Andrew answered her as a
+  known contact. Same name, different organization and address, and AAW's contact in this vault
+  has been "Allison." Whether this is the same person in a second role or a different Gina is
+  **not established** — do not merge these two entries. #needs-clarification
+- source: "Introduction" email 2026-08-05; "Re: Flyer?" thread 2026-09-09
 
 ## Courtney Botner
 - org: **Clear Creek County Library District** (she/her)
@@ -373,8 +378,14 @@ Format — one H2 per person:
   fast**" — build relationships toward asks of **$2.5k+** before making small ones, and target
   donors with a personal "tie" to the cause. Also brought a **Kroger Community Rewards**
   contact and a proposal to replace Givebutter with a lower-fee gateway.
+- phone: **360-507-3971**. Met Andrew again 2026-09-09 (no recording; Andrew's follow-up letter
+  is the only record) with a further call booked **Wed 2026-09-16, 10–11am MDT**. **First user of
+  the DTD Discord**, invited 2026-09-09 — responded within 90 minutes, liked the layout, and
+  asked for dual coordinator/facilitator roles and community interest channels. In Grand Junction
+  the coordinator/facilitator split is "**currently very fluid**," so he functions as both.
 - source: Fathom recap, "DTD Leadership Circle" 2026-08-27; "Have a great DTD tonight!"
-  2026-09-01; Fathom recap, "60 min meeting between Andrew Wolff and Bob" 2026-09-02
+  2026-09-01; Fathom recap, "60 min meeting between Andrew Wolff and Bob" 2026-09-02;
+  "Fwd: Meeting Follow-Up" and "Dude Talk Discord" threads 2026-09-09/10
 
 ## Jake Donziger
 - relationship: named only in the title of a document Andrew shared with John — "**Copy of

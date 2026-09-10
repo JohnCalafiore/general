@@ -1,5 +1,5 @@
 ---
-updated: 2026-09-09
+updated: 2026-09-10
 tags: [inbox]
 ---
 
@@ -19,6 +19,55 @@ Format the agent uses:
 
 <!-- entries begin below -->
 
+## 2026-09-09 Can a Discord member hold both roles — and can communities make their own channels?
+- quote: "**can I be in two groups both as a coordinator and as a facilitator? We are currently
+  very fluid in that design designation**" and "**how do we build the framework/channels to
+  include more specific Grand Junction interests?**" — Bob Holt, 90 minutes after getting his
+  invite
+- context: Both are design questions, not support questions, and they cut against decisions
+  already made. The onboarding asks one role; Andrew defined coordinator and facilitator as
+  distinct the same afternoon; Grand Junction runs people as both. And Andrew's letter promises
+  Discord as the place where dudes self-organize biking and fishing — the interest channels Bob
+  is asking for are the mechanism that promise depends on, and they don't exist yet.
+- question: Do you want dual roles supported, or one role per person with the other tracked
+  elsewhere? And can community leads create their own interest channels, or does that stay
+  central (and therefore with you)?
+- answer: <!-- write here -->
+
+## 2026-09-09 What are amical.ai and the Gemini licences for?
+- quote: "https://amical.ai/" then, 83 minutes later, "**I think we can actually purchase
+  individual licenses per Gemini**" — you to Andrew on Slack, 2026-09-09
+- context: They read as one thread about AI tooling, landing the day after Workspace for
+  Nonprofits activated and a Google email pitching Gemini. But neither message says what problem
+  is being solved or who would use it, so the vault can't tell whether this is a real evaluation
+  or an idle link.
+- question: Is this a tool you're considering adopting — and for what (meeting capture? the CRM?
+  content?)? If it's live, it should be tracked alongside the HubSpot migration.
+- answer: <!-- write here -->
+
+## 2026-09-09 Andrew wants business cards and merch — is that a decision or a thought?
+- quote: "**let's talk about new business cards and possibly some merch for ourselves
+  (hats/shirts)**" — Andrew on Slack, 2026-09-09 evening
+- context: Small, but it's spending, and it arrives in the same fortnight as the CBHC table (which
+  does need printed material), the funder introductions, and an explicit "DTD doesn't currently
+  have the budget for this" to Bev. Merch "for ourselves" is a different thing from collateral
+  for the RMCP table — worth not conflating them.
+- question: Is this going on the Sep 18 board agenda or a budget line, or is it just a
+  conversation to have? And is the CBHC table material the actual priority here?
+- answer: <!-- write here -->
+
+## 2026-09-09 Is the "Gina Moran" at All Access Wellness the same Gina Moran you know?
+- quote: "Gina Moran, Executive Director, All Access Wellness" writing from
+  info@allaccesswellness.org, 2026-09-09 — vs. the Gina Moran already in relationships.md,
+  "Nonprofit Consultant for Knudsen Coaching and Consulting," gina@ginamoran.com
+- context: Same name, different organization and address. Andrew answered her as someone he
+  knows, and AAW's contact in this vault has always been "Allison." I've left the two records
+  separate rather than merging them on a name match — but if they are one person who now runs
+  All Access Wellness, that's a materially different relationship (she'd be both an advisor to
+  Andrew and the funder of the Conifer dinner).
+- question: Same person or two people? And if the same, is she now AAW's Executive Director in
+  place of Allison?
+- answer: <!-- write here -->
 ## 2026-09-08 What did the two-hour social-media session decide?
 - quote: calendar only — "**DTD Social Media**," Tue Sep 8, 10:00am–12:00pm MDT, Andrew
   organizing, Dawson Wolf and you invited. No Granola note, no Fathom recap, no follow-up email.
@@ -602,60 +651,30 @@ Format the agent uses:
   reminder send enough? Say the word and I'll start a topics log per community.
 - answer:
 
-## 2026-07-22 Who is Greg (startup guide recipient)?
-- quote: "Reminder: send startup guide to Greg" — Slack DM to Andrew, 2026-07-21
-- question: Which Greg is this, and which community/prospect is he attached to? Should he
-  get a relationships entry?
-- update 2026-07-31: probable answer — **Greg Vochis** (gvochis@gmail.com), who's in the
-  early stages of starting an Evergreen DTD group per the Leadership Circle recap. Entry
-  added to relationships; confirm and I'll close this.
-- answer:
-
-## 2026-07-22 Cole's full name?
-- quote: "Hey Cole! Great to meet you on Thursday at the Frisco Dinner" — Ken's email
-  2026-07-18 (colepmhnp@gmail.com)
-- question: What's Cole's full name for the Leadership Circle records?
-- answer:
-
-## 2026-07-22 Should the community startup guide be a project?
-- context: it has active work (send to Greg, add a facilitator-recruitment section). If it
-  has a definable finish, I'll scaffold `10-projects/startup-guide/`; otherwise it stays
-  logged under Community Growth.
-- answer:
-
-## 2026-07-22 Is christine.peterson@westernalum.org the board's Chris Peterson?
-- quote: reply on the 501(c)(3) thread signed "~CP" from that address
-- question: same person as chris.peterson@dudetalkdinners.org? If yes I'll merge the
-  addresses in relationships.
-- update 2026-07-24: same address sent the Zero Suicide Academy fwd to the full board —
-  further evidence it's her, still treating as unconfirmed.
-- RESOLVED 2026-07-26: she signed "Chris Peterson" (with phone 970-209-4188) from the
-  westernalum address on that thread — addresses merged in relationships. No action
-  needed; delete this item when reviewed.
-- answer: confirmed by the record
-
-## 2026-07-23 Confirm org facts from Ben's outreach script before they go in context.md
-- quote: "We've caught the attention of CPR and NPR... we just launched Dude Talk Central...
-  We've already grown to seven active communities... raising a $250,000 seed fund" —
-  Ben's draft script, 2026-07-22
-- question: are "seven active communities," "Dude Talk Central," and the $250K target
-  confirmed facts I should treat as canonical (and you add to context.md), or campaign
-  framing?
-- update 2026-07-25: "seven DTD Communities across Colorado" is now corroborated by
-  Andrew's own email to Dr. Sally (Jul 24) — I've filed it as fact in Community Growth.
-  "Dude Talk Central" and CPR/NPR still rest on the script alone.
-- update 2026-07-31: "**DTD Central**" is confirmed as the central org's working name
-  (used throughout the Jul 30 Leadership Circle recap: Andrew = ED of DTD Central, John
-  = Operations). Only the CPR/NPR media claim remains unverified.
-- answer:
-
-## 2026-07-25 Who is Dr. Sally Spencer-Thomas to DTD?
-- quote: Andrew's community-launch update and share request went to
-  SallySpencerThomas@gmail.com ("Hi Dr. Sally... Please share this link and spread the
-  word") — 2026-07-24
-- question: advisor? partner? funder contact? I've added a minimal relationships entry;
-  what's her actual relationship to DTD?
-- answer:
+## 2026-08-08 What is "Principled Business"?
+- context: Andrew booked "Budget for Principled Business" for Mon Aug 10, 10–11am with
+  you and Ken Farber — the name appears nowhere else in the record.
+- question: is this an outside organization, a program DTD is applying to, or a
+  framework you're using for the budget? Tells me whether to file it under Funding,
+  Partnerships, or Governance.
+- update 2026-08-11: the Fathom recap makes it an **external party DTD presents a budget
+  to** — "present a high-level budget to Principal Business that is clear and
+  defensible," with Andrew prepping Q&A with CP. Fathom spells it "Principal Business,"
+  the calendar "Principled Business." So: funder, fiscal sponsor, or something else? And
+  which spelling is right?
+- update 2026-08-15: your board-report draft lists "**Principled Business app**" under
+  Funding and Financial Development, alongside the Walmart/Spark grant — so it's an
+  **application DTD submitted**, filed as funding. Still need to know what the organization
+  or program actually is, plus any deadline or amount.
+- RESOLVED 2026-08-18: Andrew's ED update says "**Principled Business Grant Application in
+  process of submission**" — it is a **grant application**, which is why the Aug 10 budget
+  session had to make the budget defensible line by line. Filed to Funding.
+- update 2026-08-19: the Aug 18 fundraising recap adds the size and a caveat — "**a $50k
+  seed funding application to Principal Business is pending, but the group's 'capitalist'
+  nature may not align with DTD's mission**." So: $50,000, submitted, decision pending, and
+  you already have doubts about the fit. Nothing further needed unless you want the funder's
+  full name and deadline on the record.
+- answer: a $50k seed grant application
 
 ## 2026-08-07 How did the Buena Vista dinner go?
 - context: you, Andrew, and Ken made the Aug 6 trip; Erik planned to record content on
@@ -684,31 +703,6 @@ Format the agent uses:
   full name for Wed Aug 12. Filed to Funding. Deadline/amount still unknown; add them if
   you have them, otherwise this can be deleted.
 - answer: Walmart SPARK Grant
-
-## 2026-08-08 What is "Principled Business"?
-- context: Andrew booked "Budget for Principled Business" for Mon Aug 10, 10–11am with
-  you and Ken Farber — the name appears nowhere else in the record.
-- question: is this an outside organization, a program DTD is applying to, or a
-  framework you're using for the budget? Tells me whether to file it under Funding,
-  Partnerships, or Governance.
-- update 2026-08-11: the Fathom recap makes it an **external party DTD presents a budget
-  to** — "present a high-level budget to Principal Business that is clear and
-  defensible," with Andrew prepping Q&A with CP. Fathom spells it "Principal Business,"
-  the calendar "Principled Business." So: funder, fiscal sponsor, or something else? And
-  which spelling is right?
-- update 2026-08-15: your board-report draft lists "**Principled Business app**" under
-  Funding and Financial Development, alongside the Walmart/Spark grant — so it's an
-  **application DTD submitted**, filed as funding. Still need to know what the organization
-  or program actually is, plus any deadline or amount.
-- RESOLVED 2026-08-18: Andrew's ED update says "**Principled Business Grant Application in
-  process of submission**" — it is a **grant application**, which is why the Aug 10 budget
-  session had to make the budget defensible line by line. Filed to Funding.
-- update 2026-08-19: the Aug 18 fundraising recap adds the size and a caveat — "**a $50k
-  seed funding application to Principal Business is pending, but the group's 'capitalist'
-  nature may not align with DTD's mission**." So: $50,000, submitted, decision pending, and
-  you already have doubts about the fit. Nothing further needed unless you want the funder's
-  full name and deadline on the record.
-- answer: a $50k seed grant application
 
 ## 2026-08-04 Monday's six meetings produced no captured content
 - context: Aug 3 held six sessions (Spark Grant, BV fundraising, two budget reviews,
@@ -769,6 +763,29 @@ Format the agent uses:
 - question: did it happen? Any decisions/next steps I should file to Partnerships?
 - answer:
 
+## 2026-07-25 Who is Dr. Sally Spencer-Thomas to DTD?
+- quote: Andrew's community-launch update and share request went to
+  SallySpencerThomas@gmail.com ("Hi Dr. Sally... Please share this link and spread the
+  word") — 2026-07-24
+- question: advisor? partner? funder contact? I've added a minimal relationships entry;
+  what's her actual relationship to DTD?
+- answer:
+
+## 2026-07-23 Confirm org facts from Ben's outreach script before they go in context.md
+- quote: "We've caught the attention of CPR and NPR... we just launched Dude Talk Central...
+  We've already grown to seven active communities... raising a $250,000 seed fund" —
+  Ben's draft script, 2026-07-22
+- question: are "seven active communities," "Dude Talk Central," and the $250K target
+  confirmed facts I should treat as canonical (and you add to context.md), or campaign
+  framing?
+- update 2026-07-25: "seven DTD Communities across Colorado" is now corroborated by
+  Andrew's own email to Dr. Sally (Jul 24) — I've filed it as fact in Community Growth.
+  "Dude Talk Central" and CPR/NPR still rest on the script alone.
+- update 2026-07-31: "**DTD Central**" is confirmed as the central org's working name
+  (used throughout the Jul 30 Leadership Circle recap: Andrew = ED of DTD Central, John
+  = Operations). Only the CPR/NPR media claim remains unverified.
+- answer:
+
 ## 2026-07-23 What's the DTD CRM stack for the record?
 - context: Brevo-connector and reminders-digest test emails (Jul 22), Andrew's "in the
   CRM" question, and a Jul 20 meeting titled "Zoho CRM setup and grant strategy."
@@ -780,6 +797,38 @@ Format the agent uses:
   problems compound.
 - answer:
 
+## 2026-07-22 Who is Greg (startup guide recipient)?
+- quote: "Reminder: send startup guide to Greg" — Slack DM to Andrew, 2026-07-21
+- question: Which Greg is this, and which community/prospect is he attached to? Should he
+  get a relationships entry?
+- update 2026-07-31: probable answer — **Greg Vochis** (gvochis@gmail.com), who's in the
+  early stages of starting an Evergreen DTD group per the Leadership Circle recap. Entry
+  added to relationships; confirm and I'll close this.
+- answer:
+
+## 2026-07-22 Cole's full name?
+- quote: "Hey Cole! Great to meet you on Thursday at the Frisco Dinner" — Ken's email
+  2026-07-18 (colepmhnp@gmail.com)
+- question: What's Cole's full name for the Leadership Circle records?
+- answer:
+
+## 2026-07-22 Should the community startup guide be a project?
+- context: it has active work (send to Greg, add a facilitator-recruitment section). If it
+  has a definable finish, I'll scaffold `10-projects/startup-guide/`; otherwise it stays
+  logged under Community Growth.
+- answer:
+
+## 2026-07-22 Is christine.peterson@westernalum.org the board's Chris Peterson?
+- quote: reply on the 501(c)(3) thread signed "~CP" from that address
+- question: same person as chris.peterson@dudetalkdinners.org? If yes I'll merge the
+  addresses in relationships.
+- update 2026-07-24: same address sent the Zero Suicide Academy fwd to the full board —
+  further evidence it's her, still treating as unconfirmed.
+- RESOLVED 2026-07-26: she signed "Chris Peterson" (with phone 970-209-4188) from the
+  westernalum address on that thread — addresses merged in relationships. No action
+  needed; delete this item when reviewed.
+- answer: confirmed by the record
+
 ## 2026-07-22 Ops: meeting sources (Fathom/Granola) were not readable this run
 - context: tool permissions for Fathom and Granola were declined in the unattended session,
   so no meeting summaries/transcripts were harvested. If meeting capture matters, allow
@@ -789,3 +838,4 @@ Format the agent uses:
   grant strategy with Patricia" meeting is cited by title only, its content still
   unharvested.
 - answer:
+

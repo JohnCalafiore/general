@@ -1,6 +1,6 @@
 ---
 area: Partnerships and Strategic Relationships
-updated: 2026-09-09
+updated: 2026-09-10
 tags: [area]
 ---
 
@@ -14,6 +14,22 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[partnerships-and-strategic-relationships#...]] and harvested by the brief. -->
+
+## 2026-09-09 Jennifer Ashley confirms for Thursday, and the vision session is titled honestly
+- She replied the morning after the materials went over: "**Perfect timing as I have set some
+  time aside this afternoon to go through your folder.** Thank you so much for sending
+  everything. Look forward to talking to you tomorrow." She is preparing, not just attending.
+- The calendar event is **"DTD Vision (and maybe mission)," Thu 2026-09-10, 1:00–2:00pm MDT**,
+  organised by Andrew, with all three accepted. The hedge in the title is worth noting: an hour
+  is being budgeted for vision, with mission as a stretch — a realistic read of a question the
+  board has stalled on twice.
+- Correction to the record: yesterday's calendar dump said this session "does not appear on this
+  calendar." It does — it was created 2026-09-03 and the previous harvest missed it. A false
+  negative, not a missing event.
+- category: Partnerships and Strategic Relationships
+- source: Jennifer Ashley → John, "Re: DTD Materials for Thursday's Call" 2026-09-09T11:20Z;
+  Google Calendar event "DTD Vision (and maybe mission)" 2026-09-10
+- links: [[partnerships-and-strategic-relationships#2026-09-03 Jennifer Ashley delivers, and the price is formalizing the vision first]], [[funding-and-financial-development#2026-09-08 RESOLVED: the one-pager was for Jennifer Ashley — and it was rewritten overnight]], [[relationships#Jennifer Ashley]]
 
 ## 2026-09-08 Bev delivers — and the RMCP partnership turns into shared access rather than referrals
 - She kept the commitment the same day she made it, and set expectations honestly about the

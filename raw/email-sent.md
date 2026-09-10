@@ -1,72 +1,36 @@
 # Gmail — sent
-harvest window: 2026-09-08T07:09:19Z → 2026-09-09T07:06Z
+harvest window: 2026-09-09T07:09:07Z → 2026-09-10T07:07Z
 query: `newer_than:1d -in:draft`
 
 ---
 
-## gmail-1a081283428b10fa DTD Materials for Thursday's Call — and a gift from Jennifer Ashley
+## gmail-1a088d6aa4d6d420 Dude Talk Discord — the server goes live, Bob first
 
-- from: john.calafiore@dudetalkdinners.org, to jxashley@yahoo.com, cc Andrew Wolff
-- date: 2026-09-08T13:14:50Z
+- from: john.calafiore@dudetalkdinners.org, to bobxholt@gmail.com, cc Andrew Wolff
+- date: 2026-09-10T01:02:44Z (2026-09-09 7:02pm MDT)
 
-> Hi Jennifer,
+> Bob,
 >
-> Thank you for your time last week. Andrew and I both walked away from that conversation
-> feeling energized and supported. Your questions have already pushed us to expand our thinking
-> about the next stage of Dude Talk Dinners.
+> **The Dude Talk Dinners Discord is up and running!** I appreciate your patience. Please click
+> the link below for your invitation and take a look around - let me know if you have any
+> questions or feedback.
 >
-> **Thank you so much for your generous gift, we truly appreciate it beyond words.**
+> **Your invite: https://discord.gg/Xy3aqueCtP**
 >
-> As promised, here's a folder with some of our materials:
+> **It asks two quick questions when you join. Pick *Grand Junction, CO* for the community, then
+> answer *"Yes - Facilitator"* on the second one. That flags your account for me to approve, and
+> I'll switch on your facilitator access from my end.**
 >
-> Jennifer's Folder Link
-> https://drive.google.com/drive/folders/1hQpHDirw5n-UizE4QJDqgf6AXryEMPRz?usp=drive_link
+> Once you're set, **you'll have the Grand Junction channels plus the leadership circle**. If you
+> don't see any concerns, **I will send invites out to the rest of the leadership team for Grand
+> Junction, and send over instructions for how to invite dudes to the server.**
 >
-> It currently includes **testimonials from facilitators and men who have attended the dinners,
-> our start-up guide for new communities, our bylaws, and a sample flyer**. We're finishing an
-> **organizational overview document that pulls the whole picture together**, and I'll get that
-> to you with enough time to review before we talk on Thursday.
->
-> Looking forward to the conversation.
->
-> Warm regards,
-> John & Andrew
+> Thanks,
+> John
 
-Two things not previously on record: **Jennifer Ashley has made a donation to DTD**, and she
-asked for the **bylaws and testimonials** on the Sep 3 call — both now delivered via a shared
-Drive folder.
-
----
-
-## gmail-1a0843baac4a4d1e Re: DTD Materials for Thursday's Call — the one-pager goes to Jennifer
-
-- from: john.calafiore@dudetalkdinners.org, to jxashley@yahoo.com, cc Andrew Wolff
-- date: 2026-09-09T03:34:57Z (2026-09-08 ~9:35pm MDT)
-- attachment: **DTD One-Pager.pdf** (~1.1 MB)
-
-> Hi Jennifer,
->
-> **Apologies for the late email, but we wanted to get this one-pager (attached) over to you for
-> review as soon as possible.** We have also uploaded it to the folder we shared with you
-> previously.
->
-> Please let us know if you have any questions; otherwise, talk to you on Thursday!
->
-> John & Andrew
-
-This answers the open question about DTD_One_Pager_v1.pdf's audience: it is **for Jennifer
-Ashley's review ahead of the Thursday 2026-09-10 vision working session**, not the RMCP funder
-introductions. Note the filename changed from `DTD_One_Pager_v1.pdf` (to Andrew, Sep 7) to
-`DTD One-Pager.pdf` (to Jennifer, Sep 8) and grew from ~660 KB to ~1.1 MB, so it was revised in
-between.
-
----
-
-## gmail-1a0826d78d454a82 Re: DTD Bios for Website
-
-- from: john.calafiore@dudetalkdinners.org, to nadia@buildinghopesummit.org
-- date: 2026-09-08T19:10:06Z
-
-> **Amazing...thank you again!!!**
+Design facts visible in this message: onboarding asks two questions (community, then
+facilitator yes/no); facilitator status is **manually approved by John**; channel access is
+scoped per community plus a **leadership circle**; and Grand Junction is the pilot before a
+wider rollout.
 
 ---

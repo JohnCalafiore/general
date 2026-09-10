@@ -1,6 +1,6 @@
 ---
 area: Support for Existing Communities
-updated: 2026-09-09
+updated: 2026-09-10
 tags: [area]
 ---
 
@@ -14,6 +14,67 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[support-for-existing-communities#...]] and harvested by the brief. -->
+
+## 2026-09-09 Andrew writes the operating model down — and tells the biggest community to slow down
+- After meeting Bob Holt, Andrew sent Grand Junction a recap that is really the **first written
+  statement of how a DTD community is supposed to run**. He forwarded it to John with "forgot to
+  cc you." It has been captured in full to
+  [[30-resources/dinner-format-and-ground-rules|The dinner format and ground rules]].
+- **The two roles are defined for the first time.** The **coordinator** is "the single point of
+  accountability for logistics: scheduling the leadership team, the venue, the food, marketing,
+  and making sure a facilitator is confirmed for each dinner" — and, stated deliberately, "**can
+  be a man or a woman**." The **facilitator** "leads, hosts, and gently facilitates the dinner
+  itself." Both volunteer.
+- The three-facilitator minimum from Sep 7 gets its mechanism: "**All of them show up at every
+  dinner, but one leads each month, and that rotates**," with the schedule set **6 or 12 months
+  out** and each man claiming his months. Leadership teams meet in person **every 3–6 months**
+  (the Idaho Springs pattern).
+- **The counsel is restraint, which is unusual advice to give a thriving community.** "**SLOW
+  YOUR ROLE** (in terms of new activities and ideas aside from the dinners themselves)… **Grand
+  Junction is the largest DTD Community we have. In some ways your success has brought challenges
+  the other communities haven't faced yet.** My encouragement is to put your energy into the
+  systems that make the existing monthly dinners successful and sustainable."
+- Two hard numbers arrive with it: **Grand Junction draws 40–50 men to a dinner**, and it built
+  that "**in three short months**." Andrew's read is that this is now a *problem* as much as a
+  win — "it's easy for a guy to feel lost in a room that size."
+- **The growth doctrine, stated as policy: add communities, not activities.** Rather than more
+  programs, "help new, smaller dinner groups launch in **Fruita and Palisade**. Or another
+  monthly dinner in Grand Junction with an additional leadership team… **Dude Central will
+  support those launches.**" That names two specific expansion targets that were not in the vault
+  before.
+- And the philosophy of facilitation, which doubles as a recruitment argument: "**The topic
+  matters less than you'd think**… **Keeping facilitation this simple also lowers the bar for
+  more men to step up and lead.**"
+- One line worth keeping for the testimonial file, quoted from **Josh** after Grand Junction's
+  first dinner: "**we are already saving lives**."
+- action #open (Andrew): connect with the rest of the Grand Junction leadership team
+- action #open (Bob/GJ team): set the facilitator rotation 6–12 months out
+- action #open (John/Andrew): decide whether Fruita, Palisade or a second GJ dinner is the next
+  launch — this is now written policy, not a suggestion
+- category: Support for Existing Communities
+- source: "Fwd: Meeting Follow-Up," Andrew Wolff → Bob Holt 2026-09-09 16:29 MDT, forwarded to
+  John 2026-09-09T22:30Z. The meeting it recaps has no Granola or Fathom record.
+- links: [[30-resources/dinner-format-and-ground-rules|The dinner format and ground rules]], [[support-for-existing-communities#2026-09-07 A three-facilitator minimum — and still no crisis protocol]], [[platform-tools-and-infrastructure#2026-09-09 The Discord server goes live — Bob Holt is the first user, and he immediately finds two gaps]], [[relationships#Bob Holt]]
+
+## 2026-09-09 Conifer asks for a flyer rather than going off-brand — and John is the flyer desk
+- Gina Moran wrote to Andrew: "**Do you have templates for flyers? Someone asked if we had one
+  for the Conifer group and I thought I'd start with you before we go off brand and create our
+  own.**" That instinct — check first rather than improvise — is exactly what a
+  locally-owned/centrally-supported model needs from a partner, and worth recognising.
+- Andrew's answer makes John's role explicit for the first time: "**he's been helping DTD
+  Communities create their flyers**," with a same-day commitment — "**John will get you the flyer
+  by the end of day tomorrow**," i.e. **Thu 2026-09-10**.
+- Gina confirmed the Conifer dinner's economics in passing: "**It's fully funded by All Access
+  Wellness and takes place at Ripple.**" One sponsor, one venue, no DTD money.
+- The standing question underneath: there is still **no flyer template**, so every community's
+  flyer is a bespoke request routed through one person. That is fine at five communities and
+  not at fifteen — and John is away in October.
+- action #open (John, due 2026-09-10): send Gina the Conifer flyer
+- action #open (John): consider a self-serve flyer template so this stops being a person
+- category: Support for Existing Communities
+- source: "Re: Flyer?" — Gina Moran → Andrew Wolff 2026-09-09 13:55 MDT, Andrew's reply (cc John)
+  20:31Z, Gina's reply 20:34Z
+- links: [[relationships#Gina Moran]], [[support-for-existing-communities#2026-09-09 Andrew writes the operating model down — and tells the biggest community to slow down]]
 
 ## 2026-09-08 Summit books the structure conversation for Sep 23 — and brings three people to it
 - Nadia Borovich answered Andrew's Sep 4 partnership letter by booking it herself: "**I scheduled

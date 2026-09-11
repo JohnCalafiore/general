@@ -1,6 +1,6 @@
 ---
 area: Platform, Tools, and Infrastructure
-updated: 2026-09-10
+updated: 2026-09-11
 tags: [area]
 ---
 
@@ -14,6 +14,22 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[platform-tools-and-infrastructure#...]] and harvested by the brief. -->
+
+## 2026-09-10 Canva for Nonprofits is approved — the third nonprofit programme in a week
+- "**Your Canva for Nonprofits application has been approved!**" Canva Pro at no cost, and the
+  timing is exact: it lands the same evening John built the Conifer flyer by hand, with the
+  social-media launch a fortnight out and a pitch deck starting Sep 17.
+- The run now reads: **Google for Nonprofits (Sep 4) → Google Workspace for Nonprofits (Sep 8) →
+  Canva for Nonprofits (Sep 10)**. Three approvals in seven days, all of which lower DTD's
+  running costs or raise what two people can produce.
+- Practical follow-on, unlogged anywhere: a Canva team account is where a **flyer template**
+  would live, which is the fix for the bespoke-flyer bottleneck.
+- action #open (John): set up the Canva nonprofit team and put a flyer template in it before
+  October
+- category: Platform, Tools, and Infrastructure
+- source: "Your Canva for Nonprofits application has been approved!" from no-reply@canva.com to
+  John, 2026-09-10T23:48Z
+- links: [[platform-tools-and-infrastructure#2026-09-08 RESOLVED: Google Workspace for Nonprofits is activated — 21 hours after the rejection]], [[support-for-existing-communities#2026-09-09 Conifer asks for a flyer rather than going off-brand — and John is the flyer desk]]
 
 ## 2026-09-09 The Discord server goes live — Bob Holt is the first user, and he immediately finds two gaps
 - Six hours after Andrew asked on Slack "**realistically, how far off are we from Discord getting

@@ -1,5 +1,5 @@
 ---
-updated: 2026-09-10
+updated: 2026-09-11
 tags: [grounding, people]
 ---
 
@@ -476,7 +476,14 @@ Format — one H2 per person:
   out-of-state prospect; Anderson (from Guatemala) offered to help make the model inclusive
   for non-English speakers. A **startup conversation with Andrew and John is booked for Wed
   Aug 26**.
-- source: Fathom recap 2026-07-30; calendar invitation 2026-08-18
+- **Update 2026-09-10:** the community is now specifically **Stamford, CT**, with a
+  **first-week-of-October launch still targeted**. Giovanny: "I spoke to Anderson and **he's
+  totally game to move forward**." **Anderson's wife** — name not yet in the record — "would also
+  like to sign up as the third person the coordinator," which would give Stamford a complete
+  leadership team. A reconnection call is set for **Fri 2026-09-11, 5pm ET**. Giovanny replies
+  fast and apologetically when he has missed something; the August quiet spell cost nothing.
+- source: Fathom recap 2026-07-30; calendar invitation 2026-08-18; "DTD Follow-up" thread
+  2026-09-10/11
 
 ## Emily Schweitzer
 - org: The Health Partnership (ncchealthpartnership.org), Craig CO — northwest Colorado
@@ -607,3 +614,12 @@ Format — one H2 per person:
   Bev Marquez 2026-09-08 ("I am pleased to make an e-introduction to you and Andrew Wolff, the
   executive director of Dude Talk Dinners"). Not yet contacted by DTD.
 - source: "Introduction," Bev Marquez → kindle@caring4denver.org, cc Andrew and John, 2026-09-08
+
+## Alec Rand
+- email: **alec.rand.83@gmail.com**, 970-208-5230
+- relationship: **Grand Junction leadership team** alongside Bob Holt; attended the Aug 27
+  Leadership Circle. Holds (or can get at) the GJ attendee contact list — sent it to Bob, Andrew
+  and John on 2026-09-10 within an hour of John asking, for the bulk Discord invitations.
+  Practical and quick: "Let me know if this attachment doesn't work and I'll play with it some
+  more."
+- source: Fathom recap, "DTD Leadership Circle" 2026-08-27; "DTD GJ contacts" 2026-09-10

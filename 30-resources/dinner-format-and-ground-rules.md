@@ -1,5 +1,5 @@
 ---
-updated: 2026-09-10
+updated: 2026-09-11
 tags: [resource, reference, program-model]
 ---
 
@@ -47,6 +47,29 @@ stated as a ground rule**, not just a fact of the format; and confidentiality co
 These same rules carry over to Discord as the moderation standard — facilitators moderate
 their own community channels against "no politics/religion, no unsolicited advice,
 confidentiality" (Leadership Circle, 2026-08-27).
+
+## The standard opening and closing sequence
+
+Agreed 2026-09-10. Rationale: a consistent structure "**ensures quality control, manages
+liability (e.g., disclaimers), and provides a platform for sponsor recognition**."
+
+**Opening — set the tone and reinforce the ground rules**
+- A "**Mission Moment**": a facilitator's personal story.
+- The ground rules ("This is not therapy," "Politics and religion are off the table," etc. —
+  see the full list above).
+
+**Closing — provide resources and reinforce value**
+- **Resource reminders: Discord, 988, local referrals.**
+- **Sponsor recognition.**
+- A **thank-you** to members for showing up and listening.
+
+Companion artifact agreed at the same time — a **business card**: DTD branding and tagline on the
+front; **community-specific sponsor logo plus key resources (988, the Discord link) on the back**.
+"Offers sponsors a tangible deliverable and provides members with a 'cheat card' for help."
+
+Note for whoever writes the facilitator guide: a scripted open and close is more structure than
+the "keep facilitation simple" guidance below asks for. Both are current policy; they need to be
+reconciled in the guide rather than left to each facilitator to resolve.
 
 ## The two roles: coordinator and facilitator
 

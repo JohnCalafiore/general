@@ -1,5 +1,5 @@
 ---
-updated: 2026-09-10
+updated: 2026-09-11
 tags: [inbox]
 ---
 
@@ -18,6 +18,39 @@ Format the agent uses:
 ```
 
 <!-- entries begin below -->
+
+## 2026-09-10 Is the Friday "Strategic Planning Hike" going to leave a record?
+- quote: calendar — "**Strategic Planning Hike**," Fri Sep 11, **4:00–6:30pm MDT**, you and
+  Andrew only, booked the day before
+- context: Two and a half hours of strategy, outdoors, with no recorder. The Aug 28 Strategic
+  Planning session (3.5 hours) and the Sep 8 social-media session (2 hours) both vanished — and
+  this one comes the day after vision and mission were settled and a week before the pitch-deck
+  session, so whatever you decide walking will shape both. It also starts the minute the Stamford
+  call ends, with no gap.
+- question: Want me to treat a voice memo, a photo of notes, or a few bullets emailed to
+  yourself as the capture for sessions like this? Anything beats nothing, and this is the third
+  strategy conversation in three weeks with no plan to record it.
+- answer: <!-- write here -->
+
+## 2026-09-10 Is the Sep 17 pitch-deck session at noon or 2pm MT?
+- quote: Fathom's action item says "**next Thu, Sep 17 12 pm PT / 2 pm MT**"; Andrew's calendar
+  invitation says "**DTD Pitchdeck @ Thu Sep 17, 2026 12pm – 1pm (MDT)**"
+- context: An hour apart, and only one invitation exists. Jennifer is on Eastern time and the
+  recap's "12 pm PT / 2 pm MT" is itself internally consistent, which makes the invitation the
+  more likely error — but I'm not going to assume that into the notes.
+- question: Which is right? Worth confirming with Jennifer before the 17th rather than on it.
+- answer: <!-- write here -->
+
+## 2026-09-10 What's the name of Anderson's wife — Stamford's prospective coordinator?
+- quote: "**Also Anderson's wife would also like to sign up as the third person the
+  coordinator**" — Giovanny Ramirez, 2026-09-10
+- context: This gives Stamford a complete leadership team and makes it the first community to
+  fill the coordinator role as Andrew defined it the day before ("the coordinator can be a man or
+  a woman"). She's currently in the vault only as someone's wife, which is a poor way to record a
+  community leader.
+- question: What's her name and contact, and is she on the Friday call? I'll add her to
+  relationships and the Connecticut record once you say.
+- answer: <!-- write here -->
 
 ## 2026-09-09 Can a Discord member hold both roles — and can communities make their own channels?
 - quote: "**can I be in two groups both as a coordinator and as a facilitator? We are currently

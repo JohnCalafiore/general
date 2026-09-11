@@ -1,383 +1,348 @@
-<!-- generated 2026-09-10T07:09:13+00:00 | 21 new of 21 blocks; synthesis must read ONLY this file, not raw/ -->
+<!-- generated 2026-09-11T07:08:27+00:00 | 24 new of 24 blocks; synthesis must read ONLY this file, not raw/ -->
 
 <!-- source: calendar.md -->
 # Google Calendar
-harvest window: 2026-09-09T07:09:07Z → 2026-09-10T07:07Z
+harvest window: 2026-09-10T07:09:13Z → 2026-09-11T07:06Z
 calendar: john.calafiore@dudetalkdinners.org (America/Denver)
 
 ---
 
 <!-- source: calendar.md -->
-## calendar-6btjgifnsshi3ubsd7qsresg9r DTD Vision (and maybe mission)
+## calendar-6btjgifnsshi3ubsd7qsresg9r DTD Vision (and maybe mission) — happened
 
-- when: **Thu 2026-09-10, 1:00–2:00pm MDT**
-- organizer: Andrew Wolff (accepted)
-- attendees: John Calafiore (accepted), Andrew Wolff (accepted),
-  **jxashley@outlook.com — Jennifer Ashley (accepted)**
-- conference: https://meet.google.com/yov-jhwx-fhc
-- created 2026-09-03T21:08Z, updated 2026-09-05T01:38Z
-
-The Jennifer Ashley vision session referred to in email as "Thursday." It **is** on the calendar
-after all — the Sep 9 harvest looked at Sep 8–10 and did not see it, so treat the previous
-"does not appear on this calendar" note as a false negative rather than a missing event. Note
-the hedged title: "**and maybe mission**."
+- **Thu 2026-09-10, 1:00–2:00pm MDT**; John, Andrew and Jennifer Ashley (jxashley@outlook.com)
+  all accepted; meet.google.com/yov-jhwx-fhc
+- Ran 63 minutes and was recorded by Fathom — see `raw/meetings.md`.
 
 ---
 
 <!-- source: calendar.md -->
-Nothing on the calendar for 2026-09-09 — including the Andrew–Bob meeting that Andrew's own
-email says happened that day ("Thank you for making the time to connect earlier today"). A new
-event, **"Andrew : Bob," Wed 2026-09-16 10–11am MDT**, was invited by email during the window
-but does not yet appear in this list.
+## calendar-kc7vlr7hd26vdmhu4k8s43p760 DTD - Stamford, CT
+
+- **Fri 2026-09-11, 3:00–4:00pm MDT** (5:00pm ET); created 2026-09-11T03:01Z
+- organizer Andrew Wolff (accepted), John Calafiore (accepted),
+  deleon_anderson@yahoo.com (needsAction), info@giovannyramirez.com (needsAction)
+- meet.google.com/yod-mimq-iaz
+
+---
+
+<!-- source: calendar.md -->
+## calendar-29k3p71nul87f0fptvb772jube Strategic Planning Hike
+
+- **Fri 2026-09-11, 4:00–6:30pm MDT** — two and a half hours; created 2026-09-10T20:29Z
+- Andrew Wolff (organizer, accepted) and John Calafiore (accepted) only
+- has a Google Meet link (meet.google.com/bgw-hnwt-xdp) despite being a hike
+
+**It starts at the minute the Stamford call ends**, with no gap. Either the Stamford call is
+expected to run short, or the hike starts late.
+
+---
+
+<!-- source: calendar.md -->
+Not yet visible on this calendar: the **DTD Pitchdeck** session for Thu 2026-09-17 12–1pm MDT,
+invited by email during the window; and the previously noted **Sep 15 RMCP call**, **Sep 16
+Andrew:Bob** and **Sep 23 Building Hope** meetings, none of which appear in this range query.
 
 ---
 
 <!-- source: email-inbox.md -->
 # Gmail — inbox
-harvest window: 2026-09-09T07:09:07Z → 2026-09-10T07:07Z
+harvest window: 2026-09-10T07:09:13Z → 2026-09-11T07:06Z
 query: `newer_than:1d -in:draft`
 
----
-
-<!-- source: email-inbox.md -->
-## gmail-1a0884bb67821163 Fwd: Meeting Follow-Up — Andrew's operating-model letter to Bob Holt
-
-- from: Andrew Wolff, to John Calafiore (forward of his 2026-09-09 16:29 MDT email to
-  bobxholt@gmail.com)
-- date: 2026-09-09T22:30:45Z
-- covering note: "**forgot to cc you on my follow up email to Bob, so here it is.**"
-
-The forwarded email in full:
-
-> Hi Bob,
->
-> Thank you for making the time to connect earlier today. I've enjoyed getting to know you and
-> appreciate your commitment to serving the men in your community. **I look forward to connecting
-> again next week and also connecting with the rest of the Junction leadership team sometime
-> soon** as well. In the meantime, and for your meeting tonight, here's a recap of some of the
-> ideas we discussed.
->
-> Firstly, please communicate to everyone how grateful I am for their efforts and commitment.
-> **In three short months, you all have created a thriving DTD Community** of dudes who need
-> connection and who need each other. As **Josh** wrote after the very first meeting, "**we are
-> already saving lives**".
->
-> **SLOW YOUR ROLE** (in terms of new activities and ideas aside from the dinners themselves)
->
-> **Grand Junction is the largest DTD Community we have.** In some ways your success has brought
-> challenges the other communities haven't faced yet. My encouragement is to **put your energy
-> into the systems that make the existing monthly dinners successful and sustainable**.
-> Everything else, including additional activities, gets easier once that foundation is reliable.
->
-> **TWO ROLES: COORDINATOR AND FACILITATOR**
->
-> DTD is designed to run sustainably in every community with a leadership team built around two
-> distinct roles.
->
-> **The coordinator is the single point of accountability for logistics: scheduling the
-> leadership team, the venue, the food, marketing, and making sure a facilitator is confirmed for
-> each dinner. The coordinator can be a man or a woman.**
->
-> **The facilitator leads, hosts, and gently facilitates the dinner itself.**
->
-> These are **volunteer roles** and we are all busy with jobs, families, and our own lives - so
-> sharing the workload is critical. **Most communities run with at least three facilitators. All
-> of them show up at every dinner, but one leads each month, and that rotates.**
->
-> I'd recommend **setting the schedule 6 or 12 months out** and choosing which months each of you
-> owns, so everyone knows and can plan around it. If someone needs to travel, you can swap
-> months, but having that clarity well ahead of time is what makes it work.
->
-> **Our leadership team here in Idaho Springs meets in person once every 3-6 months.** But we
-> stay in touch by email or virtual meeting as needed on a regular basis.
->
-> **GROUND RULES**
->
-> Every DTD Community follows these, and every facilitator shares them with the group at the
-> start of each dinner:
->
-> - All men are welcome.
-> - Dinners are always free.
-> - This is not therapy, coaching, or counseling. It's dinner, conversation, and connection.
-> - Dinners are substance-free.
-> - Dinners are confidential. We like to ask for a quick thumbs-up from every dude confirming he
->   agrees. Sometimes we say: what's shared here stays here, but what's learned here leaves here.
-> - Politics and religion are off the table. There are plenty of other places for those
->   conversations. Our priority is what unites us as men.
-> - We only offer advice when it's requested.
-> - Guys don't have to talk. Anyone can pass on any topic or question. We do expect respectful
->   listening and engagement.
->
-> **KEEP FACILITATION SIMPLE**
->
-> DTD dinners are lightly facilitated. Each facilitator brings his own style, and guys show up to
-> connect and talk with each other, not to listen to a presentation. Some of the most impactful
-> dinners I've been part of, both as a dude and as a facilitator, are the ones where a topic gets
-> introduced and the guys take it and run wherever they want to go.
->
-> **The topic matters less than you'd think.** What matters is that guys feel empowered to share
-> without judgment, to be heard, to connect, and to feel like they belong. **Keeping facilitation
-> this simple also lowers the bar for more men to step up and lead.**
->
-> **BETWEEN DINNERS: DISCORD**
->
-> Conversations about other activities (biking, fishing, and so on) will start to come up
-> organically. **We encourage dudes to self-organize those among themselves rather than adding
-> them to the leadership team's plate.** Discord is the place for that. John is getting the Grand
-> Junction server live this week and will send it your way.
->
-> **GROWING BY ADDING COMMUNITIES, NOT ACTIVITIES**
->
-> **With 40 to 50 men at a dinner**, one monthly gathering may not be enough to meet the demand,
-> and it's easy for a guy to feel lost in a room that size. Rather than stacking more programs
-> onto your team, a better path may be to **help new, smaller dinner groups launch in Fruita and
-> Palisade. Or another monthly dinner in Grand Junction with an additional leadership team.**
-> More connection points, more men served, and less pressure on any one leadership team. **Dude
-> Central will support those launches.**
->
-> Thanks everyone!
->
-> All the best,
-> Andrew
-
-Note: the Andrew–Bob meeting on 2026-09-09 that this recaps has **no Granola note and no Fathom
-recap**; this email is the only record of it.
+(The Fathom vision-session recap also arrived by email in this window; it is written up in
+`raw/meetings.md` rather than duplicated here.)
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-1a0892e4b8decc38 Re: Dude Talk Discord — Bob's two questions
+## gmail-1a08e79667926439 Re: DTD Follow-up — Stamford is back on, and it has a third leader
 
-- from: Bob Holt <bobxholt@gmail.com>, to John
-- date: 2026-09-10T02:38:11Z
-- phone in signature: 360-507-3971
+- thread: Andrew Wolff ↔ Giovanny Ramirez and Anderson DeLeon, cc John
+- Andrew's opener, 2026-09-10T20:37:28Z:
 
-> Hey John,
+> Hi Gio and Anderson,
 >
-> Thanks a lot for striving to get this done! Really appreciate it.
+> **John and I have been thinking about you guys and would like to reconnect to discuss the best
+> way to move forward with Dude Talk in Stamford.** Are you available tomorrow (Friday) any time
+> between 2pm-6pm EST. Or early next week is an option as well.
+
+- Giovanny Ramirez's reply, 2026-09-10 16:33 (quoted in Andrew's response):
+
+> Hi Andrew thanks for reaching out. Yes I tried to text you but I was in a Area that had bad
+> reception And then I forgot to get back to my text. **I spoke to Anderson and he's totally game
+> to move forward.**
 >
-> I like how it's laid out, **can I be in two groups both as a coordinator and as a facilitator?
-> We are currently very fluid in that design designation.**
->
-> Second **how do we build the framework /channels to include more specific Grand Junction
-> interests?**
->
-> **Would love to have interest areas where our guys could self select and find others to do
-> stuff / build community.**
->
-> THANKS AGAIN!
->
-> Thanks,
-> Bob
+> This Friday at 5 PM sounds great let's put something on the calendar and I'll confirm with
+> Anderson if he's available around that time 5 PM Eastern time of course. **I think the first
+> week of October still works for both of us. Also Anderson's wife would also like to sign up as
+> the third person the coordinator.** I look forward to speak to you.
+
+- Andrew's confirmation, 2026-09-11T03:18:23Z:
+
+> Hi Gio, This all sounds great. John and I look forward to connecting again tomorrow at 5 PM
+> Eastern time. I sent a calendar invite.
+
+Three facts here that were not in the vault: **Stamford is still targeting a first-week-of-October
+launch**; **Anderson is committed**; and **Anderson's wife wants the coordinator role** — which
+lands two days after Andrew wrote that "the coordinator can be a man or a woman."
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-1a087dee944fbc97 Re: Flyer? — All Access Wellness asks for a Conifer flyer
+## gmail-1a08ca98dc13c48b DTD GJ contacts — Alec Rand sends the Grand Junction attendee list
 
-- thread: Gina Moran (Executive Director, All Access Wellness, info@allaccesswellness.org),
-  Andrew Wolff, cc John
-- Gina's original, 2026-09-09 13:55 MDT:
+- from: Alec Rand <alec.rand.83@gmail.com>, 970-208-5230
+- to: Bob Holt, Andrew Wolff, John Calafiore
+- date: 2026-09-10T18:51:43Z, ~190 KB attachment
 
-> Hi Andrew!
->
-> **Do you have templates for flyers? Someone asked if we had one for the Conifer group and I
-> thought I'd start with you before we go off brand and create our own.**
->
-> With gratitude, Gina
+> **Bob said you guys want the contact info for our attendees.** Let me know if this attachment
+> doesn't work and I'll play with it some more. Thanks!
 
-- Andrew's reply, 2026-09-09T20:31:54Z:
-
-> I've cc'd my colleague **John Calafiore** on this email as **he's been helping DTD Communities
-> create their flyers**. I just spoke with him and he has all the information he needs unless
-> there are additional sponsors aside from **Ripple and All Access Wellness** — please let me
-> know. Otherwise, **we're good to go and John will get you the flyer by the end of day
-> tomorrow.**
-
-- Gina's reply, 2026-09-09T20:34:51Z:
-
-> Thanks amazing - thanks! **It's fully funded by All Access Wellness and takes place at
-> Ripple.** Appreciate the help!
+John replied 2026-09-10T20:38:05Z: "**This is great, thank you very much!**"
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-1a087cc16bd1f139 Invitation: Andrew : Bob @ Wed Sep 16, 2026 10am–11am (MDT)
+## gmail-1a08bd38658ef8f7 / -1a08c733c287fa4b Re: Dude Talk Discord — Bob approves the rollout
 
-- from: andrew.wolff@dudetalkdinners.org, 2026-09-09T20:11:33Z
-- invitees: John Calafiore, bobxholt@gmail.com
-- The "connecting again next week" from the follow-up letter, booked the same afternoon.
+- Bob Holt → John (cc Andrew), 2026-09-10T14:57:59Z:
 
----
+> **Looks good let's send the invites!**
 
-<!-- source: email-inbox.md -->
-## gmail-1a085e59e7e490e9 Re: DTD Materials for Thursday's Call — Jennifer confirms
+- John → Bob (cc Andrew), 2026-09-10T17:42:47Z:
 
-- from: Jennifer Ashley <jxashley@yahoo.com>, to John, cc Andrew
-- date: 2026-09-09T11:20:06Z
+> Sounds good! **Do you happen to have the contact information for the dudes from the last
+> dinner, or know who does? I can bulk send invitations that way.**
 
-> Thanks, John, **Perfect timing as I have set some time aside this afternoon to go through your
-> folder.** Thank you so much for sending everything. Look forward to talking to you tomorrow.
->
-> Jennifer
+- Bob → John, 2026-09-10T17:52:24Z:
 
----
+> **Let me see where they are. We've got some in a Google form, we also have some from the first
+> two meetings that were written down.** Let me chas[e] those things down. Look for an update
+> from me by end [of…]
 
-<!-- source: email-inbox.md -->
-## gmail-1a088d45e50b3e63 Re: [8-4279000041597] Google for Nonprofits Support: Tell us what you think!
-
-- from: no-reply@google.com, to John, 2026-09-10T01:00:12Z
-
-> Hello! **I see you recently had an interaction with our Google for Nonprofits support team.**
-> How'd that go? Your feedback is critical…
-
-Confirms a support ticket existed — **case 8-4279000041597** — behind the Sep 8 Workspace
-activation. The survey is addressed to John, which is evidence he was the one who raised it,
-though the ticket's contents are not in the record.
+Alec Rand's list arrived an hour later, which appears to be the answer to exactly this.
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail — "Your DTD reminders — 2026-09-09" sent FOUR times
+## gmail-1a08db91ee84e278 Your Canva for Nonprofits application has been approved!
 
-The CRM digest job emailed John the same report four times in twelve hours:
-2026-09-09T15:21:10Z, 2026-09-09T22:44:07Z, 2026-09-10T02:10:08Z and 2026-09-10T03:20:08Z
-(thread ids 1a086c23ce42b432, 1a08857c34530b0a, 1a08914614da3264, 1a089547411c9311). Identical
-body each time:
+- from: no-reply@canva.com, to John, 2026-09-10T23:48:34Z
 
-> **Activity yesterday — 1 new contact · 2 follow-ups created** — Open your dashboard
+> **We're thrilled to support organizations like yours.**
 
-Same content, four sends, escalating overnight. Looks like a scheduling or retry fault in the
-reminder job rather than four distinct reports.
+Third nonprofit-program approval in a week, after Google for Nonprofits (Sep 4) and Google
+Workspace for Nonprofits (Sep 8).
 
 ---
 
 <!-- source: email-inbox.md -->
-## gmail-1a0869371eb1231f Donor Participation Project webinar invite [NOISE]
+## gmail-1a08c742ab81ec13 Conifer roster 8/26/26
 
-- joindpp@user.luma-mail.com, 2026-09-09T14:30:03Z — "Managing Up and Around," DPP Lunch
-  Analysis, Louis Diez. Marketing invite; not for filing.
+- from: **jcalafiore@gmail.com** (John's personal address) to his work address
+- date: 2026-09-10T17:53:14Z, ~690 KB, no body text — a roster document moved between accounts
+
+---
+
+<!-- source: email-inbox.md -->
+## Calendar invitations received in this window
+
+- **DTD - Stamford, CT** — Fri 2026-09-11, 3–4pm MDT (5pm ET), invited 2026-09-11T03:01:48Z to
+  John, deleon_anderson@yahoo.com, info@giovannyramirez.com
+- **Strategic Planning Hike** — Fri 2026-09-11, **4:00–6:30pm MDT**, Andrew and John only,
+  invited 2026-09-10T20:29:31Z. Note it starts as the Stamford call ends.
+- **DTD Pitchdeck** — Thu 2026-09-17, **12pm–1pm MDT**, John and jxashley@outlook.com, invited
+  2026-09-10T19:59:55Z
+
+---
+
+<!-- source: email-inbox.md -->
+## gmail-1a08d8c364eaf406 The Awakened School newsletter [NOISE]
+
+- support@theawakenedschool.com, 2026-09-10T22:59:07Z, to john@. Not for filing.
 
 ---
 
 <!-- source: email-sent.md -->
 # Gmail — sent
-harvest window: 2026-09-09T07:09:07Z → 2026-09-10T07:07Z
+harvest window: 2026-09-10T07:09:13Z → 2026-09-11T07:06Z
 query: `newer_than:1d -in:draft`
 
 ---
 
 <!-- source: email-sent.md -->
-## gmail-1a088d6aa4d6d420 Dude Talk Discord — the server goes live, Bob first
+## gmail-1a08ea698af6709a Re: Flyer? — the Conifer flyer is delivered, on deadline
 
-- from: john.calafiore@dudetalkdinners.org, to bobxholt@gmail.com, cc Andrew Wolff
-- date: 2026-09-10T01:02:44Z (2026-09-09 7:02pm MDT)
+- from: john.calafiore@dudetalkdinners.org, to info@allaccesswellness.org (Gina), cc Andrew
+- date: 2026-09-11T04:07:57Z (2026-09-10 ~10:08pm MDT), ~3.1 MB attachment
 
-> Bob,
+> Hi Gina,
 >
-> **The Dude Talk Dinners Discord is up and running!** I appreciate your patience. Please click
-> the link below for your invitation and take a look around - let me know if you have any
-> questions or feedback.
+> **Sorry for the late email. Please see attached flyer. Happy to make any modifications if
+> needed as well.**
 >
-> **Your invite: https://discord.gg/Xy3aqueCtP**
->
-> **It asks two quick questions when you join. Pick *Grand Junction, CO* for the community, then
-> answer *"Yes - Facilitator"* on the second one. That flags your account for me to approve, and
-> I'll switch on your facilitator access from my end.**
->
-> Once you're set, **you'll have the Grand Junction channels plus the leadership circle**. If you
-> don't see any concerns, **I will send invites out to the rest of the leadership team for Grand
-> Junction, and send over instructions for how to invite dudes to the server.**
->
-> Thanks,
+> Thanks!
 > John
 
-Design facts visible in this message: onboarding asks two questions (community, then
-facilitator yes/no); facilitator status is **manually approved by John**; channel access is
-scoped per community plus a **leadership circle**; and Grand Junction is the pilot before a
-wider rollout.
+Andrew promised this "by the end of day tomorrow" on Sep 9 — delivered late on Sep 10, inside
+the commitment. Second night running that John has shipped a deliverable close to midnight.
+
+---
+
+<!-- source: email-sent.md -->
+## gmail-1a08e4f33936bce4 Conifer Flyer — sent to Andrew first
+
+- from: john.calafiore@dudetalkdinners.org, to andrew.wolff@dudetalkdinners.org
+- date: 2026-09-11T02:32:29Z, ~3.2 MB attachment
+
+> **Attached.**
+
+Ninety-five minutes before it went to Gina — an internal check before it left the building.
+
+---
+
+<!-- source: email-sent.md -->
+## gmail-1a08d0abba146798 Re: DTD GJ contacts
+
+- from: john.calafiore@dudetalkdinners.org, to alec.rand.83@gmail.com, cc Bob Holt and Andrew
+- date: 2026-09-10T20:38:05Z
+
+> **This is great, thank you very much!**
+
+---
+
+<!-- source: email-sent.md -->
+## gmail-1a08c6a3b6d02c43 Re: Dude Talk Discord — asking for the dinner roster to bulk-invite
+
+- from: john.calafiore@dudetalkdinners.org, to bobxholt@gmail.com, cc Andrew
+- date: 2026-09-10T17:42:47Z
+
+> Sounds good! **Do you happen to have the contact information for the dudes from the last
+> dinner, or know who does? I can bulk send invitations that way.**
 
 ---
 
 <!-- source: meetings.md -->
 # Meetings — Granola / Fathom
-harvest window: 2026-09-09T07:09:07Z → 2026-09-10T07:07Z
+harvest window: 2026-09-10T07:09:13Z → 2026-09-11T07:06Z
 
-Granola: **no meetings recorded for 2026-09-09 or 2026-09-10** ("Searched all of your attended
-meetings in that date range; found 0").
+---
 
-At least one meeting did happen: **Andrew met Bob Holt on 2026-09-09** — "Thank you for making
-the time to connect earlier today," per Andrew's follow-up email that afternoon. It is not on
-John's calendar and has no Granola or Fathom record. The follow-up email is the only account of
-it, and it is a substantial one. There was also a Google Meet link exchanged between Andrew and
-John in Slack at 13:07 MDT with no calendar event behind it.
+<!-- source: meetings.md -->
+## fathom-816863742 Recap of your meeting with Jennifer Ashley — "DTD Vision (and maybe mission)"
 
-Fathom: not queried this run — `list_meetings` requires interactive approval, unavailable in an
-unattended scheduled run. Standing capture gap.
+- date: 2026-09-10, **63 mins** (calendar slot 1:00–2:00pm MDT)
+- attendees: John Calafiore, Andrew Wolff, Jennifer Ashley
+- link: fathom.video/calls/816863742
+- delivered by email 2026-09-10T20:06:54Z, still UNREAD at harvest
+
+> **Meeting Purpose:** Refine DTD's vision and mission statements for fundraising.
+
+**Key Takeaways**
+
+> - **Vision & Mission Finalized:** The vision is now "**We envision a world where no man has to
+>   navigate life alone and is part of a community of genuine friendship and belonging.**" The
+>   mission is "**Our mission is to reduce social isolation in men by fostering connection and
+>   building community.**"
+> - **"Third Place" Marketing Angle:** The concept of DTD as a "third place" (after home/work) is
+>   a powerful, unique marketing angle that resonates with members.
+> - **Standardized Dinner Structure:** A consistent opening and closing sequence for all dinners
+>   will ensure quality control, manage liability (e.g., disclaimers), and provide a sponsor
+>   recognition platform.
+> - **Pitch Deck for Local Foundations:** The immediate priority is a pitch deck for local
+>   Colorado foundations, as this audience is deemed most accessible in the next 3–6 months.
+
+**Refining Vision & Mission**
+
+> Vision Statement:
+> - The existing bylaw statement was strong but needed refinement.
+> - **Problem: The term "safe place" felt clinical and created a mental health barrier.**
+> - **Solution: Replaced "safe place" with "community of genuine friendship and belonging."**
+> - Final Version: "We envision a world where no man has to navigate life alone and is part of a
+>   community of genuine friendship and belonging."
+>
+> Mission Statement:
+> - **The mission must define the core "why," not just the "what" (dinners).**
+> - Problem: The tagline "Connecting men in a disconnected world" is powerful but **incomplete as
+>   a mission**.
+> - Solution: Focus on the core problem (social isolation) and the method (fostering connection,
+>   building community).
+> - Final Version: "Our mission is to reduce social isolation in men by fostering connection and
+>   building community."
+>
+> **Tagline: "Connecting men in a disconnected world" will remain the official tagline.**
+
+**Standardizing the Dinner Experience**
+
+> - Rationale: A consistent structure **ensures quality control, manages liability, and provides
+>   a platform for sponsor recognition**.
+> - **Opening Sequence** — purpose: set the tone and reinforce ground rules. Content: a "**Mission
+>   Moment**" (a facilitator's personal story); ground rules (e.g., "This is not therapy,"
+>   "Politics and religion are off the table").
+> - **Closing Sequence** — purpose: provide resources and reinforce value. Content: **resource
+>   reminders (Discord, 988, local referrals)**; **sponsor recognition**; a "thank you" to members
+>   for showing up and listening.
+> - **Business Card Idea** — Front: standard DTD branding and tagline. Back: **community-specific
+>   sponsor logo and key resources (e.g., 988, Discord link)**. Benefit: "**Offers sponsors a
+>   tangible deliverable and provides members with a 'cheat card' for help.**"
+
+**Organizational Strategy & Pitch Deck**
+
+> - Board Evolution: **DTD is at an inflection point requiring a board with "major league" skills
+>   for organizational growth, not just program-level support.**
+> - Path Forward: **Use the 15-member bylaw limit to add new members with specific skills (e.g.,
+>   fundraising, corporate connections) before exiting current members.**
+> - Pitch Deck Strategy — Immediate Priority: a pitch deck for **local Colorado community
+>   foundations and philanthropists**; rationale: "this audience is deemed most accessible in the
+>   next 3–6 months." **Future Target: a separate deck for corporate sponsors (e.g.,
+>   UnitedHealthcare, Unilever) will be developed later.**
+
+**Next Steps / Action Items**
+
+> - Andrew & John: finalize the vision and mission statements internally; prepare for the pitch
+>   deck strategy session.
+> - Jennifer Ashley: "**Email Andrew & John vision/mission/tagline draft; request review/board
+>   feedback**"; send the meeting notes document; "**Send calendar invite for next Thu, Sep 17
+>   12 pm PT / 2 pm MT re: DTD Pitch Deck**."
+> - All: **meet next Thursday at 2:00 PM MT to begin work on the pitch deck.**
+
+Note a discrepancy to watch: Fathom's action item says "12 pm PT / 2 pm MT," and the calendar
+invitation Andrew sent lists **DTD Pitchdeck, Thu Sep 17, 12pm–1pm MDT**. One of the two is
+wrong about the hour.
+
+---
+
+<!-- source: meetings.md -->
+Granola: **no meetings recorded for 2026-09-10 or 2026-09-11.** The vision session was captured
+by Fathom, not Granola — worth noting since Granola has been the primary capture tool and
+returned a clean zero for a day on which a 63-minute recorded meeting happened.
 
 ---
 
 <!-- source: slack.md -->
 # Slack
-harvest window: 2026-09-09T07:09:07Z → 2026-09-10T07:07Z
-query: `after:2026-09-08` — all six results are in the Andrew ↔ John DM (D0AHRCQ924E)
+harvest window: 2026-09-10T07:09:13Z → 2026-09-11T07:06Z
+query: `after:2026-09-09` — both results in the Andrew ↔ John DM (D0AHRCQ924E)
 
 ---
 
 <!-- source: slack.md -->
-## slack-1788980861.366419 / .542179 Andrew pings John into a call, and asks about Discord
+## slack-1789078789.977819 John: "Updated"
 
-- from: Andrew Wolff, 2026-09-09 13:07:41 and 13:08:01 MDT
+- from: John Calafiore, 2026-09-10 16:19:49 MDT
 
-> http://meet.google.com/heq-pwmm-yaz
+> **Updated**
 
-> **realistically, how far off are we from Discord getting up....Bob is asking**
-
----
-
-<!-- source: slack.md -->
-## slack-1788982382.937049 John: later today
-
-- from: John Calafiore, 2026-09-09 13:33:02 MDT
-
-> **later today once I'm done fixing things here**
-
-He delivered — the Discord invite went to Bob at 7:02pm MDT the same evening.
+No context in the message and no antecedent captured in this window.
 
 ---
 
 <!-- source: slack.md -->
-## slack-1788996396.003939 John shares amical.ai
+## slack-1789083511.862219 John, 2026-09-10 17:38:31 MDT — empty
 
-- from: John Calafiore, 2026-09-09 17:26:36 MDT
+- the connector returned **no text** for this message; likely a file, image or link-only post the
+  search API did not render. Content unknown.
 
-> https://amical.ai/
-
-No accompanying text.
-
----
-
-<!-- source: slack.md -->
-## slack-1789001365.650499 John on Gemini licensing
-
-- from: John Calafiore, 2026-09-09 18:49:25 MDT
-
-> **I think we can actually purchase individual licenses per Gemini**
-
-Follows the amical.ai link by 83 minutes and lands the day after the Workspace-for-Nonprofits
-activation and a Google marketing email about Gemini — so the two messages read as one thread
-about AI tooling, but what problem they are solving is not stated.
-
----
-
-<!-- source: slack.md -->
-## slack-1789008619.825209 Andrew: an alternative solution, business cards and merch
-
-- from: Andrew Wolff, 2026-09-09 20:50:19 MDT
-
-> **that would be great if I cant find an alternative solution.**
-> Also, **let's talk about new business cards and possibly some merch for ourselves
-> (hats/shirts)**
-
-"that would be great" refers back to something not captured in this DM window — the antecedent
-is missing from the record.
+Both messages fall in the hours between the Conifer flyer going to Andrew and going to Gina, so
+they may relate to the flyer — but that is inference, not evidence.

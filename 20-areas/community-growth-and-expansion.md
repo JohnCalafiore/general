@@ -1,6 +1,6 @@
 ---
 area: Community Growth and Expansion
-updated: 2026-09-05
+updated: 2026-09-11
 tags: [area]
 ---
 
@@ -14,6 +14,33 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[community-growth-and-expansion#...]] and harvested by the brief. -->
+
+## 2026-09-10 Stamford is alive again — a full leadership team, and October still holds
+- Andrew reopened the thread ("**John and I have been thinking about you guys and would like to
+  reconnect to discuss the best way to move forward with Dude Talk in Stamford**") and Giovanny
+  Ramirez answered within four hours with three things the vault did not have:
+  1. "**I spoke to Anderson and he's totally game to move forward**" — Anderson is committed,
+     not merely interested.
+  2. "**I think the first week of October still works for both of us**" — **the launch target
+     is intact**, which matters because Connecticut's charity registration cleared on Sep 8
+     specifically to let a community there solicit.
+  3. "**Anderson's wife would also like to sign up as the third person the coordinator.**"
+- That third point is the significant one. It gives Stamford a **complete leadership team on the
+  coordinator/facilitator model Andrew wrote down the day before** — and it is the model's first
+  real test of "**the coordinator can be a man or a woman**," a line that now reads as
+  deliberate rather than incidental. Her name is not in the record. #needs-clarification
+- The reconnection call is booked: **"DTD - Stamford, CT," Fri 2026-09-11, 3–4pm MDT / 5pm ET**,
+  Andrew and John with Gio and Anderson.
+- Worth noting the tone of Gio's reply — an apology for missing a text, and an immediate yes.
+  This thread had gone quiet since August; nothing was lost by the gap.
+- action #open (John/Andrew, Sep 11): run the Stamford call and pin the October date
+- action #open (John/Andrew): get the name and contact details for Anderson's wife, the
+  prospective coordinator
+- category: Community Growth and Expansion
+- source: "DTD Follow-up" thread — Andrew Wolff → Giovanny Ramirez and Anderson (cc John)
+  2026-09-10T20:37Z, Giovanny's reply 2026-09-10 16:33 MDT (quoted), Andrew's confirmation
+  2026-09-11T03:18Z; calendar event "DTD - Stamford, CT" created 2026-09-11T03:01Z
+- links: [[governance-and-org-development#2026-09-08 RESOLVED: Connecticut approves the public charity registration — in about twelve hours]], [[support-for-existing-communities#2026-09-09 Andrew writes the operating model down — and tells the biggest community to slow down]], [[relationships#Giovanny Ramirez & Anderson (Connecticut)]], [[00-inbox/needs-clarification|Needs clarification]]
 
 ## 2026-09-03 Parker becomes a real prospect, with two interested people and a county introduction
 - **Daniel Leal-Diaz at the VA** introduced Andrew to **Laura Larson, Assistant Director for

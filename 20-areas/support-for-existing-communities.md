@@ -1,6 +1,6 @@
 ---
 area: Support for Existing Communities
-updated: 2026-09-10
+updated: 2026-09-11
 tags: [area]
 ---
 
@@ -14,6 +14,67 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[support-for-existing-communities#...]] and harvested by the brief. -->
+
+## 2026-09-10 DECISION: every dinner gets a standard opening and closing sequence
+- Agreed in the Jennifer Ashley session, and the reasoning is three-fold rather than aesthetic:
+  a consistent structure "**ensures quality control, manages liability (e.g., disclaimers), and
+  provides a platform for sponsor recognition**."
+- **Opening** — set the tone and reinforce ground rules: a "**Mission Moment**" (a facilitator's
+  personal story), then the ground rules ("This is not therapy," "Politics and religion are off
+  the table").
+- **Closing** — provide resources and reinforce value: **resource reminders (Discord, 988, local
+  referrals)**, **sponsor recognition**, and a thank-you to members "for showing up and
+  listening."
+- Two things worth drawing out. The **"Mission Moment" is new** — no prior record has a
+  facilitator opening with a personal story, and it is a meaningful ask of volunteers. And the
+  **closing is where the crisis-resource gap finally gets a home**: 988 and local referrals said
+  aloud at every dinner is not a protocol, but it is the first mechanism that puts resources in
+  front of men who need them without anyone having to ask.
+- This sits slightly against the "light touch" facilitation philosophy Andrew wrote down a day
+  earlier — a scripted open and close is more structure than DTD has asked of facilitators
+  before. Not a contradiction, but the facilitator guide will have to reconcile them.
+- action #open (John/Andrew): write the opening and closing sequences into the facilitator guide,
+  and square them with the "keep facilitation simple" guidance
+- category: Support for Existing Communities
+- source: Fathom recap, "Meeting with Jennifer Ashley_ / DTD Vision (and maybe mission)"
+  2026-09-10
+- links: [[30-resources/dinner-format-and-ground-rules|The dinner format and ground rules]], [[support-for-existing-communities#2026-09-07 A three-facilitator minimum — and still no crisis protocol]], [[support-for-existing-communities#2026-09-09 Andrew writes the operating model down — and tells the biggest community to slow down]]
+
+## 2026-09-10 Grand Junction hands over its attendee list — and Discord gets its first real rollout
+- Bob signed off on the server the morning after seeing it: "**Looks good let's send the
+  invites!**" John's next question was the practical one — "**Do you happen to have the contact
+  information for the dudes from the last dinner, or know who does? I can bulk send invitations
+  that way**" — and Bob's answer exposes how the largest community actually keeps its records:
+  "**We've got some in a Google form, we also have some from the first two meetings that were
+  written down.**"
+- **Alec Rand solved it within the hour**, sending the list to Bob, Andrew and John: "Bob said
+  you guys want the contact info for our attendees." John: "This is great, thank you very much!"
+- So the first bulk Discord invitation will go to Grand Junction's dinner roster — the mechanism
+  the Sep 1 entry described (sign-in sheet → contact list → invitations) working end to end for
+  the first time, in the biggest community.
+- The record-keeping observation is worth logging on its own: a community drawing 40–50 men is
+  tracking them across a Google form and handwritten sheets. That is the CRM's job, and it is
+  two months from being migrated.
+- action #open (John): send the Grand Junction leadership invitations and the bulk dude
+  invitations, plus the instructions for inviting others
+- action #open (John/Andrew): get the GJ roster into the CRM rather than leaving it in an email
+  attachment
+- category: Support for Existing Communities
+- source: "Re: Dude Talk Discord" thread 2026-09-10 (Bob 14:57Z, John 17:42Z, Bob 17:52Z);
+  "DTD GJ contacts," Alec Rand → Bob, Andrew and John 2026-09-10T18:51Z, John's reply 20:38Z
+- links: [[platform-tools-and-infrastructure#2026-09-09 The Discord server goes live — Bob Holt is the first user, and he immediately finds two gaps]], [[support-for-existing-communities#2026-09-01 The Discord rollout reaches facilitators — with a sign-in sheet as the collection method]], [[relationships#Bob Holt]]
+
+## 2026-09-10 The Conifer flyer ships on deadline
+- John sent Gina the flyer at **10:08pm MDT** on the day Andrew had promised it: "**Sorry for the
+  late email. Please see attached flyer. Happy to make any modifications if needed as well.**"
+  He ran it past Andrew 95 minutes earlier — an internal check before it left the building.
+- Commitment kept, and worth recording because the standing risk is unchanged: there is still no
+  flyer template, so this was a bespoke build by one person, late at night, for one community.
+- action #done (John, 2026-09-10): send Gina the Conifer flyer
+- category: Support for Existing Communities
+- source: "Re: Flyer?" — John Calafiore → info@allaccesswellness.org, cc Andrew,
+  2026-09-11T04:07Z; "Conifer Flyer" → Andrew 2026-09-11T02:32Z
+- links: [[support-for-existing-communities#2026-09-09 Conifer asks for a flyer rather than going off-brand — and John is the flyer desk]]
 
 ## 2026-09-09 Andrew writes the operating model down — and tells the biggest community to slow down
 - After meeting Bob Holt, Andrew sent Grand Junction a recap that is really the **first written

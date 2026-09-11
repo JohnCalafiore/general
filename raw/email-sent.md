@@ -1,36 +1,53 @@
 # Gmail — sent
-harvest window: 2026-09-09T07:09:07Z → 2026-09-10T07:07Z
+harvest window: 2026-09-10T07:09:13Z → 2026-09-11T07:06Z
 query: `newer_than:1d -in:draft`
 
 ---
 
-## gmail-1a088d6aa4d6d420 Dude Talk Discord — the server goes live, Bob first
+## gmail-1a08ea698af6709a Re: Flyer? — the Conifer flyer is delivered, on deadline
 
-- from: john.calafiore@dudetalkdinners.org, to bobxholt@gmail.com, cc Andrew Wolff
-- date: 2026-09-10T01:02:44Z (2026-09-09 7:02pm MDT)
+- from: john.calafiore@dudetalkdinners.org, to info@allaccesswellness.org (Gina), cc Andrew
+- date: 2026-09-11T04:07:57Z (2026-09-10 ~10:08pm MDT), ~3.1 MB attachment
 
-> Bob,
+> Hi Gina,
 >
-> **The Dude Talk Dinners Discord is up and running!** I appreciate your patience. Please click
-> the link below for your invitation and take a look around - let me know if you have any
-> questions or feedback.
+> **Sorry for the late email. Please see attached flyer. Happy to make any modifications if
+> needed as well.**
 >
-> **Your invite: https://discord.gg/Xy3aqueCtP**
->
-> **It asks two quick questions when you join. Pick *Grand Junction, CO* for the community, then
-> answer *"Yes - Facilitator"* on the second one. That flags your account for me to approve, and
-> I'll switch on your facilitator access from my end.**
->
-> Once you're set, **you'll have the Grand Junction channels plus the leadership circle**. If you
-> don't see any concerns, **I will send invites out to the rest of the leadership team for Grand
-> Junction, and send over instructions for how to invite dudes to the server.**
->
-> Thanks,
+> Thanks!
 > John
 
-Design facts visible in this message: onboarding asks two questions (community, then
-facilitator yes/no); facilitator status is **manually approved by John**; channel access is
-scoped per community plus a **leadership circle**; and Grand Junction is the pilot before a
-wider rollout.
+Andrew promised this "by the end of day tomorrow" on Sep 9 — delivered late on Sep 10, inside
+the commitment. Second night running that John has shipped a deliverable close to midnight.
+
+---
+
+## gmail-1a08e4f33936bce4 Conifer Flyer — sent to Andrew first
+
+- from: john.calafiore@dudetalkdinners.org, to andrew.wolff@dudetalkdinners.org
+- date: 2026-09-11T02:32:29Z, ~3.2 MB attachment
+
+> **Attached.**
+
+Ninety-five minutes before it went to Gina — an internal check before it left the building.
+
+---
+
+## gmail-1a08d0abba146798 Re: DTD GJ contacts
+
+- from: john.calafiore@dudetalkdinners.org, to alec.rand.83@gmail.com, cc Bob Holt and Andrew
+- date: 2026-09-10T20:38:05Z
+
+> **This is great, thank you very much!**
+
+---
+
+## gmail-1a08c6a3b6d02c43 Re: Dude Talk Discord — asking for the dinner roster to bulk-invite
+
+- from: john.calafiore@dudetalkdinners.org, to bobxholt@gmail.com, cc Andrew
+- date: 2026-09-10T17:42:47Z
+
+> Sounds good! **Do you happen to have the contact information for the dudes from the last
+> dinner, or know who does? I can bulk send invitations that way.**
 
 ---

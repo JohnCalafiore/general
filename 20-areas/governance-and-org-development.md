@@ -1,6 +1,6 @@
 ---
 area: Governance and Organizational Development
-updated: 2026-09-09
+updated: 2026-09-11
 tags: [area]
 ---
 
@@ -14,6 +14,54 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[governance-and-org-development#...]] and harvested by the brief. -->
+
+## 2026-09-10 DECISION: the vision and mission are finalized — and "safe place" is out for the second time
+- After two board deferrals since August, an hour with Jennifer Ashley settled it.
+  **Vision: "We envision a world where no man has to navigate life alone and is part of a
+  community of genuine friendship and belonging."** **Mission: "Our mission is to reduce social
+  isolation in men by fostering connection and building community."** The tagline "**Connecting
+  men in a disconnected world**" stands unchanged. Captured in full to
+  [[30-resources/vision-mission-and-tagline|Vision, mission, and tagline]].
+- The vision's only real edit was one phrase: "**the term 'safe place' felt clinical and created
+  a mental health barrier**," replaced with "community of genuine friendship and belonging."
+  That is **the second independent session in a week to reject "safe space"** — the Sep 4
+  positioning work chose "third space" on the same reasoning. Two people arriving separately at
+  the same objection is a settled brand judgment, not a preference.
+- The mission was reasoned to rather than drafted: "**the mission must define the core 'why,' not
+  just the 'what' (dinners)**," and the tagline, though "powerful," is "**incomplete as a
+  mission**." Note what the final wording leaves out — **the word "dinners" is in neither
+  statement**, which keeps them intact for Discord, corporate training, or whatever follows.
+- **Not ratified yet.** Andrew and John are to "finalize the vision and mission statements
+  internally," and Jennifer will "email Andrew & John vision/mission/tagline draft; request
+  review/**board feedback**." Her Sep 3 counsel governs the method: bring the board a
+  recommendation, not a discussion — so **Sep 18 should be an approval, not a redraft**.
+- action #done (John/Andrew, Sep 10): run the Jennifer vision session
+- action #open (John/Andrew): finalize internally and take the recommendation to the Sep 18 board
+- action #open (Jennifer): send the vision/mission/tagline draft and the meeting notes document
+- category: Governance and Organizational Development
+- source: Fathom recap, "Meeting with Jennifer Ashley_ / DTD Vision (and maybe mission)"
+  2026-09-10, 63 mins (fathom.video/calls/816863742)
+- links: [[30-resources/vision-mission-and-tagline|Vision, mission, and tagline]], [[governance-and-org-development#2026-09-03 Vision and mission get a deadline and an outside facilitator]], [[presentations-events-public-presence#2026-09-04 The positioning argument gets written down — and "third space" replaces "safe space"]], [[relationships#Jennifer Ashley]]
+
+## 2026-09-10 The board needs "major league" skills — and the way to get them is to add before subtracting
+- Jennifer's read, recorded in the same session: **"DTD is at an inflection point requiring a
+  board with 'major league' skills for organizational growth, not just program-level support."**
+  That is a direct assessment of the current board, delivered by an outsider, five days after
+  its officer roles were first written down.
+- Her proposed mechanism is deliberately non-confrontational: **"use the 15-member bylaw limit to
+  add new members with specific skills (e.g., fundraising, corporate connections) before exiting
+  current members."** Grow into the headroom the bylaws already allow, and let composition change
+  by dilution rather than by asking anyone to leave.
+- **The 15-member cap is new information in this vault** — the bylaws permit up to fifteen, and
+  the board currently seats six. There is room for nine additions without removing anyone.
+- It also extends her Sep 3 advice ("seed with talent, not warm bodies; every member should be on
+  a committee") from a principle into a concrete path, and it lands three weeks before the Sep 18
+  governance decision.
+- action #open (John/Andrew/board): decide whether board recruitment goes on the Sep 18 agenda,
+  and what two or three skills are actually missing
+- category: Governance and Organizational Development
+- source: Fathom recap, "Meeting with Jennifer Ashley_" 2026-09-10
+- links: [[governance-and-org-development#2026-09-04 The board's officer roles are on the record for the first time]], [[partnerships-and-strategic-relationships#2026-09-03 Jennifer Ashley delivers, and the price is formalizing the vision first]]
 
 ## 2026-09-08 RESOLVED: Connecticut approves the public charity registration — in about twelve hours
 - Submitted 11:06Z, approved 19:51Z, certificate delivered 23:22Z. The state's own email promised

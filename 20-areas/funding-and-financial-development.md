@@ -1,6 +1,6 @@
 ---
 area: Funding and Financial Development
-updated: 2026-09-09
+updated: 2026-09-11
 tags: [area]
 ---
 
@@ -14,6 +14,32 @@ responsibility but not to a specific dated project get logged here.
 
 <!-- Newest first. One H2 per atomic entry (## YYYY-MM-DD Short title) with a source
      line, so entries can be linked as [[funding-and-financial-development#...]] and harvested by the brief. -->
+
+## 2026-09-10 The pitch deck gets a target and an order: local Colorado foundations first, corporates later
+- The strategy question Bob's deck brief left open is answered. **Immediate priority: a pitch
+  deck for local Colorado community foundations and philanthropists**, on the reasoning that
+  "**this audience is deemed most accessible in the next 3–6 months**." **A separate deck for
+  corporate sponsors — "e.g., UnitedHealthcare, Unilever" — comes later.**
+- This is a real narrowing and it fits what is actually in flight: eight RMCP introductions to
+  exactly this audience (Lightner Sams, Caring for Denver, Colorado Health Foundation, El Pomar,
+  Anschutz), against corporate work that is still an idea. It also supersedes the brainstormed
+  70-vertical list, in line with Jennifer's "pick 5 realistic verticals, not 70."
+- **Work starts Thu 2026-09-17.** Andrew has sent the invitation as **"DTD Pitchdeck," 12–1pm
+  MDT**, with Jennifer. Worth reconciling: Fathom's action item records the agreement as
+  "**next Thu, Sep 17 12 pm PT / 2 pm MT**" — an hour apart from the invitation as sent.
+  #needs-clarification
+- One concrete fundraising artifact came out of the session too: a **business card with
+  community-specific sponsor recognition on the back**, alongside key resources (988, the Discord
+  link). Framed as solving two problems at once — "**offers sponsors a tangible deliverable and
+  provides members with a 'cheat card' for help**." That is the first sponsor benefit DTD has
+  designed rather than been asked for, and it arrives while the Levine Law sponsorship question
+  is still open.
+- action #open (John/Andrew, by Sep 17): prepare for the pitch-deck session
+- action #open (Andrew): confirm whether the Sep 17 session is at noon or 2pm MT
+- category: Funding and Financial Development
+- source: Fathom recap, "Meeting with Jennifer Ashley_" 2026-09-10; calendar invitation "DTD
+  Pitchdeck" 2026-09-10T19:59Z
+- links: [[funding-and-financial-development#2026-09-08 The first two introductions land: Lightner Sams and Caring for Denver]], [[partnerships-and-strategic-relationships#2026-09-03 Jennifer Ashley delivers, and the price is formalizing the vision first]], [[funding-and-financial-development#2026-09-02 An inbound sponsorship offer from a law firm — and John flags it as a bigger question]], [[00-inbox/needs-clarification|Needs clarification]]
 
 ## 2026-09-08 The first two introductions land: Lightner Sams and Caring for Denver
 - **Lightner Sams Foundation** (foundation@lightnersams.org, addressed to "Derek") and **Caring

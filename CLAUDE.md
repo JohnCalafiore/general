@@ -11,8 +11,30 @@ Capture the important parts; ignore the noise.
    - `raw/email-inbox.md` and `raw/email-sent.md` — Gmail (subject, from/to, date, body)
    - `raw/calendar.md` — Google Calendar events (title, time, attendees, description)
    - `raw/slack.md` — Slack messages from channels/DMs you participate in
+   - `raw/discord.md` — written by `python3 scripts/harvest_discord.py`; do not hand-build it
    - `raw/meetings.md` — Fathom/Granola meeting summaries + notable transcript excerpts
    Separate each item with a `---` divider and give it an H2 header (`## <source-id> <title>`).
+
+   **Discord is now the org's primary channel** (Slack was replaced org-wide on 2026-08-27 and
+   has been silent since). Run `python3 scripts/harvest_discord.py` as part of this step; it
+   writes `raw/discord.md` itself, so prefilter picks it up like any other dump. Keep sweeping
+   Slack too — it still holds history, and the odd message still lands there.
+
+   Two properties of the Discord source to respect rather than work around:
+   - **Scope is a privacy boundary, not a filter.** The script reads operational channels only
+     (Dude Central, Leadership Circle, per-community `-leadership` and `-dinners`, plus
+     `#announcements` and `#next-dinner`). It never reads `#general`, `#general-men-only`,
+     `#introduce-yourself`, `#feedback`, `#activities` or any `#<community>-chat`. Dinner
+     conversation is confidential and does not belong in a generated record. Do not widen the
+     scope, and do not quote member conversation into notes even if it reaches you another way.
+   - **DMs are not captured.** Bots cannot read user-to-user direct messages, so the Andrew/John
+     thread that Slack used to carry has no Discord equivalent. When something is clearly a
+     decision reached in a DM, file it from whatever artifact does surface (an email, a meeting,
+     a channel message) and flag the gap rather than inferring the conversation.
+
+   If `raw/discord.md` contains a `discord-harvest-failed` block, **say so in the commit message
+   and in the inbox file.** A broken sweep and a quiet night look identical downstream, and the
+   Morning brief cannot tell them apart on its own.
 2. **Prefilter.** Run `python3 scripts/prefilter.py`. It writes only new/changed blocks to
    `state/new-since-last-run.md` and updates the hash ledger. Read ONLY that file for
    synthesis — never re-read old raw dumps (token discipline, and it prevents duplicate memories).
